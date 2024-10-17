@@ -3,6 +3,7 @@ name: Collect Data Every 10 Minutes
 on:
   schedule:
     - cron: "*/10 * * * *"
+  workflow_dispatch: # Allows for manual triggering from the GitHub interface
 
 jobs:
   collect-data:
