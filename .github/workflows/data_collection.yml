@@ -44,4 +44,7 @@ jobs:
           git config --local user.email "github-actions@github.com"
           git add dados_prociv_expanded.csv
           git commit -m "Update data collected from API"
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/CatiaBarros/occurrence-data-collector.git
+          git pull --rebase https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/CatiaBarros/occurrence-data-collector.git main
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/CatiaBarros/occurrence-data-collector.git main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
