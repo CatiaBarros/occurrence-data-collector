@@ -1,8 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24434211,"São Bartolomeu de Messines","Algarve",313,"2024-10-19T06:35:00",24434211,"Em conclusão","2407","Despiste",0,4,0,11,"2024-10-19T06:35:00","Silves","Faro","Algarve",-8.287502,37.25838
-24434225,"Almodôvar e Graça Dos Padrões","Baixo Alentejo",312,"2024-10-19T06:56:00",24434225,"Em conclusão","3301","Queda de árvore",0,2,0,4,"2024-10-19T06:56:00","Almodôvar","Beja","Alentejo",-7.95881,37.519807
-24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
+24434449,"Mazedo e Cortes","Alto Minho",309,"2024-10-19T08:23:00",24434449,"Em curso","2407","Despiste",0,2,0,4,"2024-10-19T08:23:00","Monção","Viana Do Castelo","Norte",-8.496553,42.077353
 24411958,"São Martinho Das Moitas e Covas do Rio","Viseu Dão Lafões",310,"2024-10-14T08:00:00",24411958,"Em curso","4339","Corte ou remoção de elementos",0,2,0,6,"2024-10-14T08:00:00","São Pedro Do Sul","Viseu","Centro",-8.08089,40.891495
-24434270,"N. S. da Vila, N. S. do Bispo e Silveiras","Alentejo Central",312,"2024-10-19T07:21:00",24434270,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,4,"2024-10-19T07:21:00","Montemor-o-Novo","Évora","Alentejo",-8.073047,38.613463
 24434301,"Montijo e Afonsoeiro","Península de Setúbal",311,"2024-10-19T07:33:00",24434301,"Em resolução","3203","Detritos confinados",0,2,0,5,"2024-10-19T07:33:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.975715,38.702323
 24434352,"Guilhufe e Urrô","Tâmega e Sousa",309,"2024-10-19T07:51:00",24434352,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-10-19T07:51:00","Penafiel","Porto","Norte",-8.315897,41.201987
+24434435,"Castro Verde e Casével","Baixo Alentejo",312,"2024-10-19T08:12:00",24434435,"Em despacho","2509","Acidente químico em trânsito",0,1,0,1,"2024-10-19T08:12:00","Castro Verde","Beja","Alentejo",-8.091108,37.71279
+24434211,"São Bartolomeu de Messines","Algarve",313,"2024-10-19T06:35:00",24434211,"Em conclusão","2407","Despiste",0,1,0,2,"2024-10-19T06:35:00","Silves","Faro","Algarve",-8.287502,37.25838
+24434225,"Almodôvar e Graça Dos Padrões","Baixo Alentejo",312,"2024-10-19T06:56:00",24434225,"Em conclusão","3301","Queda de árvore",0,2,0,4,"2024-10-19T06:56:00","Almodôvar","Beja","Alentejo",-7.95881,37.519807
+24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
+24434430,"Paranhos","Area M. Porto",309,"2024-10-19T08:24:00",24434430,"Em curso","2407","Despiste",0,2,0,7,"2024-10-19T08:24:00","Porto","Porto","Norte",-8.62215,41.17247
