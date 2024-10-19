@@ -1,7 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
-24434022,"Queluz e Belas","Grande Lisboa",311,"2024-10-19T03:37:00",24434022,"Em curso","2403","Colisão rodoviária",0,2,0,5,"2024-10-19T03:37:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.253541,38.753134
 24433241,"Ourique","Baixo Alentejo",312,"2024-10-18T20:35:00",24433241,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2024-10-18T20:35:00","Castro Verde","Beja","Alentejo",-8.155865,37.645977
-24433993,"Atouguia da Baleia","Oeste",311,"2024-10-19T02:59:00",24433993,"Em conclusão","3105","Incêndio rural",0,4,0,12,"2024-10-19T02:59:00","Peniche","Leiria","Centro",-9.327177,39.299665
+24433993,"Atouguia da Baleia","Oeste",311,"2024-10-19T02:59:00",24433993,"Em conclusão","3105","Incêndio rural",0,1,0,2,"2024-10-19T02:59:00","Peniche","Leiria","Centro",-9.327177,39.299665
 24411958,"São Martinho Das Moitas e Covas do Rio","Viseu Dão Lafões",310,"2024-10-14T08:00:00",24411958,"Em curso","4339","Corte ou remoção de elementos",0,2,0,2,"2024-10-14T08:00:00","São Pedro Do Sul","Viseu","Centro",-8.08089,40.891495
 24434016,"Almeirim","Lezíria do Tejo",311,"2024-10-19T03:41:00",24434016,"Em conclusão","2407","Despiste",0,2,0,6,"2024-10-19T03:41:00","Almeirim","Santarém","Alentejo",-8.585635,39.194702
