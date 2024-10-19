@@ -1,7 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24433241,"Ourique","Baixo Alentejo",312,"2024-10-18T20:35:00",24433241,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2024-10-18T20:35:00","Castro Verde","Beja","Alentejo",-8.155865,37.645977
-24433843,"Vila de Rei","Beira Baixa",310,"2024-10-19T01:08:00",24433843,"Em conclusão","2407","Despiste",0,2,0,4,"2024-10-19T01:08:00","Vila De Rei","Castelo Branco","Centro",-8.138467,39.682812
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
-24433848,"Vila Franca de Xira","Grande Lisboa",311,"2024-10-19T01:16:00",24433848,"Em resolução","2117","Incêndio em edifícios comerciais e gares de transporte",0,0,0,0,"2024-10-19T01:16:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.99865,38.9545
-24433903,"Montenegro","Algarve",313,"2024-10-19T02:06:00",24433903,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,6,0,13,"2024-10-19T02:06:00","Faro","Faro","Algarve",-7.95824,37.02572
+24434022,"Queluz e Belas","Grande Lisboa",311,"2024-10-19T03:37:00",24434022,"Em despacho","2403","Colisão rodoviária",0,2,0,5,"2024-10-19T03:37:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.253541,38.753134
+24433241,"Ourique","Baixo Alentejo",312,"2024-10-18T20:35:00",24433241,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2024-10-18T20:35:00","Castro Verde","Beja","Alentejo",-8.155865,37.645977
+24433993,"Atouguia da Baleia","Oeste",311,"2024-10-19T02:59:00",24433993,"Em conclusão","3105","Incêndio rural",0,4,0,12,"2024-10-19T02:59:00","Peniche","Leiria","Centro",-9.32433,39.339703
 24411958,"São Martinho Das Moitas e Covas do Rio","Viseu Dão Lafões",310,"2024-10-14T08:00:00",24411958,"Em curso","4339","Corte ou remoção de elementos",0,2,0,2,"2024-10-14T08:00:00","São Pedro Do Sul","Viseu","Centro",-8.08089,40.891495
+24434016,"Almeirim","Lezíria do Tejo",311,"2024-10-19T03:41:00",24434016,"Em despacho","2407","Despiste",0,3,0,8,"2024-10-19T03:41:00","Almeirim","Santarém","Alentejo",-8.588832,39.142251
+24434019,"Ramalde","Area M. Porto",309,"2024-10-19T03:43:00",24434019,"Em despacho","3203","Detritos confinados",0,0,0,0,"2024-10-19T03:43:00","Porto","Porto","Norte",-8.63643,41.17109
