@@ -1,11 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
-24434430,"Paranhos","Area M. Porto",309,"2024-10-19T08:24:00",24434430,"Em conclusão","2407","Despiste",0,7,0,22,"2024-10-19T08:24:00","Porto","Porto","Norte",-8.62215,41.17247
+24434430,"Paranhos","Area M. Porto",309,"2024-10-19T08:24:00",24434430,"Em conclusão","2407","Despiste",0,5,0,13,"2024-10-19T08:24:00","Porto","Porto","Norte",-8.62215,41.17247
 24434555,"Bacelo e Senhora da Saúde","Alentejo Central",312,"2024-10-19T08:57:00",24434555,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,4,0,9,"2024-10-19T08:57:00","Évora","Évora","Alentejo",-7.897645,38.565393
 24434449,"Mazedo e Cortes","Alto Minho",309,"2024-10-19T08:23:00",24434449,"Em conclusão","2407","Despiste",0,3,0,6,"2024-10-19T08:23:00","Monção","Viana Do Castelo","Norte",-8.496553,42.077353
 24411958,"São Martinho Das Moitas e Covas do Rio","Viseu Dão Lafões",310,"2024-10-14T08:00:00",24411958,"Em curso","4339","Corte ou remoção de elementos",0,2,0,6,"2024-10-14T08:00:00","São Pedro Do Sul","Viseu","Centro",-8.08089,40.891495
 24434435,"Castro Verde e Casével","Baixo Alentejo",312,"2024-10-19T08:12:00",24434435,"Em despacho","2509","Acidente químico em trânsito",0,1,0,1,"2024-10-19T08:12:00","Castro Verde","Beja","Alentejo",-8.091108,37.71279
 24434211,"São Bartolomeu de Messines","Algarve",313,"2024-10-19T06:35:00",24434211,"Em conclusão","2407","Despiste",0,1,0,2,"2024-10-19T06:35:00","Silves","Faro","Algarve",-8.287502,37.25838
-24434526,"Torrados e Sousa","Tâmega e Sousa",309,"2024-10-19T08:49:00",24434526,"Em despacho","3301","Queda de árvore",0,1,0,2,"2024-10-19T08:49:00","Felgueiras","Porto","Norte",-8.234712,41.355808
-24434661,"Paranhos","Area M. Porto",309,"2024-10-19T09:22:00",24434661,"Em despacho","2407","Despiste",0,1,0,5,"2024-10-19T09:22:00","Porto","Porto","Norte",-8.59699,41.1718
+24434661,"Paranhos","Area M. Porto",309,"2024-10-19T09:22:00",24434661,"Em curso","2407","Despiste",0,3,0,9,"2024-10-19T09:22:00","Porto","Porto","Norte",-8.596476,41.171955
 24434662,"S.pedro e Santiago, S.maria e S.miguel e Matacães","Oeste",311,"2024-10-19T09:13:00",24434662,"Em curso","2403","Colisão rodoviária",0,4,0,8,"2024-10-19T09:13:00","Torres Vedras","Lisboa","Centro",-9.301881,39.10575
+24434744,"Reboreda e Nogueira","Alto Minho",309,"2024-10-19T09:42:00",24434744,"Em despacho","2407","Despiste",0,1,0,3,"2024-10-19T09:42:00","Vila Nova De Cerveira","Viana Do Castelo","Norte",-8.714498,41.956919
