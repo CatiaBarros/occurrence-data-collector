@@ -1,13 +1,12 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
-24446030,"Águas Livres","Grande Lisboa",311,"2024-10-21T22:51:00",24446030,"Em conclusão","3203","Detritos confinados",0,0,0,0,"2024-10-21T22:51:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.213002,38.74214
-24446171,"Pechão","Algarve",313,"2024-10-22T00:05:00",24446171,"Em conclusão","2301","Incêndio em transporte rodoviário",0,4,0,8,"2024-10-22T00:05:00","Olhão","Faro","Algarve",-7.868861,37.056355
 24445241,"Barqueiros","Douro",309,"2024-10-21T18:18:00",24445241,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-10-21T18:18:00","Mesão Frio","Vila Real","Norte",-7.905935,41.134123
 24446119,"Foz do Sousa e Covelo","Area M. Porto",309,"2024-10-21T23:39:00",24446119,"Em resolução","3111","Queima",0,2,0,7,"2024-10-21T23:39:00","Gondomar","Porto","Norte",-8.56413,41.140807
 24446135,"Sarnadas de Ródão","Beira Baixa",310,"2024-10-21T23:52:00",24446135,"Em conclusão","2407","Despiste",0,4,0,10,"2024-10-21T23:52:00","Vila Velha De Ródão","Castelo Branco","Centro",-7.624281,39.70003
+24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
+24446030,"Águas Livres","Grande Lisboa",311,"2024-10-21T22:51:00",24446030,"Em conclusão","3203","Detritos confinados",0,0,0,0,"2024-10-21T22:51:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.213002,38.74214
+24446171,"Pechão","Algarve",313,"2024-10-22T00:05:00",24446171,"Em conclusão","2301","Incêndio em transporte rodoviário",0,4,0,8,"2024-10-22T00:05:00","Olhão","Faro","Algarve",-7.868861,37.056355
 24436035,"Bordeira","Algarve",313,"2024-10-19T15:10:00",24436035,"Em curso","4329","Busca e resgate aquático de pessoas",0,1,0,2,"2024-10-19T15:10:00","Aljezur","Faro","Algarve",-8.88472,37.22222
 24442637,"Sever do Vouga","Região de Aveiro",310,"2024-10-21T09:35:00",24442637,"Em conclusão","3301","Queda de árvore",0,1,0,3,"2024-10-21T09:35:00","Sever Do Vouga","Aveiro","Centro",-8.366336,40.734307
 24445545,"Alfragide","Grande Lisboa",311,"2024-10-21T19:48:00",24445545,"Em conclusão","3203","Detritos confinados",0,2,0,8,"2024-10-21T19:48:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.20964,38.73705
-24445870,"Alcantarilha e Pêra","Algarve",313,"2024-10-21T21:45:00",24445870,"Em conclusão","3201","Detritos não confinados",0,1,0,2,"2024-10-21T21:45:00","Silves","Faro","Algarve",-8.353643,37.18772
 24446156,"Carnaxide e Queijas","Grande Lisboa",311,"2024-10-21T23:59:00",24446156,"Em resolução","3203","Detritos confinados",0,5,0,15,"2024-10-21T23:59:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.21901,38.72257
 24446195,"Ameixial","Algarve",313,"2024-10-22T00:25:00",24446195,"Em resolução","2129","Incêndio em edifícios degradados ou devolutos",0,3,0,8,"2024-10-22T00:25:00","Loulé","Faro","Algarve",-7.944481,37.392586
