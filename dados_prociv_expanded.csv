@@ -1,6 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
 24451451,"Sul","Viseu Dão Lafões",310,"2024-10-23T08:10:00",24451451,"Em curso","4339","Corte ou remoção de elementos",0,1,0,2,"2024-10-23T08:10:00","São Pedro Do Sul","Viseu","Centro",-8.050962,40.841282
-24460031,"Alfragide","Grande Lisboa",311,"2024-10-25T03:45:00",24460031,"Em curso","2407","Despiste",0,2,0,8,"2024-10-25T03:45:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.213123,38.742706
-24459837,"Santa Iria de Azoia, São João da Talha e Bobadela","Grande Lisboa",311,"2024-10-25T00:31:00",24459837,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2024-10-25T00:31:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.090295,38.846465
-24460021,"Pechão","Algarve",313,"2024-10-25T03:22:00",24460021,"Em conclusão","2407","Despiste",0,2,0,4,"2024-10-25T03:22:00","Olhão","Faro","Algarve",-7.88019,37.030248
+24460031,"Alfragide","Grande Lisboa",311,"2024-10-25T03:45:00",24460031,"Em conclusão","2407","Despiste",0,2,0,8,"2024-10-25T03:45:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.213123,38.742706
