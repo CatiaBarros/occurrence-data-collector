@@ -1,11 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24464406,"Porto Salvo","Grande Lisboa",311,"2024-10-26T04:45:00",24464406,"Em curso","2407","Despiste",0,3,0,10,"2024-10-26T04:45:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.291175,38.713493
+24464406,"Porto Salvo","Grande Lisboa",311,"2024-10-26T04:45:00",24464406,"Em conclusão","2407","Despiste",0,3,0,10,"2024-10-26T04:45:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.291175,38.713493
 24464440,"Perafita, Lavra e Santa Cruz do Bispo","Area M. Porto",309,"2024-10-26T05:14:00",24464440,"Em despacho","3315","Inundação de estruturas por precipitação intensa",0,1,0,4,"2024-10-26T05:14:00","Matosinhos","Porto","Norte",-8.72193,41.24699
 24464384,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu","Região de Coimbra",310,"2024-10-26T04:21:00",24464384,"Em conclusão","2407","Despiste",0,4,0,12,"2024-10-26T04:21:00","Coimbra","Coimbra","Centro",-8.420038,40.1931
 24464432,"Ponte","Ave",309,"2024-10-26T05:07:00",24464432,"Em conclusão","2407","Despiste",0,3,0,6,"2024-10-26T05:07:00","Guimarães","Braga","Norte",-8.323677,41.463962
-24464433,"Benfica","Grande Lisboa",311,"2024-10-26T05:09:00",24464433,"Em curso","2301","Incêndio em transporte rodoviário",0,1,0,5,"2024-10-26T05:09:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.19455,38.74453
+24464433,"Benfica","Grande Lisboa",311,"2024-10-26T05:09:00",24464433,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,5,"2024-10-26T05:09:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.19455,38.74453
 24464449,"Montijo e Afonsoeiro","Península de Setúbal",311,"2024-10-26T05:19:00",24464449,"Em conclusão","3203","Detritos confinados",0,2,0,7,"2024-10-26T05:19:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.979943,38.70547
-24464468,"Sines","Alentejo Litoral",312,"2024-10-26T05:34:00",24464468,"Em despacho","2407","Despiste",0,0,0,0,"2024-10-26T05:34:00","Sines","Setúbal","Alentejo",-8.809769,37.98752
+24464468,"Sines","Alentejo Litoral",312,"2024-10-26T05:34:00",24464468,"Em curso","2407","Despiste",0,2,0,5,"2024-10-26T05:34:00","Sines","Setúbal","Alentejo",-8.809769,37.98752
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
 24451451,"Sul","Viseu Dão Lafões",310,"2024-10-23T08:10:00",24451451,"Em curso","4339","Corte ou remoção de elementos",0,1,0,2,"2024-10-23T08:10:00","São Pedro Do Sul","Viseu","Centro",-8.050962,40.841282
 24464362,"Pegões","Península de Setúbal",311,"2024-10-26T04:01:00",24464362,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,9,"2024-10-26T04:01:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.612476,38.6834
