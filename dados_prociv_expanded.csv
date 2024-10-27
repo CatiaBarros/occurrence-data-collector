@@ -1,8 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24468337,"Belém","Grande Lisboa",311,"2024-10-27T02:15:00",24468337,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-10-27T02:15:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.199445,38.69944
-24468630,"Mesão Frio","Ave",309,"2024-10-27T07:11:00",24468630,"Em despacho","2403","Colisão rodoviária",0,4,0,12,"2024-10-27T07:11:00","Guimarães","Braga","Norte",-8.272697,41.45431
 24468618,"Freamunde","Tâmega e Sousa",309,"2024-10-27T07:03:00",24468618,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2024-10-27T07:03:00","Paços De Ferreira","Porto","Norte",-8.339308,41.278098
 24468634,"Perafita, Lavra e Santa Cruz do Bispo","Area M. Porto",309,"2024-10-27T07:09:00",24468634,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,11,"2024-10-27T07:09:00","Matosinhos","Porto","Norte",-8.697254,41.226608
+24468630,"Mesão Frio","Ave",309,"2024-10-27T07:11:00",24468630,"Em curso","2403","Colisão rodoviária",0,3,0,6,"2024-10-27T07:11:00","Guimarães","Braga","Norte",-8.272697,41.45431
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
-24468549,"Carvoeira e Carmões","Oeste",311,"2024-10-27T06:14:00",24468549,"Em curso","2407","Despiste",0,9,0,18,"2024-10-27T06:14:00","Torres Vedras","Lisboa","Centro",-9.16294,39.08026
-24468567,"Aguiar de Sousa","Area M. Porto",309,"2024-10-27T06:38:00",24468567,"Em curso","2403","Colisão rodoviária",0,6,0,15,"2024-10-27T06:38:00","Paredes","Porto","Norte",-8.432395,41.115565
+24468567,"Aguiar de Sousa","Area M. Porto",309,"2024-10-27T06:38:00",24468567,"Em resolução","2403","Colisão rodoviária",0,7,0,17,"2024-10-27T06:38:00","Paredes","Porto","Norte",-8.432395,41.115565
