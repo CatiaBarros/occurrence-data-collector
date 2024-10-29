@@ -1,4 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24476198,"Paranhos","Area M. Porto",309,"2024-10-28T23:38:00",24476198,"Em curso","2407","Despiste",0,6,0,14,"2024-10-28T23:38:00","Porto","Porto","Norte",-8.609427,41.18442
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
-24476255,"Fânzeres e São Pedro da Cova","Area M. Porto",309,"2024-10-28T23:55:00",24476255,"Em conclusão","3201","Detritos não confinados",0,1,0,5,"2024-10-28T23:55:00","Gondomar","Porto","Norte",-8.511531,41.155311
+24476389,"Santa Iria de Azoia, São João da Talha e Bobadela","Grande Lisboa",311,"2024-10-29T01:49:00",24476389,"Em conclusão","2407","Despiste",0,1,0,2,"2024-10-29T01:49:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.098065,38.824783
+24476198,"Paranhos","Area M. Porto",309,"2024-10-28T23:38:00",24476198,"Em curso","2403","Colisão rodoviária",0,5,0,12,"2024-10-28T23:38:00","Porto","Porto","Norte",-8.609427,41.18442
+24476351,"São Brás de Alportel","Algarve",313,"2024-10-29T01:26:00",24476351,"Em resolução","3103","Incêndio rural",0,5,0,16,"2024-10-29T01:26:00","São Brás De Alportel","Faro","Algarve",-7.897745,37.169047
