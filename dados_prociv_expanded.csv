@@ -1,14 +1,14 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24484831,"Beringel","Baixo Alentejo",312,"2024-10-30T23:24:00",24484831,"Em resolução","2407","Despiste",0,2,0,6,"2024-10-30T23:24:00","Beja","Beja","Alentejo",-7.988019,38.05453
+24484880,"Campo e Sobrado","Area M. Porto",309,"2024-10-30T23:44:00",24484880,"Em despacho","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,5,"2024-10-30T23:44:00","Valongo","Porto","Norte",-8.467145,41.204483
+24484760,"Covilhã e Canhoso","Beiras e Serra da Estrela",310,"2024-10-30T22:49:00",24484760,"Em despacho","2407","Despiste",0,2,0,4,"2024-10-30T22:49:00","Covilhã","Castelo Branco","Centro",-7.519359,40.276354
+24484826,"Sobral da Adiça","Baixo Alentejo",312,"2024-10-30T23:15:00",24484826,"Em despacho","3201","Detritos não confinados",0,2,0,4,"2024-10-30T23:15:00","Moura","Beja","Alentejo",-7.257329,38.02016
+24484557,"Portimão","Algarve",313,"2024-10-30T21:13:00",24484557,"Em conclusão","2403","Colisão rodoviária",0,4,0,7,"2024-10-30T21:13:00","Portimão","Faro","Algarve",-8.532608,37.137966
+24484689,"Caniçada e Soengas","Ave",309,"2024-10-30T22:13:00",24484689,"Em curso","3111","Queima",0,1,0,3,"2024-10-30T22:13:00","Vieira Do Minho","Braga","Norte",-8.182957,41.659557
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
 24477757,"Ílhavo (São Salvador)","Região de Aveiro",310,"2024-10-29T11:10:00",24477757,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,0,0,0,"2024-10-29T11:10:00","Ílhavo","Aveiro","Centro",-8.700111,40.588166
 24484668,"Pontinha e Famões","Grande Lisboa",311,"2024-10-30T21:56:00",24484668,"Em despacho","2407","Despiste",0,1,0,2,"2024-10-30T21:56:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.214967,38.788628
-24484727,"Alvão","Alto Tâmega e Barroso",309,"2024-10-30T22:35:00",24484727,"Em resolução","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,12,"2024-10-30T22:35:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.664162,41.513167
+24484727,"Alvão","Alto Tâmega e Barroso",309,"2024-10-30T22:35:00",24484727,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,12,"2024-10-30T22:35:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.664162,41.513167
 24484795,"Lourinhã e Atalaia","Oeste",311,"2024-10-30T23:07:00",24484795,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,4,0,11,"2024-10-30T23:07:00","Lourinhã","Lisboa","Centro",-9.26328,39.24814
 24484859,"Albufeira e Olhos de Água","Algarve",313,"2024-10-30T23:26:00",24484859,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2024-10-30T23:26:00","Albufeira","Faro","Algarve",-8.199436,37.10168
-24484760,"Covilhã e Canhoso","Beiras e Serra da Estrela",310,"2024-10-30T22:49:00",24484760,"Em despacho","2407","Despiste",0,2,0,4,"2024-10-30T22:49:00","Covilhã","Castelo Branco","Centro",-7.519359,40.276354
-24484826,"Sobral da Adiça","Baixo Alentejo",312,"2024-10-30T23:15:00",24484826,"Em despacho","3201","Detritos não confinados",0,2,0,4,"2024-10-30T23:15:00","Moura","Beja","Alentejo",-7.257329,38.02016
-24484763,"Canelas e Fermelã","Região de Aveiro",310,"2024-10-30T22:50:00",24484763,"Em resolução","3111","Queima",0,2,0,7,"2024-10-30T22:50:00","Estarreja","Aveiro","Centro",-8.554472,40.720264
-24484831,"Beringel","Baixo Alentejo",312,"2024-10-30T23:24:00",24484831,"Em despacho","2407","Despiste",0,1,0,4,"2024-10-30T23:24:00","Beja","Beja","Alentejo",-7.988019,38.05453
-24484507,"Peso da Régua e Godim","Douro",309,"2024-10-30T20:40:00",24484507,"Em curso","3301","Queda de árvore",0,1,0,2,"2024-10-30T20:40:00","Peso Da Régua","Vila Real","Norte",-7.793527,41.168971
-24484557,"Portimão","Algarve",313,"2024-10-30T21:13:00",24484557,"Em conclusão","2403","Colisão rodoviária",0,4,0,7,"2024-10-30T21:13:00","Portimão","Faro","Algarve",-8.532608,37.137966
-24484689,"Caniçada e Soengas","Ave",309,"2024-10-30T22:13:00",24484689,"Em curso","3111","Queima",0,1,0,3,"2024-10-30T22:13:00","Vieira Do Minho","Braga","Norte",-8.182957,41.659557
+24484868,"Carnota","Oeste",311,"2024-10-30T23:35:00",24484868,"Em conclusão","3203","Detritos confinados",0,1,0,5,"2024-10-30T23:35:00","Alenquer","Lisboa","Centro",-9.079,39.036616
