@@ -1,6 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24485198,"Silveiros e Rio Covo (Santa Eulália)","Cávado",309,"2024-10-31T05:36:00",24485198,"Em despacho","2407","Despiste",0,0,0,0,"2024-10-31T05:36:00","Barcelos","Braga","Norte",-8.57997,41.4727
-24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
-24477757,"Ílhavo (São Salvador)","Região de Aveiro",310,"2024-10-29T11:10:00",24477757,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,0,0,0,"2024-10-29T11:10:00","Ílhavo","Aveiro","Centro",-8.700111,40.588166
+24485208,"Ramalde","Area M. Porto",309,"2024-10-31T05:55:00",24485208,"Em despacho","3301","Queda de árvore",0,1,0,4,"2024-10-31T05:55:00","Porto","Porto","Norte",-8.64232,41.17071
 24485187,"Marvila","Grande Lisboa",311,"2024-10-31T05:09:00",24485187,"Em despacho","2407","Despiste",0,1,0,2,"2024-10-31T05:09:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.11071,38.739104
 24485203,"Caparica e Trafaria","Península de Setúbal",311,"2024-10-31T05:38:00",24485203,"Em despacho","2403","Colisão rodoviária",0,2,0,5,"2024-10-31T05:38:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.215111,38.660442
+24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
+24477757,"Ílhavo (São Salvador)","Região de Aveiro",310,"2024-10-29T11:10:00",24477757,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,0,0,0,"2024-10-29T11:10:00","Ílhavo","Aveiro","Centro",-8.700111,40.588166
+24485198,"Silveiros e Rio Covo (Santa Eulália)","Cávado",309,"2024-10-31T05:36:00",24485198,"Em despacho","2407","Despiste",0,4,0,9,"2024-10-31T05:36:00","Barcelos","Braga","Norte",-8.57997,41.4727
