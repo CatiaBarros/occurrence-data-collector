@@ -1,6 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24485096,"Cascais e Estoril","Grande Lisboa",311,"2024-10-31T03:03:00",24485096,"Em conclusão","2407","Despiste",0,0,0,0,"2024-10-31T03:03:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.398759,38.70391
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
 24477757,"Ílhavo (São Salvador)","Região de Aveiro",310,"2024-10-29T11:10:00",24477757,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,0,0,0,"2024-10-29T11:10:00","Ílhavo","Aveiro","Centro",-8.700111,40.588166
-24485108,"Pedrógão Pequeno","Beira Baixa",310,"2024-10-31T03:25:00",24485108,"Em despacho","3301","Queda de árvore",0,2,0,5,"2024-10-31T03:25:00","Sertã","Castelo Branco","Centro",-8.129602,39.901525
-24485085,"Caparica e Trafaria","Península de Setúbal",311,"2024-10-31T02:50:00",24485085,"Em conclusão","2117","Incêndio em edifícios comerciais e gares de transporte",0,3,0,7,"2024-10-31T02:50:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.231582,38.671372
-24485096,"Cascais e Estoril","Grande Lisboa",311,"2024-10-31T03:03:00",24485096,"Em conclusão","2407","Despiste",0,0,0,0,"2024-10-31T03:03:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.398759,38.70391
