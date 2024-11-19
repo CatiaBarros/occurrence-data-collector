@@ -1,5 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24566557,"Azambuja","Lezíria do Tejo",311,"2024-11-19T07:18:00",24566557,"Em resolução","3301","Queda de árvore",0,2,0,6,"2024-11-19T07:18:00","Azambuja","Lisboa","Alentejo",-8.871418,39.07758
 24566484,"São Félix","Viseu Dão Lafões",310,"2024-11-19T06:28:00",24566484,"Em curso","2407","Despiste",0,2,0,7,"2024-11-19T06:28:00","São Pedro Do Sul","Viseu","Centro",-8.052551,40.797552
 24566511,"Alhandra, São João Dos Montes e Calhandriz","Grande Lisboa",311,"2024-11-19T06:51:00",24566511,"Em despacho","3323","Dano na rede de abastecimento de água",0,1,0,2,"2024-11-19T06:51:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.04976214889344,38.9438642316004
+24566559,"Ínsua","Viseu Dão Lafões",310,"2024-11-19T07:06:00",24566559,"Em despacho","2407","Despiste",0,1,0,2,"2024-11-19T07:06:00","Penalva Do Castelo","Viseu","Centro",-7.706129,40.677929
 24360487,"Mões","Viseu Dão Lafões",310,"2024-10-03T08:00:00",24360487,"Em curso","4339","Corte ou remoção de elementos",0,0,0,0,"2024-10-03T08:00:00","Castro Daire","Viseu","Centro",-7.893519,40.867571
 24523090,"Carnaxide e Queijas","Grande Lisboa",311,"2024-11-08T18:49:00",24523090,"Em curso","9119","Missão internacional de assistência",0,47,0,102,"2024-11-08T18:49:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.243421,38.725234
