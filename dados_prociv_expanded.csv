@@ -1,8 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24582159,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória","Area M. Porto",309,"2024-11-22T15:04:00",24582159,"Em resolução","2401","Atropelamento rodoviário",0,0,0,0,"2024-11-22T15:04:00","Porto","Porto","Norte",-8.618258,41.152995
-24582179,"Gove","Tâmega e Sousa",309,"2024-11-22T15:01:00",24582179,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2024-11-22T15:01:00","Baião","Porto","Norte",-8.061676,41.132529
-24582263,"Almargem do Bispo, Pêro Pinheiro e Montelavar","Grande Lisboa",311,"2024-11-22T15:20:00",24582263,"Em curso","2407","Despiste",0,1,0,3,"2024-11-22T15:20:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.268587,38.831355
-24582302,"Arruda Dos Vinhos","Oeste",311,"2024-11-22T15:24:00",24582302,"Em curso","2407","Despiste",0,3,0,9,"2024-11-22T15:24:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.073392,38.9173
 24580027,"Sesimbra (Castelo)","Península de Setúbal",311,"2024-11-22T07:55:00",24580027,"Em conclusão","2407","Despiste",0,1,0,2,"2024-11-22T07:55:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.106828,38.452682
 24580311,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória","Area M. Porto",309,"2024-11-22T08:43:00",24580311,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,4,0,11,"2024-11-22T08:43:00","Porto","Porto","Norte",-8.615939,41.15359
 24581428,"Arcozelos","Douro",309,"2024-11-22T12:24:00",24581428,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2024-11-22T12:24:00","Moimenta Da Beira","Viseu","Norte",-7.58329,40.97497
@@ -18,3 +14,8 @@
 24582017,"Bornes e Burga","Terras de Trás-os-Montes",309,"2024-11-22T14:38:00",24582017,"Em despacho","3109","Gestão de combustível",0,1,0,2,"2024-11-22T14:38:00","Macedo De Cavaleiros","Bragança","Norte",-7.009685,41.435018
 24582069,"Ardegão, Freixo e Mato","Alto Minho",309,"2024-11-22T14:37:00",24582069,"Em resolução","2403","Colisão rodoviária",0,1,0,2,"2024-11-22T14:37:00","Ponte De Lima","Viana Do Castelo","Norte",-8.604368,41.652432
 24582380,"Buarcos","Região de Coimbra",310,"2024-11-22T15:30:00",24582380,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2024-11-22T15:30:00","Figueira Da Foz","Coimbra","Centro",-8.880897,40.168384
+24582462,"Bornes de Aguiar","Alto Tâmega e Barroso",309,"2024-11-22T16:03:00",24582462,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2024-11-22T16:03:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.60702,41.543737
+24582179,"Gove","Tâmega e Sousa",309,"2024-11-22T15:01:00",24582179,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2024-11-22T15:01:00","Baião","Porto","Norte",-8.061676,41.132529
+24582263,"Almargem do Bispo, Pêro Pinheiro e Montelavar","Grande Lisboa",311,"2024-11-22T15:20:00",24582263,"Em curso","2407","Despiste",0,1,0,3,"2024-11-22T15:20:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.268587,38.831355
+24582302,"Arruda Dos Vinhos","Oeste",311,"2024-11-22T15:24:00",24582302,"Em conclusão","2407","Despiste",0,3,0,9,"2024-11-22T15:24:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.073392,38.9173
+24582461,"S.julião, N.s. da Anunciada e S. Maria da Graça","Península de Setúbal",311,"2024-11-22T16:04:00",24582461,"Em despacho","2403","Colisão rodoviária",0,2,0,9,"2024-11-22T16:04:00","Setúbal","Setúbal","Área Metropolitana De Lisboa",-8.889983,38.529955
