@@ -1,6 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24584401,"Madalena e Beselga","Médio Tejo",311,"2024-11-23T03:45:00",24584401,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2024-11-23T03:45:00","Tomar","Santarém","Centro",-8.41464,39.55337
+24584422,"Coimbrão","Região de Leiria",310,"2024-11-23T04:07:00",24584422,"Em despacho","3203","Detritos confinados",0,0,0,0,"2024-11-23T04:07:00","Leiria","Leiria","Centro",-8.947217,39.922075
 24584129,"Queluz e Belas","Grande Lisboa",311,"2024-11-23T00:11:00",24584129,"Em conclusão","2407","Despiste",0,8,0,21,"2024-11-23T00:11:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.2661,38.77618
 24584280,"Talhadas","Região de Aveiro",310,"2024-11-23T01:51:00",24584280,"Em conclusão","2407","Despiste",0,2,0,4,"2024-11-23T01:51:00","Sever Do Vouga","Aveiro","Centro",-8.330608,40.662334
+24584401,"Madalena e Beselga","Médio Tejo",311,"2024-11-23T03:45:00",24584401,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,2,0,6,"2024-11-23T03:45:00","Tomar","Santarém","Centro",-8.415543,39.550193
 24573722,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória","Area M. Porto",309,"2024-11-20T16:48:00",24573722,"Em conclusão","2115","Incêndio em edifícios hoteleiros e de restauração",0,0,0,0,"2024-11-20T16:48:00","Porto","Porto","Norte",-8.6073,41.14514
 24579209,"Águas Santas","Area M. Porto",309,"2024-11-21T21:59:00",24579209,"Em curso","3313","Deslizamento de terras",0,0,0,0,"2024-11-21T21:59:00","Maia","Porto","Norte",-8.569778,41.208823
