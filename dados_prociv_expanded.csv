@@ -1,9 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24602358,"Oliveira do Bairro","Região de Aveiro",310,"2024-11-27T07:11:00",24602358,"Em conclusão","2407","Despiste",0,1,0,2,"2024-11-27T07:11:00","Oliveira Do Bairro","Aveiro","Centro",-8.516619,40.517781
-24602399,"Alcochete","Península de Setúbal",311,"2024-11-27T07:22:00",24602399,"Em despacho","2403","Colisão rodoviária",0,3,0,9,"2024-11-27T07:22:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-8.962464,38.749259
+24602399,"Alcochete","Península de Setúbal",311,"2024-11-27T07:22:00",24602399,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2024-11-27T07:22:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-8.962464,38.749259
+24602303,"Oliveira do Douro","Area M. Porto",309,"2024-11-27T06:38:00",24602303,"Em curso","4327","Busca e resgate terrestre de pessoas",0,7,0,16,"2024-11-27T06:38:00","Vila Nova De Gaia","Porto","Norte",-8.592711,41.13717
 24602300,"Rio Tinto","Area M. Porto",309,"2024-11-27T06:31:00",24602300,"Em despacho","2401","Atropelamento rodoviário",0,2,0,4,"2024-11-27T06:31:00","Gondomar","Porto","Norte",-8.560102,41.179302
-24602398,"Longos","Ave",309,"2024-11-27T07:33:00",24602398,"Em despacho","2407","Despiste",0,3,0,9,"2024-11-27T07:33:00","Guimarães","Braga","Norte",-8.36575,41.52074
+24602398,"Longos","Ave",309,"2024-11-27T07:33:00",24602398,"Em curso","2407","Despiste",0,4,0,11,"2024-11-27T07:33:00","Guimarães","Braga","Norte",-8.36575,41.52074
 24602260,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2024-11-27T05:51:00",24602260,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2024-11-27T05:51:00","Aljustrel","Beja","Alentejo",-8.108277,37.826457
 24602344,"Alfragide","Grande Lisboa",311,"2024-11-27T07:00:00",24602344,"Em conclusão","2407","Despiste",0,3,0,10,"2024-11-27T07:00:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.225704,38.738085
-24602255,"Sendim","Tâmega e Sousa",309,"2024-11-27T05:51:00",24602255,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2024-11-27T05:51:00","Felgueiras","Porto","Norte",-8.186937,41.386455
-24602303,"Oliveira do Douro","Area M. Porto",309,"2024-11-27T06:38:00",24602303,"Em curso","4327","Busca e resgate terrestre de pessoas",0,6,0,14,"2024-11-27T06:38:00","Vila Nova De Gaia","Porto","Norte",-8.592711,41.13717
+24602446,"Arcozelo","Area M. Porto",309,"2024-11-27T07:45:00",24602446,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2024-11-27T07:45:00","Vila Nova De Gaia","Porto","Norte",-8.640388,41.056331
