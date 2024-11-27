@@ -1,7 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24601587,"Nazaré","Oeste",311,"2024-11-26T21:20:00",24601587,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2024-11-26T21:20:00","Nazaré","Leiria","Centro",-9.062127,39.596083
-24602222,"Eiras e São Paulo de Frades","Região de Coimbra",310,"2024-11-27T05:21:00",24602222,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,3,0,13,"2024-11-27T05:21:00","Coimbra","Coimbra","Centro",-8.423418,40.248789
+24602222,"Eiras e São Paulo de Frades","Região de Coimbra",310,"2024-11-27T05:21:00",24602222,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,3,0,13,"2024-11-27T05:21:00","Coimbra","Coimbra","Centro",-8.423418,40.248789
+24602254,"Nespereira","Ave",309,"2024-11-27T05:57:00",24602254,"Em despacho","2401","Atropelamento rodoviário",0,3,0,6,"2024-11-27T05:57:00","Guimarães","Braga","Norte",-8.327213,41.406748
+24602255,"Sendim","Tâmega e Sousa",309,"2024-11-27T05:51:00",24602255,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2024-11-27T05:51:00","Felgueiras","Porto","Norte",-8.186937,41.386455
 24601377,"Ferreira do Alentejo e Canhestros","Baixo Alentejo",312,"2024-11-26T20:10:00",24601377,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,0,0,0,"2024-11-26T20:10:00","Ferreira Do Alentejo","Beja","Alentejo",-8.125798,38.054995
-24602145,"Arcozelo","Cávado",309,"2024-11-27T03:44:00",24602145,"Em resolução","2117","Incêndio em edifícios comerciais e gares de transporte",0,10,0,23,"2024-11-27T03:44:00","Barcelos","Braga","Norte",-8.612472,41.538257
-24602254,"Nespereira","Ave",309,"2024-11-27T05:57:00",24602254,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2024-11-27T05:57:00","Guimarães","Braga","Norte",-8.327213,41.406748
-24602255,"Sendim","Tâmega e Sousa",309,"2024-11-27T05:51:00",24602255,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2024-11-27T05:51:00","Felgueiras","Porto","Norte",-8.186937,41.386455
+24602145,"Arcozelo","Cávado",309,"2024-11-27T03:44:00",24602145,"Em resolução","2117","Incêndio em edifícios comerciais e gares de transporte",0,6,0,15,"2024-11-27T03:44:00","Barcelos","Braga","Norte",-8.612472,41.538257
+24602260,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2024-11-27T05:51:00",24602260,"Em curso","2401","Atropelamento rodoviário",0,3,0,9,"2024-11-27T05:51:00","Aljustrel","Beja","Alentejo",-8.101273,37.8225
