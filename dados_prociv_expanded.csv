@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24611121,"Abrantes (São Vicente e São João) e Alferrarede","Médio Tejo",311,"2024-11-29T04:59:00",24611121,"Em despacho","2407","Despiste",0,2,0,4,"2024-11-29T04:59:00","Abrantes","Santarém","Centro",-8.22278,39.48278
+24611173,"Silva Escura e Dornelas","Região de Aveiro",310,"2024-11-29T05:59:00",24611173,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,1,0,4,"2024-11-29T05:59:00","Sever Do Vouga","Aveiro","Centro",-8.400757,40.756744
 24610360,"Salzedas","Douro",309,"2024-11-28T20:20:00",24610360,"Em curso","4327","Busca e resgate terrestre de pessoas",0,0,0,0,"2024-11-28T20:20:00","Tarouca","Viseu","Norte",-7.709573,41.067846
 24606744,"Pampilhosa da Serra","Região de Coimbra",310,"2024-11-28T07:12:00",24606744,"Em curso","3109","Gestão de combustível",0,9,0,21,"2024-11-28T07:12:00","Pampilhosa Da Serra","Coimbra","Centro",-7.973746,40.045515
-24611173,"Silva Escura e Dornelas","Região de Aveiro",310,"2024-11-29T05:59:00",24611173,"Em curso","2101","Incêndio em edifícios habitacionais",0,1,0,4,"2024-11-29T05:59:00","Sever Do Vouga","Aveiro","Centro",-8.400757,40.756744
-24611121,"Abrantes (São Vicente e São João) e Alferrarede","Médio Tejo",311,"2024-11-29T04:59:00",24611121,"Em despacho","2407","Despiste",0,2,0,4,"2024-11-29T04:59:00","Abrantes","Santarém","Centro",-8.22278,39.48278
