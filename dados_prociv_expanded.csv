@@ -1,5 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24616170,"São Marcos da Serra","Algarve",313,"2024-11-30T07:58:00",24616170,"Em curso","2407","Despiste",0,7,0,18,"2024-11-30T07:58:00","Silves","Faro","Algarve",-8.387632,37.307295
+24616597,"Albufeira e Olhos de Água","Algarve",313,"2024-11-30T09:31:00",24616597,"Em conclusão","2407","Despiste",0,2,0,4,"2024-11-30T09:31:00","Albufeira","Faro","Algarve",-8.252292,37.091727
 24615981,"Sandim, Olival, Lever e Crestuma","Area M. Porto",309,"2024-11-30T05:46:00",24615981,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,0,0,0,"2024-11-30T05:46:00","Vila Nova De Gaia","Porto","Norte",-8.502382,41.048753
 24616318,"Ega","Região de Coimbra",310,"2024-11-30T08:34:00",24616318,"Em conclusão","2401","Atropelamento rodoviário",0,9,0,28,"2024-11-30T08:34:00","Condeixa-a-Nova","Coimbra","Centro",-8.49694,40.1125
 24616484,"Olhão","Algarve",313,"2024-11-30T09:00:00",24616484,"Em curso","4331","Busca e resgate terrestre de animais",0,2,0,4,"2024-11-30T09:00:00","Olhão","Faro","Algarve",-7.836023,37.014671
@@ -9,7 +10,7 @@
 24616394,"Geraz do Minho","Ave",309,"2024-11-30T08:49:00",24616394,"Em conclusão","2407","Despiste",0,5,0,13,"2024-11-30T08:49:00","Póvoa De Lanhoso","Braga","Norte",-8.289025,41.602692
 24616424,"Fátima","Médio Tejo",311,"2024-11-30T09:00:00",24616424,"Em resolução","2403","Colisão rodoviária",0,4,0,11,"2024-11-30T09:00:00","Ourém","Santarém","Centro",-8.650169,39.617565
 24616441,"Gondomar (São Cosme), Valbom e Jovim","Area M. Porto",309,"2024-11-30T09:03:00",24616441,"Em conclusão","2401","Atropelamento rodoviário",0,1,0,2,"2024-11-30T09:03:00","Gondomar","Porto","Norte",-8.521845,41.128955
-24616443,"Pombal","Região de Leiria",310,"2024-11-30T09:03:00",24616443,"Em resolução","3301","Queda de árvore",0,2,0,3,"2024-11-30T09:03:00","Pombal","Leiria","Centro",-8.65944,39.917437
 24616492,"Ronfe","Ave",309,"2024-11-30T09:13:00",24616492,"Em despacho","2403","Colisão rodoviária",0,6,0,12,"2024-11-30T09:13:00","Guimarães","Braga","Norte",-8.386088,41.435752
+24616524,"Benfeita","Região de Coimbra",310,"2024-11-30T09:23:00",24616524,"Em despacho","3111","Queima",0,1,0,3,"2024-11-30T09:23:00","Arganil","Coimbra","Centro",-7.94709,40.23359
 24616594,"Cambra e Carvalhal de Vermilhas","Viseu Dão Lafões",310,"2024-11-30T09:35:00",24616594,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2024-11-30T09:35:00","Vouzela","Viseu","Centro",-8.163884,40.692217
-24616611,"Rio Tinto","Area M. Porto",309,"2024-11-30T09:32:00",24616611,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2024-11-30T09:32:00","Gondomar","Porto","Norte",-8.560102,41.179302
+24616611,"Rio Tinto","Area M. Porto",309,"2024-11-30T09:32:00",24616611,"Em curso","2403","Colisão rodoviária",0,2,0,5,"2024-11-30T09:32:00","Gondomar","Porto","Norte",-8.560102,41.179302
