@@ -36,7 +36,7 @@ jobs:
 
       # Executar o script R para coletar e filtrar os dados
       - name: Run Data Collection and Filtering Script
-        run: Rscript collect_and_filter_data.R
+        run: Rscript collect_data.R
 
       # Comitar e enviar os dados coletados e filtrados para o repositório
       - name: Commit and Push Data
