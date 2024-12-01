@@ -4,12 +4,14 @@ if (!require(jsonlite)) install.packages("jsonlite")
 if (!require(dplyr)) install.packages("dplyr")
 if (!require(sf)) install.packages("sf")
 if (!require(tools)) install.packages("tools")
+if (!require(readr)) install.packages("readr")
 
 library(httr)
 library(jsonlite)
 library(dplyr)
 library(sf)
 library(tools)
+library(readr)
 
 # URL da API
 url <- "https://prociv.gov.pt/occurrences/"
@@ -25,6 +27,8 @@ get_data_with_retry <- function(url, retries = 3, delay = 5) {
       Sys.sleep(delay)
     }
   }
+  # Criar um arquivo vazio ou parar o script em caso de falha final
+  write.csv(data.frame(), "dados_prociv_expanded.csv", row.names = FALSE)
   stop("Falha ao obter os dados da API após várias tentativas.")
 }
 
@@ -53,8 +57,8 @@ if (status_code(response) == 200) {
     concelhos <- st_read("ContinenteConcelhos.geojson")
     
     # Verificar e ajustar o sistema de coordenadas
-    if (st_crs(concelhos) != st_crs(4326)) {
-      concelhos <- st_transform(concelhos, 4326)  # Converte para o sistema de coordenadas WGS84 (usado por GPS)
+    if (!st_is_longlat(concelhos)) {
+      concelhos <- st_transform(concelhos, 4326)  # Converter para WGS84
     }
     
     # Converter final_df para um objeto sf usando coordenadas de latitude e longitude
@@ -81,20 +85,28 @@ if (status_code(response) == 200) {
     # Salvar o data frame final com Concelho, Distrito, NUTII_DSG, latitude e longitude em um arquivo CSV
     write.csv(final_df, file = "dados_prociv_expanded.csv", row.names = FALSE)
     
-    cat("O arquivo 'dados_prociv_expanded.csv' com Concelho, Distrito, NUTII_DSG, latitude e longitude foi salvo com sucesso!")
+    cat("O arquivo 'dados_prociv_expanded.csv' com Concelho, Distrito, NUTII_DSG, latitude e longitude foi salvo com sucesso!\n")
   } else {
-    cat("O conteúdo retornado não é JSON. Conteúdo:\n", content(response, "text", encoding = "UTF-8"))
+    stop("O conteúdo retornado não é JSON.")
   }
-  
 } else {
-  cat("Falha ao obter os dados da API. Código de status:", status_code(response))
+  stop("Falha ao obter os dados da API.")
 }
 
-# Carregar os dados do CSV "dados_prociv_expanded.csv"
-dados_prociv <- read_csv("dados_prociv_expanded.csv")
+# Verificar se o arquivo 'dados_prociv_expanded.csv' existe antes de tentar ler
+if (file.exists("dados_prociv_expanded.csv")) {
+  # Carregar os dados do CSV "dados_prociv_expanded.csv"
+  dados_prociv <- read_csv("dados_prociv_expanded.csv")
+} else {
+  stop("O arquivo 'dados_prociv_expanded.csv' não foi criado. Interrompendo o script.")
+}
 
 # Carregar o dicionário "Dicionario_ocorrencias.csv"
-dicionario <- read_csv("Dicionario_ocorrencias.csv")
+if (file.exists("Dicionario_ocorrencias.csv")) {
+  dicionario <- read_csv("Dicionario_ocorrencias.csv")
+} else {
+  stop("O arquivo 'Dicionario_ocorrencias.csv' não foi encontrado. Interrompendo o script.")
+}
 
 # Filtrar os dados com base na coluna "nature" que aparece em "Código.Operacional" do dicionário
 ocorrencias_mau_tempo <- dados_prociv %>%
@@ -103,4 +115,4 @@ ocorrencias_mau_tempo <- dados_prociv %>%
 # Salvar o resultado no novo arquivo "Ocorrencias_mau_tempo.csv"
 write_csv(ocorrencias_mau_tempo, "Ocorrencias_mau_tempo.csv")
 
-cat("O arquivo 'Ocorrencias_mau_tempo.csv' foi salvo com sucesso!")
+cat("O arquivo 'Ocorrencias_mau_tempo.csv' foi salvo com sucesso!\n")
