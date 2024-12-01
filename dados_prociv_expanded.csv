@@ -1,8 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24620132,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2024-12-01T03:51:00",24620132,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-12-01T03:51:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.144887,38.797363
-24620189,"Cortegaça","Região de Aveiro",310,"2024-12-01T04:50:00",24620189,"Em conclusão","2407","Despiste",0,2,0,4,"2024-12-01T04:50:00","Ovar","Aveiro","Centro",-8.634253,40.941462
 24620087,"Corroios","Península de Setúbal",311,"2024-12-01T03:30:00",24620087,"Em resolução","2407","Despiste",0,1,0,3,"2024-12-01T03:30:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.155796,38.618466
-24620246,"Queluz e Belas","Grande Lisboa",311,"2024-12-01T05:52:00",24620246,"Em curso","2407","Despiste",0,3,0,10,"2024-12-01T05:52:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.253541,38.753134
-24620277,"Vila Fria e Vizela (São Jorge)","Tâmega e Sousa",309,"2024-12-01T06:24:00",24620277,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,3,"2024-12-01T06:24:00","Felgueiras","Porto","Norte",-8.24986,41.3841
 24552947,"Pias","Baixo Alentejo",312,"2024-11-15T20:38:00",24552947,"Em conclusão","2301","Incêndio em transporte rodoviário",0,0,0,0,"2024-11-15T20:38:00","Serpa","Beja","Alentejo",-7.472605,38.015257
 24620172,"Rio Tinto","Area M. Porto",309,"2024-12-01T04:40:00",24620172,"Em resolução","2403","Colisão rodoviária",0,5,0,13,"2024-12-01T04:40:00","Gondomar","Porto","Norte",-8.542095,41.177417
+24620246,"Queluz e Belas","Grande Lisboa",311,"2024-12-01T05:52:00",24620246,"Em conclusão","2407","Despiste",0,4,0,11,"2024-12-01T05:52:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.253541,38.753134
+24620277,"Vila Fria e Vizela (São Jorge)","Tâmega e Sousa",309,"2024-12-01T06:24:00",24620277,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,3,"2024-12-01T06:24:00","Felgueiras","Porto","Norte",-8.24986,41.3841
+24620132,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2024-12-01T03:51:00",24620132,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-12-01T03:51:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.144887,38.797363
+24620189,"Cortegaça","Região de Aveiro",310,"2024-12-01T04:50:00",24620189,"Em conclusão","2407","Despiste",0,2,0,4,"2024-12-01T04:50:00","Ovar","Aveiro","Centro",-8.634253,40.941462
