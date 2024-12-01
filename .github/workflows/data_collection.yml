@@ -1,5 +1,4 @@
-
-name: Collect Data Every 10 Minutes
+name: Collect and Filter Data
 
 on:
   schedule:
@@ -7,7 +6,7 @@ on:
   workflow_dispatch: # Permite que o workflow seja acionado manualmente pelo GitHub
 
 jobs:
-  collect-data:
+  collect-filter-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -33,18 +32,19 @@ jobs:
           R -e 'if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")'
           R -e 'if (!requireNamespace("sf", quietly = TRUE)) install.packages("sf")'
           R -e 'if (!requireNamespace("tools", quietly = TRUE)) install.packages("tools")'
+          R -e 'if (!requireNamespace("readr", quietly = TRUE)) install.packages("readr")'
 
-      # Executar o script R para coletar os dados
-      - name: Run Data Collection Script
-        run: Rscript collect_data.R
+      # Executar o script R para coletar e filtrar os dados
+      - name: Run Data Collection and Filtering Script
+        run: Rscript collect_and_filter_data.R
 
-      # Comitar e enviar os dados coletados para o repositório
+      # Comitar e enviar os dados coletados e filtrados para o repositório
       - name: Commit and Push Data
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add dados_prociv_expanded.csv
-          git commit -m "Update data collected from API" || exit 0 # Não falhar se não houver mudanças
+          git add dados_prociv_expanded.csv Ocorrencias_mau_tempo.csv
+          git commit -m "Update data collected and filtered from API" || exit 0 # Não falhar se não houver mudanças
           git pull https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/CatiaBarros/occurrence-data-collector.git main
           git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/CatiaBarros/occurrence-data-collector.git main
         env:
