@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24626861,Vendas Novas,Alentejo Central,312,2024-12-02T16:35:00Z,24626861,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-02T16:35:00Z,Vendas Novas,Évora,Alentejo,-8.42875,38.71956
 24625082,Alcabideche,Grande Lisboa,311,2024-12-02T10:45:00Z,24625082,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2024-12-02T10:45:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.4155,38.73589
 24626638,"Seia, São Romão e Lapa Dos Dinheiros",Beiras e Serra da Estrela,310,2024-12-02T15:47:00Z,24626638,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,7,2024-12-02T15:47:00Z,Seia,Guarda,Centro,-7.686216,40.399317
