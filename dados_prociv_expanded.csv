@@ -1,7 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24623754,"Póvoa de São Miguel","Baixo Alentejo",312,"2024-12-02T01:35:00",24623754,"Em conclusão","3201","Detritos não confinados",0,0,0,0,"2024-12-02T01:35:00","Moura","Beja","Alentejo",-7.336658,38.226398
-24623865,"Loures","Grande Lisboa",311,"2024-12-02T03:26:00",24623865,"Em curso","3203","Detritos confinados",0,1,0,5,"2024-12-02T03:26:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.176421,38.828612
-24623761,"Moita","Península de Setúbal",311,"2024-12-02T01:49:00",24623761,"Em conclusão","2407","Despiste",0,2,0,3,"2024-12-02T01:49:00","Moita","Setúbal","Área Metropolitana De Lisboa",-8.975962,38.642311
 24552947,"Pias","Baixo Alentejo",312,"2024-11-15T20:38:00",24552947,"Em conclusão","2301","Incêndio em transporte rodoviário",0,0,0,0,"2024-11-15T20:38:00","Serpa","Beja","Alentejo",-7.472605,38.015257
 24623748,"Aljubarrota","Oeste",311,"2024-12-02T01:18:00",24623748,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2024-12-02T01:18:00","Alcobaça","Leiria","Centro",-8.941861,39.565461
-24623825,"Vilar de Andorinho","Area M. Porto",309,"2024-12-02T02:51:00",24623825,"Em curso","2407","Despiste",0,6,0,15,"2024-12-02T02:51:00","Vila Nova De Gaia","Porto","Norte",-8.573602,41.090778
+24623865,"Loures","Grande Lisboa",311,"2024-12-02T03:26:00",24623865,"Em curso","3203","Detritos confinados",0,1,0,5,"2024-12-02T03:26:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.176421,38.828612
+24623761,"Moita","Península de Setúbal",311,"2024-12-02T01:49:00",24623761,"Em conclusão","2407","Despiste",0,2,0,3,"2024-12-02T01:49:00","Moita","Setúbal","Área Metropolitana De Lisboa",-8.975962,38.642311
