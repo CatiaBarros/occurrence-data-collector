@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24624557,Ericeira,Grande Lisboa,311,2024-12-02T09:17:00Z,24624557,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2024-12-02T09:17:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.41928,38.97024
-24624578,"Nossa Senhora do Pópulo, Coto e São Gregório",Oeste,311,2024-12-02T09:17:00Z,24624578,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,9,2024-12-02T09:17:00Z,Caldas Da Rainha,Leiria,Centro,-9.13621,39.40688
 24624200,Lousã e Vilarinho,Região de Coimbra,310,2024-12-02T07:56:00Z,24624200,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-02T07:56:00Z,Lousã,Coimbra,Centro,-8.210545,40.12575
-24624552,"Valença, Cristelo Covo e Arão",Alto Minho,309,2024-12-02T09:15:00Z,24624552,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,2,2024-12-02T09:15:00Z,Valença,Viana Do Castelo,Norte,-8.644383,42.018188
+24624725,Pontinha e Famões,Grande Lisboa,311,2024-12-02T09:46:00Z,24624725,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2024-12-02T09:46:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.20104,38.7631
+24624841,Ericeira,Grande Lisboa,311,2024-12-02T09:57:00Z,24624841,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2024-12-02T09:57:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.417289,38.967626
