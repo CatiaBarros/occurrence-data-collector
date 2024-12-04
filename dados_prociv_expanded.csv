@@ -1,4 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24552947,"Pias","Baixo Alentejo",312,"2024-11-15T20:38:00",24552947,"Em conclusão","2301","Incêndio em transporte rodoviário",0,0,0,0,"2024-11-15T20:38:00","Serpa","Beja","Alentejo",-7.472605,38.015257
+24632747,"Cascais e Estoril","Grande Lisboa",311,"2024-12-04T02:20:00",24632747,"Em conclusão","2407","Despiste",0,5,0,10,"2024-12-04T02:20:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.419397,38.700982
+24632828,"Almargem do Bispo, Pêro Pinheiro e Montelavar","Grande Lisboa",311,"2024-12-04T03:53:00",24632828,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-04T03:53:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.335912,38.863107
+24632820,"Faro (Sé e São Pedro)","Algarve",313,"2024-12-04T03:47:00",24632820,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-04T03:47:00","Faro","Faro","Algarve",-7.942032,37.01865
 24627884,"Souselas e Botão","Região de Coimbra",310,"2024-12-02T21:32:00",24627884,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,11,0,30,"2024-12-02T21:32:00","Coimbra","Coimbra","Centro",-8.44389,40.28278
-24632747,"Cascais e Estoril","Grande Lisboa",311,"2024-12-04T02:20:00",24632747,"Em conclusão","2407","Despiste",0,6,0,14,"2024-12-04T02:20:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.419397,38.700982
+24632818,"Carcavelos e Parede","Grande Lisboa",311,"2024-12-04T03:52:00",24632818,"Em despacho","2301","Incêndio em transporte rodoviário",0,0,0,0,"2024-12-04T03:52:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.355169,38.690219
+24632825,"São Mamede","Região de Leiria",310,"2024-12-04T03:52:00",24632825,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-04T03:52:00","Batalha","Leiria","Centro",-8.71342,39.609765
