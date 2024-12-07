@@ -1,10 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24646352,"Aveiras de Baixo","Lezíria do Tejo",311,"2024-12-07T07:57:00",24646352,"Em despacho","3309","Desabamento de estruturas edificadas",0,1,0,1,"2024-12-07T07:57:00","Azambuja","Lisboa","Alentejo",-8.869588,39.111989
-24646379,"a Dos Cunhados e Maceira","Oeste",311,"2024-12-07T08:06:00",24646379,"Em resolução","4333","Busca e resgate aquático de animais",0,0,0,0,"2024-12-07T08:06:00","Torres Vedras","Lisboa","Centro",-9.37729,39.14034
-24646463,"Gafanha da Nazaré","Região de Aveiro",310,"2024-12-07T08:36:00",24646463,"Em conclusão","3201","Detritos não confinados",0,2,0,7,"2024-12-07T08:36:00","Ílhavo","Aveiro","Centro",-8.69502,40.62903
-24646554,"Pombal","Região de Leiria",310,"2024-12-07T09:02:00",24646554,"Em curso","2407","Despiste",0,2,0,4,"2024-12-07T09:02:00","Pombal","Leiria","Centro",-8.650113,39.92971
-24646602,"Montijo e Afonsoeiro","Península de Setúbal",311,"2024-12-07T09:10:00",24646602,"Em despacho","3103","Incêndio rural",0,1,0,3,"2024-12-07T09:10:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.945046,38.69971
-24646622,"S.julião, N.s. da Anunciada e S. Maria da Graça","Península de Setúbal",311,"2024-12-07T09:09:00",24646622,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2024-12-07T09:09:00","Setúbal","Setúbal","Área Metropolitana De Lisboa",-8.89348,38.535337
 24646185,"Vandoma","Area M. Porto",309,"2024-12-07T06:24:00",24646185,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-12-07T06:24:00","Paredes","Porto","Norte",-8.395415,41.190365
 24646371,"Vila de Rei","Beira Baixa",310,"2024-12-07T08:00:00",24646371,"Em conclusão","2407","Despiste",0,2,0,5,"2024-12-07T08:00:00","Vila De Rei","Castelo Branco","Centro",-8.13028,39.66417
 24646487,"Monchique","Algarve",313,"2024-12-07T08:28:00",24646487,"Em curso","3301","Queda de árvore",0,1,0,5,"2024-12-07T08:28:00","Monchique","Faro","Algarve",-8.567422,37.320753
@@ -15,8 +9,14 @@
 24646450,"São Bartolomeu Dos Galegos e Moledo","Oeste",311,"2024-12-07T08:28:00",24646450,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-07T08:28:00","Lourinhã","Lisboa","Centro",-9.285605,39.298084
 24646549,"Olhão","Algarve",313,"2024-12-07T08:48:00",24646549,"Em conclusão","3203","Detritos confinados",0,3,0,6,"2024-12-07T08:48:00","Olhão","Faro","Algarve",-7.843133,37.022054
 24646633,"Tavira (Santa Maria e Santiago)","Algarve",313,"2024-12-07T08:55:00",24646633,"Em despacho","3301","Queda de árvore",0,1,0,2,"2024-12-07T08:55:00","Tavira","Faro","Algarve",-7.64691,37.130442
+24646352,"Aveiras de Baixo","Lezíria do Tejo",311,"2024-12-07T07:57:00",24646352,"Em despacho","3309","Desabamento de estruturas edificadas",0,1,0,1,"2024-12-07T07:57:00","Azambuja","Lisboa","Alentejo",-8.869588,39.111989
+24646379,"a Dos Cunhados e Maceira","Oeste",311,"2024-12-07T08:06:00",24646379,"Em resolução","4333","Busca e resgate aquático de animais",0,0,0,0,"2024-12-07T08:06:00","Torres Vedras","Lisboa","Centro",-9.37729,39.14034
+24646554,"Pombal","Região de Leiria",310,"2024-12-07T09:02:00",24646554,"Em curso","2407","Despiste",0,2,0,4,"2024-12-07T09:02:00","Pombal","Leiria","Centro",-8.650113,39.92971
+24646602,"Montijo e Afonsoeiro","Península de Setúbal",311,"2024-12-07T09:10:00",24646602,"Em conclusão","3111","Queima",0,1,0,3,"2024-12-07T09:10:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.945046,38.69971
+24646622,"S.julião, N.s. da Anunciada e S. Maria da Graça","Península de Setúbal",311,"2024-12-07T09:09:00",24646622,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2024-12-07T09:09:00","Setúbal","Setúbal","Área Metropolitana De Lisboa",-8.89348,38.535337
 24646289,"São João da Corveira","Alto Tâmega e Barroso",309,"2024-12-07T07:29:00",24646289,"Em despacho","2407","Despiste",0,2,0,4,"2024-12-07T07:29:00","Valpaços","Vila Real","Norte",-7.474897,41.57277
 24646323,"Atouguia da Baleia","Oeste",311,"2024-12-07T07:40:00",24646323,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2024-12-07T07:40:00","Peniche","Leiria","Centro",-9.327364,39.313552
 24646441,"Parceiros e Azoia","Região de Leiria",310,"2024-12-07T08:27:00",24646441,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2024-12-07T08:27:00","Leiria","Leiria","Centro",-8.831599,39.709381
 24646523,"Grândola e Santa Margarida da Serra","Alentejo Litoral",312,"2024-12-07T08:46:00",24646523,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2024-12-07T08:46:00","Grândola","Setúbal","Alentejo",-8.558751,38.173088
 24646557,"Portimão","Algarve",313,"2024-12-07T08:59:00",24646557,"Em despacho","2407","Despiste",0,3,0,5,"2024-12-07T08:59:00","Portimão","Faro","Algarve",-8.532608,37.137966
+24646693,"Parceiros e Azoia","Região de Leiria",310,"2024-12-07T09:28:00",24646693,"Em curso","2407","Despiste",0,1,0,3,"2024-12-07T09:28:00","Leiria","Leiria","Centro",-8.831599,39.709381
