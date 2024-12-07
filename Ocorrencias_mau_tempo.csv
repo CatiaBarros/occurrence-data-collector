@@ -1,6 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24648311,Aldeia de Santa Margarida,Beira Baixa,310,2024-12-07T16:18:00Z,24648311,Em despacho,3301,Queda de árvore,0,2,0,4,2024-12-07T16:18:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.27547,40.06493
-24648348,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2024-12-07T16:25:00Z,24648348,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2024-12-07T16:25:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.065968,38.6593
-24648305,Quiaios,Região de Coimbra,310,2024-12-07T16:05:00Z,24648305,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-07T16:05:00Z,Figueira Da Foz,Coimbra,Centro,-8.853222,40.215389
 24646352,Aveiras de Baixo,Lezíria do Tejo,311,2024-12-07T07:57:00Z,24646352,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,1,2024-12-07T07:57:00Z,Azambuja,Lisboa,Alentejo,-8.869588,39.111989
-24648374,Évora de Alcobaça,Oeste,311,2024-12-07T16:33:00Z,24648374,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2024-12-07T16:33:00Z,Alcobaça,Leiria,Centro,-8.986632,39.515603
+24648374,Évora de Alcobaça,Oeste,311,2024-12-07T16:33:00Z,24648374,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2024-12-07T16:33:00Z,Alcobaça,Leiria,Centro,-8.986632,39.515603
