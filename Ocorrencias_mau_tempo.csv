@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24649233,Vila Verde Dos Francos,Oeste,311,2024-12-07T21:03:00Z,24649233,Em despacho,3301,Queda de árvore,0,2,0,5,2024-12-07T21:03:00Z,Alenquer,Lisboa,Centro,-9.102371,39.140908
 24646352,Aveiras de Baixo,Lezíria do Tejo,311,2024-12-07T07:57:00Z,24646352,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,1,2024-12-07T07:57:00Z,Azambuja,Lisboa,Alentejo,-8.869588,39.111989
-24649276,Alfragide,Grande Lisboa,311,2024-12-07T21:15:00Z,24649276,Em curso,3301,Queda de árvore,0,1,0,6,2024-12-07T21:15:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
-24649278,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2024-12-07T21:22:00Z,24649278,Em resolução,3301,Queda de árvore,0,2,0,9,2024-12-07T21:22:00Z,Santarém,Santarém,Alentejo,-8.683978,39.23653
+24649276,Alfragide,Grande Lisboa,311,2024-12-07T21:15:00Z,24649276,Em curso,3301,Queda de árvore,0,2,0,8,2024-12-07T21:15:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
+24649278,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2024-12-07T21:22:00Z,24649278,Em conclusão,3301,Queda de árvore,0,2,0,9,2024-12-07T21:22:00Z,Santarém,Santarém,Alentejo,-8.683978,39.23653
