@@ -1,8 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24646112,"Moita","Península de Setúbal",311,"2024-12-07T05:00:00",24646112,"Em conclusão","3203","Detritos confinados",0,0,0,0,"2024-12-07T05:00:00","Moita","Setúbal","Área Metropolitana De Lisboa",-8.985364,38.643702
+24646171,"Arcozelo","Area M. Porto",309,"2024-12-07T06:15:00",24646171,"Em conclusão","2407","Despiste",0,2,0,5,"2024-12-07T06:15:00","Vila Nova De Gaia","Porto","Norte",-8.641563,41.066147
+24646185,"Vandoma","Area M. Porto",309,"2024-12-07T06:24:00",24646185,"Em curso","2403","Colisão rodoviária",0,7,0,20,"2024-12-07T06:24:00","Paredes","Porto","Norte",-8.395415,41.190365
 24645830,"São Mamede de Infesta e Senhora da Hora","Area M. Porto",309,"2024-12-07T00:47:00",24645830,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2024-12-07T00:47:00","Matosinhos","Porto","Norte",-8.597035,41.187935
 24645982,"Alpendorada, Várzea e Torrão","Tâmega e Sousa",309,"2024-12-07T02:56:00",24645982,"Em despacho","2403","Colisão rodoviária",0,3,0,6,"2024-12-07T02:56:00","Marco De Canaveses","Porto","Norte",-8.256254,41.084682
 24646142,"Vermoil","Região de Leiria",310,"2024-12-07T05:31:00",24646142,"Em despacho","2403","Colisão rodoviária",0,3,0,6,"2024-12-07T05:31:00","Pombal","Leiria","Centro",-8.687154,39.873177
 24646173,"São Salvador e Santa Maria","Alentejo Litoral",312,"2024-12-07T05:59:00",24646173,"Em resolução","2407","Despiste",0,2,0,4,"2024-12-07T05:59:00","Odemira","Beja","Alentejo",-8.719328,37.53574
-24646112,"Moita","Península de Setúbal",311,"2024-12-07T05:00:00",24646112,"Em conclusão","3203","Detritos confinados",0,0,0,0,"2024-12-07T05:00:00","Moita","Setúbal","Área Metropolitana De Lisboa",-8.985364,38.643702
-24646171,"Arcozelo","Area M. Porto",309,"2024-12-07T06:15:00",24646171,"Em conclusão","2407","Despiste",0,2,0,5,"2024-12-07T06:15:00","Vila Nova De Gaia","Porto","Norte",-8.641563,41.066147
-24646185,"Vandoma","Area M. Porto",309,"2024-12-07T06:24:00",24646185,"Em curso","2403","Colisão rodoviária",0,7,0,20,"2024-12-07T06:24:00","Paredes","Porto","Norte",-8.395415,41.190365
