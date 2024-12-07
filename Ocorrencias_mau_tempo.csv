@@ -1,4 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24649526,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2024-12-07T23:03:00Z,24649526,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2024-12-07T23:03:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.065968,38.6593
 24649276,Alfragide,Grande Lisboa,311,2024-12-07T21:15:00Z,24649276,Em curso,3301,Queda de árvore,0,2,0,8,2024-12-07T21:15:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
-24649562,Amora,Península de Setúbal,311,2024-12-07T23:26:00Z,24649562,Em despacho,3301,Queda de árvore,0,0,0,0,2024-12-07T23:26:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.14758,38.581152
+24649562,Amora,Península de Setúbal,311,2024-12-07T23:26:00Z,24649562,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-07T23:26:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.14758,38.581152
+24649580,Sé e São Lourenço,Alto Alentejo,312,2024-12-07T23:25:00Z,24649580,Em despacho,3301,Queda de árvore,0,0,0,0,2024-12-07T23:25:00Z,Portalegre,Portalegre,Alentejo,-7.4259829999999996,39.295933
+24649572,Arruda Dos Vinhos,Oeste,311,2024-12-07T23:29:00Z,24649572,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-07T23:29:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.075983,38.983497
+24649601,Carnaxide e Queijas,Grande Lisboa,311,2024-12-07T23:43:00Z,24649601,Em despacho,3301,Queda de árvore,0,0,0,0,2024-12-07T23:43:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.21526,38.72617
