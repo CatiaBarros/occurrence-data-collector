@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24647886,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2024-12-07T14:23:00Z,24647886,Em despacho,3311,Queda de elementos de estruturas edificados,0,3,0,7,2024-12-07T14:23:00Z,Santarém,Santarém,Alentejo,-8.688446,39.238096
-24646980,Salir,Algarve,313,2024-12-07T10:30:00Z,24646980,Em curso,3301,Queda de árvore,0,0,0,0,2024-12-07T10:30:00Z,Loulé,Faro,Algarve,-8.040653,37.240426
 24646352,Aveiras de Baixo,Lezíria do Tejo,311,2024-12-07T07:57:00Z,24646352,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,1,2024-12-07T07:57:00Z,Azambuja,Lisboa,Alentejo,-8.869588,39.111989
 24647447,Canidelo,Area M. Porto,309,2024-12-07T12:26:00Z,24647447,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2024-12-07T12:26:00Z,Vila Nova De Gaia,Porto,Norte,-8.646111,41.13
+24646980,Salir,Algarve,313,2024-12-07T10:30:00Z,24646980,Em curso,3301,Queda de árvore,0,0,0,0,2024-12-07T10:30:00Z,Loulé,Faro,Algarve,-8.040653,37.240426
