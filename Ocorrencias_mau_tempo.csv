@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24646352,Aveiras de Baixo,Lezíria do Tejo,311,2024-12-07T07:57:00Z,24646352,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,1,2024-12-07T07:57:00Z,Azambuja,Lisboa,Alentejo,-8.869588,39.111989
 24648962,Ruivães e Campos,Ave,309,2024-12-07T19:27:00Z,24648962,Em despacho,3301,Queda de árvore,0,0,0,0,2024-12-07T19:27:00Z,Vieira Do Minho,Braga,Norte,-7.990751,41.68057
+24649073,Tornada e Salir do Porto,Oeste,311,2024-12-07T19:54:00Z,24649073,Em despacho,3301,Queda de árvore,0,1,0,4,2024-12-07T19:54:00Z,Caldas Da Rainha,Leiria,Centro,-9.166592,39.497028
