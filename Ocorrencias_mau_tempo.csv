@@ -1,4 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24648597,Sines,Alentejo Litoral,312,2024-12-07T17:27:00Z,24648597,Em curso,3317,Inundação de estruturas por água canalizada,0,2,0,5,2024-12-07T17:27:00Z,Sines,Setúbal,Alentejo,-8.854536,37.963534
 24646352,Aveiras de Baixo,Lezíria do Tejo,311,2024-12-07T07:57:00Z,24646352,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,1,2024-12-07T07:57:00Z,Azambuja,Lisboa,Alentejo,-8.869588,39.111989
-24648374,Évora de Alcobaça,Oeste,311,2024-12-07T16:33:00Z,24648374,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2024-12-07T16:33:00Z,Alcobaça,Leiria,Centro,-8.986632,39.515603
+24648597,Sines,Alentejo Litoral,312,2024-12-07T17:27:00Z,24648597,Em conclusão,3317,Inundação de estruturas por água canalizada,0,2,0,5,2024-12-07T17:27:00Z,Sines,Setúbal,Alentejo,-8.865623,37.956333
+24648630,Porto Salvo,Grande Lisboa,311,2024-12-07T17:42:00Z,24648630,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2024-12-07T17:42:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.305901,38.719291
+24648646,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2024-12-07T17:45:00Z,24648646,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-07T17:45:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.22967,38.696612
+24648673,Cascais e Estoril,Grande Lisboa,311,2024-12-07T17:44:00Z,24648673,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-07T17:44:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.380449,38.708611
