@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24649799,Póvoa de Santo Adrião e Olival Basto,Grande Lisboa,311,2024-12-08T01:40:00Z,24649799,Em curso,3301,Queda de árvore,0,1,0,5,2024-12-08T01:40:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.159939,38.803537
+24649868,Carcavelos e Parede,Grande Lisboa,311,2024-12-08T02:33:00Z,24649868,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2024-12-08T02:33:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.337574,38.688343
 24649629,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2024-12-07T23:57:00Z,24649629,Em curso,3301,Queda de árvore,0,6,0,16,2024-12-07T23:57:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.31733,38.693742
-24649820,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2024-12-08T01:57:00Z,24649820,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2024-12-08T01:57:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.244903,38.715384
-24649562,Amora,Península de Setúbal,311,2024-12-07T23:26:00Z,24649562,Em curso,3301,Queda de árvore,0,0,0,0,2024-12-07T23:26:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.14758,38.581152
