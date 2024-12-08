@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24652302,Atouguia da Baleia,Oeste,311,2024-12-08T16:57:00Z,24652302,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,6,2024-12-08T16:57:00Z,Peniche,Leiria,Centro,-9.327364,39.313552
 24650377,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2024-12-08T08:35:00Z,24650377,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2024-12-08T08:35:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.061632,38.64534
 24651181,Monchique,Algarve,313,2024-12-08T11:34:00Z,24651181,Em resolução,3301,Queda de árvore,0,2,0,3,2024-12-08T11:34:00Z,Monchique,Faro,Algarve,-8.570482,37.264878
 24652347,Barreiro e Lavradio,Península de Setúbal,311,2024-12-08T17:02:00Z,24652347,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2024-12-08T17:02:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.062184,38.667355
-24652302,Atouguia da Baleia,Oeste,311,2024-12-08T16:57:00Z,24652302,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,6,2024-12-08T16:57:00Z,Peniche,Leiria,Centro,-9.327364,39.313552
