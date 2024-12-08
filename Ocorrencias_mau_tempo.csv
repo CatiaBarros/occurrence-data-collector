@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24650705,Atouguia da Baleia,Oeste,311,2024-12-08T09:46:00Z,24650705,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2024-12-08T09:46:00Z,Peniche,Leiria,Centro,-9.355719,39.34388
+24650705,Atouguia da Baleia,Oeste,311,2024-12-08T09:46:00Z,24650705,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,8,2024-12-08T09:46:00Z,Peniche,Leiria,Centro,-9.354332,39.336489
+24650467,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2024-12-08T08:59:00Z,24650467,Em curso,3301,Queda de árvore,0,2,0,5,2024-12-08T08:59:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.268587,38.831355
+24650719,Peniche,Oeste,311,2024-12-08T09:46:00Z,24650719,Em resolução,3311,Queda de elementos de estruturas edificados,0,1,0,5,2024-12-08T09:46:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 24650722,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2024-12-08T10:06:00Z,24650722,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2024-12-08T10:06:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.14837,38.6871
 24650377,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2024-12-08T08:35:00Z,24650377,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2024-12-08T08:35:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.061632,38.64534
-24650467,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2024-12-08T08:59:00Z,24650467,Em curso,3301,Queda de árvore,0,2,0,5,2024-12-08T08:59:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.268587,38.831355
-24650719,Peniche,Oeste,311,2024-12-08T09:46:00Z,24650719,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2024-12-08T09:46:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
