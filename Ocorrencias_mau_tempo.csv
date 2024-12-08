@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24650377,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2024-12-08T08:35:00Z,24650377,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2024-12-08T08:35:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.061632,38.64534
-24650953,Sesimbra (Castelo),Península de Setúbal,311,2024-12-08T10:55:00Z,24650953,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2024-12-08T10:55:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.124957,38.490885
+24650899,Barcarena,Grande Lisboa,311,2024-12-08T10:42:00Z,24650899,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2024-12-08T10:42:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.283039,38.727626
+24651076,Cascais e Estoril,Grande Lisboa,311,2024-12-08T11:25:00Z,24651076,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2024-12-08T11:25:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.380449,38.708611
 24651038,Carnaxide e Queijas,Grande Lisboa,311,2024-12-08T11:06:00Z,24651038,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,5,2024-12-08T11:06:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.233587,38.727201
-24650899,Barcarena,Grande Lisboa,311,2024-12-08T10:42:00Z,24650899,Em curso,3329,Queda de estruturas temporárias ou móveis,0,2,0,6,2024-12-08T10:42:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.283039,38.727626
-24650964,Soutelo,Cávado,309,2024-12-08T11:03:00Z,24650964,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-08T11:03:00Z,Vila Verde,Braga,Norte,-8.42863,41.62228
+24650377,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2024-12-08T08:35:00Z,24650377,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2024-12-08T08:35:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.061632,38.64534
+24650964,Soutelo,Cávado,309,2024-12-08T11:03:00Z,24650964,Em curso,3301,Queda de árvore,0,2,0,4,2024-12-08T11:03:00Z,Vila Verde,Braga,Norte,-8.42863,41.62228
