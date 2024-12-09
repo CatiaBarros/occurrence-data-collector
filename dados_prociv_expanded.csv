@@ -1,3 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24654000,"Alcobaça e Vestiaria","Oeste",311,"2024-12-09T07:44:00",24654000,"Em curso","2401","Atropelamento rodoviário",0,2,0,4,"2024-12-09T07:44:00","Alcobaça","Leiria","Centro",-8.970766,39.549944
-24654009,"Pedrógão","Médio Tejo",311,"2024-12-09T07:51:00",24654009,"Em despacho","2407","Despiste",0,3,0,9,"2024-12-09T07:51:00","Torres Novas","Santarém","Centro",-8.586673,39.524161
+24654090,"Marco","Tâmega e Sousa",309,"2024-12-09T08:11:00",24654090,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2024-12-09T08:11:00","Marco De Canaveses","Porto","Norte",-8.144722,41.19
+24654000,"Alcobaça e Vestiaria","Oeste",311,"2024-12-09T07:44:00",24654000,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2024-12-09T07:44:00","Alcobaça","Leiria","Centro",-8.970766,39.549944
+24654009,"Pedrógão","Médio Tejo",311,"2024-12-09T07:51:00",24654009,"Em resolução","2407","Despiste",0,3,0,9,"2024-12-09T07:51:00","Torres Novas","Santarém","Centro",-8.586673,39.524161
