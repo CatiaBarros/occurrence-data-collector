@@ -1,8 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24662935,"Lousa","Grande Lisboa",311,"2024-12-11T06:29:00",24662935,"Em despacho","2407","Despiste",0,4,0,11,"2024-12-11T06:29:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.219625,38.867851
-24662955,"Almancil","Algarve",313,"2024-12-11T07:01:00",24662955,"Em despacho","3103","Incêndio rural",0,0,0,0,"2024-12-11T07:01:00","Loulé","Faro","Algarve",-8.043882,37.09787
 24662824,"Fontes","Douro",309,"2024-12-11T04:43:00",24662824,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,1,0,2,"2024-12-11T04:43:00","Santa Marta De Penaguião","Vila Real","Norte",-7.825187,41.22598
 24662892,"Santo André","Alentejo Litoral",312,"2024-12-11T05:51:00",24662892,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2024-12-11T05:51:00","Santiago Do Cacém","Setúbal","Alentejo",-8.751748,38.054211
+24662972,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória","Area M. Porto",309,"2024-12-11T07:06:00",24662972,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,5,"2024-12-11T07:06:00","Porto","Porto","Norte",-8.62801,41.15724
 24662848,"Santa Maria Maior e Monserrate e Meadela","Alto Minho",309,"2024-12-11T05:06:00",24662848,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,14,"2024-12-11T05:06:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.824245,41.694657
+24662935,"Lousa","Grande Lisboa",311,"2024-12-11T06:29:00",24662935,"Em despacho","2407","Despiste",0,4,0,11,"2024-12-11T06:29:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.219625,38.867851
+24662955,"Almancil","Algarve",313,"2024-12-11T07:01:00",24662955,"Em despacho","3103","Incêndio rural",0,2,0,7,"2024-12-11T07:01:00","Loulé","Faro","Algarve",-8.043882,37.09787
+24662970,"Covas e Vila Nova de Oliveirinha","Região de Coimbra",310,"2024-12-11T07:00:00",24662970,"Em resolução","2301","Incêndio em transporte rodoviário",0,1,0,8,"2024-12-11T07:00:00","Tábua","Coimbra","Centro",-7.927138,40.348037
 24662944,"Guarda","Beiras e Serra da Estrela",310,"2024-12-11T06:48:00",24662944,"Em despacho","3201","Detritos não confinados",0,1,0,2,"2024-12-11T06:48:00","Guarda","Guarda","Centro",-7.26555,40.52469
-24662961,"Arganil","Região de Coimbra",310,"2024-12-11T06:48:00",24662961,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2024-12-11T06:48:00","Arganil","Coimbra","Centro",-8.049704,40.220309
+24662961,"Arganil","Região de Coimbra",310,"2024-12-11T06:48:00",24662961,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2024-12-11T06:48:00","Arganil","Coimbra","Centro",-8.049704,40.220309
