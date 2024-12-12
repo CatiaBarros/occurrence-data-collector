@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24669958,Laranjeiro e Feijó,Península de Setúbal,311,2024-12-12T14:50:00Z,24669958,Em curso,3311,Queda de elementos de estruturas edificados,0,3,0,10,2024-12-12T14:50:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.15422,38.65797
-24670244,Alfena,Area M. Porto,309,2024-12-12T15:40:00Z,24670244,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2024-12-12T15:40:00Z,Valongo,Porto,Norte,-8.536258,41.228187
+24670244,Alfena,Area M. Porto,309,2024-12-12T15:40:00Z,24670244,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2024-12-12T15:40:00Z,Valongo,Porto,Norte,-8.535838,41.226747
+24670274,Larinho,Douro,309,2024-12-12T15:49:00Z,24670274,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-12T15:49:00Z,Torre De Moncorvo,Bragança,Norte,-7.002006,41.187337
