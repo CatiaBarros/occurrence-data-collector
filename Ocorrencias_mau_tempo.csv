@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24675030,Conceição e Cabanas de Tavira,Algarve,313,2024-12-13T16:19:00Z,24675030,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2024-12-13T16:19:00Z,Tavira,Faro,Algarve,-7.60326,37.14326
 24674678,Armação de Pêra,Algarve,313,2024-12-13T15:00:00Z,24674678,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2024-12-13T15:00:00Z,Silves,Faro,Algarve,-8.355807,37.10329
 24674743,Alcantarilha e Pêra,Algarve,313,2024-12-13T15:13:00Z,24674743,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2024-12-13T15:13:00Z,Silves,Faro,Algarve,-8.338979,37.120441
-24674993,Conceição e Cabanas de Tavira,Algarve,313,2024-12-13T16:10:00Z,24674993,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,7,2024-12-13T16:10:00Z,Tavira,Faro,Algarve,-7.60194,37.14015
+24674993,Conceição e Cabanas de Tavira,Algarve,313,2024-12-13T16:10:00Z,24674993,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2024-12-13T16:10:00Z,Tavira,Faro,Algarve,-7.60194,37.14015
+24675095,Ferrel,Oeste,311,2024-12-13T16:30:00Z,24675095,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2024-12-13T16:30:00Z,Peniche,Leiria,Centro,-9.312058,39.368649
 24674579,Marmelete,Algarve,313,2024-12-13T14:20:00Z,24674579,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-13T14:20:00Z,Monchique,Faro,Algarve,-8.685204,37.228356
+24675030,Conceição e Cabanas de Tavira,Algarve,313,2024-12-13T16:19:00Z,24675030,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2024-12-13T16:19:00Z,Tavira,Faro,Algarve,-7.60326,37.14326
