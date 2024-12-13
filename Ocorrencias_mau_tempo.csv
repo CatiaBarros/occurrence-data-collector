@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24674579,Marmelete,Algarve,313,2024-12-13T14:20:00Z,24674579,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-13T14:20:00Z,Monchique,Faro,Algarve,-8.685204,37.228356
-24674672,Armação de Pêra,Algarve,313,2024-12-13T14:50:00Z,24674672,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2024-12-13T14:50:00Z,Silves,Faro,Algarve,-8.355807,37.10329
-24674678,Armação de Pêra,Algarve,313,2024-12-13T15:00:00Z,24674678,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2024-12-13T15:00:00Z,Silves,Faro,Algarve,-8.355807,37.10329
 24674900,Conceição e Cabanas de Tavira,Algarve,313,2024-12-13T15:46:00Z,24674900,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2024-12-13T15:46:00Z,Tavira,Faro,Algarve,-7.59951,37.13546
+24674678,Armação de Pêra,Algarve,313,2024-12-13T15:00:00Z,24674678,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2024-12-13T15:00:00Z,Silves,Faro,Algarve,-8.355807,37.10329
+24674579,Marmelete,Algarve,313,2024-12-13T14:20:00Z,24674579,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-13T14:20:00Z,Monchique,Faro,Algarve,-8.685204,37.228356
