@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24675332,Conceição e Cabanas de Tavira,Algarve,313,2024-12-13T17:15:00Z,24675332,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2024-12-13T17:15:00Z,Tavira,Faro,Algarve,-7.608618,37.134785
 24675567,Conceição e Cabanas de Tavira,Algarve,313,2024-12-13T17:55:00Z,24675567,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2024-12-13T17:55:00Z,Tavira,Faro,Algarve,-7.608618,37.134785
+24676019,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2024-12-13T20:08:00Z,24676019,Em despacho,3309,Desabamento de estruturas edificadas,0,3,0,9,2024-12-13T20:08:00Z,Cartaxo,Santarém,Alentejo,-8.794948,39.166481
