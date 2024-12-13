@@ -1,10 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24672041,"Vila do Conde","Area M. Porto",309,"2024-12-13T00:56:00",24672041,"Em conclusão","3203","Detritos confinados",0,1,0,3,"2024-12-13T00:56:00","Vila Do Conde","Porto","Norte",-8.761485,41.371685
-24672050,"Rio de Mouro","Grande Lisboa",311,"2024-12-13T01:01:00",24672050,"Em conclusão","3203","Detritos confinados",0,2,0,8,"2024-12-13T01:01:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.321906,38.783084
-24672091,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2024-12-13T01:43:00",24672091,"Em despacho","2513","Fuga de gás em conduta",0,0,0,0,"2024-12-13T01:43:00","Bragança","Bragança","Norte",-6.77473,41.79603
-24671935,"Venda do Pinheiro e Santo Estêvão Das Galés","Grande Lisboa",311,"2024-12-12T23:38:00",24671935,"Em conclusão","2407","Despiste",0,2,0,4,"2024-12-12T23:38:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.228575,38.925416
-24672020,"Trigaches e São Brissos","Baixo Alentejo",312,"2024-12-13T00:35:00",24672020,"Em conclusão","2407","Despiste",0,4,0,9,"2024-12-13T00:35:00","Beja","Beja","Alentejo",-7.944692,38.071688
+24672091,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2024-12-13T01:43:00",24672091,"Em curso","2513","Fuga de gás em conduta",0,2,0,4,"2024-12-13T01:43:00","Bragança","Bragança","Norte",-6.77473,41.79603
 24672070,"São Pedro do Sul, Várzea e Baiões","Viseu Dão Lafões",310,"2024-12-13T01:21:00",24672070,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,7,"2024-12-13T01:21:00","São Pedro Do Sul","Viseu","Centro",-8.07244,40.75175
-24671374,"Viseu","Viseu Dão Lafões",310,"2024-12-12T20:08:00",24671374,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,10,0,27,"2024-12-12T20:08:00","Viseu","Viseu","Centro",-7.915,40.67154
+24671374,"Viseu","Viseu Dão Lafões",310,"2024-12-12T20:08:00",24671374,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,8,0,21,"2024-12-12T20:08:00","Viseu","Viseu","Centro",-7.915,40.67154
 24671861,"Troviscal","Beira Baixa",310,"2024-12-12T22:57:00",24671861,"Em conclusão","2407","Despiste",0,3,0,5,"2024-12-12T22:57:00","Sertã","Castelo Branco","Centro",-7.987733,39.868982
-24671962,"Alcântara","Grande Lisboa",311,"2024-12-12T23:40:00",24671962,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2024-12-12T23:40:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.179511,38.722561
