@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24676856,"Nossa Senhora da Piedade","Médio Tejo",311,"2024-12-14T01:55:00",24676856,"Em conclusão","2407","Despiste",0,0,0,0,"2024-12-14T01:55:00","Ourém","Santarém","Centro",-8.58199,39.660723
 24677110,"Pedroso e Seixezelo","Area M. Porto",309,"2024-12-14T05:24:00",24677110,"Em resolução","2407","Despiste",0,2,0,8,"2024-12-14T05:24:00","Vila Nova De Gaia","Porto","Norte",-8.574932,41.058105
-24677193,"Castanheira de Pêra e Coentral","Região de Leiria",310,"2024-12-14T06:53:00",24677193,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-14T06:53:00","Castanheira De Pêra","Leiria","Centro",-8.209236,40.005971
-24677152,"Campanhã","Area M. Porto",309,"2024-12-14T06:10:00",24677152,"Em curso","2407","Despiste",0,3,0,6,"2024-12-14T06:10:00","Porto","Porto","Norte",-8.571543,41.154223
+24677193,"Castanheira de Pêra e Coentral","Região de Leiria",310,"2024-12-14T06:53:00",24677193,"Em curso","2407","Despiste",0,1,0,2,"2024-12-14T06:53:00","Castanheira De Pêra","Leiria","Centro",-8.209236,40.005971
+24677152,"Campanhã","Area M. Porto",309,"2024-12-14T06:10:00",24677152,"Em resolução","2407","Despiste",0,4,0,7,"2024-12-14T06:10:00","Porto","Porto","Norte",-8.577835,41.150135
