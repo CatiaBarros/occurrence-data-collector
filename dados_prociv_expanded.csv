@@ -1,6 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24676997,"Mealhada, Ventosa do Bairro e Antes","Região de Coimbra",310,"2024-12-14T03:48:00",24676997,"Em despacho","2407","Despiste",0,1,0,4,"2024-12-14T03:48:00","Mealhada","Aveiro","Centro",-8.458111,40.375676
 24676589,"Setúbal (São Sebastião)","Península de Setúbal",311,"2024-12-13T23:15:00",24676589,"Em despacho","3323","Dano na rede de abastecimento de água",0,1,0,5,"2024-12-13T23:15:00","Setúbal","Setúbal","Área Metropolitana De Lisboa",-8.882327,38.52441
 24676856,"Nossa Senhora da Piedade","Médio Tejo",311,"2024-12-14T01:55:00",24676856,"Em conclusão","2407","Despiste",0,6,0,15,"2024-12-14T01:55:00","Ourém","Santarém","Centro",-8.58199,39.660723
+24676967,"Válega","Região de Aveiro",310,"2024-12-14T03:22:00",24676967,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-14T03:22:00","Ovar","Aveiro","Centro",-8.55545,40.83606
 24676885,"Vila Chã, Codal e Vila Cova de Perrinho","Area M. Porto",309,"2024-12-14T02:03:00",24676885,"Em resolução","2407","Despiste",0,2,0,4,"2024-12-14T02:03:00","Vale De Cambra","Aveiro","Norte",-8.399593,40.868575
 24676912,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2024-12-14T02:42:00",24676912,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,9,"2024-12-14T02:42:00","Leiria","Leiria","Centro",-8.79206,39.73675
-24676914,"Soutelo","Cávado",309,"2024-12-14T02:42:00",24676914,"Em conclusão","2407","Despiste",0,5,0,13,"2024-12-14T02:42:00","Vila Verde","Braga","Norte",-8.433288,41.619172
+24676914,"Soutelo","Cávado",309,"2024-12-14T02:42:00",24676914,"Em conclusão","2407","Despiste",0,3,0,6,"2024-12-14T02:42:00","Vila Verde","Braga","Norte",-8.433288,41.619172
+24676987,"Reguenga","Area M. Porto",309,"2024-12-14T03:45:00",24676987,"Em despacho","3203","Detritos confinados",0,0,0,0,"2024-12-14T03:45:00","Santo Tirso","Porto","Norte",-8.4499,41.27712
+24676989,"Caldelas, Sequeiros e Paranhos","Cávado",309,"2024-12-14T03:39:00",24676989,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-14T03:39:00","Amares","Braga","Norte",-8.358872,41.673712
