@@ -1,7 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24681869,"Nogueira do Cravo","Região de Coimbra",310,"2024-12-15T09:18:00",24681869,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,2,0,4,"2024-12-15T09:18:00","Oliveira Do Hospital","Coimbra","Centro",-7.864813,40.333501
+24681739,"Gouviães e Ucanha","Douro",309,"2024-12-15T08:48:00",24681739,"Em despacho","2407","Despiste",0,3,0,6,"2024-12-15T08:48:00","Tarouca","Viseu","Norte",-7.734578,41.039035
 24681525,"Cernache","Região de Coimbra",310,"2024-12-15T07:10:00",24681525,"Em resolução","2403","Colisão rodoviária",0,7,0,19,"2024-12-15T07:10:00","Coimbra","Coimbra","Centro",-8.468141,40.13835
 24681784,"Oliveira do Bairro","Região de Aveiro",310,"2024-12-15T08:54:00",24681784,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2024-12-15T08:54:00","Oliveira Do Bairro","Aveiro","Centro",-8.49301,40.516056
-24681630,"Abrigada e Cabanas de Torres","Oeste",311,"2024-12-15T08:05:00",24681630,"Em curso","2407","Despiste",0,6,0,15,"2024-12-15T08:05:00","Alenquer","Lisboa","Centro",-9.01781,39.1438
+24681630,"Abrigada e Cabanas de Torres","Oeste",311,"2024-12-15T08:05:00",24681630,"Em conclusão","2407","Despiste",0,6,0,15,"2024-12-15T08:05:00","Alenquer","Lisboa","Centro",-9.01781,39.1438
 24681762,"Vila Nova da Telha","Area M. Porto",309,"2024-12-15T08:42:00",24681762,"Em despacho","2401","Atropelamento rodoviário",0,2,0,4,"2024-12-15T08:42:00","Maia","Porto","Norte",-8.67638,41.248935
-24681739,"Gouviães e Ucanha","Douro",309,"2024-12-15T08:48:00",24681739,"Em despacho","2407","Despiste",0,3,0,6,"2024-12-15T08:48:00","Tarouca","Viseu","Norte",-7.734578,41.039035
-24681771,"Faro (Sé e São Pedro)","Algarve",313,"2024-12-15T08:58:00",24681771,"Em conclusão","3317","Inundação de estruturas por água canalizada",0,1,0,6,"2024-12-15T08:58:00","Faro","Faro","Algarve",-7.93057,37.01512
