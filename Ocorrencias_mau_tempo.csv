@@ -1,2 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24685543,Aljubarrota,Oeste,311,2024-12-16T07:30:00Z,24685543,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2024-12-16T07:30:00Z,Alcobaça,Leiria,Centro,-8.889481,39.564013
+24685543,Aljubarrota,Oeste,311,2024-12-16T07:30:00Z,24685543,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2024-12-16T07:30:00Z,Alcobaça,Leiria,Centro,-8.889481,39.564013
+24685626,Aljubarrota,Oeste,311,2024-12-16T07:59:00Z,24685626,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,2,2024-12-16T07:59:00Z,Alcobaça,Leiria,Centro,-8.912197,39.514326
+24685653,Ansião,Região de Leiria,310,2024-12-16T08:07:00Z,24685653,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-16T08:07:00Z,Ansião,Leiria,Centro,-8.424351,39.918268
