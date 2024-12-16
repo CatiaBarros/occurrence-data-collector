@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24688199,Miranda do Corvo,Região de Coimbra,310,2024-12-16T15:35:00Z,24688199,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-16T15:35:00Z,Miranda Do Corvo,Coimbra,Centro,-8.339499,40.09407
-24688297,Zibreira,Médio Tejo,311,2024-12-16T15:54:00Z,24688297,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-16T15:54:00Z,Torres Novas,Santarém,Centro,-8.630575,39.48345
+24688372,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2024-12-16T16:13:00Z,24688372,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2024-12-16T16:13:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.51689,40.95488
