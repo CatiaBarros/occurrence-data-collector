@@ -1,4 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24684845,"Vilar de Maçada","Douro",309,"2024-12-15T22:37:00",24684845,"Em curso","4331","Busca e resgate terrestre de animais",0,0,0,0,"2024-12-15T22:37:00","Alijó","Vila Real","Norte",-7.517898,41.336208
+24685351,"Valpaços e Sanfins","Alto Tâmega e Barroso",309,"2024-12-16T05:24:00",24685351,"Em curso","2301","Incêndio em transporte rodoviário",0,2,0,7,"2024-12-16T05:24:00","Valpaços","Vila Real","Norte",-7.305282,41.604
 24685341,"Santo António","Grande Lisboa",311,"2024-12-16T00:32:00",24685341,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2024-12-16T00:32:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.148436,38.723434
-24685351,"Valpaços e Sanfins","Alto Tâmega e Barroso",309,"2024-12-16T05:24:00",24685351,"Em despacho","2301","Incêndio em transporte rodoviário",0,2,0,7,"2024-12-16T05:24:00","Valpaços","Vila Real","Norte",-7.323311,41.61412
+24684845,"Vilar de Maçada","Douro",309,"2024-12-15T22:37:00",24684845,"Em curso","4331","Busca e resgate terrestre de animais",0,0,0,0,"2024-12-15T22:37:00","Alijó","Vila Real","Norte",-7.517898,41.336208
