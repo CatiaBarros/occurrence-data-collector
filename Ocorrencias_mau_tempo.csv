@@ -1,5 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24686120,"Querença, Tôr e Benafim",Algarve,313,2024-12-16T09:33:00Z,24686120,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-16T09:33:00Z,Loulé,Faro,Algarve,-7.975367,37.201613
 24686345,Algueirão-Mem Martins,Grande Lisboa,311,2024-12-16T08:45:00Z,24686345,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2024-12-16T08:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.345795,38.786998
-24686404,Aljezur,Algarve,313,2024-12-16T10:29:00Z,24686404,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-16T10:29:00Z,Aljezur,Faro,Algarve,-8.836807,37.294226
-24686285,Bombarral e Vale Covo,Oeste,311,2024-12-16T10:14:00Z,24686285,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2024-12-16T10:14:00Z,Bombarral,Leiria,Centro,-9.17882,39.24981
