@@ -1,4 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24690700,Pombal,Região de Leiria,310,2024-12-17T08:40:00Z,24690700,Em conclusão,3301,Queda de árvore,0,1,0,2,2024-12-17T08:40:00Z,Pombal,Leiria,Centro,-8.660561,39.911127
 24690580,Aljezur,Algarve,313,2024-12-17T08:15:00Z,24690580,Em despacho,3301,Queda de árvore,0,2,0,6,2024-12-17T08:15:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
-24690629,Espinho,Area M. Porto,309,2024-12-17T08:28:00Z,24690629,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2024-12-17T08:28:00Z,Espinho,Aveiro,Norte,-8.64903,41.00893
