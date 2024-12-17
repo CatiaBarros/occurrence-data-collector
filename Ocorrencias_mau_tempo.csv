@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24692621,São João da Madeira,Area M. Porto,309,2024-12-17T14:50:00Z,24692621,Em despacho,3309,Desabamento de estruturas edificadas,0,0,0,0,2024-12-17T14:50:00Z,São João Da Madeira,Aveiro,Norte,-8.49384,40.88892
 24692454,Algueirão-Mem Martins,Grande Lisboa,311,2024-12-17T14:22:00Z,24692454,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2024-12-17T14:22:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.32977,38.79662
 24692125,Alvorninha,Oeste,311,2024-12-17T13:18:00Z,24692125,Em conclusão,3301,Queda de árvore,0,2,0,7,2024-12-17T13:18:00Z,Caldas Da Rainha,Leiria,Centro,-9.043298,39.402589
