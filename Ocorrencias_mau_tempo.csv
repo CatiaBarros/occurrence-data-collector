@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24690162,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2024-12-17T02:55:00Z,24690162,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2024-12-17T02:55:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.32505,38.69434
-24690108,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2024-12-17T01:55:00Z,24690108,Em conclusão,3301,Queda de árvore,0,1,0,3,2024-12-17T01:55:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
+24690162,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2024-12-17T02:55:00Z,24690162,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2024-12-17T02:55:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.32505,38.69434
