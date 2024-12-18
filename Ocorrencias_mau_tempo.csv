@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24690445,Alcoentre,Lezíria do Tejo,311,2024-12-17T07:38:00Z,24690445,Em resolução,3311,Queda de elementos de estruturas edificados,0,1,0,1,2024-12-17T07:38:00Z,Azambuja,Lisboa,Alentejo,-8.968984,39.206794
-24697464,Castelo do Neiva,Alto Minho,309,2024-12-18T15:07:00Z,24697464,Em curso,3301,Queda de árvore,0,0,0,0,2024-12-18T15:07:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.78485,41.621452
-24697763,Calheiros,Alto Minho,309,2024-12-18T16:13:00Z,24697763,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-18T16:13:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.567451,41.812743
-24697914,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2024-12-18T16:35:00Z,24697914,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2024-12-18T16:35:00Z,Porto,Porto,Norte,-8.672794,41.152891
+24698074,Calheiros,Alto Minho,309,2024-12-18T17:01:00Z,24698074,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-18T17:01:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.567451,41.812743
 24697487,Campanhã,Area M. Porto,309,2024-12-18T14:47:00Z,24697487,Em curso,3317,Inundação de estruturas por água canalizada,0,0,0,0,2024-12-18T14:47:00Z,Porto,Porto,Norte,-8.571543,41.154223
-24697720,Carnaxide e Queijas,Grande Lisboa,311,2024-12-18T15:51:00Z,24697720,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2024-12-18T15:51:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.259903,38.718843
+24690445,Alcoentre,Lezíria do Tejo,311,2024-12-17T07:38:00Z,24690445,Em resolução,3311,Queda de elementos de estruturas edificados,0,1,0,1,2024-12-17T07:38:00Z,Azambuja,Lisboa,Alentejo,-8.968984,39.206794
+24697914,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2024-12-18T16:35:00Z,24697914,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2024-12-18T16:35:00Z,Porto,Porto,Norte,-8.672794,41.152891
