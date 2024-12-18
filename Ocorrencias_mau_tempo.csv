@@ -1,3 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24698945,São Martinho de Mouros,Tâmega e Sousa,309,2024-12-18T20:40:00Z,24698945,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-18T20:40:00Z,Resende,Viseu,Norte,-7.900253,41.096545
+24699305,Fiães,Area M. Porto,309,2024-12-18T23:07:00Z,24699305,Em despacho,3301,Queda de árvore,0,1,0,3,2024-12-18T23:07:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.522206,40.985785
 24699204,"Braga (Maximinos, Sé e Cividade)",Cávado,309,2024-12-18T22:22:00Z,24699204,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2024-12-18T22:22:00Z,Braga,Braga,Norte,-8.435962,41.546004
+24699304,Antas e Abade de Vermoim,Ave,309,2024-12-18T23:12:00Z,24699304,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2024-12-18T23:12:00Z,Vila Nova De Famalicão,Braga,Norte,-8.505134,41.399124
+24698945,São Martinho de Mouros,Tâmega e Sousa,309,2024-12-18T20:40:00Z,24698945,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-18T20:40:00Z,Resende,Viseu,Norte,-7.900253,41.096545
+24699277,Lomar e Arcos,Cávado,309,2024-12-18T23:06:00Z,24699277,Em despacho,3313,Deslizamento de terras,0,1,0,3,2024-12-18T23:06:00Z,Braga,Braga,Norte,-8.426325,41.532399
+24699326,Joane,Ave,309,2024-12-18T23:27:00Z,24699326,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2024-12-18T23:27:00Z,Vila Nova De Famalicão,Braga,Norte,-8.42359,41.44215
