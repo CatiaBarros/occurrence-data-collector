@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24699034,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2024-12-18T21:29:00Z,24699034,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-18T21:29:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.716246,41.77067
-24699139,Leomil,Douro,309,2024-12-18T22:01:00Z,24699139,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-18T22:01:00Z,Moimenta Da Beira,Viseu,Norte,-7.653003,40.977778
+24699034,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2024-12-18T21:29:00Z,24699034,Em conclusão,3301,Queda de árvore,0,1,0,2,2024-12-18T21:29:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.716895,41.77072
 24698945,São Martinho de Mouros,Tâmega e Sousa,309,2024-12-18T20:40:00Z,24698945,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-18T20:40:00Z,Resende,Viseu,Norte,-7.900253,41.096545
+24699139,Leomil,Douro,309,2024-12-18T22:01:00Z,24699139,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-18T22:01:00Z,Moimenta Da Beira,Viseu,Norte,-7.653003,40.977778
