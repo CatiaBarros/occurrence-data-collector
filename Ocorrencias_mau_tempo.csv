@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24697487,Campanhã,Area M. Porto,309,2024-12-18T14:47:00Z,24697487,Em curso,3317,Inundação de estruturas por água canalizada,0,0,0,0,2024-12-18T14:47:00Z,Porto,Porto,Norte,-8.571543,41.154223
+24698311,Requião,Ave,309,2024-12-18T18:12:00Z,24698311,Em despacho,3301,Queda de árvore,0,1,0,2,2024-12-18T18:12:00Z,Vila Nova De Famalicão,Braga,Norte,-8.47073,41.4151
 24690445,Alcoentre,Lezíria do Tejo,311,2024-12-17T07:38:00Z,24690445,Em resolução,3311,Queda de elementos de estruturas edificados,0,1,0,1,2024-12-17T07:38:00Z,Azambuja,Lisboa,Alentejo,-8.968984,39.206794
 24698285,Calvos e Frades,Ave,309,2024-12-18T17:58:00Z,24698285,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2024-12-18T17:58:00Z,Póvoa De Lanhoso,Braga,Norte,-8.263695,41.593606
-24698311,Requião,Ave,309,2024-12-18T18:12:00Z,24698311,Em despacho,3301,Queda de árvore,0,0,0,0,2024-12-18T18:12:00Z,Vila Nova De Famalicão,Braga,Norte,-8.47073,41.4151
