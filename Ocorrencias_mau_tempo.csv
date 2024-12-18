@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24698706,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2024-12-18T19:52:00Z,24698706,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2024-12-18T19:52:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.09918,38.62288
-24698945,São Martinho de Mouros,Tâmega e Sousa,309,2024-12-18T20:40:00Z,24698945,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-18T20:40:00Z,Resende,Viseu,Norte,-7.895058,41.100792
+24698945,São Martinho de Mouros,Tâmega e Sousa,309,2024-12-18T20:40:00Z,24698945,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-18T20:40:00Z,Resende,Viseu,Norte,-7.895058,41.100792
+24698995,Arcozelo,Cávado,309,2024-12-18T21:10:00Z,24698995,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2024-12-18T21:10:00Z,Barcelos,Braga,Norte,-8.608735,41.544418
