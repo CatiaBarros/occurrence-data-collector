@@ -1,5 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24695083,"Budens","Algarve",313,"2024-12-18T07:07:00",24695083,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2024-12-18T07:07:00","Vila Do Bispo","Faro","Algarve",-8.77602,37.07158
+24695120,"Mealhada, Ventosa do Bairro e Antes","Região de Coimbra",310,"2024-12-18T07:16:00",24695120,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2024-12-18T07:16:00","Mealhada","Aveiro","Centro",-8.479417,40.397227
 24694276,"Quarteira","Algarve",313,"2024-12-17T21:13:00",24694276,"Em conclusão","2515","Fuga de gás em garrafa",0,0,0,0,"2024-12-17T21:13:00","Loulé","Faro","Algarve",-8.105143,37.090785
-24695083,"Budens","Algarve",313,"2024-12-18T07:07:00",24695083,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,0,0,0,"2024-12-18T07:07:00","Vila Do Bispo","Faro","Algarve",-8.77602,37.07158
+24695128,"Baltar","Area M. Porto",309,"2024-12-18T07:24:00",24695128,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-18T07:24:00","Paredes","Porto","Norte",-8.387015,41.186516
 24694189,"Loulé (São Clemente)","Algarve",313,"2024-12-17T20:54:00",24694189,"Em conclusão","2513","Fuga de gás em conduta",0,0,0,0,"2024-12-17T20:54:00","Loulé","Faro","Algarve",-8.018947,37.13969
 24695056,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2024-12-18T06:34:00",24695056,"Em conclusão","2407","Despiste",0,1,0,2,"2024-12-18T06:34:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.142875,38.796067
