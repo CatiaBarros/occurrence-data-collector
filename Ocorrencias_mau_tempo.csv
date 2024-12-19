@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24700523,"Mogadouro, Valverde, Vale de Porco e Vilar de Rei",Terras de Trás-os-Montes,309,2024-12-19T09:30:00Z,24700523,Em despacho,3301,Queda de árvore,0,3,0,5,2024-12-19T09:30:00Z,Mogadouro,Bragança,Norte,-6.706687,41.339826
-24701147,Monchique,Algarve,313,2024-12-19T11:07:00Z,24701147,Em curso,3301,Queda de árvore,0,4,0,8,2024-12-19T11:07:00Z,Monchique,Faro,Algarve,-8.559479,37.312673
+24701576,Rio de Mouro,Grande Lisboa,311,2024-12-19T12:52:00Z,24701576,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2024-12-19T12:52:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.33172,38.7826
+24701147,Monchique,Algarve,313,2024-12-19T11:07:00Z,24701147,Em conclusão,3301,Queda de árvore,0,4,0,8,2024-12-19T11:07:00Z,Monchique,Faro,Algarve,-8.559479,37.312673
