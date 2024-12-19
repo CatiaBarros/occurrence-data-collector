@@ -1,8 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24699387,Garfe,Ave,309,2024-12-18T23:57:00Z,24699387,Em despacho,3313,Deslizamento de terras,0,4,0,7,2024-12-18T23:57:00Z,Póvoa De Lanhoso,Braga,Norte,-8.24488,41.534461
-24699419,"Cristelos, Boim e Ordem",Tâmega e Sousa,309,2024-12-19T00:17:00Z,24699419,Em conclusão,3313,Deslizamento de terras,0,1,0,2,2024-12-19T00:17:00Z,Lousada,Porto,Norte,-8.279202,41.27057
-24699435,Azurém,Ave,309,2024-12-19T00:17:00Z,24699435,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2024-12-19T00:17:00Z,Guimarães,Braga,Norte,-8.291869,41.454999
-24699498,Oliveira do Douro,Area M. Porto,309,2024-12-19T00:47:00Z,24699498,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2024-12-19T00:47:00Z,Vila Nova De Gaia,Porto,Norte,-8.585272,41.125484
+24699555,Vialonga,Grande Lisboa,311,2024-12-19T01:25:00Z,24699555,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2024-12-19T01:25:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.087262,38.878017
 24699497,Pencelo,Ave,309,2024-12-19T00:40:00Z,24699497,Em despacho,3313,Deslizamento de terras,0,2,0,4,2024-12-19T00:40:00Z,Guimarães,Braga,Norte,-8.3011,41.468123
-24699522,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2024-12-19T01:12:00Z,24699522,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2024-12-19T01:12:00Z,Bragança,Bragança,Norte,-6.77424,41.80071
-24699326,Joane,Ave,309,2024-12-18T23:27:00Z,24699326,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2024-12-18T23:27:00Z,Vila Nova De Famalicão,Braga,Norte,-8.42359,41.44215
+24699522,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2024-12-19T01:12:00Z,24699522,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2024-12-19T01:12:00Z,Bragança,Bragança,Norte,-6.77424,41.80071
