@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24699916,Ranhados,Viseu Dão Lafões,310,2024-12-19T06:43:00Z,24699916,Em despacho,3313,Deslizamento de terras,0,1,0,2,2024-12-19T06:43:00Z,Viseu,Viseu,Centro,-7.898979,40.640423
 24699925,Joane,Ave,309,2024-12-19T07:00:00Z,24699925,Em despacho,3313,Deslizamento de terras,0,1,0,2,2024-12-19T07:00:00Z,Vila Nova De Famalicão,Braga,Norte,-8.42359,41.44215
-24699935,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2024-12-19T06:52:00Z,24699935,Em resolução,3301,Queda de árvore,0,1,0,5,2024-12-19T06:52:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
+24699935,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2024-12-19T06:52:00Z,24699935,Em conclusão,3301,Queda de árvore,0,1,0,5,2024-12-19T06:52:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 24699904,Venteira,Grande Lisboa,311,2024-12-19T06:48:00Z,24699904,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2024-12-19T06:48:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.232811,38.75153
+24700004,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2024-12-19T07:38:00Z,24700004,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2024-12-19T07:38:00Z,Vila Nova De Gaia,Porto,Norte,-8.531391,41.05079
