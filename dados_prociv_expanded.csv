@@ -1,5 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24699788,"Crato e Mártires, Flor da Rosa e Vale do Peso","Alto Alentejo",312,"2024-12-19T05:01:00",24699788,"Em curso","2407","Despiste",0,12,0,28,"2024-12-19T05:01:00","Crato","Portalegre","Alentejo",-7.605292,39.281937
 24699641,"Foz de Arouce e Casal de Ermio","Região de Coimbra",310,"2024-12-19T02:25:00",24699641,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-19T02:25:00","Lousã","Coimbra","Centro",-8.277489,40.159908
+24699844,"Tramagal","Médio Tejo",311,"2024-12-19T05:58:00",24699844,"Em despacho","3301","Queda de árvore",0,2,0,4,"2024-12-19T05:58:00","Abrantes","Santarém","Centro",-8.256327,39.445964
+24699845,"Valença, Cristelo Covo e Arão","Alto Minho",309,"2024-12-19T05:54:00",24699845,"Em despacho","2403","Colisão rodoviária",0,2,0,6,"2024-12-19T05:54:00","Valença","Viana Do Castelo","Norte",-8.644383,42.018188
+24699788,"Crato e Mártires, Flor da Rosa e Vale do Peso","Alto Alentejo",312,"2024-12-19T05:01:00",24699788,"Em curso","2407","Despiste",0,12,0,28,"2024-12-19T05:01:00","Crato","Portalegre","Alentejo",-7.605292,39.281937
+24699837,"Espinho","Cávado",309,"2024-12-19T05:51:00",24699837,"Em despacho","3313","Deslizamento de terras",0,0,0,0,"2024-12-19T05:51:00","Braga","Braga","Norte",-8.355103,41.55494
 24699690,"Lousã e Vilarinho","Região de Coimbra",310,"2024-12-19T03:15:00",24699690,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2024-12-19T03:15:00","Lousã","Coimbra","Centro",-8.243385,40.12032
 24699790,"Glória e Vera Cruz","Região de Aveiro",310,"2024-12-19T04:57:00",24699790,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2024-12-19T04:57:00","Aveiro","Aveiro","Centro",-8.647359,40.640643
