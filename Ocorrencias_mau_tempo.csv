@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24700316,Peniche,Oeste,311,2024-12-19T08:56:00Z,24700316,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-19T08:56:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 24700438,Charneca de Caparica e Sobreda,Península de Setúbal,311,2024-12-19T09:12:00Z,24700438,Em despacho,3301,Queda de árvore,0,1,0,4,2024-12-19T09:12:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.190193,38.591584
 24700523,"Mogadouro, Valverde, Vale de Porco e Vilar de Rei",Terras de Trás-os-Montes,309,2024-12-19T09:30:00Z,24700523,Em despacho,3301,Queda de árvore,0,3,0,5,2024-12-19T09:30:00Z,Mogadouro,Bragança,Norte,-6.706687,41.339826
+24700606,São Domingos de Rana,Grande Lisboa,311,2024-12-19T09:50:00Z,24700606,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2024-12-19T09:50:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.341848,38.74459
