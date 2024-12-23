@@ -1,7 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24717215,"Arouca e Burgo","Area M. Porto",309,"2024-12-22T21:04:00",24717215,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-12-22T21:04:00","Arouca","Aveiro","Norte",-8.255393,40.915476
-24717990,"Fronteira","Alto Alentejo",312,"2024-12-23T05:48:00",24717990,"Em resolução","2407","Despiste",0,2,0,4,"2024-12-23T05:48:00","Fronteira","Portalegre","Alentejo",-7.637647,39.070737
-24717816,"Antuzede e Vil de Matos","Região de Coimbra",310,"2024-12-23T02:36:00",24717816,"Em resolução","2407","Despiste",0,1,0,2,"2024-12-23T02:36:00","Coimbra","Coimbra","Centro",-8.495048,40.236879
 24716484,"Lamego (Almacave e Sé)","Douro",309,"2024-12-22T17:15:00",24716484,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,1,"2024-12-22T17:15:00","Lamego","Viseu","Norte",-7.808172,41.09878
+24717816,"Antuzede e Vil de Matos","Região de Coimbra",310,"2024-12-23T02:36:00",24717816,"Em resolução","2407","Despiste",0,1,0,2,"2024-12-23T02:36:00","Coimbra","Coimbra","Centro",-8.495048,40.236879
 24703973,"Olhão","Algarve",313,"2024-12-19T22:06:00",24703973,"Em despacho","4331","Busca e resgate terrestre de animais",0,0,0,0,"2024-12-19T22:06:00","Olhão","Faro","Algarve",-7.84764,37.029053
-24717896,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim","Grande Lisboa",311,"2024-12-23T04:03:00",24717896,"Em conclusão","2407","Despiste",0,3,0,9,"2024-12-23T04:03:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.385787,38.816644
+24717215,"Arouca e Burgo","Area M. Porto",309,"2024-12-22T21:04:00",24717215,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2024-12-22T21:04:00","Arouca","Aveiro","Norte",-8.255393,40.915476
+24717990,"Fronteira","Alto Alentejo",312,"2024-12-23T05:48:00",24717990,"Em conclusão","2407","Despiste",0,2,0,4,"2024-12-23T05:48:00","Fronteira","Portalegre","Alentejo",-7.637647,39.070737
