@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24724220,Sarzedo,Região de Coimbra,310,2024-12-24T14:20:00Z,24724220,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2024-12-24T14:20:00Z,Arganil,Coimbra,Centro,-8.077887,40.235635
-24724552,Carcavelos e Parede,Grande Lisboa,311,2024-12-24T15:44:00Z,24724552,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2024-12-24T15:44:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.33319,38.68992
+24724552,Carcavelos e Parede,Grande Lisboa,311,2024-12-24T15:44:00Z,24724552,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2024-12-24T15:44:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.33319,38.68992
