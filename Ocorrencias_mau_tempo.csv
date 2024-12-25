@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24727300,Freiria,Oeste,311,2024-12-25T10:05:00Z,24727300,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2024-12-25T10:05:00Z,Torres Vedras,Lisboa,Centro,-9.298339,39.031026
-24727318,Pechão,Algarve,313,2024-12-25T10:20:00Z,24727318,Em curso,3301,Queda de árvore,0,1,0,2,2024-12-25T10:20:00Z,Olhão,Faro,Algarve,-7.869475,37.04087
+24727318,Pechão,Algarve,313,2024-12-25T10:20:00Z,24727318,Em resolução,3301,Queda de árvore,0,2,0,4,2024-12-25T10:20:00Z,Olhão,Faro,Algarve,-7.869475,37.04087
