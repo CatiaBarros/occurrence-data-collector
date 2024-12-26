@@ -1,8 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24730638,"Seiça","Médio Tejo",311,"2024-12-26T07:31:00",24730638,"Em conclusão","2407","Despiste",0,2,0,7,"2024-12-26T07:31:00","Ourém","Santarém","Centro",-8.544575,39.689913
-24730614,"Calvos e Frades","Ave",309,"2024-12-26T07:15:00",24730614,"Em conclusão","3301","Queda de árvore",0,1,0,2,"2024-12-26T07:15:00","Póvoa De Lanhoso","Braga","Norte",-8.2408,41.599815
-24730697,"Lousã e Vilarinho","Região de Coimbra",310,"2024-12-26T07:53:00",24730697,"Em despacho","2407","Despiste",0,3,0,5,"2024-12-26T07:53:00","Lousã","Coimbra","Centro",-8.222313,40.15366
-24730698,"Vialonga","Grande Lisboa",311,"2024-12-26T07:59:00",24730698,"Em conclusão","2407","Despiste",0,2,0,5,"2024-12-26T07:59:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.070158,38.870484
-24729355,"São Bartolomeu de Messines","Algarve",313,"2024-12-25T19:28:00",24729355,"Em curso","4327","Busca e resgate terrestre de pessoas",0,1,0,1,"2024-12-25T19:28:00","Silves","Faro","Algarve",-8.323485,37.223187
+24729355,"São Bartolomeu de Messines","Algarve",313,"2024-12-25T19:28:00",24729355,"Em curso","4327","Busca e resgate terrestre de pessoas",0,5,0,9,"2024-12-25T19:28:00","Silves","Faro","Algarve",-8.323485,37.223187
 24730652,"Açoreira","Douro",309,"2024-12-26T07:40:00",24730652,"Em despacho","4331","Busca e resgate terrestre de animais",0,2,0,6,"2024-12-26T07:40:00","Torre De Moncorvo","Bragança","Norte",-7.07647,41.14972
-24730677,"Vila Franca de Xira","Grande Lisboa",311,"2024-12-26T07:45:00",24730677,"Em curso","2407","Despiste",0,3,0,8,"2024-12-26T07:45:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.98182,38.970466
+24730677,"Vila Franca de Xira","Grande Lisboa",311,"2024-12-26T07:45:00",24730677,"Em conclusão","2407","Despiste",0,3,0,8,"2024-12-26T07:45:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.98182,38.970466
+24730775,"Tondela e Nandufe","Viseu Dão Lafões",310,"2024-12-26T08:20:00",24730775,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2024-12-26T08:20:00","Tondela","Viseu","Centro",-8.067036,40.523807
+24730793,"Madalena","Area M. Porto",309,"2024-12-26T08:23:00",24730793,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2024-12-26T08:23:00","Vila Nova De Gaia","Porto","Norte",-8.646182,41.106358
+24730697,"Lousã e Vilarinho","Região de Coimbra",310,"2024-12-26T07:53:00",24730697,"Em conclusão","2407","Despiste",0,2,0,4,"2024-12-26T07:53:00","Lousã","Coimbra","Centro",-8.222313,40.15366
+24730698,"Vialonga","Grande Lisboa",311,"2024-12-26T07:59:00",24730698,"Em conclusão","2407","Despiste",0,2,0,5,"2024-12-26T07:59:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.070158,38.870484
+24730638,"Seiça","Médio Tejo",311,"2024-12-26T07:31:00",24730638,"Em conclusão","2407","Despiste",0,2,0,7,"2024-12-26T07:31:00","Ourém","Santarém","Centro",-8.544575,39.689913
+24730787,"Albufeira e Olhos de Água","Algarve",313,"2024-12-26T08:05:00",24730787,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,4,"2024-12-26T08:05:00","Albufeira","Faro","Algarve",-8.221937,37.103468
