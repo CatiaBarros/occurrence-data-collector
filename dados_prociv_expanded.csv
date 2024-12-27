@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24734820,"Loulé (São Clemente)","Algarve",313,"2024-12-27T02:16:00",24734820,"Em curso","2301","Incêndio em transporte rodoviário",0,2,0,7,"2024-12-27T02:16:00","Loulé","Faro","Algarve",-7.988932,37.13864
+24734820,"Loulé (São Clemente)","Algarve",313,"2024-12-27T02:16:00",24734820,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,7,"2024-12-27T02:16:00","Loulé","Faro","Algarve",-7.98903,37.138545
 24734807,"Lumiar","Grande Lisboa",311,"2024-12-27T02:00:00",24734807,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2024-12-27T02:00:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.1474,38.7775
-24734808,"Sesimbra (Castelo)","Península de Setúbal",311,"2024-12-27T01:54:00",24734808,"Em curso","2403","Colisão rodoviária",0,4,0,10,"2024-12-27T01:54:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.150632,38.472127
+24734808,"Sesimbra (Castelo)","Península de Setúbal",311,"2024-12-27T01:54:00",24734808,"Em curso","2403","Colisão rodoviária",0,5,0,12,"2024-12-27T01:54:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.150632,38.472127
 24734858,"Estremoz (Santa Maria e Santo André)","Alentejo Central",312,"2024-12-27T02:44:00",24734858,"Em despacho","2407","Despiste",0,2,0,4,"2024-12-27T02:44:00","Estremoz","Évora","Alentejo",-7.591151,38.841452
