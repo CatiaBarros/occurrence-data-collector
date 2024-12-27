@@ -1,3 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24735113,"Inguias","Beiras e Serra da Estrela",310,"2024-12-27T07:04:00",24735113,"Em despacho","3111","Queima",0,1,0,3,"2024-12-27T07:04:00","Belmonte","Castelo Branco","Centro",-7.29913,40.32584
 24734808,"Sesimbra (Castelo)","Península de Setúbal",311,"2024-12-27T01:54:00",24734808,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2024-12-27T01:54:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.150632,38.472127
-24735094,"Santo Quintino","Oeste",311,"2024-12-26T06:48:00",24735094,"Em despacho","2407","Despiste",0,0,0,0,"2024-12-26T06:48:00","Sobral De Monte Agraço","Lisboa","Centro",-9.152387,38.999967
+24735094,"Santo Quintino","Oeste",311,"2024-12-26T06:48:00",24735094,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-26T06:48:00","Sobral De Monte Agraço","Lisboa","Centro",-9.152387,38.999967
