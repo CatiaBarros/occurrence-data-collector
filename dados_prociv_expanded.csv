@@ -1,2 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24734763,"Maceda","Região de Aveiro",310,"2024-12-27T01:19:00",24734763,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,5,"2024-12-27T01:19:00","Ovar","Aveiro","Centro",-8.614021,40.935245
+24734807,"Lumiar","Grande Lisboa",311,"2024-12-27T02:00:00",24734807,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2024-12-27T02:00:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.1474,38.7775
+24734808,"Sesimbra (Castelo)","Península de Setúbal",311,"2024-12-27T01:54:00",24734808,"Em curso","2403","Colisão rodoviária",0,2,0,6,"2024-12-27T01:54:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.150632,38.472127
+24734804,"Praia de Mira","Região de Coimbra",310,"2024-12-27T01:53:00",24734804,"Em despacho","3203","Detritos confinados",0,2,0,6,"2024-12-27T01:53:00","Mira","Coimbra","Centro",-8.788778,40.475131
