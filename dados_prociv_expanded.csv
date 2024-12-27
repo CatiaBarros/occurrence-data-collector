@@ -1,4 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24734808,"Sesimbra (Castelo)","Península de Setúbal",311,"2024-12-27T01:54:00",24734808,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2024-12-27T01:54:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.150632,38.472127
-24735113,"Inguias","Beiras e Serra da Estrela",310,"2024-12-27T07:04:00",24735113,"Em despacho","3111","Queima",0,1,0,3,"2024-12-27T07:04:00","Belmonte","Castelo Branco","Centro",-7.29913,40.32584
-24735156,"Ferreira","Tâmega e Sousa",309,"2024-12-27T07:25:00",24735156,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,5,"2024-12-27T07:25:00","Paços De Ferreira","Porto","Norte",-8.350322,41.264706
+24735162,"Carnaxide e Queijas","Grande Lisboa",311,"2024-12-27T07:25:00",24735162,"Em despacho","2401","Atropelamento rodoviário",0,2,0,6,"2024-12-27T07:25:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.259903,38.718843
+24735113,"Inguias","Beiras e Serra da Estrela",310,"2024-12-27T07:04:00",24735113,"Em curso","3111","Queima",0,1,0,3,"2024-12-27T07:04:00","Belmonte","Castelo Branco","Centro",-7.29913,40.32584
+24735156,"Ferreira","Tâmega e Sousa",309,"2024-12-27T07:25:00",24735156,"Em resolução","2301","Incêndio em transporte rodoviário",0,2,0,7,"2024-12-27T07:25:00","Paços De Ferreira","Porto","Norte",-8.345815,41.266603
