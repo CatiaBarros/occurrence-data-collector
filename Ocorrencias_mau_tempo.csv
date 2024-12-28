@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24740621,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2024-12-28T10:43:00Z,24740621,Em despacho,3301,Queda de árvore,0,4,0,7,2024-12-28T10:43:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.492045,40.113509
 24740987,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2024-12-28T12:06:00Z,24740987,Em curso,3311,Queda de elementos de estruturas edificados,0,2,0,5,2024-12-28T12:06:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.22967,38.696612
-24741189,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2024-12-28T12:47:00Z,24741189,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,1,2024-12-28T12:47:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.836863,41.692022
+24741189,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2024-12-28T12:47:00Z,24741189,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,1,2024-12-28T12:47:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.835825,41.69018
