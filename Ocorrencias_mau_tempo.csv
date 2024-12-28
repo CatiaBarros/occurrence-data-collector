@@ -1,3 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24740621,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2024-12-28T10:43:00Z,24740621,Em despacho,3301,Queda de árvore,0,4,0,7,2024-12-28T10:43:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.492045,40.113509
-24741623,Santa Joana,Região de Aveiro,310,2024-12-28T14:17:00Z,24741623,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2024-12-28T14:17:00Z,Aveiro,Aveiro,Centro,-8.616608,40.631861
+24741623,Santa Joana,Região de Aveiro,310,2024-12-28T14:17:00Z,24741623,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,7,2024-12-28T14:17:00Z,Aveiro,Aveiro,Centro,-8.616608,40.631861
