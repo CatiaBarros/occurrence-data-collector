@@ -1,9 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24739491,"Modivas","Area M. Porto",309,"2024-12-28T01:10:00",24739491,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,3,"2024-12-28T01:10:00","Vila Do Conde","Porto","Norte",-8.688294,41.295083
+24739491,"Modivas","Area M. Porto",309,"2024-12-28T01:10:00",24739491,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,3,"2024-12-28T01:10:00","Vila Do Conde","Porto","Norte",-8.688294,41.295083
 24736795,"Santa Catarina da Fonte do Bispo","Algarve",313,"2024-12-27T13:15:00",24736795,"Em curso","3111","Queima",0,0,0,0,"2024-12-27T13:15:00","Tavira","Faro","Algarve",-7.788691,37.154062
-24739404,"Moita","Região de Leiria",310,"2024-12-28T00:12:00",24739404,"Em curso","2407","Despiste",0,2,0,5,"2024-12-28T00:12:00","Marinha Grande","Leiria","Centro",-8.94346,39.702349
 24739419,"Tamengos, Aguim e Óis do Bairro","Região de Aveiro",310,"2024-12-28T00:16:00",24739419,"Em conclusão","2407","Despiste",0,1,0,2,"2024-12-28T00:16:00","Anadia","Aveiro","Centro",-8.465372,40.415279
 24739420,"Vila Chã, Codal e Vila Cova de Perrinho","Area M. Porto",309,"2024-12-28T00:12:00",24739420,"Em resolução","2407","Despiste",0,3,0,6,"2024-12-28T00:12:00","Vale De Cambra","Aveiro","Norte",-8.399593,40.868575
-24739522,"Vila Chã, Codal e Vila Cova de Perrinho","Area M. Porto",309,"2024-12-28T01:21:00",24739522,"Em despacho","2515","Fuga de gás em garrafa",0,1,0,2,"2024-12-28T01:21:00","Vale De Cambra","Aveiro","Norte",-8.399593,40.868575
+24739522,"Vila Chã, Codal e Vila Cova de Perrinho","Area M. Porto",309,"2024-12-28T01:21:00",24739522,"Em conclusão","2513","Fuga de gás em conduta",0,1,0,2,"2024-12-28T01:21:00","Vale De Cambra","Aveiro","Norte",-8.399593,40.868575
 24737936,"Espinhosela","Terras de Trás-os-Montes",309,"2024-12-27T16:44:00",24737936,"Em curso","4327","Busca e resgate terrestre de pessoas",0,13,0,28,"2024-12-27T16:44:00","Bragança","Bragança","Norte",-6.84013,41.898706
 24739476,"Parceiros e Azoia","Região de Leiria",310,"2024-12-28T00:49:00",24739476,"Em resolução","2513","Fuga de gás em conduta",0,3,0,6,"2024-12-28T00:49:00","Leiria","Leiria","Centro",-8.834141,39.730081
