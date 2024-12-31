@@ -5,11 +5,12 @@
 24753838,"Recarei","Area M. Porto",309,"2024-12-31T10:38:00",24753838,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2024-12-31T10:38:00","Paredes","Porto","Norte",-8.414286,41.153815
 24753908,"João Antão","Beiras e Serra da Estrela",310,"2024-12-31T10:58:00",24753908,"Em despacho","4339","Corte ou remoção de elementos",0,1,0,2,"2024-12-31T10:58:00","Guarda","Guarda","Centro",-7.245343,40.46099
 24753956,"Antas e Abade de Vermoim","Ave",309,"2024-12-31T11:01:00",24753956,"Em conclusão","2401","Atropelamento rodoviário",0,1,0,3,"2024-12-31T11:01:00","Vila Nova De Famalicão","Braga","Norte",-8.517613,41.406488
+24753992,"Pessegueiro do Vouga","Região de Aveiro",310,"2024-12-31T11:13:00",24753992,"Em despacho","3111","Queima",0,0,0,0,"2024-12-31T11:13:00","Sever Do Vouga","Aveiro","Centro",-8.35332,40.71243
 24737936,"Espinhosela","Terras de Trás-os-Montes",309,"2024-12-27T16:44:00",24737936,"Em curso","4327","Busca e resgate terrestre de pessoas",0,8,0,29,"2024-12-27T16:44:00","Bragança","Bragança","Norte",-6.84013,41.898706
 24753146,"Madalena e Samaiões","Alto Tâmega e Barroso",309,"2024-12-31T08:05:00",24753146,"Em despacho","4329","Busca e resgate aquático de pessoas",0,8,0,18,"2024-12-31T08:05:00","Chaves","Vila Real","Norte",-7.480642,41.716858
 24753496,"Alverca do Ribatejo e Sobralinho","Grande Lisboa",311,"2024-12-31T09:39:00",24753496,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,10,"2024-12-31T09:39:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.034761,38.918068
 24753698,"Espinho","Viseu Dão Lafões",310,"2024-12-31T10:19:00",24753698,"Em resolução","2101","Incêndio em edifícios habitacionais",0,5,0,11,"2024-12-31T10:19:00","Mangualde","Viseu","Centro",-7.786668,40.568032
-24753780,"Vale de Cavalos","Lezíria do Tejo",311,"2024-12-31T10:35:00",24753780,"Em curso","2407","Despiste",0,2,0,4,"2024-12-31T10:35:00","Chamusca","Santarém","Alentejo",-8.421677,39.279698
+24753780,"Vale de Cavalos","Lezíria do Tejo",311,"2024-12-31T10:35:00",24753780,"Em conclusão","2407","Despiste",0,2,0,4,"2024-12-31T10:35:00","Chamusca","Santarém","Alentejo",-8.415837,39.264152
 24752974,"Ovar, São João, Arada e São Vicente de Pereira Jusã","Região de Aveiro",310,"2024-12-31T07:12:00",24752974,"Em conclusão","2411","Atropelamento ferroviário",0,4,0,6,"2024-12-31T07:12:00","Ovar","Aveiro","Centro",-8.632482,40.864029
 24752976,"Vreia de Jales","Alto Tâmega e Barroso",309,"2024-12-31T07:08:00",24752976,"Em resolução","2403","Colisão rodoviária",0,18,0,41,"2024-12-31T07:08:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.640297,41.426918
 24753275,"Refóios do Lima","Alto Minho",309,"2024-12-31T08:45:00",24753275,"Em despacho","4331","Busca e resgate terrestre de animais",0,0,0,0,"2024-12-31T08:45:00","Ponte De Lima","Viana Do Castelo","Norte",-8.555858,41.782231
@@ -19,4 +20,6 @@
 24753793,"São João de Ver","Area M. Porto",309,"2024-12-31T10:30:00",24753793,"Em resolução","2401","Atropelamento rodoviário",0,3,0,7,"2024-12-31T10:30:00","Santa Maria Da Feira","Aveiro","Norte",-8.541263,40.952883
 24753844,"Beiral do Lima","Alto Minho",309,"2024-12-31T10:43:00",24753844,"Em despacho","2407","Despiste",0,1,0,2,"2024-12-31T10:43:00","Ponte De Lima","Viana Do Castelo","Norte",-8.484854,41.760612
 24753895,"Loulé (São Clemente)","Algarve",313,"2024-12-31T10:45:00",24753895,"Em resolução","3203","Detritos confinados",0,1,0,5,"2024-12-31T10:45:00","Loulé","Faro","Algarve",-7.969876,37.135829
-24753959,"Fátima","Médio Tejo",311,"2024-12-31T11:06:00",24753959,"Em curso","3203","Detritos confinados",0,1,0,5,"2024-12-31T11:06:00","Ourém","Santarém","Centro",-8.646635,39.593976
+24753959,"Fátima","Médio Tejo",311,"2024-12-31T11:06:00",24753959,"Em conclusão","3203","Detritos confinados",0,2,0,7,"2024-12-31T11:06:00","Ourém","Santarém","Centro",-8.646635,39.593976
+24753994,"Meca","Oeste",311,"2024-12-31T11:13:00",24753994,"Em despacho","2407","Despiste",0,4,0,10,"2024-12-31T11:13:00","Alenquer","Lisboa","Centro",-9.051365,39.072002
+24753996,"Gostei","Terras de Trás-os-Montes",309,"2024-12-31T10:50:00",24753996,"Em despacho","3301","Queda de árvore",0,1,0,3,"2024-12-31T10:50:00","Bragança","Bragança","Norte",-6.829062,41.787807
