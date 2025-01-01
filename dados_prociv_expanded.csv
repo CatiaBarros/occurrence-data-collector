@@ -1,10 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24760682,"Bunheiro","Região de Aveiro",310,"2025-01-01T20:58:00",24760682,"Em conclusão","2407","Despiste",0,1,0,3,"2025-01-01T20:58:00","Murtosa","Aveiro","Centro",-8.64442,40.7792
 24760909,"Santa Marinha e São Pedro da Afurada","Area M. Porto",309,"2025-01-01T22:20:00",24760909,"Em despacho","2407","Despiste",0,2,0,4,"2025-01-01T22:20:00","Vila Nova De Gaia","Porto","Norte",-8.624714,41.132843
 24760455,"Eiras e São Paulo de Frades","Região de Coimbra",310,"2025-01-01T19:51:00",24760455,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,4,0,11,"2025-01-01T19:51:00","Coimbra","Coimbra","Centro",-8.402978,40.247336
-24760806,"Cibões e Brufe","Cávado",309,"2025-01-01T21:43:00",24760806,"Em conclusão","3111","Queima",0,1,0,3,"2025-01-01T21:43:00","Terras De Bouro","Braga","Norte",-8.280569,41.744834
+24760526,"São Teotónio","Alentejo Litoral",312,"2025-01-01T20:10:00",24760526,"Em resolução","2407","Despiste",1,17,0,40,"2025-01-01T20:10:00","Odemira","Beja","Alentejo",-8.619968,37.517885
 24760196,"Sabóia","Alentejo Litoral",312,"2025-01-01T18:33:00",24760196,"Em conclusão","3111","Queima",0,2,0,7,"2025-01-01T18:33:00","Odemira","Beja","Alentejo",-8.48475,37.462608
-24760594,"Arruda Dos Vinhos","Oeste",311,"2025-01-01T20:27:00",24760594,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,13,"2025-01-01T20:27:00","Arruda Dos Vinhos","Lisboa","Centro",-9.082806,38.979623
-24760895,"Porches","Algarve",313,"2025-01-01T22:18:00",24760895,"Em curso","3107","Consolidação de rescaldo de incêndio rural",0,1,0,3,"2025-01-01T22:18:00","Lagoa","Faro","Algarve",-8.394561,37.122091
-24760526,"São Teotónio","Alentejo Litoral",312,"2025-01-01T20:10:00",24760526,"Em resolução","2407","Despiste",1,16,0,39,"2025-01-01T20:10:00","Odemira","Beja","Alentejo",-8.619968,37.517885
-24760776,"Nossa Senhora da Tourega e Nossa Senhora de Guadalupe","Alentejo Central",312,"2025-01-01T21:30:00",24760776,"Em conclusão","3201","Detritos não confinados",0,1,0,2,"2025-01-01T21:30:00","Évora","Évora","Alentejo",-7.987602,38.582285
+24760594,"Arruda Dos Vinhos","Oeste",311,"2025-01-01T20:27:00",24760594,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,5,"2025-01-01T20:27:00","Arruda Dos Vinhos","Lisboa","Centro",-9.082806,38.979623
+24760895,"Porches","Algarve",313,"2025-01-01T22:18:00",24760895,"Em conclusão","3107","Consolidação de rescaldo de incêndio rural",0,1,0,3,"2025-01-01T22:18:00","Lagoa","Faro","Algarve",-8.394561,37.122091
+24760978,"Odivelas","Grande Lisboa",311,"2025-01-01T22:55:00",24760978,"Em despacho","3203","Detritos confinados",0,1,0,5,"2025-01-01T22:55:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.18707,38.78435
