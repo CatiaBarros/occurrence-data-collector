@@ -1,2 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24766428,"Baguim do Monte (Rio Tinto)","Area M. Porto",309,"2025-01-03T07:31:00",24766428,"Em despacho","3107","Consolidação de rescaldo de incêndio rural",0,1,0,3,"2025-01-03T07:31:00","Gondomar","Porto","Norte",-8.52994,41.19302
 24766398,"Carrazeda de Ansiães","Douro",309,"2025-01-03T07:09:00",24766398,"Em despacho","2407","Despiste",0,2,0,4,"2025-01-03T07:09:00","Carrazeda De Ansiães","Bragança","Norte",-7.301682,41.241211
+24766468,"Barcelos, V. Boa e V. Frescainha","Cávado",309,"2025-01-03T07:45:00",24766468,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2025-01-03T07:45:00","Barcelos","Braga","Norte",-8.631632,41.537528
+24766476,"Grândola e Santa Margarida da Serra","Alentejo Litoral",312,"2025-01-03T07:40:00",24766476,"Em despacho","2403","Colisão rodoviária",0,4,0,7,"2025-01-03T07:40:00","Grândola","Setúbal","Alentejo",-8.558751,38.173088
