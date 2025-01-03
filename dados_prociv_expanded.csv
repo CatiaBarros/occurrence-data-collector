@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24765924,"Avelar","Região de Leiria",310,"2025-01-03T00:38:00",24765924,"Em despacho","2407","Despiste",0,3,0,6,"2025-01-03T00:38:00","Ansião","Leiria","Centro",-8.352995,39.915724
-24766081,"Ramalde","Area M. Porto",309,"2025-01-03T02:42:00",24766081,"Em despacho","2407","Despiste",0,1,0,2,"2025-01-03T02:42:00","Porto","Porto","Norte",-8.651472,41.168297
-24766009,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias","Grande Lisboa",311,"2025-01-03T01:45:00",24766009,"Em conclusão","3201","Detritos não confinados",0,2,0,7,"2025-01-03T01:45:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.275682,38.698873
+24766110,"Seixal, Arrentela e Aldeia de Paio Pires","Península de Setúbal",311,"2025-01-03T03:06:00",24766110,"Em despacho","2401","Atropelamento rodoviário",0,1,0,5,"2025-01-03T03:06:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.073255,38.601591
 24766050,"Samouco","Península de Setúbal",311,"2025-01-03T02:24:00",24766050,"Em resolução","2301","Incêndio em transporte rodoviário",0,4,0,10,"2025-01-03T02:24:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-8.987438,38.72581
+24765924,"Avelar","Região de Leiria",310,"2025-01-03T00:38:00",24765924,"Em despacho","2407","Despiste",0,3,0,6,"2025-01-03T00:38:00","Ansião","Leiria","Centro",-8.352995,39.915724
+24766081,"Ramalde","Area M. Porto",309,"2025-01-03T02:42:00",24766081,"Em curso","2407","Despiste",0,1,0,2,"2025-01-03T02:42:00","Matosinhos","Porto","Norte",-8.63333,41.179752
