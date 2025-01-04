@@ -1,1 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24773728,Loulé (São Sebastião),Algarve,313,2025-01-04T17:10:00Z,24773728,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-04T17:10:00Z,Loulé,Faro,Algarve,-8.07228,37.149441
+24773767,Barreiro e Lavradio,Península de Setúbal,311,2025-01-04T17:35:00Z,24773767,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-01-04T17:35:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.060271,38.662949
+24773755,Esmoriz,Região de Aveiro,310,2025-01-04T17:29:00Z,24773755,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-01-04T17:29:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
