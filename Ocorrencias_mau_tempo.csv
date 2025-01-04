@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24774553,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-01-04T21:16:00Z,24774553,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-04T21:16:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
-24774445,Argela,Alto Minho,309,2025-01-04T20:36:00Z,24774445,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-04T20:36:00Z,Caminha,Viana Do Castelo,Norte,-8.781608,41.862811
+24774553,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-01-04T21:16:00Z,24774553,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-04T21:16:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
