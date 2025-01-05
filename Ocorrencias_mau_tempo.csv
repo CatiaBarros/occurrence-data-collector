@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24777785,Peniche,Oeste,311,2025-01-05T15:45:00Z,24777785,Em curso,1103,Vento forte,0,14,0,40,2025-01-05T15:45:00Z,Peniche,Leiria,Centro,-9.3885,39.354248
-24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
-24778664,Poceirão e Marateca,Península de Setúbal,311,2025-01-05T19:32:00Z,24778664,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-05T19:32:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.735224,38.64957
-24778706,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-01-05T19:44:00Z,24778706,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T19:44:00Z,Abrantes,Santarém,Centro,-8.210602,39.462978
 24776541,Minde,Médio Tejo,311,2025-01-05T11:42:00Z,24776541,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-05T11:42:00Z,Alcanena,Santarém,Centro,-8.691237,39.511095
+24778706,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-01-05T19:44:00Z,24778706,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T19:44:00Z,Abrantes,Santarém,Centro,-8.210602,39.462978
+24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
+24778664,Poceirão e Marateca,Península de Setúbal,311,2025-01-05T19:32:00Z,24778664,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-05T19:32:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.735224,38.64957
+24777785,Peniche,Oeste,311,2025-01-05T15:45:00Z,24777785,Em curso,1103,Vento forte,0,14,0,40,2025-01-05T15:45:00Z,Peniche,Leiria,Centro,-9.3885,39.354248
