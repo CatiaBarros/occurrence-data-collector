@@ -1,9 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24778706,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-01-05T19:44:00Z,24778706,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T19:44:00Z,Abrantes,Santarém,Centro,-8.193526,39.462886
 24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
-24778664,Poceirão e Marateca,Península de Setúbal,311,2025-01-05T19:32:00Z,24778664,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-05T19:32:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.735224,38.64957
-24777785,Peniche,Oeste,311,2025-01-05T15:45:00Z,24777785,Em curso,1103,Vento forte,0,14,0,40,2025-01-05T15:45:00Z,Peniche,Leiria,Centro,-9.3885,39.354248
-24778401,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-01-05T18:10:00Z,24778401,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-05T18:10:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.555837,40.9255
-24778603,Águeda e Borralha,Região de Aveiro,310,2025-01-05T19:09:00Z,24778603,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-05T19:09:00Z,Águeda,Aveiro,Centro,-8.442492,40.563931
+24778664,Poceirão e Marateca,Península de Setúbal,311,2025-01-05T19:32:00Z,24778664,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-05T19:32:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.735224,38.64957
 24776541,Minde,Médio Tejo,311,2025-01-05T11:42:00Z,24776541,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-05T11:42:00Z,Alcanena,Santarém,Centro,-8.691237,39.511095
-24778238,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-01-05T17:11:00Z,24778238,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-01-05T17:11:00Z,Vila Nova De Gaia,Porto,Norte,-8.624714,41.132843
-24778483,Viseu,Viseu Dão Lafões,310,2025-01-05T18:28:00Z,24778483,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-05T18:28:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
+24777785,Peniche,Oeste,311,2025-01-05T15:45:00Z,24777785,Em curso,1103,Vento forte,0,14,0,40,2025-01-05T15:45:00Z,Peniche,Leiria,Centro,-9.3885,39.354248
