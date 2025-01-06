@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24780328,Campanhó e Paradança,Ave,309,2025-01-06T09:00:00Z,24780328,Em despacho,3313,Deslizamento de terras,0,5,0,8,2025-01-06T09:00:00Z,Mondim De Basto,Vila Real,Norte,-7.934488,41.349928
-24781398,Faro (Sé e São Pedro),Algarve,313,2025-01-06T11:44:00Z,24781398,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,8,2025-01-06T11:44:00Z,Faro,Faro,Algarve,-7.942032,37.01865
 24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
-24781283,Avintes,Area M. Porto,309,2025-01-06T11:48:00Z,24781283,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-01-06T11:48:00Z,Vila Nova De Gaia,Porto,Norte,-8.52389,41.08354
+24781747,Folques,Região de Coimbra,310,2025-01-06T13:05:00Z,24781747,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-06T13:05:00Z,Arganil,Coimbra,Centro,-7.990553,40.216177
