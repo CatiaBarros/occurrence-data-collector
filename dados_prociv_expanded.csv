@@ -1,4 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24777071,"Pedrógão Grande","Região de Leiria",310,"2025-01-05T13:18:00",24777071,"Em conclusão","3309","Desabamento de estruturas edificadas",0,1,0,1,"2025-01-05T13:18:00","Pedrógão Grande","Leiria","Centro",-8.177567,39.933038
-24779779,"Marinhais","Lezíria do Tejo",311,"2025-01-06T05:31:00",24779779,"Em despacho","3203","Detritos confinados",0,1,0,6,"2025-01-06T05:31:00","Salvaterra De Magos","Santarém","Alentejo",-8.68254,39.04442
-24779742,"Quinta do Anjo","Península de Setúbal",311,"2025-01-06T04:53:00",24779742,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,4,0,8,"2025-01-06T04:53:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.96049,38.59179
+24779779,"Marinhais","Lezíria do Tejo",311,"2025-01-06T05:31:00",24779779,"Em resolução","3203","Detritos confinados",0,2,0,8,"2025-01-06T05:31:00","Salvaterra De Magos","Santarém","Alentejo",-8.683165,39.044845
+24779807,"Enxara do Bispo, Gradil e Vila Franca do Rosário","Grande Lisboa",311,"2025-01-06T05:42:00",24779807,"Em resolução","2407","Despiste",0,4,0,12,"2025-01-06T05:42:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.267426,38.975485
