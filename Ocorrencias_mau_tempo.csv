@@ -1,4 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
 24782745,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2025-01-06T16:19:00Z,24782745,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-01-06T16:19:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.072252,38.651508
-24782829,Peniche,Oeste,311,2025-01-06T16:40:00Z,24782829,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-06T16:40:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
+24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
