@@ -1,4 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24777071,"Pedrógão Grande","Região de Leiria",310,"2025-01-05T13:18:00",24777071,"Em conclusão","3309","Desabamento de estruturas edificadas",0,1,0,1,"2025-01-05T13:18:00","Pedrógão Grande","Leiria","Centro",-8.177567,39.933038
-24779200,"Beja (Santiago Maior e São João Baptista)","Baixo Alentejo",312,"2025-01-05T22:47:00",24779200,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-05T22:47:00","Beja","Beja","Alentejo",-7.87003,38.014111
-24779584,"Alcabideche","Grande Lisboa",311,"2025-01-06T02:24:00",24779584,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,3,"2025-01-06T02:24:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.399427,38.741735
