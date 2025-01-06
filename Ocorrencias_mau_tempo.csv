@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
+24779825,Lamego (Almacave e Sé),Douro,309,2025-01-06T06:07:00Z,24779825,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-06T06:07:00Z,Lamego,Viseu,Norte,-7.831513,41.089023
 24780053,Darque,Alto Minho,309,2025-01-06T08:11:00Z,24780053,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-06T08:11:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.77711,41.68354
 24780110,"Boa Aldeia, Farminhão e Torredeita",Viseu Dão Lafões,310,2025-01-06T08:25:00Z,24780110,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-06T08:25:00Z,Viseu,Viseu,Centro,-8.058655,40.633665
-24780137,Setúbal (São Sebastião),Península de Setúbal,311,2025-01-06T08:30:00Z,24780137,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-01-06T08:30:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.88584,38.5248
 24780287,Cuide de Vila Verde,Alto Minho,309,2025-01-06T09:00:00Z,24780287,Em despacho,3301,Queda de árvore,0,2,0,7,2025-01-06T09:00:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.402913,41.771486
-24779825,Lamego (Almacave e Sé),Douro,309,2025-01-06T06:07:00Z,24779825,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-06T06:07:00Z,Lamego,Viseu,Norte,-7.831513,41.089023
+24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
 24779883,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-01-06T06:56:00Z,24779883,Em conclusão,3301,Queda de árvore,0,4,0,12,2025-01-06T06:56:00Z,Évora,Évora,Alentejo,-7.900245,38.565868
+24780328,Campanhó e Paradança,Ave,309,2025-01-06T09:00:00Z,24780328,Em despacho,3313,Deslizamento de terras,0,4,0,6,2025-01-06T09:00:00Z,Mondim De Basto,Vila Real,Norte,-7.934488,41.349928
