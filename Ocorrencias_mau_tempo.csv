@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24781747,Folques,Região de Coimbra,310,2025-01-06T13:05:00Z,24781747,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-06T13:05:00Z,Arganil,Coimbra,Centro,-7.990553,40.216177
-24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
-24781792,"Ferreiros, Prozelo e Besteiros",Cávado,309,2025-01-06T13:08:00Z,24781792,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-06T13:08:00Z,Amares,Braga,Norte,-8.3593,41.628769
 24780328,Campanhó e Paradança,Ave,309,2025-01-06T09:00:00Z,24780328,Em despacho,3313,Deslizamento de terras,0,5,0,8,2025-01-06T09:00:00Z,Mondim De Basto,Vila Real,Norte,-7.934488,41.349928
+24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
+24781908,São Bartolomeu de Messines,Algarve,313,2025-01-06T13:22:00Z,24781908,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-01-06T13:22:00Z,Silves,Faro,Algarve,-8.287502,37.25838
