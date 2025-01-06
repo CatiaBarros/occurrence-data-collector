@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24780328,Campanhó e Paradança,Ave,309,2025-01-06T09:00:00Z,24780328,Em despacho,3313,Deslizamento de terras,0,5,0,8,2025-01-06T09:00:00Z,Mondim De Basto,Vila Real,Norte,-7.934488,41.349928
 24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
 24780495,Freixieiro de Soutelo,Alto Minho,309,2025-01-06T09:32:00Z,24780495,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-06T09:32:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.808332,41.794505
 24780579,Benavente,Lezíria do Tejo,311,2025-01-06T09:53:00Z,24780579,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-06T09:53:00Z,Benavente,Santarém,Alentejo,-8.80975,38.979118
-24780604,"Crasto, Ruivos e Grovelas",Alto Minho,309,2025-01-06T09:55:00Z,24780604,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-06T09:55:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.442245,41.753052
+24780604,"Crasto, Ruivos e Grovelas",Alto Minho,309,2025-01-06T09:55:00Z,24780604,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-01-06T09:55:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.442245,41.753052
 24780822,Monchique,Algarve,313,2025-01-06T10:15:00Z,24780822,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-06T10:15:00Z,Monchique,Faro,Algarve,-8.567422,37.320753
+24780328,Campanhó e Paradança,Ave,309,2025-01-06T09:00:00Z,24780328,Em despacho,3313,Deslizamento de terras,0,5,0,8,2025-01-06T09:00:00Z,Mondim De Basto,Vila Real,Norte,-7.934488,41.349928
 24780852,Sesimbra (Santiago),Península de Setúbal,311,2025-01-06T10:26:00Z,24780852,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-01-06T10:26:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.097261,38.445674
