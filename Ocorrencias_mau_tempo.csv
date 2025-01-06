@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24779078,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-01-05T21:50:00Z,24779078,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T21:50:00Z,Beja,Beja,Alentejo,-7.857345,38.016493
-24779196,Cortegaça,Região de Aveiro,310,2025-01-05T22:36:00Z,24779196,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,2,0,8,2025-01-05T22:36:00Z,Ovar,Aveiro,Centro,-8.634253,40.941462
 24779121,Ervidel,Baixo Alentejo,312,2025-01-05T21:50:00Z,24779121,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T21:50:00Z,Aljustrel,Beja,Alentejo,-8.080731,37.964841
-24779253,Parada de Todeia,Area M. Porto,309,2025-01-05T23:08:00Z,24779253,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-05T23:08:00Z,Paredes,Porto,Norte,-8.363385,41.170103
-24779272,Paredes,Area M. Porto,309,2025-01-05T23:14:00Z,24779272,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T23:14:00Z,Paredes,Porto,Norte,-8.340526,41.21359
+24779253,Parada de Todeia,Area M. Porto,309,2025-01-05T23:08:00Z,24779253,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-05T23:08:00Z,Paredes,Porto,Norte,-8.363385,41.170103
+24779326,Guilhufe e Urrô,Tâmega e Sousa,309,2025-01-05T23:42:00Z,24779326,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T23:42:00Z,Penafiel,Porto,Norte,-8.330383,41.18968
+24779342,Tarouca e Dálvares,Douro,309,2025-01-05T23:42:00Z,24779342,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-05T23:42:00Z,Tarouca,Viseu,Norte,-7.784096,41.015194
+24779078,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-01-05T21:50:00Z,24779078,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-05T21:50:00Z,Beja,Beja,Alentejo,-7.857345,38.016493
 24777071,Pedrógão Grande,Região de Leiria,310,2025-01-05T13:18:00Z,24777071,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-05T13:18:00Z,Pedrógão Grande,Leiria,Centro,-8.177567,39.933038
 24779200,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-01-05T22:47:00Z,24779200,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-01-05T22:47:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
