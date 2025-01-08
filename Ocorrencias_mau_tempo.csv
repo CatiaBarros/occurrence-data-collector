@@ -1,8 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24793272,Areosa,Alto Minho,309,2025-01-08T21:07:00Z,24793272,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-08T21:07:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.841057,41.722906
 24790025,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-08T10:02:00Z,24790025,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,2,2025-01-08T10:02:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.841905,41.696425
 24793250,Cidade da Maia,Area M. Porto,309,2025-01-08T20:52:00Z,24793250,Em curso,3329,Queda de estruturas temporárias ou móveis,0,2,0,6,2025-01-08T20:52:00Z,Maia,Porto,Norte,-8.60202,41.21898
 24793368,São João de Ver,Area M. Porto,309,2025-01-08T21:47:00Z,24793368,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-08T21:47:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.549167,40.95385
-24793032,"Nogueira, Fraião e Lamaçães",Cávado,309,2025-01-08T20:06:00Z,24793032,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-08T20:06:00Z,Braga,Braga,Norte,-8.40157,41.54808
 24793064,Souto da Carpalhosa e Ortigosa,Região de Leiria,310,2025-01-08T20:14:00Z,24793064,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-08T20:14:00Z,Leiria,Leiria,Centro,-8.845857,39.847992
 24793414,"Querença, Tôr e Benafim",Algarve,313,2025-01-08T21:43:00Z,24793414,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-08T21:43:00Z,Loulé,Faro,Algarve,-7.975367,37.201613
