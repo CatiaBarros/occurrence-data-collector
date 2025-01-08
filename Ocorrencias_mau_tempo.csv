@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24789362,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-08T07:46:00Z,24789362,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-08T07:46:00Z,Alcanena,Santarém,Centro,-8.669221,39.464869
 24789370,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-08T07:50:00Z,24789370,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-08T07:50:00Z,Alcanena,Santarém,Centro,-8.669221,39.464869
 24789422,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-08T08:00:00Z,24789422,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-08T08:00:00Z,Alcanena,Santarém,Centro,-8.669221,39.464869
 24789536,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-08T08:30:00Z,24789536,Em curso,3311,Queda de elementos de estruturas edificados,0,4,0,9,2025-01-08T08:30:00Z,Alcanena,Santarém,Centro,-8.669221,39.464869
@@ -6,7 +7,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24793064,Souto da Carpalhosa e Ortigosa,Região de Leiria,310,2025-01-08T20:14:00Z,24793064,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-08T20:14:00Z,Leiria,Leiria,Centro,-8.845857,39.847992
 24790025,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-08T10:02:00Z,24790025,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-01-08T10:02:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.841905,41.696425
 24792902,Aljezur,Algarve,313,2025-01-08T19:26:00Z,24792902,Em curso,3313,Deslizamento de terras,0,3,0,6,2025-01-08T19:26:00Z,Aljezur,Faro,Algarve,-8.798537,37.302557
-24789362,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-08T07:46:00Z,24789362,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-08T07:46:00Z,Alcanena,Santarém,Centro,-8.669221,39.464869
-24792243,Baixa da Banheira e Vale da Amoreira,Península de Setúbal,311,2025-01-08T16:43:00Z,24792243,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-08T16:43:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.043028,38.662183
 24789367,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-08T07:44:00Z,24789367,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-08T07:44:00Z,Alcanena,Santarém,Centro,-8.669221,39.464869
 24789401,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-08T07:57:00Z,24789401,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-08T07:57:00Z,Alcanena,Santarém,Centro,-8.669221,39.464869
