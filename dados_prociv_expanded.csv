@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24777071,"Pedrógão Grande","Região de Leiria",310,"2025-01-05T13:18:00",24777071,"Em conclusão","3309","Desabamento de estruturas edificadas",0,1,0,1,"2025-01-05T13:18:00","Pedrógão Grande","Leiria","Centro",-8.177567,39.933038
 24780664,"Póvoa de Varzim, Beiriz e Argivai","Area M. Porto",309,"2025-01-06T10:06:00",24780664,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-01-06T10:06:00","Póvoa De Varzim","Porto","Norte",-8.76679,41.37906
-24789070,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-01-08T03:22:00",24789070,"Em despacho","2407","Despiste",0,2,0,7,"2025-01-08T03:22:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.297451,38.765315
+24789070,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-01-08T03:22:00",24789070,"Em conclusão","2407","Despiste",0,2,0,7,"2025-01-08T03:22:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.297451,38.765315
 24782982,"Almada, Cova da Piedade, Pragal e Cacilhas","Península de Setúbal",311,"2025-01-06T17:08:00",24782982,"Em conclusão","2425","Abalroamento aquático",0,0,0,0,"2025-01-06T17:08:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.164498,38.675268
 24788963,"Penafiel","Tâmega e Sousa",309,"2025-01-08T01:56:00",24788963,"Em conclusão","2403","Colisão rodoviária",0,7,0,12,"2025-01-08T01:56:00","Penafiel","Porto","Norte",-8.30518,41.201948
