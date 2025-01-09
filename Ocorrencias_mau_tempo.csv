@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24796850,Mateus,Douro,309,2025-01-09T16:34:00Z,24796850,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-09T16:34:00Z,Vila Real,Vila Real,Norte,-7.71247,41.300675
+24797212,Altura,Algarve,313,2025-01-09T17:29:00Z,24797212,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-09T17:29:00Z,Castro Marim,Faro,Algarve,-7.501312,37.182018
 24797155,Fiães,Area M. Porto,309,2025-01-09T17:29:00Z,24797155,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-09T17:29:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.52286,40.980613
 24794459,Alcanena e Vila Moreira,Médio Tejo,311,2025-01-09T09:04:00Z,24794459,Em despacho,3311,Queda de elementos de estruturas edificados,0,3,0,7,2025-01-09T09:04:00Z,Alcanena,Santarém,Centro,-8.666413,39.458072
 24796229,Calheiros,Alto Minho,309,2025-01-09T14:10:00Z,24796229,Em conclusão,3301,Queda de árvore,0,3,0,7,2025-01-09T14:10:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.555708,41.82467
