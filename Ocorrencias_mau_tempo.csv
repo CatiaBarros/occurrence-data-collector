@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24799530,Miranda do Corvo,Região de Coimbra,310,2025-01-10T09:55:00Z,24799530,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-10T09:55:00Z,Miranda Do Corvo,Coimbra,Centro,-8.339499,40.09407
 24799476,Sertã,Beira Baixa,310,2025-01-10T09:40:00Z,24799476,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-10T09:40:00Z,Sertã,Castelo Branco,Centro,-8.084891,39.824425
+24800120,Canidelo,Area M. Porto,309,2025-01-10T11:31:00Z,24800120,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-10T11:31:00Z,Vila Nova De Gaia,Porto,Norte,-8.652723,41.127681
