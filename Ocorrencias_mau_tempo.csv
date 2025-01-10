@@ -1,2 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24802709,Cortegaça,Região de Aveiro,310,2025-01-10T21:07:00Z,24802709,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,8,2025-01-10T21:07:00Z,Ovar,Aveiro,Centro,-8.65716,40.94349
+24802709,Cortegaça,Região de Aveiro,310,2025-01-10T21:07:00Z,24802709,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,8,2025-01-10T21:07:00Z,Ovar,Aveiro,Centro,-8.65716,40.94349
+24802826,Prado (São Miguel),Cávado,309,2025-01-10T21:44:00Z,24802826,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-10T21:44:00Z,Vila Verde,Braga,Norte,-8.434569,41.70253
