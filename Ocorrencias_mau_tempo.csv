@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24801245,Midões,Região de Coimbra,310,2025-01-10T15:02:00Z,24801245,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-10T15:02:00Z,Tábua,Coimbra,Centro,-7.959948,40.405726
-24801000,Marrazes e Barosa,Região de Leiria,310,2025-01-10T14:25:00Z,24801000,Em conclusão,3313,Deslizamento de terras,0,5,0,13,2025-01-10T14:25:00Z,Leiria,Leiria,Centro,-8.776145,39.77075
 24800120,Canidelo,Area M. Porto,309,2025-01-10T11:31:00Z,24800120,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-10T11:31:00Z,Vila Nova De Gaia,Porto,Norte,-8.652723,41.127681
+24801000,Marrazes e Barosa,Região de Leiria,310,2025-01-10T14:25:00Z,24801000,Em conclusão,3313,Deslizamento de terras,0,5,0,13,2025-01-10T14:25:00Z,Leiria,Leiria,Centro,-8.776145,39.77075
