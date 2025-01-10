@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24802089,Vela,Beiras e Serra da Estrela,310,2025-01-10T18:00:00Z,24802089,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-10T18:00:00Z,Guarda,Guarda,Centro,-7.312435,40.439954
-24800120,Canidelo,Area M. Porto,309,2025-01-10T11:31:00Z,24800120,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-10T11:31:00Z,Vila Nova De Gaia,Porto,Norte,-8.652723,41.127681
-24801000,Marrazes e Barosa,Região de Leiria,310,2025-01-10T14:25:00Z,24801000,Em conclusão,3313,Deslizamento de terras,0,5,0,13,2025-01-10T14:25:00Z,Leiria,Leiria,Centro,-8.776145,39.77075
+24801000,Marrazes e Barosa,Região de Leiria,310,2025-01-10T14:25:00Z,24801000,Em conclusão,3313,Deslizamento de terras,0,1,0,2,2025-01-10T14:25:00Z,Leiria,Leiria,Centro,-8.776145,39.77075
 24802067,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-01-10T18:00:00Z,24802067,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-10T18:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.385912,38.758094
 24802117,Cercal,Alentejo Litoral,312,2025-01-10T18:02:00Z,24802117,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-10T18:02:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.682484,37.780675
+24802187,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-01-10T18:25:00Z,24802187,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-10T18:25:00Z,Matosinhos,Porto,Norte,-8.603992,41.193713
