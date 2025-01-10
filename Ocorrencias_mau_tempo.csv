@@ -1,4 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24799530,Miranda do Corvo,Região de Coimbra,310,2025-01-10T09:55:00Z,24799530,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-10T09:55:00Z,Miranda Do Corvo,Coimbra,Centro,-8.339499,40.09407
 24799476,Sertã,Beira Baixa,310,2025-01-10T09:40:00Z,24799476,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-10T09:40:00Z,Sertã,Castelo Branco,Centro,-8.084891,39.824425
+24800245,Coura,Alto Minho,309,2025-01-10T12:01:00Z,24800245,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-10T12:01:00Z,Paredes De Coura,Viana Do Castelo,Norte,-8.64142,41.88007
+24799530,Miranda do Corvo,Região de Coimbra,310,2025-01-10T09:55:00Z,24799530,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-10T09:55:00Z,Miranda Do Corvo,Coimbra,Centro,-8.339499,40.09407
 24800120,Canidelo,Area M. Porto,309,2025-01-10T11:31:00Z,24800120,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-10T11:31:00Z,Vila Nova De Gaia,Porto,Norte,-8.652723,41.127681
+24800206,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-01-10T11:50:00Z,24800206,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-10T11:50:00Z,Lagos,Faro,Algarve,-8.668524,37.100485
+24800238,São João Baptista,Médio Tejo,311,2025-01-10T12:00:00Z,24800238,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-01-10T12:00:00Z,Entroncamento,Santarém,Centro,-8.472394,39.461503
