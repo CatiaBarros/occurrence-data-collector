@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24803156,Montaria,Alto Minho,309,2025-01-10T23:48:00Z,24803156,Em curso,3313,Deslizamento de terras,0,3,0,6,2025-01-10T23:48:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.733258,41.79163
-24803251,Mesão Frio,Ave,309,2025-01-11T00:34:00Z,24803251,Em despacho,3313,Deslizamento de terras,0,3,0,4,2025-01-11T00:34:00Z,Guimarães,Braga,Norte,-8.257408,41.446688
+24803156,Montaria,Alto Minho,309,2025-01-10T23:48:00Z,24803156,Em curso,3313,Deslizamento de terras,0,2,0,4,2025-01-10T23:48:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.733258,41.79163
