@@ -1,9 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24808008,"Amora","Península de Setúbal",311,"2025-01-12T08:25:00",24808008,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2025-01-12T08:25:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.128863,38.61388
+24807953,"Amoreira da Gândara, Paredes do Bairro e Ancas","Região de Aveiro",310,"2025-01-12T08:09:00",24807953,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-01-12T08:09:00","Anadia","Aveiro","Centro",-8.522132,40.451123
+24808012,"Alburitel","Médio Tejo",311,"2025-01-12T08:34:00",24808012,"Em conclusão","2407","Despiste",0,4,0,11,"2025-01-12T08:34:00","Ourém","Santarém","Centro",-8.545002,39.632948
+24808189,"N. S. da Vila, N. S. do Bispo e Silveiras","Alentejo Central",312,"2025-01-12T09:06:00",24808189,"Em curso","2301","Incêndio em transporte rodoviário",0,3,0,7,"2025-01-12T09:06:00","Montemor-o-Novo","Évora","Alentejo",-8.21652,38.662575
+24807836,"Gaeiras","Oeste",311,"2025-01-12T06:58:00",24807836,"Em conclusão","2407","Despiste",0,4,0,10,"2025-01-12T06:58:00","Óbidos","Leiria","Centro",-9.13344,39.373927
+24808081,"Lumiar","Grande Lisboa",311,"2025-01-12T08:48:00",24808081,"Em curso","2407","Despiste",0,2,0,4,"2025-01-12T08:48:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.167579,38.774645
+24808220,"Darque","Alto Minho",309,"2025-01-12T09:14:00",24808220,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2025-01-12T09:14:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.802658,41.683071
 24808142,"Vila Nova de Souto D'El-Rei","Douro",309,"2025-01-12T09:03:00",24808142,"Em despacho","2407","Despiste",0,1,0,2,"2025-01-12T09:03:00","Lamego","Viseu","Norte",-7.816577,41.083496
+24808191,"Adoufe e Vilarinho de Samardã","Douro",309,"2025-01-12T09:19:00",24808191,"Em despacho","2407","Despiste",0,3,0,13,"2025-01-12T09:19:00","Vila Real","Vila Real","Norte",-7.727003,41.32903
 24808052,"Arcozelo","Area M. Porto",309,"2025-01-12T08:30:00",24808052,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-01-12T08:30:00","Vila Nova De Gaia","Porto","Norte",-8.642211,41.049481
 24808134,"Aljubarrota","Oeste",311,"2025-01-12T09:03:00",24808134,"Em despacho","2407","Despiste",0,1,0,1,"2025-01-12T09:03:00","Alcobaça","Leiria","Centro",-8.904487,39.553106
-24807836,"Gaeiras","Oeste",311,"2025-01-12T06:58:00",24807836,"Em conclusão","2407","Despiste",0,4,0,10,"2025-01-12T06:58:00","Óbidos","Leiria","Centro",-9.13344,39.373927
-24808081,"Lumiar","Grande Lisboa",311,"2025-01-12T08:48:00",24808081,"Em despacho","2407","Despiste",0,2,0,4,"2025-01-12T08:48:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.167579,38.774645
-24807953,"Amoreira da Gândara, Paredes do Bairro e Ancas","Região de Aveiro",310,"2025-01-12T08:09:00",24807953,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-01-12T08:09:00","Anadia","Aveiro","Centro",-8.522132,40.451123
-24808012,"Alburitel","Médio Tejo",311,"2025-01-12T08:34:00",24808012,"Em resolução","2407","Despiste",0,4,0,11,"2025-01-12T08:34:00","Ourém","Santarém","Centro",-8.545002,39.632948
