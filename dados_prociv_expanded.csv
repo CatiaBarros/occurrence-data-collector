@@ -1,5 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24807478,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2025-01-12T01:39:00",24807478,"Em curso","2407","Despiste",0,0,0,0,"2025-01-12T01:39:00","Leiria","Leiria","Centro",-8.783991,39.716662
+24807762,"Silvares, Pias, Nogueira e Alvarenga","Tâmega e Sousa",309,"2025-01-12T05:48:00",24807762,"Em curso","2407","Despiste",0,1,0,2,"2025-01-12T05:48:00","Lousada","Porto","Norte",-8.259928,41.287872
 24807511,"Cercosa","Região de Coimbra",310,"2025-01-12T01:56:00",24807511,"Em conclusão","2407","Despiste",0,1,0,2,"2025-01-12T01:56:00","Mortágua","Viseu","Centro",-8.267285,40.340935
 24807620,"Cadima","Região de Coimbra",310,"2025-01-12T03:28:00",24807620,"Em conclusão","2407","Despiste",0,6,0,14,"2025-01-12T03:28:00","Cantanhede","Coimbra","Centro",-8.650714,40.33589
-24807738,"Santa Maria Maior e Monserrate e Meadela","Alto Minho",309,"2025-01-12T05:36:00",24807738,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,1,0,6,"2025-01-12T05:36:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.8241,41.69349
+24807738,"Santa Maria Maior e Monserrate e Meadela","Alto Minho",309,"2025-01-12T05:36:00",24807738,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,4,0,10,"2025-01-12T05:36:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.82431,41.693257
