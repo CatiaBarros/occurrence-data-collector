@@ -1,2 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24811523,"Barcarena","Grande Lisboa",311,"2025-01-13T02:50:00",24811523,"Em conclusão","2407","Despiste",0,2,0,7,"2025-01-13T02:50:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.279087,38.732564
+24811584,"Rio Tinto","Area M. Porto",309,"2025-01-13T04:12:00",24811584,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,4,"2025-01-13T04:12:00","Gondomar","Porto","Norte",-8.57532,41.18187
