@@ -1,10 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24811868,"Vale da Pedra","Lezíria do Tejo",311,"2025-01-13T07:59:00",24811868,"Em conclusão","2407","Despiste",0,4,0,10,"2025-01-13T07:59:00","Cartaxo","Santarém","Alentejo",-8.810232,39.119125
 24811829,"Pinheiro da Bemposta, Travanca e Palmaz","Area M. Porto",309,"2025-01-13T07:43:00",24811829,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-01-13T07:43:00","Oliveira De Azeméis","Aveiro","Norte",-8.495073,40.79233
 24811844,"Canha","Península de Setúbal",311,"2025-01-13T07:45:00",24811844,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,1,0,5,"2025-01-13T07:45:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.631311,38.768258
 24811845,"Vizela (Santo Adrião)","Ave",309,"2025-01-13T07:48:00",24811845,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-01-13T07:48:00","Vizela","Braga","Norte",-8.286877,41.365874
-24811860,"Vila de Cucujães","Area M. Porto",309,"2025-01-13T07:55:00",24811860,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-13T07:55:00","Oliveira De Azeméis","Aveiro","Norte",-8.507006,40.873108
-24811868,"Vale da Pedra","Lezíria do Tejo",311,"2025-01-13T07:59:00",24811868,"Em resolução","2407","Despiste",0,4,0,10,"2025-01-13T07:59:00","Cartaxo","Santarém","Alentejo",-8.810232,39.119125
-24811783,"Braga (Maximinos, Sé e Cividade)","Cávado",309,"2025-01-13T07:20:00",24811783,"Em conclusão","2407","Despiste",0,3,0,10,"2025-01-13T07:20:00","Braga","Braga","Norte",-8.431003,41.55249
-24811856,"Vila de Cucujães","Area M. Porto",309,"2025-01-13T07:56:00",24811856,"Em curso","2301","Incêndio em transporte rodoviário",0,4,0,12,"2025-01-13T07:56:00","Oliveira De Azeméis","Aveiro","Norte",-8.488642,40.878867
-24811864,"Carnaxide e Queijas","Grande Lisboa",311,"2025-01-13T07:59:00",24811864,"Em curso","2403","Colisão rodoviária",0,5,0,12,"2025-01-13T07:59:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.256277,38.716014
-24811907,"Campo e Sobrado","Area M. Porto",309,"2025-01-13T08:03:00",24811907,"Em despacho","2407","Despiste",0,2,0,4,"2025-01-13T08:03:00","Valongo","Porto","Norte",-8.467145,41.204483
+24811860,"Vila de Cucujães","Area M. Porto",309,"2025-01-13T07:55:00",24811860,"Em curso","3301","Queda de árvore",0,1,0,2,"2025-01-13T07:55:00","Oliveira De Azeméis","Aveiro","Norte",-8.507006,40.873108
+24811945,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-01-13T08:20:00",24811945,"Em despacho","2401","Atropelamento rodoviário",0,2,0,3,"2025-01-13T08:20:00","Bragança","Bragança","Norte",-6.761223,41.813164
+24811783,"Braga (Maximinos, Sé e Cividade)","Cávado",309,"2025-01-13T07:20:00",24811783,"Em conclusão","2407","Despiste",0,2,0,8,"2025-01-13T07:20:00","Braga","Braga","Norte",-8.431003,41.55249
+24811856,"Vila de Cucujães","Area M. Porto",309,"2025-01-13T07:56:00",24811856,"Em resolução","2301","Incêndio em transporte rodoviário",0,4,0,12,"2025-01-13T07:56:00","Oliveira De Azeméis","Aveiro","Norte",-8.488642,40.878867
+24811864,"Porto Salvo","Grande Lisboa",311,"2025-01-13T07:59:00",24811864,"Em conclusão","2403","Colisão rodoviária",0,5,0,12,"2025-01-13T07:59:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.297541,38.713772
+24811907,"Campo e Sobrado","Area M. Porto",309,"2025-01-13T08:03:00",24811907,"Em conclusão","2407","Despiste",0,2,0,4,"2025-01-13T08:03:00","Valongo","Porto","Norte",-8.467145,41.204483
