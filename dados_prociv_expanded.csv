@@ -1,3 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24811425,"Seixal, Arrentela e Aldeia de Paio Pires","Península de Setúbal",311,"2025-01-13T01:17:00",24811425,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,5,"2025-01-13T01:17:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.09799,38.60233
-24811440,"Escalos de Cima e Lousa","Beira Baixa",310,"2025-01-13T01:34:00",24811440,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,2,0,4,"2025-01-13T01:34:00","Castelo Branco","Castelo Branco","Centro",-7.400046,39.930915
+24811523,"Barcarena","Grande Lisboa",311,"2025-01-13T02:50:00",24811523,"Em conclusão","2407","Despiste",0,2,0,7,"2025-01-13T02:50:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.279087,38.732564
