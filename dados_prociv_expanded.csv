@@ -1,7 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24816261,"Idanha-a-Nova e Alcafozes","Beira Baixa",310,"2025-01-14T06:00:00",24816261,"Em resolução","2115","Incêndio em edifícios hoteleiros e de restauração",0,6,0,12,"2025-01-14T06:00:00","Idanha-a-Nova","Castelo Branco","Centro",-7.181223,39.973318
-24816454,"Alenquer (Santo Estêvão e Triana)","Oeste",311,"2025-01-14T08:06:00",24816454,"Em despacho","2403","Colisão rodoviária",0,0,0,0,"2025-01-14T08:06:00","Alenquer","Lisboa","Centro",-8.996276,39.06236
+24816454,"Alenquer (Santo Estêvão e Triana)","Oeste",311,"2025-01-14T08:06:00",24816454,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-01-14T08:06:00","Alenquer","Lisboa","Centro",-9.007918,39.054242
+24816466,"Beja (Santiago Maior e São João Baptista)","Baixo Alentejo",312,"2025-01-14T08:08:00",24816466,"Em despacho","2403","Colisão rodoviária",0,2,0,5,"2025-01-14T08:08:00","Beja","Beja","Alentejo",-7.902989,38.011769
 24816357,"Almaceda","Beira Baixa",310,"2025-01-14T07:12:00",24816357,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,11,0,32,"2025-01-14T07:12:00","Castelo Branco","Castelo Branco","Centro",-7.63251,39.932502
-24816407,"Pinhal Novo","Península de Setúbal",311,"2025-01-14T07:40:00",24816407,"Em curso","2407","Despiste",0,4,0,11,"2025-01-14T07:40:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.91294,38.637902
-24816425,"Pombal","Região de Leiria",310,"2025-01-14T07:52:00",24816425,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-01-14T07:52:00","Pombal","Leiria","Centro",-8.6499,39.89409
+24816407,"Pinhal Novo","Península de Setúbal",311,"2025-01-14T07:40:00",24816407,"Em conclusão","2407","Despiste",0,4,0,11,"2025-01-14T07:40:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.91294,38.637902
+24816425,"Pombal","Região de Leiria",310,"2025-01-14T07:52:00",24816425,"Em curso","2403","Colisão rodoviária",0,6,0,14,"2025-01-14T07:52:00","Pombal","Leiria","Centro",-8.6499,39.89409
 24816442,"Real, Dume e Semelhe","Cávado",309,"2025-01-14T07:54:00",24816442,"Em despacho","2401","Atropelamento rodoviário",0,2,0,4,"2025-01-14T07:54:00","Braga","Braga","Norte",-8.446278,41.560804
