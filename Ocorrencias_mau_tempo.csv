@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24821790,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2025-01-15T11:10:00Z,24821790,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-15T11:10:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.492045,40.113509
 24822587,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-15T13:57:00Z,24822587,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,3,2025-01-15T13:57:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
-24822744,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-01-15T14:19:00Z,24822744,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-01-15T14:19:00Z,Matosinhos,Porto,Norte,-8.699522,41.236271
+24822744,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-01-15T14:19:00Z,24822744,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-01-15T14:19:00Z,Matosinhos,Porto,Norte,-8.699522,41.236271
+24821790,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2025-01-15T11:10:00Z,24821790,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-15T11:10:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.492045,40.113509
