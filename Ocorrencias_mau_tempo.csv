@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24821644,Comenda,Alto Alentejo,312,2025-01-15T10:51:00Z,24821644,Em curso,3301,Queda de árvore,0,2,0,5,2025-01-15T10:51:00Z,Gavião,Portalegre,Alentejo,-7.850762,39.404117
 24820929,Macedo de Cavaleiros,Terras de Trás-os-Montes,309,2025-01-15T08:32:00Z,24820929,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-15T08:32:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.958775,41.538051
-24821387,Comenda,Alto Alentejo,312,2025-01-15T09:50:00Z,24821387,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-01-15T09:50:00Z,Gavião,Portalegre,Alentejo,-7.822472,39.420898
+24821695,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2025-01-15T10:57:00Z,24821695,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-01-15T10:57:00Z,Porto,Porto,Norte,-8.672794,41.152891
