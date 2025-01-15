@@ -1,7 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24820603,"S.julião, N.s. da Anunciada e S. Maria da Graça","Península de Setúbal",311,"2025-01-15T05:05:00",24820603,"Em curso","2407","Despiste",0,0,0,0,"2025-01-15T05:05:00","Setúbal","Setúbal","Área Metropolitana De Lisboa",-8.889983,38.529955
 24819372,"Colares","Grande Lisboa",311,"2025-01-14T18:12:00",24819372,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-01-14T18:12:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.475282,38.800337
-24820624,"Vila Nova de São Bento e Vale de Vargo","Baixo Alentejo",312,"2025-01-15T05:34:00",24820624,"Em resolução","2407","Despiste",0,3,0,6,"2025-01-15T05:34:00","Serpa","Beja","Alentejo",-7.427625,37.92329
-24820633,"Lamas de Orelhão","Terras de Trás-os-Montes",309,"2025-01-15T05:53:00",24820633,"Em curso","2403","Colisão rodoviária",0,3,0,9,"2025-01-15T05:53:00","Mirandela","Bragança","Norte",-7.28211,41.45072
-24820649,"Campanhã","Area M. Porto",309,"2025-01-15T06:06:00",24820649,"Em despacho","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-01-15T06:06:00","Porto","Porto","Norte",-8.563475,41.15845
+24820677,"Aradas","Região de Aveiro",310,"2025-01-15T06:32:00",24820677,"Em curso","3203","Detritos confinados",0,1,0,4,"2025-01-15T06:32:00","Aveiro","Aveiro","Centro",-8.6472,40.619932
+24820624,"Vila Nova de São Bento e Vale de Vargo","Baixo Alentejo",312,"2025-01-15T05:34:00",24820624,"Em conclusão","2407","Despiste",0,3,0,6,"2025-01-15T05:34:00","Serpa","Beja","Alentejo",-7.427625,37.92329
+24820633,"Lamas de Orelhão","Terras de Trás-os-Montes",309,"2025-01-15T05:53:00",24820633,"Em curso","2403","Colisão rodoviária",0,7,0,16,"2025-01-15T05:53:00","Mirandela","Bragança","Norte",-7.28211,41.45072
+24820649,"Campanhã","Area M. Porto",309,"2025-01-15T06:06:00",24820649,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,5,"2025-01-15T06:06:00","Porto","Porto","Norte",-8.563475,41.15845
 24820656,"Porto Salvo","Grande Lisboa",311,"2025-01-15T06:10:00",24820656,"Em despacho","2101","Incêndio em edifícios habitacionais",0,1,0,5,"2025-01-15T06:10:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.305901,38.719291
