@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24822115,Avintes,Area M. Porto,309,2025-01-15T12:28:00Z,24822115,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-01-15T12:28:00Z,Vila Nova De Gaia,Porto,Norte,-8.54862,41.10794
 24821791,Silvalde,Area M. Porto,309,2025-01-15T11:23:00Z,24821791,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-01-15T11:23:00Z,Espinho,Aveiro,Norte,-8.630075,40.992078
 24822061,Vilar de Andorinho,Area M. Porto,309,2025-01-15T11:39:00Z,24822061,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,3,2025-01-15T11:39:00Z,Vila Nova De Gaia,Porto,Norte,-8.57418,41.09994
 24821219,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-15T09:37:00Z,24821219,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,1,2025-01-15T09:37:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.843257,41.693025
