@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24827912,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-01-16T16:17:00Z,24827912,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-01-16T16:17:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
 24825594,Loures,Grande Lisboa,311,2025-01-16T08:55:00Z,24825594,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-16T08:55:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.169276,38.838808
+24827912,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-01-16T16:17:00Z,24827912,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-01-16T16:17:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
 24827945,Venteira,Grande Lisboa,311,2025-01-16T16:29:00Z,24827945,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-16T16:29:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.232811,38.75153
+24828030,Silvalde,Area M. Porto,309,2025-01-16T16:45:00Z,24828030,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-16T16:45:00Z,Espinho,Aveiro,Norte,-8.630075,40.992078
