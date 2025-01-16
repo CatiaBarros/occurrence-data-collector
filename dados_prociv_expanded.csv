@@ -1,3 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24825164,"Seiça","Médio Tejo",311,"2025-01-16T05:58:00",24825164,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-01-16T05:58:00","Ourém","Santarém","Centro",-8.5531,39.6905
-24825185,"Carnaxide e Queijas","Grande Lisboa",311,"2025-01-16T06:17:00",24825185,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,3,0,6,"2025-01-16T06:17:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.233587,38.727201
+24825164,"Seiça","Médio Tejo",311,"2025-01-16T05:58:00",24825164,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,5,"2025-01-16T05:58:00","Ourém","Santarém","Centro",-8.55294,39.689548
