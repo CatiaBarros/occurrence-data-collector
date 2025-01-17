@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24831837,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2025-01-17T14:00:00Z,24831837,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-17T14:00:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.492045,40.113509
 24832241,Vila Nova,Região de Coimbra,310,2025-01-17T15:25:00Z,24832241,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-17T15:25:00Z,Miranda Do Corvo,Coimbra,Centro,-8.272594,40.062649
+24831837,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2025-01-17T14:00:00Z,24831837,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-17T14:00:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.492045,40.113509
+24832273,"Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",Beiras e Serra da Estrela,310,2025-01-17T15:19:00Z,24832273,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-17T15:19:00Z,Fundão,Castelo Branco,Centro,-7.505345,40.138491
