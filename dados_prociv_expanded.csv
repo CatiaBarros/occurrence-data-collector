@@ -4,10 +4,9 @@
 24830243,"Carvoeiro","Médio Tejo",311,"2025-01-17T09:14:00",24830243,"Em curso","4335","Prevenção a queimadas",0,1,0,2,"2025-01-17T09:14:00","Mação","Santarém","Centro",-7.93278,39.624855
 24830529,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-17T10:09:00",24830529,"Em resolução","4333","Busca e resgate aquático de animais",0,3,0,8,"2025-01-17T10:09:00","Évora","Évora","Alentejo",-7.901433,38.563703
 24830611,"Venda do Pinheiro e Santo Estêvão Das Galés","Grande Lisboa",311,"2025-01-17T10:29:00",24830611,"Em conclusão","3111","Queima",0,1,0,5,"2025-01-17T10:29:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.256806,38.90857
-24830797,"Portimão","Algarve",313,"2025-01-17T10:47:00",24830797,"Em conclusão","2403","Colisão rodoviária",0,2,0,7,"2025-01-17T10:47:00","Portimão","Faro","Algarve",-8.532608,37.137966
 24830845,"Rio Tinto","Area M. Porto",309,"2025-01-17T11:02:00",24830845,"Em curso","2401","Atropelamento rodoviário",0,3,0,9,"2025-01-17T11:02:00","Gondomar","Porto","Norte",-8.557787,41.186118
 24830928,"Cabril","Alto Tâmega e Barroso",309,"2025-01-17T11:00:00",24830928,"Em despacho","3109","Gestão de combustível",0,5,0,18,"2025-01-17T11:00:00","Montalegre","Vila Real","Norte",-8.044897,41.758705
-24830964,"Amor","Região de Leiria",310,"2025-01-17T11:20:00",24830964,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,7,0,21,"2025-01-17T11:20:00","Leiria","Leiria","Centro",-8.844056,39.78676
+24830964,"Amor","Região de Leiria",310,"2025-01-17T11:20:00",24830964,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,9,0,24,"2025-01-17T11:20:00","Leiria","Leiria","Centro",-8.844056,39.78676
 24829936,"Arga (Baixo, Cima e São João)","Alto Minho",309,"2025-01-17T08:00:00",24829936,"Em curso","3109","Gestão de combustível",0,6,0,19,"2025-01-17T08:00:00","Caminha","Viana Do Castelo","Norte",-8.7507,41.847933
 24830121,"Cabreiros e Albergaria da Serra","Area M. Porto",309,"2025-01-17T08:45:00",24830121,"Em despacho","3109","Gestão de combustível",0,4,0,14,"2025-01-17T08:45:00","Arouca","Aveiro","Norte",-8.227574,40.868384
 24830235,"Anhões e Luzio","Alto Minho",309,"2025-01-17T09:00:00",24830235,"Em curso","3109","Gestão de combustível",0,6,0,22,"2025-01-17T09:00:00","Monção","Viana Do Castelo","Norte",-8.426683,42.006045
@@ -17,8 +16,8 @@
 24830066,"Vilar da Veiga","Cávado",309,"2025-01-17T08:32:00",24830066,"Em despacho","3109","Gestão de combustível",0,7,0,25,"2025-01-17T08:32:00","Terras De Bouro","Braga","Norte",-8.128166,41.731689
 24830273,"Gouveia (São Pedro e São Julião)","Beiras e Serra da Estrela",310,"2025-01-17T09:20:00",24830273,"Em despacho","3109","Gestão de combustível",0,6,0,23,"2025-01-17T09:20:00","Gouveia","Guarda","Centro",-7.586951,40.497325
 24830357,"Povolide","Viseu Dão Lafões",310,"2025-01-17T09:34:00",24830357,"Em despacho","4339","Corte ou remoção de elementos",0,1,0,1,"2025-01-17T09:34:00","Viseu","Viseu","Centro",-7.794893,40.667416
-24830716,"Miranda do Douro","Terras de Trás-os-Montes",309,"2025-01-17T10:46:00",24830716,"Em despacho","2101","Incêndio em edifícios habitacionais",0,3,0,9,"2025-01-17T10:46:00","Miranda Do Douro","Bragança","Norte",-6.291141,41.51146
-24830975,"Mafamude e Vilar do Paraíso","Area M. Porto",309,"2025-01-17T11:28:00",24830975,"Em despacho","2101","Incêndio em edifícios habitacionais",0,6,0,18,"2025-01-17T11:28:00","Vila Nova De Gaia","Porto","Norte",-8.602229,41.11884
+24830716,"Miranda do Douro","Terras de Trás-os-Montes",309,"2025-01-17T10:46:00",24830716,"Em resolução","2101","Incêndio em edifícios habitacionais",0,3,0,9,"2025-01-17T10:46:00","Miranda Do Douro","Bragança","Norte",-6.291141,41.51146
+24830975,"Mafamude e Vilar do Paraíso","Area M. Porto",309,"2025-01-17T11:28:00",24830975,"Em curso","2101","Incêndio em edifícios habitacionais",0,8,0,22,"2025-01-17T11:28:00","Vila Nova De Gaia","Porto","Norte",-8.602229,41.11884
 24825276,"Fajão-Vidual","Região de Coimbra",310,"2025-01-16T07:00:00",24825276,"Em curso","3109","Gestão de combustível",0,9,0,22,"2025-01-16T07:00:00","Pampilhosa Da Serra","Coimbra","Centro",-7.925384,40.150809
 24830247,"Gondiães e Vilar de Cunhas","Ave",309,"2025-01-17T09:15:00",24830247,"Em despacho","3111","Queima",0,7,0,23,"2025-01-17T09:15:00","Cabeceiras De Basto","Braga","Norte",-7.857184,41.572599
 24830249,"Fajão-Vidual","Região de Coimbra",310,"2025-01-17T09:15:00",24830249,"Em curso","4335","Prevenção a queimadas",0,1,0,2,"2025-01-17T09:15:00","Pampilhosa Da Serra","Coimbra","Centro",-7.88717723617897,40.1545695278559
@@ -26,7 +25,8 @@
 24830458,"Fiães","Alto Minho",309,"2025-01-17T09:57:00",24830458,"Em curso","3109","Gestão de combustível",0,4,0,18,"2025-01-17T09:57:00","Melgaço","Viana Do Castelo","Norte",-8.20306,42.0875
 24830710,"Albergaria-a-Velha e Valmaior","Região de Aveiro",310,"2025-01-17T10:41:00",24830710,"Em conclusão","2403","Colisão rodoviária",0,4,0,11,"2025-01-17T10:41:00","Albergaria-a-Velha","Aveiro","Centro",-8.483271,40.684483
 24830833,"Noura e Palheiros","Douro",309,"2025-01-17T11:00:00",24830833,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,2,0,6,"2025-01-17T11:00:00","Murça","Vila Real","Norte",-7.419723,41.389053
-24830842,"Porto Covo","Alentejo Litoral",312,"2025-01-17T11:01:00",24830842,"Em conclusão","3301","Queda de árvore",0,1,0,1,"2025-01-17T11:01:00","Sines","Setúbal","Alentejo",-8.760914,37.824268
 24830908,"Canedo, Vale e Vila Maior","Area M. Porto",309,"2025-01-17T11:11:00",24830908,"Em despacho","2407","Despiste",0,2,0,4,"2025-01-17T11:11:00","Santa Maria Da Feira","Aveiro","Norte",-8.448673,41.011004
 24830944,"Fânzeres e São Pedro da Cova","Area M. Porto",309,"2025-01-17T11:20:00",24830944,"Em despacho","3109","Gestão de combustível",0,1,0,5,"2025-01-17T11:20:00","Gondomar","Porto","Norte",-8.511531,41.155311
-24831010,"Alenquer (Santo Estêvão e Triana)","Oeste",311,"2025-01-17T11:33:00",24831010,"Em despacho","2407","Despiste",0,2,0,4,"2025-01-17T11:33:00","Alenquer","Lisboa","Centro",-8.994128,39.049915
+24831010,"Alenquer (Santo Estêvão e Triana)","Oeste",311,"2025-01-17T11:33:00",24831010,"Em resolução","2407","Despiste",0,2,0,4,"2025-01-17T11:33:00","Alenquer","Lisboa","Centro",-8.994128,39.049915
+24831067,"Beja (Salvador e Santa Maria da Feira)","Baixo Alentejo",312,"2025-01-17T11:44:00",24831067,"Em curso","2101","Incêndio em edifícios habitacionais",0,3,0,8,"2025-01-17T11:44:00","Beja","Beja","Alentejo",-7.846573,38.014385
+24831085,"Parque Das Nações","Grande Lisboa",311,"2025-01-17T11:31:00",24831085,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-01-17T11:31:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.09548,38.774802
