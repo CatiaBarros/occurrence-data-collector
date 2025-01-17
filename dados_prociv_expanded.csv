@@ -1,5 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24829827,"Gondemaria e Olival","Médio Tejo",311,"2025-01-17T07:05:00",24829827,"Em resolução","2407","Despiste",0,4,0,11,"2025-01-17T07:05:00","Ourém","Santarém","Centro",-8.630345,39.685588
-24829882,"Carnide","Região de Leiria",310,"2025-01-17T07:32:00",24829882,"Em curso","2403","Colisão rodoviária",0,3,0,8,"2025-01-17T07:32:00","Pombal","Leiria","Centro",-8.705892,39.877589
+24829920,"Eixo e Eirol","Região de Aveiro",310,"2025-01-17T07:58:00",24829920,"Em despacho","2407","Despiste",0,1,0,2,"2025-01-17T07:58:00","Aveiro","Aveiro","Centro",-8.552917,40.62436
+24829936,"Arga (Baixo, Cima e São João)","Alto Minho",309,"2025-01-17T08:00:00",24829936,"Em despacho","3111","Queima",0,1,0,5,"2025-01-17T08:00:00","Caminha","Viana Do Castelo","Norte",-8.719685,41.845078
 24825276,"Fajão-Vidual","Região de Coimbra",310,"2025-01-16T07:00:00",24825276,"Em conclusão","3109","Gestão de combustível",0,10,0,24,"2025-01-16T07:00:00","Pampilhosa Da Serra","Coimbra","Centro",-7.925384,40.150809
-24829763,"Ronfe","Ave",309,"2025-01-17T06:06:00",24829763,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,9,"2025-01-17T06:06:00","Guimarães","Braga","Norte",-8.370702,41.444617
+24829763,"Ronfe","Ave",309,"2025-01-17T06:06:00",24829763,"Em resolução","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,9,"2025-01-17T06:06:00","Guimarães","Braga","Norte",-8.370702,41.444617
+24829922,"Arcozelo","Cávado",309,"2025-01-17T07:55:00",24829922,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-01-17T07:55:00","Barcelos","Braga","Norte",-8.608735,41.544418
+24829827,"Gondemaria e Olival","Médio Tejo",311,"2025-01-17T07:05:00",24829827,"Em conclusão","2407","Despiste",0,4,0,11,"2025-01-17T07:05:00","Ourém","Santarém","Centro",-8.630345,39.685588
+24829882,"Carnide","Região de Leiria",310,"2025-01-17T07:32:00",24829882,"Em curso","2403","Colisão rodoviária",0,3,0,8,"2025-01-17T07:32:00","Pombal","Leiria","Centro",-8.705892,39.877589
+24829916,"Quinta do Anjo","Península de Setúbal",311,"2025-01-17T07:57:00",24829916,"Em despacho","2129","Incêndio em edifícios degradados ou devolutos",0,0,0,0,"2025-01-17T07:57:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.995199,38.55785
