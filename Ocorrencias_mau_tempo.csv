@@ -1,13 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24844577,Santa Catarina da Fonte do Bispo,Algarve,313,2025-01-20T13:24:00Z,24844577,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-20T13:24:00Z,Tavira,Faro,Algarve,-7.797582,37.158896
+24844792,São Pedro de Castelões,Area M. Porto,309,2025-01-20T14:13:00Z,24844792,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-20T14:13:00Z,Vale De Cambra,Aveiro,Norte,-8.41425,40.84043
+24844811,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-01-20T14:17:00Z,24844811,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-20T14:17:00Z,Felgueiras,Porto,Norte,-8.23079,41.3708
+24844670,Buarcos,Região de Coimbra,310,2025-01-20T13:42:00Z,24844670,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T13:42:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
+24844813,Vendas Novas,Alentejo Central,312,2025-01-20T14:15:00Z,24844813,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T14:15:00Z,Vendas Novas,Évora,Alentejo,-8.467471,38.671556
+24844940,Alcobaça e Vestiaria,Oeste,311,2025-01-20T14:35:00Z,24844940,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-20T14:35:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
+24844876,Lagoa e Carvoeiro,Algarve,313,2025-01-20T14:22:00Z,24844876,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T14:22:00Z,Lagoa,Faro,Algarve,-8.449309,37.134614
+24844893,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-01-20T14:27:00Z,24844893,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-20T14:27:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.036827,38.899136
+24843951,Alferce,Algarve,313,2025-01-20T11:34:00Z,24843951,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-20T11:34:00Z,Monchique,Faro,Algarve,-8.493023,37.333617
+24844934,Ferreiras,Algarve,313,2025-01-20T14:32:00Z,24844934,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T14:32:00Z,Albufeira,Faro,Algarve,-8.236596,37.128685
 24844219,Almancil,Algarve,313,2025-01-20T12:16:00Z,24844219,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-20T12:16:00Z,Loulé,Faro,Algarve,-8.019032,37.062147
 24844630,Buarcos,Região de Coimbra,310,2025-01-20T13:38:00Z,24844630,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,6,2025-01-20T13:38:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
 24844866,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T10:45:00Z,24844866,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T10:45:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
-24844577,Santa Catarina da Fonte do Bispo,Algarve,313,2025-01-20T13:24:00Z,24844577,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-20T13:24:00Z,Tavira,Faro,Algarve,-7.797582,37.158896
-24844708,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T13:35:00Z,24844708,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T13:35:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
-24844778,Ferreiras,Algarve,313,2025-01-20T14:05:00Z,24844778,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T14:05:00Z,Albufeira,Faro,Algarve,-8.24221,37.119669
-24844670,Buarcos,Região de Coimbra,310,2025-01-20T13:42:00Z,24844670,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T13:42:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
-24844813,Vendas Novas,Alentejo Central,312,2025-01-20T14:15:00Z,24844813,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T14:15:00Z,Vendas Novas,Évora,Alentejo,-8.467471,38.671556
-24843951,Alferce,Algarve,313,2025-01-20T11:34:00Z,24843951,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-20T11:34:00Z,Monchique,Faro,Algarve,-8.493023,37.333617
-24844792,São Pedro de Castelões,Area M. Porto,309,2025-01-20T14:13:00Z,24844792,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-20T14:13:00Z,Vale De Cambra,Aveiro,Norte,-8.41425,40.84043
-24844811,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-01-20T14:17:00Z,24844811,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-20T14:17:00Z,Felgueiras,Porto,Norte,-8.23079,41.3708
-24844876,Lagoa e Carvoeiro,Algarve,313,2025-01-20T14:22:00Z,24844876,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T14:22:00Z,Lagoa,Faro,Algarve,-8.449309,37.134614
+24844871,Selmes,Baixo Alentejo,312,2025-01-20T14:17:00Z,24844871,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-20T14:17:00Z,Vidigueira,Beja,Alentejo,-7.765733,38.148969
