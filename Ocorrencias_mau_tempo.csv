@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24844121,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-20T12:07:00Z,24844121,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-01-20T12:07:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.83052,41.69142
+24844219,Almancil,Algarve,313,2025-01-20T12:16:00Z,24844219,Em curso,3301,Queda de árvore,0,2,0,7,2025-01-20T12:16:00Z,Loulé,Faro,Algarve,-8.019032,37.062147
 24843781,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T10:55:00Z,24843781,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-20T10:55:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
 24843951,Alferce,Algarve,313,2025-01-20T11:34:00Z,24843951,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-20T11:34:00Z,Monchique,Faro,Algarve,-8.493023,37.333617
-24844015,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T11:40:00Z,24844015,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,8,2025-01-20T11:40:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
 24844300,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-01-20T12:33:00Z,24844300,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-20T12:33:00Z,Lagos,Faro,Algarve,-8.668524,37.100485
-24844121,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-20T12:07:00Z,24844121,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-01-20T12:07:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.83052,41.69142
-24844219,Almancil,Algarve,313,2025-01-20T12:16:00Z,24844219,Em despacho,3301,Queda de árvore,0,2,0,7,2025-01-20T12:16:00Z,Loulé,Faro,Algarve,-8.019032,37.062147
