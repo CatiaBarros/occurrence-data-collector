@@ -1,9 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24843951,Alferce,Algarve,313,2025-01-20T11:34:00Z,24843951,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-20T11:34:00Z,Monchique,Faro,Algarve,-8.493023,37.333617
-24844450,Ferreiras,Algarve,313,2025-01-20T13:11:00Z,24844450,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T13:11:00Z,Albufeira,Faro,Algarve,-8.241363,37.12668
-24844618,São Brás de Alportel,Algarve,313,2025-01-20T13:30:00Z,24844618,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-20T13:30:00Z,São Brás De Alportel,Faro,Algarve,-7.897842,37.137511
+24844577,Santa Catarina da Fonte do Bispo,Algarve,313,2025-01-20T13:24:00Z,24844577,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-20T13:24:00Z,Tavira,Faro,Algarve,-7.797582,37.158896
+24844708,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T13:35:00Z,24844708,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T13:35:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
+24844778,Ferreiras,Algarve,313,2025-01-20T14:05:00Z,24844778,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T14:05:00Z,Albufeira,Faro,Algarve,-8.24221,37.119669
+24844670,Buarcos,Região de Coimbra,310,2025-01-20T13:42:00Z,24844670,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T13:42:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
+24844792,São Pedro de Castelões,Area M. Porto,309,2025-01-20T14:13:00Z,24844792,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-01-20T14:13:00Z,Vale De Cambra,Aveiro,Norte,-8.41425,40.84043
 24844219,Almancil,Algarve,313,2025-01-20T12:16:00Z,24844219,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-20T12:16:00Z,Loulé,Faro,Algarve,-8.019032,37.062147
-24844496,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-01-20T13:15:00Z,24844496,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,2,0,6,2025-01-20T13:15:00Z,Grândola,Setúbal,Alentejo,-8.5587510000000009,38.173088
 24844587,Loulé (São Clemente),Algarve,313,2025-01-20T13:18:00Z,24844587,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-20T13:18:00Z,Loulé,Faro,Algarve,-8.018267,37.137687
 24844630,Buarcos,Região de Coimbra,310,2025-01-20T13:38:00Z,24844630,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,6,2025-01-20T13:38:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
-24844577,Santa Catarina da Fonte do Bispo,Algarve,313,2025-01-20T13:24:00Z,24844577,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-20T13:24:00Z,Tavira,Faro,Algarve,-7.797582,37.158896
+24843951,Alferce,Algarve,313,2025-01-20T11:34:00Z,24843951,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-20T11:34:00Z,Monchique,Faro,Algarve,-8.493023,37.333617
+24844618,São Brás de Alportel,Algarve,313,2025-01-20T13:30:00Z,24844618,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-20T13:30:00Z,São Brás De Alportel,Faro,Algarve,-7.897842,37.137511
+24844735,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T10:00:00Z,24844735,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-20T10:00:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
