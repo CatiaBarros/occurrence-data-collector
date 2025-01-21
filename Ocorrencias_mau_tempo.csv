@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24849406,Santa Bárbara de Nexe,Algarve,313,2025-01-21T13:55:00Z,24849406,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-21T13:55:00Z,Faro,Faro,Algarve,-7.921522,37.121336
-24849591,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-01-21T14:21:00Z,24849591,Em curso,3301,Queda de árvore,0,3,0,6,2025-01-21T14:21:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.081788,38.615401
 24846892,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T23:37:00Z,24846892,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-20T23:37:00Z,Tavira,Faro,Algarve,-7.650217,37.141268
-24849714,Portimão,Algarve,313,2025-01-21T14:52:00Z,24849714,Em resolução,3311,Queda de elementos de estruturas edificados,0,2,0,6,2025-01-21T14:52:00Z,Portimão,Faro,Algarve,-8.53551,37.13965
+24849714,Portimão,Algarve,313,2025-01-21T14:52:00Z,24849714,Em resolução,3311,Queda de elementos de estruturas edificados,0,3,0,7,2025-01-21T14:52:00Z,Portimão,Faro,Algarve,-8.53551,37.13965
+24850014,Zibreira,Médio Tejo,311,2025-01-21T15:54:00Z,24850014,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-21T15:54:00Z,Torres Novas,Santarém,Centro,-8.613148,39.484424
+24850051,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-01-21T15:40:00Z,24850051,Em despacho,3301,Queda de árvore,0,2,0,6,2025-01-21T15:40:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.006082,38.929996
+24849406,Santa Bárbara de Nexe,Algarve,313,2025-01-21T13:55:00Z,24849406,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-01-21T13:55:00Z,Faro,Faro,Algarve,-7.921522,37.121336
 24847222,Castelo Branco,Beira Baixa,310,2025-01-21T04:20:00Z,24847222,Em conclusão,3309,Desabamento de estruturas edificadas,0,2,0,3,2025-01-21T04:20:00Z,Castelo Branco,Castelo Branco,Centro,-7.493762,39.824047
 24849717,Penamacor,Beira Baixa,310,2025-01-21T14:50:00Z,24849717,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-21T14:50:00Z,Penamacor,Castelo Branco,Centro,-7.123052,40.202433
+24850103,São Bartolomeu de Messines,Algarve,313,2025-01-21T15:50:00Z,24850103,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-21T15:50:00Z,Silves,Faro,Algarve,-8.283554,37.282885
