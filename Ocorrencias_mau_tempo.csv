@@ -1,10 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24850441,Vila Franca de Xira,Grande Lisboa,311,2025-01-21T17:24:00Z,24850441,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-21T17:24:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.99417,38.94753
 24846892,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T23:37:00Z,24846892,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-20T23:37:00Z,Tavira,Faro,Algarve,-7.650217,37.141268
 24850051,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-01-21T15:40:00Z,24850051,Em despacho,3301,Queda de árvore,0,2,0,6,2025-01-21T15:40:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.006082,38.929996
-24850281,Monchique,Algarve,313,2025-01-21T16:29:00Z,24850281,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-21T16:29:00Z,Monchique,Faro,Algarve,-8.576824,37.328951000000004
 24850318,Cascais e Estoril,Grande Lisboa,311,2025-01-21T16:49:00Z,24850318,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-21T16:49:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
 24850433,Mina de Água,Grande Lisboa,311,2025-01-21T17:16:00Z,24850433,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-21T17:16:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.236908,38.777438
 24847222,Castelo Branco,Beira Baixa,310,2025-01-21T04:20:00Z,24847222,Em conclusão,3309,Desabamento de estruturas edificadas,0,2,0,3,2025-01-21T04:20:00Z,Castelo Branco,Castelo Branco,Centro,-7.493762,39.824047
-24850103,São Bartolomeu de Messines,Algarve,313,2025-01-21T15:50:00Z,24850103,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-21T15:50:00Z,Silves,Faro,Algarve,-8.283554,37.282885
+24850103,São Bartolomeu de Messines,Algarve,313,2025-01-21T15:50:00Z,24850103,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-01-21T15:50:00Z,Silves,Faro,Algarve,-8.283554,37.282885
 24850303,Laranjeiro e Feijó,Península de Setúbal,311,2025-01-21T16:48:00Z,24850303,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-01-21T16:48:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.161283,38.656699
