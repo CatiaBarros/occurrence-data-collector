@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24846892,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-20T23:37:00Z,24846892,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-20T23:37:00Z,Tavira,Faro,Algarve,-7.650217,37.141268
-24850318,Cascais e Estoril,Grande Lisboa,311,2025-01-21T16:49:00Z,24850318,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-21T16:49:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
-24850645,Rio Maior,Lezíria do Tejo,311,2025-01-21T18:13:00Z,24850645,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-21T18:13:00Z,Rio Maior,Santarém,Alentejo,-8.95426,39.333899
-24850670,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-01-21T18:14:00Z,24850670,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-21T18:14:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.267637,38.115227
+24850645,Rio Maior,Lezíria do Tejo,311,2025-01-21T18:13:00Z,24850645,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T18:13:00Z,Rio Maior,Santarém,Alentejo,-8.938012,39.316108
+24850670,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-01-21T18:14:00Z,24850670,Em curso,3301,Queda de árvore,0,2,0,4,2025-01-21T18:14:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.267637,38.115227
+24850738,Arcozelo,Cávado,309,2025-01-21T18:30:00Z,24850738,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-21T18:30:00Z,Barcelos,Braga,Norte,-8.605325,41.546479
+24850765,Alvorninha,Oeste,311,2025-01-21T18:37:00Z,24850765,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-21T18:37:00Z,Caldas Da Rainha,Leiria,Centro,-9.051205,39.406928
+24850794,Paranhos,Area M. Porto,309,2025-01-21T18:49:00Z,24850794,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T18:49:00Z,Porto,Porto,Norte,-8.59293,41.16896
 24847222,Castelo Branco,Beira Baixa,310,2025-01-21T04:20:00Z,24847222,Em conclusão,3309,Desabamento de estruturas edificadas,0,2,0,3,2025-01-21T04:20:00Z,Castelo Branco,Castelo Branco,Centro,-7.493762,39.824047
-24850303,Laranjeiro e Feijó,Península de Setúbal,311,2025-01-21T16:48:00Z,24850303,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-01-21T16:48:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.161283,38.656699
+24850764,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-01-21T18:40:00Z,24850764,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T18:40:00Z,Porto,Porto,Norte,-8.640354,41.14747
