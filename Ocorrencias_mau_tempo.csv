@@ -1,9 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24849027,Lousã e Vilarinho,Região de Coimbra,310,2025-01-21T12:42:00Z,24849027,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-21T12:42:00Z,Lousã,Coimbra,Centro,-8.23865,40.093306
+24848470,"N. S. da Vila, N. S. do Bispo e Silveiras",Alentejo Central,312,2025-01-21T11:03:00Z,24848470,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-21T11:03:00Z,Montemor-o-Novo,Évora,Alentejo,-8.206568,38.611659
+24848621,São Bartolomeu de Messines,Algarve,313,2025-01-21T11:22:00Z,24848621,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-21T11:22:00Z,Silves,Faro,Algarve,-8.292757,37.2592
 24847222,Castelo Branco,Beira Baixa,310,2025-01-21T04:20:00Z,24847222,Em conclusão,3309,Desabamento de estruturas edificadas,0,2,0,3,2025-01-21T04:20:00Z,Castelo Branco,Castelo Branco,Centro,-7.493762,39.824047
 24848406,Ferreiras,Algarve,313,2025-01-21T10:40:00Z,24848406,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-21T10:40:00Z,Albufeira,Faro,Algarve,-8.24221,37.119669
 24848683,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-01-21T11:37:00Z,24848683,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-21T11:37:00Z,Évora,Évora,Alentejo,-7.869122,38.593644
-24848758,Quarteira,Algarve,313,2025-01-21T11:55:00Z,24848758,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-21T11:55:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
-24848894,Ereira,Região de Coimbra,310,2025-01-21T12:16:00Z,24848894,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-21T12:16:00Z,Montemor-o-Velho,Coimbra,Centro,-8.716436,40.154921
-24848470,"N. S. da Vila, N. S. do Bispo e Silveiras",Alentejo Central,312,2025-01-21T11:03:00Z,24848470,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-21T11:03:00Z,Montemor-o-Novo,Évora,Alentejo,-8.206568,38.611659
-24848621,São Bartolomeu de Messines,Algarve,313,2025-01-21T11:22:00Z,24848621,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-21T11:22:00Z,Silves,Faro,Algarve,-8.292757,37.2592
-24848441,Castelo Branco,Beira Baixa,310,2025-01-21T10:50:00Z,24848441,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-01-21T10:50:00Z,Castelo Branco,Castelo Branco,Centro,-7.490756,39.816895
+24848758,Quarteira,Algarve,313,2025-01-21T11:55:00Z,24848758,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-21T11:55:00Z,Loulé,Faro,Algarve,-8.10366,37.100298
