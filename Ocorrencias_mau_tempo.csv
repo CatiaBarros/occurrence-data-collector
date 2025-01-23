@@ -1,7 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24856511,Gondemaria e Olival,Médio Tejo,311,2025-01-22T21:15:00Z,24856511,Em curso,3313,Deslizamento de terras,0,3,0,6,2025-01-22T21:15:00Z,Ourém,Santarém,Centro,-8.606416,39.690705
+24856645,Alvados e Alcaria,Região de Leiria,310,2025-01-22T21:55:00Z,24856645,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,10,2025-01-22T21:55:00Z,Porto De Mós,Leiria,Centro,-8.768329,39.549428
+24856790,Fátima,Médio Tejo,311,2025-01-22T23:01:00Z,24856790,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-22T23:01:00Z,Ourém,Santarém,Centro,-8.655527,39.609343
+24856806,Atouguia,Médio Tejo,311,2025-01-22T23:04:00Z,24856806,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-22T23:04:00Z,Ourém,Santarém,Centro,-8.616405,39.618611
+24856845,Areias e Pias,Médio Tejo,311,2025-01-22T23:14:00Z,24856845,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-22T23:14:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.372203,39.756828
+24856847,Seixo,Região de Coimbra,310,2025-01-22T23:13:00Z,24856847,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-01-22T23:13:00Z,Mira,Coimbra,Centro,-8.732058,40.461931
+24856931,Sertã,Beira Baixa,310,2025-01-22T23:58:00Z,24856931,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-22T23:58:00Z,Sertã,Castelo Branco,Centro,-8.103914,39.808756
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24856591,Peniche,Oeste,311,2025-01-22T21:42:00Z,24856591,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-01-22T21:42:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
-24856792,Gondemaria e Olival,Médio Tejo,311,2025-01-22T23:00:00Z,24856792,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-01-22T23:00:00Z,Ourém,Santarém,Centro,-8.599428,39.691634
+24856591,Peniche,Oeste,311,2025-01-22T21:42:00Z,24856591,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-01-22T21:42:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
+24856792,Gondemaria e Olival,Médio Tejo,311,2025-01-22T23:00:00Z,24856792,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-22T23:00:00Z,Ourém,Santarém,Centro,-8.599428,39.691634
 24856826,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-01-22T23:12:00Z,24856826,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-22T23:12:00Z,Abrantes,Santarém,Centro,-8.184237,39.472798
 24856891,Redinha,Região de Leiria,310,2025-01-22T23:40:00Z,24856891,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-01-22T23:40:00Z,Pombal,Leiria,Centro,-8.578026,39.988027
 24856894,Areias e Pias,Médio Tejo,311,2025-01-22T23:41:00Z,24856894,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,7,2025-01-22T23:41:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.369956,39.747271
@@ -9,13 +16,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24855383,Almancil,Algarve,313,2025-01-22T16:28:00Z,24855383,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,6,0,10,2025-01-22T16:28:00Z,Loulé,Faro,Algarve,-8.01388,37.063796
 24856514,Carregado e Cadafais,Oeste,311,2025-01-22T21:10:00Z,24856514,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-22T21:10:00Z,Alenquer,Lisboa,Centro,-8.989872,39.020191
 24856796,Monchique,Algarve,313,2025-01-22T22:44:00Z,24856796,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-22T22:44:00Z,Monchique,Faro,Algarve,-8.576824,37.328951000000004
+24856914,São Vicente do Paul e Vale de Figueira,Lezíria do Tejo,311,2025-01-22T23:50:00Z,24856914,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-22T23:50:00Z,Santarém,Santarém,Alentejo,-8.63303,39.3599
 24851821,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-01-21T23:41:00Z,24851821,Em resolução,1103,Vento forte,0,11,0,21,2025-01-21T23:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.598678,38.397168
-24854279,Abrigada e Cabanas de Torres,Oeste,311,2025-01-22T13:00:00Z,24854279,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-22T13:00:00Z,Alenquer,Lisboa,Centro,-9.018709,39.172106
+24854279,Abrigada e Cabanas de Torres,Oeste,311,2025-01-22T13:00:00Z,24854279,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-22T13:00:00Z,Alenquer,Lisboa,Centro,-9.018709,39.172106
 24856482,Ladoeiro,Beira Baixa,310,2025-01-22T21:07:00Z,24856482,Em curso,3315,Inundação de estruturas por precipitação intensa,0,3,0,5,2025-01-22T21:07:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.267471,39.83436
-24856833,Nossa Senhora da Piedade,Médio Tejo,311,2025-01-22T23:14:00Z,24856833,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-22T23:14:00Z,Ourém,Santarém,Centro,-8.579381,39.672187
-24856511,Gondemaria e Olival,Médio Tejo,311,2025-01-22T21:15:00Z,24856511,Em curso,3313,Deslizamento de terras,0,3,0,6,2025-01-22T21:15:00Z,Ourém,Santarém,Centro,-8.606416,39.690705
-24856645,Alvados e Alcaria,Região de Leiria,310,2025-01-22T21:55:00Z,24856645,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,10,2025-01-22T21:55:00Z,Porto De Mós,Leiria,Centro,-8.768329,39.549428
-24856790,Fátima,Médio Tejo,311,2025-01-22T23:01:00Z,24856790,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-22T23:01:00Z,Ourém,Santarém,Centro,-8.655527,39.609343
-24856806,Atouguia,Médio Tejo,311,2025-01-22T23:04:00Z,24856806,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-22T23:04:00Z,Ourém,Santarém,Centro,-8.616405,39.618611
-24856845,Areias e Pias,Médio Tejo,311,2025-01-22T23:14:00Z,24856845,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-22T23:14:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.372203,39.756828
-24856847,Seixo,Região de Coimbra,310,2025-01-22T23:13:00Z,24856847,Em curso,3301,Queda de árvore,0,2,0,5,2025-01-22T23:13:00Z,Mira,Coimbra,Centro,-8.732058,40.461931
