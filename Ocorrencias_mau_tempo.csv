@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24857848,Fátima,Médio Tejo,311,2025-01-23T09:26:00Z,24857848,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-23T09:26:00Z,Ourém,Santarém,Centro,-8.650169,39.617565
-24858818,São Brás de Alportel,Algarve,313,2025-01-23T12:07:00Z,24858818,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,8,2025-01-23T12:07:00Z,São Brás De Alportel,Faro,Algarve,-7.892178,37.149213
 24859129,Carnaxide e Queijas,Grande Lisboa,311,2025-01-23T13:04:00Z,24859129,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-23T13:04:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.25881,38.722457
 24851821,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-01-21T23:41:00Z,24851821,Em resolução,1103,Vento forte,0,11,0,21,2025-01-21T23:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.598678,38.397168
-24859207,Portimão,Algarve,313,2025-01-23T13:21:00Z,24859207,Em conclusão,3309,Desabamento de estruturas edificadas,0,3,0,7,2025-01-23T13:21:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
+24859207,Portimão,Algarve,313,2025-01-23T13:21:00Z,24859207,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,1,2025-01-23T13:21:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
+24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
