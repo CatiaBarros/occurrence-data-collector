@@ -1,9 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24855383,Almancil,Algarve,313,2025-01-22T16:28:00Z,24855383,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-22T16:28:00Z,Loulé,Faro,Algarve,-8.01388,37.063796
 24857372,Atouguia da Baleia,Oeste,311,2025-01-23T06:30:00Z,24857372,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-23T06:30:00Z,Peniche,Leiria,Centro,-9.298623,39.328254
+24857531,Santo António Dos Olivais,Região de Coimbra,310,2025-01-23T08:16:00Z,24857531,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-01-23T08:16:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
+24857583,Sebolido,Tâmega e Sousa,309,2025-01-23T08:31:00Z,24857583,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-01-23T08:31:00Z,Penafiel,Porto,Norte,-8.344277,41.05169
+24855383,Almancil,Algarve,313,2025-01-22T16:28:00Z,24855383,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-22T16:28:00Z,Loulé,Faro,Algarve,-8.01388,37.063796
+24857573,Colares,Grande Lisboa,311,2025-01-23T08:20:00Z,24857573,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-23T08:20:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.460673,38.81942
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24857459,Vela,Beiras e Serra da Estrela,310,2025-01-23T07:57:00Z,24857459,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-23T07:57:00Z,Guarda,Guarda,Centro,-7.311589,40.442568
 24857511,Alcanhões,Lezíria do Tejo,311,2025-01-23T08:11:00Z,24857511,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-23T08:11:00Z,Santarém,Santarém,Alentejo,-8.655237,39.29316
 24857528,Colares,Grande Lisboa,311,2025-01-23T08:06:00Z,24857528,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-23T08:06:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.467008,38.788722
+24857544,Sertã,Beira Baixa,310,2025-01-23T08:15:00Z,24857544,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,6,2025-01-23T08:15:00Z,Sertã,Castelo Branco,Centro,-8.084891,39.824425
 24851821,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-01-21T23:41:00Z,24851821,Em resolução,1103,Vento forte,0,11,0,21,2025-01-21T23:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.598678,38.397168
 24854279,Abrigada e Cabanas de Torres,Oeste,311,2025-01-22T13:00:00Z,24854279,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-22T13:00:00Z,Alenquer,Lisboa,Centro,-9.018709,39.172106
+24857538,Carvoeira,Grande Lisboa,311,2025-01-23T08:19:00Z,24857538,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-23T08:19:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.41586,38.93214
+24857570,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-01-23T08:16:00Z,24857570,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-23T08:16:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.255135,38.927865
