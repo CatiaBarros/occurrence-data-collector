@@ -1,8 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
 24861983,"Caldas da Rainha - Santo Onofre e Serra do Bouro","Oeste",311,"2025-01-24T03:20:00",24861983,"Em despacho","2407","Despiste",0,1,0,2,"2025-01-24T03:20:00","Caldas Da Rainha","Leiria","Centro",-9.148929,39.401713
+24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
 24861484,"Arrifana","Area M. Porto",309,"2025-01-23T22:04:00",24861484,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-01-23T22:04:00","Santa Maria Da Feira","Aveiro","Norte",-8.495162,40.913169
 24861820,"Miranda do Corvo","Região de Coimbra",310,"2025-01-24T00:45:00",24861820,"Em curso","4327","Busca e resgate terrestre de pessoas",0,3,0,6,"2025-01-24T00:45:00","Miranda Do Corvo","Coimbra","Centro",-8.339499,40.09407
-24861952,"São Domingos de Rana","Grande Lisboa",311,"2025-01-24T02:49:00",24861952,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,7,"2025-01-24T02:49:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.34584,38.70214
-24861977,"Cascais e Estoril","Grande Lisboa",311,"2025-01-24T03:04:00",24861977,"Em conclusão","2407","Despiste",0,2,0,4,"2025-01-24T03:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.408908,38.704814
-24861993,"Fafe","Ave",309,"2025-01-24T03:30:00",24861993,"Em despacho","2407","Despiste",0,3,0,8,"2025-01-24T03:30:00","Fafe","Braga","Norte",-8.192843,41.451983
+24861993,"Fafe","Ave",309,"2025-01-24T03:30:00",24861993,"Em curso","2407","Despiste",0,1,0,2,"2025-01-24T03:30:00","Fafe","Braga","Norte",-8.192843,41.451983
