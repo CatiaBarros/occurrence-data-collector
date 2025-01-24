@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24864584,Alcanhões,Lezíria do Tejo,311,2025-01-24T15:47:00Z,24864584,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-01-24T15:47:00Z,Santarém,Santarém,Alentejo,-8.668655,39.295935
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24862708,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-01-24T09:35:00Z,24862708,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-24T09:35:00Z,Coruche,Santarém,Alentejo,-8.528909,38.975831
-24864584,Alcanhões,Lezíria do Tejo,311,2025-01-24T15:47:00Z,24864584,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-01-24T15:47:00Z,Santarém,Santarém,Alentejo,-8.668655,39.295935
 24864574,Rio de Moinhos,Médio Tejo,311,2025-01-24T15:43:00Z,24864574,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-24T15:43:00Z,Abrantes,Santarém,Centro,-8.266776,39.486242
+24864641,Ladoeiro,Beira Baixa,310,2025-01-24T15:57:00Z,24864641,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-24T15:57:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.267471,39.83436
