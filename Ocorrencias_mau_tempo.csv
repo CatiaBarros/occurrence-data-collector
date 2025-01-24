@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24862534,Almancil,Algarve,313,2025-01-24T07:05:00Z,24862534,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-24T07:05:00Z,Loulé,Faro,Algarve,-8.057739,37.054821
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24862409,Ladoeiro,Beira Baixa,310,2025-01-24T08:21:00Z,24862409,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-24T08:21:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.267471,39.83436
-24862534,Almancil,Algarve,313,2025-01-24T07:05:00Z,24862534,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-24T07:05:00Z,Loulé,Faro,Algarve,-8.057739,37.054821
