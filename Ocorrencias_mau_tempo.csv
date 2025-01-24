@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24864975,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-01-24T17:14:00Z,24864975,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-24T17:14:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
+24865347,"Ardegão, Freixo e Mato",Alto Minho,309,2025-01-24T18:40:00Z,24865347,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-24T18:40:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.588227,41.656012
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24865248,Cousso,Alto Minho,309,2025-01-24T18:16:00Z,24865248,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-24T18:16:00Z,Melgaço,Viana Do Castelo,Norte,-8.297621,42.05634
+24864975,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-01-24T17:14:00Z,24864975,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-24T17:14:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
