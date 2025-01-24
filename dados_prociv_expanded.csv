@@ -1,1 +1,11 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
+24862708,"Coruche, Fajarda e Erra","Lezíria do Tejo",311,"2025-01-24T09:35:00",24862708,"Em curso","3301","Queda de árvore",0,1,0,2,"2025-01-24T09:35:00","Coruche","Santarém","Alentejo",-8.528909,38.975831
+24864783,"Faíl e Vila Chã de Sá","Viseu Dão Lafões",310,"2025-01-24T16:24:00",24864783,"Em despacho","2407","Despiste",0,2,0,6,"2025-01-24T16:24:00","Viseu","Viseu","Centro",-7.964147,40.611954
+24863163,"Almancil","Algarve",313,"2025-01-24T10:54:00",24863163,"Em conclusão","2407","Despiste",0,2,0,4,"2025-01-24T10:54:00","Loulé","Faro","Algarve",-8.028466,37.086336
+24864326,"São João Das Lampas e Terrugem","Grande Lisboa",311,"2025-01-24T14:38:00",24864326,"Em conclusão","2407","Despiste",0,3,0,9,"2025-01-24T14:38:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.412176,38.875807
+24863120,"Mértola","Baixo Alentejo",312,"2025-01-24T10:40:00",24863120,"Em conclusão","2513","Fuga de gás em conduta",0,8,0,18,"2025-01-24T10:40:00","Mértola","Beja","Alentejo",-7.654403,37.646153
+24864621,"Valongo","Area M. Porto",309,"2025-01-24T15:41:00",24864621,"Em curso","2403","Colisão rodoviária",0,5,0,11,"2025-01-24T15:41:00","Valongo","Porto","Norte",-8.511633,41.197993
+24864641,"Ladoeiro","Beira Baixa",310,"2025-01-24T15:57:00",24864641,"Em despacho","3315","Inundação de estruturas por precipitação intensa",0,1,0,2,"2025-01-24T15:57:00","Idanha-a-Nova","Castelo Branco","Centro",-7.267471,39.83436
+24864721,"Marvila, Ribeira Santarém, S.salvador, S.nicolau","Lezíria do Tejo",311,"2025-01-24T16:16:00",24864721,"Em despacho","3311","Queda de elementos de estruturas edificados",0,1,0,1,"2025-01-24T16:16:00","Santarém","Santarém","Alentejo",-8.678591,39.231938
+24864739,"São João Baptista e Santa Maria Dos Olivais","Médio Tejo",311,"2025-01-24T16:20:00",24864739,"Em despacho","3301","Queda de árvore",0,2,0,4,"2025-01-24T16:20:00","Tomar","Santarém","Centro",-8.429937,39.586815
