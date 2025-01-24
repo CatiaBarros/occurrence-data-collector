@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24862409,Ladoeiro,Beira Baixa,310,2025-01-24T08:21:00Z,24862409,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,4,0,8,2025-01-24T08:21:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.254428,39.835437
+24862708,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-01-24T09:35:00Z,24862708,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-24T09:35:00Z,Coruche,Santarém,Alentejo,-8.528909,38.975831
+24863312,Carcavelos e Parede,Grande Lisboa,311,2025-01-24T11:15:00Z,24863312,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-01-24T11:15:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
+24863495,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-01-24T11:53:00Z,24863495,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-01-24T11:53:00Z,Porto,Porto,Norte,-8.615939,41.15359
 24862871,Gondemaria e Olival,Médio Tejo,311,2025-01-24T10:03:00Z,24862871,Em despacho,3317,Inundação de estruturas por água canalizada,0,3,0,5,2025-01-24T10:03:00Z,Ourém,Santarém,Centro,-8.607563,39.687999
 24863121,Lavacolhos,Beiras e Serra da Estrela,310,2025-01-24T10:39:00Z,24863121,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-24T10:39:00Z,Fundão,Castelo Branco,Centro,-7.623893,40.133668
-24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24862409,Ladoeiro,Beira Baixa,310,2025-01-24T08:21:00Z,24862409,Em curso,3315,Inundação de estruturas por precipitação intensa,0,4,0,8,2025-01-24T08:21:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.267471,39.83436
-24862708,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-01-24T09:35:00Z,24862708,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-24T09:35:00Z,Coruche,Santarém,Alentejo,-8.528909,38.975831
-24863309,Ramalde,Area M. Porto,309,2025-01-24T11:14:00Z,24863309,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-01-24T11:14:00Z,Porto,Porto,Norte,-8.639529,41.164748
-24863312,Carcavelos e Parede,Grande Lisboa,311,2025-01-24T11:15:00Z,24863312,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-01-24T11:15:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
