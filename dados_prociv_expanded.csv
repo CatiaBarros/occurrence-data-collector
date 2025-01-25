@@ -1,8 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24866550,"Freixedas","Beiras e Serra da Estrela",310,"2025-01-25T02:57:00",24866550,"Em conclusão","2129","Incêndio em edifícios degradados ou devolutos",0,1,0,2,"2025-01-25T02:57:00","Pinhel","Guarda","Centro",-7.16233,40.691432
 24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
 24866770,"Albufeira e Olhos de Água","Algarve",313,"2025-01-25T07:07:00",24866770,"Em resolução","2403","Colisão rodoviária",0,3,0,9,"2025-01-25T07:07:00","Albufeira","Faro","Algarve",-8.223069,37.109774
-24866550,"Freixedas","Beiras e Serra da Estrela",310,"2025-01-25T02:57:00",24866550,"Em conclusão","2129","Incêndio em edifícios degradados ou devolutos",0,1,0,2,"2025-01-25T02:57:00","Pinhel","Guarda","Centro",-7.16233,40.691432
-24866698,"Encosta do Sol","Grande Lisboa",311,"2025-01-25T05:53:00",24866698,"Em conclusão","2407","Despiste",0,3,0,9,"2025-01-25T05:53:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.214086,38.769383
 24866763,"Santos Evos","Viseu Dão Lafões",310,"2025-01-25T06:52:00",24866763,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-01-25T06:52:00","Viseu","Viseu","Centro",-7.820935,40.662086
-24866794,"Covões e Camarneira","Região de Coimbra",310,"2025-01-25T07:32:00",24866794,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,2,"2025-01-25T07:32:00","Cantanhede","Coimbra","Centro",-8.58625,40.42402
+24866794,"Covões e Camarneira","Região de Coimbra",310,"2025-01-25T07:32:00",24866794,"Em curso","2407","Despiste",0,2,0,4,"2025-01-25T07:32:00","Cantanhede","Coimbra","Centro",-8.58625,40.42402
 24866810,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2025-01-25T07:36:00",24866810,"Em despacho","2407","Despiste",0,4,0,11,"2025-01-25T07:36:00","Leiria","Leiria","Centro",-8.746631,39.726974
+24866861,"Sever do Vouga","Região de Aveiro",310,"2025-01-25T07:55:00",24866861,"Em despacho","2403","Colisão rodoviária",0,1,0,4,"2025-01-25T07:55:00","Sever Do Vouga","Aveiro","Centro",-8.366336,40.734307
