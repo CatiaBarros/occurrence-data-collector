@@ -1,9 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24868949,Quarteira,Algarve,313,2025-01-25T15:56:00Z,24868949,Em curso,3309,Desabamento de estruturas edificadas,0,2,0,7,2025-01-25T15:56:00Z,Loulé,Faro,Algarve,-8.10252,37.06896
-24869102,Carnaxide e Queijas,Grande Lisboa,311,2025-01-25T15:35:00Z,24869102,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-01-25T15:35:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.243421,38.725234
-24869090,Bela,Alto Minho,309,2025-01-25T16:30:00Z,24869090,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-25T16:30:00Z,Monção,Viana Do Castelo,Norte,-8.432603,42.073333
-24867603,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-01-25T10:50:00Z,24867603,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-01-25T10:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.25628,38.86846
-24868848,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-01-25T15:34:00Z,24868848,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-01-25T15:34:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.16317,38.81575
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24868725,Venteira,Grande Lisboa,311,2025-01-25T14:53:00Z,24868725,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-25T14:53:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.240965,38.755077
 24869260,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-01-25T16:35:00Z,24869260,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-25T16:35:00Z,Torres Vedras,Lisboa,Centro,-9.251952,39.091829
+24867603,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-01-25T10:50:00Z,24867603,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-01-25T10:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.25628,38.86846
+24869090,Bela,Alto Minho,309,2025-01-25T16:30:00Z,24869090,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-25T16:30:00Z,Monção,Viana Do Castelo,Norte,-8.432603,42.073333
+24868949,Quarteira,Algarve,313,2025-01-25T15:56:00Z,24868949,Em curso,3309,Desabamento de estruturas edificadas,0,3,0,9,2025-01-25T15:56:00Z,Loulé,Faro,Algarve,-8.10252,37.06896
