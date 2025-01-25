@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24869725,Santa Cruz/Trindade e Sanjurge,Alto Tâmega e Barroso,309,2025-01-25T19:06:00Z,24869725,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-01-25T19:06:00Z,Chaves,Vila Real,Norte,-7.463362,41.760875
-24869881,Vila Nova de Famalicão e Calendário,Ave,309,2025-01-25T20:15:00Z,24869881,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-25T20:15:00Z,Vila Nova De Famalicão,Braga,Norte,-8.525752,41.38874
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24869881,Vila Nova de Famalicão e Calendário,Ave,309,2025-01-25T20:15:00Z,24869881,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-25T20:15:00Z,Vila Nova De Famalicão,Braga,Norte,-8.525752,41.38874
