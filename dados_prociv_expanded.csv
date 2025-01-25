@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24866460,"Santa Maria de Lamas","Area M. Porto",309,"2025-01-25T01:23:00",24866460,"Em despacho","2407","Despiste",0,3,0,7,"2025-01-25T01:23:00","Santa Maria Da Feira","Aveiro","Norte",-8.567533,40.978979
-24866511,"Portimão","Algarve",313,"2025-01-25T01:44:00",24866511,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,1,"2025-01-25T01:44:00","Portimão","Faro","Algarve",-8.559715,37.154991
 24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
-24866501,"Beijós","Viseu Dão Lafões",310,"2025-01-25T02:05:00",24866501,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-01-25T02:05:00","Carregal Do Sal","Viseu","Centro",-7.954857,40.511432
+24866501,"Beijós","Viseu Dão Lafões",310,"2025-01-25T02:05:00",24866501,"Em curso","3301","Queda de árvore",0,1,0,2,"2025-01-25T02:05:00","Carregal Do Sal","Viseu","Centro",-7.954857,40.511432
+24866519,"Mouraz e Vila Nova da Rainha","Viseu Dão Lafões",310,"2025-01-25T02:22:00",24866519,"Em despacho","2407","Despiste",0,1,0,2,"2025-01-25T02:22:00","Tondela","Viseu","Centro",-8.064723,40.476077
+24866460,"Santa Maria de Lamas","Area M. Porto",309,"2025-01-25T01:23:00",24866460,"Em curso","2407","Despiste",0,3,0,7,"2025-01-25T01:23:00","Santa Maria Da Feira","Aveiro","Norte",-8.567533,40.978979
