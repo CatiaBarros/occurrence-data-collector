@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24868602,Quarteira,Algarve,313,2025-01-25T14:15:00Z,24868602,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-25T14:15:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
 24866996,Caparica e Trafaria,Península de Setúbal,311,2025-01-25T08:29:00Z,24866996,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-25T08:29:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.210835,38.667061
+24868201,Sande (São Martinho),Ave,309,2025-01-25T11:00:00Z,24868201,Em despacho,3313,Deslizamento de terras,0,3,0,6,2025-01-25T11:00:00Z,Guimarães,Braga,Norte,-8.363285,41.494963
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24868040,Albufeira e Olhos de Água,Algarve,313,2025-01-25T12:22:00Z,24868040,Em conclusão,3309,Desabamento de estruturas edificadas,0,3,0,8,2025-01-25T12:22:00Z,Albufeira,Faro,Algarve,-8.252292,37.091727
-24867560,Loulé (São Clemente),Algarve,313,2025-01-25T10:19:00Z,24867560,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-01-25T10:19:00Z,Loulé,Faro,Algarve,-8.018267,37.137687
-24868201,Sande (São Martinho),Ave,309,2025-01-25T11:00:00Z,24868201,Em despacho,3313,Deslizamento de terras,0,3,0,6,2025-01-25T11:00:00Z,Guimarães,Braga,Norte,-8.363285,41.494963
