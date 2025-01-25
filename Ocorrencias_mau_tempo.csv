@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24868040,Albufeira e Olhos de Água,Algarve,313,2025-01-25T12:22:00Z,24868040,Em conclusão,3309,Desabamento de estruturas edificadas,0,3,0,8,2025-01-25T12:22:00Z,Albufeira,Faro,Algarve,-8.252292,37.091727
-24868725,Venteira,Grande Lisboa,311,2025-01-25T14:53:00Z,24868725,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-25T14:53:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.240965,38.755077
+24868949,Quarteira,Algarve,313,2025-01-25T15:56:00Z,24868949,Em despacho,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-01-25T15:56:00Z,Loulé,Faro,Algarve,-8.10252,37.06896
 24868201,Sande (São Martinho),Ave,309,2025-01-25T11:00:00Z,24868201,Em despacho,3313,Deslizamento de terras,0,3,0,6,2025-01-25T11:00:00Z,Guimarães,Braga,Norte,-8.363285,41.494963
-24868765,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-25T15:05:00Z,24868765,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-01-25T15:05:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
+24868848,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-01-25T15:34:00Z,24868848,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-01-25T15:34:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.16317,38.81575
+24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24868040,Albufeira e Olhos de Água,Algarve,313,2025-01-25T12:22:00Z,24868040,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,3,2025-01-25T12:22:00Z,Albufeira,Faro,Algarve,-8.252292,37.091727
+24868725,Venteira,Grande Lisboa,311,2025-01-25T14:53:00Z,24868725,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-25T14:53:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.240965,38.755077
