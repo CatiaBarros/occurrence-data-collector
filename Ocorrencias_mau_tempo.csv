@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24865676,Santo António Dos Olivais,Região de Coimbra,310,2025-01-24T20:07:00Z,24865676,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,3,0,8,2025-01-24T20:07:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
+24866277,Apúlia e Fão,Cávado,309,2025-01-24T23:29:00Z,24866277,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-24T23:29:00Z,Esposende,Braga,Norte,-8.764428,41.484909
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24865929,Ramada e Caneças,Grande Lisboa,311,2025-01-24T21:15:00Z,24865929,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-01-24T21:15:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
 24866283,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-24T23:41:00Z,24866283,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-24T23:41:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
-24865676,Santo António Dos Olivais,Região de Coimbra,310,2025-01-24T20:07:00Z,24865676,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,3,0,8,2025-01-24T20:07:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
-24866277,Apúlia e Fão,Cávado,309,2025-01-24T23:29:00Z,24866277,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-24T23:29:00Z,Esposende,Braga,Norte,-8.764428,41.484909
