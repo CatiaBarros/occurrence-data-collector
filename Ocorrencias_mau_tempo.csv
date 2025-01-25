@@ -1,10 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24867656,Calvelo,Alto Minho,309,2025-01-25T10:55:00Z,24867656,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-25T10:55:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.54961,41.678076
-24867207,Fafe,Ave,309,2025-01-25T09:26:00Z,24867207,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,5,2025-01-25T09:26:00Z,Fafe,Braga,Norte,-8.175239,41.449617
-24867727,Oliveira do Douro,Area M. Porto,309,2025-01-25T11:10:00Z,24867727,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-01-25T11:10:00Z,Vila Nova De Gaia,Porto,Norte,-8.585272,41.125484
 24866996,Caparica e Trafaria,Península de Setúbal,311,2025-01-25T08:29:00Z,24866996,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-25T08:29:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.210835,38.667061
-24867330,Areias e Pias,Médio Tejo,311,2025-01-25T09:57:00Z,24867330,Em curso,3309,Desabamento de estruturas edificadas,0,4,0,6,2025-01-25T09:57:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.361843,39.763499
+24867330,Areias e Pias,Médio Tejo,311,2025-01-25T09:57:00Z,24867330,Em curso,3309,Desabamento de estruturas edificadas,0,5,0,9,2025-01-25T09:57:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.361843,39.763499
+24867798,Alpiarça,Lezíria do Tejo,311,2025-01-25T11:32:00Z,24867798,Em resolução,3301,Queda de árvore,0,2,0,5,2025-01-25T11:32:00Z,Alpiarça,Santarém,Alentejo,-8.595402,39.262022
+24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24867656,Calvelo,Alto Minho,309,2025-01-25T10:55:00Z,24867656,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-01-25T10:55:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.550067,41.679345
+24867808,Cascais e Estoril,Grande Lisboa,311,2025-01-25T11:28:00Z,24867808,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-25T11:28:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
 24867560,Loulé (São Clemente),Algarve,313,2025-01-25T10:19:00Z,24867560,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-01-25T10:19:00Z,Loulé,Faro,Algarve,-8.018267,37.137687
 24867603,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-01-25T10:50:00Z,24867603,Em curso,3313,Deslizamento de terras,0,3,0,7,2025-01-25T10:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.25628,38.86846
 24867633,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-01-25T10:58:00Z,24867633,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-25T10:58:00Z,Coimbra,Coimbra,Centro,-8.437288,40.221746
+24867727,Oliveira do Douro,Area M. Porto,309,2025-01-25T11:10:00Z,24867727,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-01-25T11:10:00Z,Vila Nova De Gaia,Porto,Norte,-8.585272,41.125484
