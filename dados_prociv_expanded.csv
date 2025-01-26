@@ -1,7 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
-24871133,"Pedrógão Pequeno","Beira Baixa",310,"2025-01-26T08:00:00",24871133,"Em curso","2407","Despiste",0,3,0,9,"2025-01-26T08:00:00","Sertã","Castelo Branco","Centro",-8.07112,39.91772
+24871194,"Campo e Sobrado","Area M. Porto",309,"2025-01-26T08:20:00",24871194,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-01-26T08:20:00","Valongo","Porto","Norte",-8.467145,41.204483
+24871196,"Quinta do Conde","Península de Setúbal",311,"2025-01-26T08:20:00",24871196,"Em despacho","3203","Detritos confinados",0,1,0,5,"2025-01-26T08:20:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.03613,38.570355
 24871091,"Arões","Area M. Porto",309,"2025-01-26T07:49:00",24871091,"Em despacho","2407","Despiste",0,1,0,2,"2025-01-26T07:49:00","Vale De Cambra","Aveiro","Norte",-8.295818,40.83708
-24871140,"Sertã","Beira Baixa",310,"2025-01-26T08:05:00",24871140,"Em despacho","2407","Despiste",0,2,0,4,"2025-01-26T08:05:00","Sertã","Castelo Branco","Centro",-8.128435,39.854692
+24871140,"Sertã","Beira Baixa",310,"2025-01-26T08:05:00",24871140,"Em despacho","2407","Despiste",0,3,0,9,"2025-01-26T08:05:00","Sertã","Castelo Branco","Centro",-8.128435,39.854692
+24871174,"São Tomé do Castelo e Justes","Douro",309,"2025-01-26T08:13:00",24871174,"Em curso","2407","Despiste",0,5,0,15,"2025-01-26T08:13:00","Vila Real","Vila Real","Norte",-7.621749,41.34662
 24870752,"Mação, Penhascoso e Aboboreira","Médio Tejo",311,"2025-01-26T02:56:00",24870752,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,1,0,3,"2025-01-26T02:56:00","Mação","Santarém","Centro",-8.067683,39.576438
-24871111,"Penacova","Região de Coimbra",310,"2025-01-26T07:58:00",24871111,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-01-26T07:58:00","Penacova","Coimbra","Centro",-8.30337,40.28724
+24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
+24871133,"Pedrógão Pequeno","Beira Baixa",310,"2025-01-26T08:00:00",24871133,"Em curso","2407","Despiste",0,2,0,4,"2025-01-26T08:00:00","Sertã","Castelo Branco","Centro",-8.07112,39.91772
