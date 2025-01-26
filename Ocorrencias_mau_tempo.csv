@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24871459,Chave,Area M. Porto,309,2025-01-26T09:39:00Z,24871459,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T09:39:00Z,Arouca,Aveiro,Norte,-8.350782,40.904985
-24871495,Montaria,Alto Minho,309,2025-01-26T09:35:00Z,24871495,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T09:35:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.741482,41.79904
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24871603,Arca e Ponte de Lima,Alto Minho,309,2025-01-26T10:16:00Z,24871603,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-26T10:16:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.574067,41.758
+24871495,Montaria,Alto Minho,309,2025-01-26T09:35:00Z,24871495,Em curso,3301,Queda de árvore,0,2,0,4,2025-01-26T09:35:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.741482,41.79904
