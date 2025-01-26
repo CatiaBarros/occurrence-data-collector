@@ -1,38 +1,49 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24872759,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-01-26T14:47:00Z,24872759,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,8,2025-01-26T14:47:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.029303,38.94243
+24872759,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-01-26T14:47:00Z,24872759,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,8,2025-01-26T14:47:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.029303,38.94243
 24872923,Prado (São Miguel),Cávado,309,2025-01-26T15:20:00Z,24872923,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:20:00Z,Vila Verde,Braga,Norte,-8.434569,41.70253
 24872982,Buarcos,Região de Coimbra,310,2025-01-26T15:35:00Z,24872982,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-01-26T15:35:00Z,Figueira Da Foz,Coimbra,Centro,-8.853671,40.146943
-24873000,Palmela,Península de Setúbal,311,2025-01-26T15:35:00Z,24873000,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-26T15:35:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.894979,38.568658
 24873023,Fornelo e Vairão,Area M. Porto,309,2025-01-26T15:38:00Z,24873023,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:38:00Z,Vila Do Conde,Porto,Norte,-8.653252,41.331702
 24873025,Vila Nova de Cerveira e Lovelhe,Alto Minho,309,2025-01-26T15:50:00Z,24873025,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:50:00Z,Vila Nova De Cerveira,Viana Do Castelo,Norte,-8.734671,41.94483
-24873032,Capela,Tâmega e Sousa,309,2025-01-26T15:49:00Z,24873032,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-26T15:49:00Z,Penafiel,Porto,Norte,-8.354543,41.101721
 24873041,Associação de Freguesias do Vale do Neiva,Alto Minho,309,2025-01-26T15:53:00Z,24873041,Em curso,3301,Queda de árvore,0,1,0,3,2025-01-26T15:53:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.547473,41.640298
-24873043,Glória e Vera Cruz,Região de Aveiro,310,2025-01-26T15:49:00Z,24873043,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-26T15:49:00Z,Aveiro,Aveiro,Centro,-8.647359,40.640643
-24872560,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-01-26T14:00:00Z,24872560,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-01-26T14:00:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.310159,38.698531
-24872810,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-01-26T14:55:00Z,24872810,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-26T14:55:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.742737,41.771568
-24872863,Valado Dos Frades,Oeste,311,2025-01-26T15:10:00Z,24872863,Em curso,3301,Queda de árvore,0,2,0,4,2025-01-26T15:10:00Z,Nazaré,Leiria,Centro,-8.992868,39.586632
-24872878,Nazaré,Oeste,311,2025-01-26T15:10:00Z,24872878,Em resolução,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-01-26T15:10:00Z,Nazaré,Leiria,Centro,-9.062127,39.596083
-24872749,Vila Verde,Região de Coimbra,310,2025-01-26T14:40:00Z,24872749,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-01-26T14:40:00Z,Figueira Da Foz,Coimbra,Centro,-8.800856,40.146359
-24872774,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-01-26T14:47:00Z,24872774,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,3,0,7,2025-01-26T14:47:00Z,Gondomar,Porto,Norte,-8.511531,41.155311
-24872876,Ílhavo (São Salvador),Região de Aveiro,310,2025-01-26T15:16:00Z,24872876,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-01-26T15:16:00Z,Ílhavo,Aveiro,Centro,-8.662178,40.571236
-24872908,Canelas,Area M. Porto,309,2025-01-26T15:22:00Z,24872908,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-26T15:22:00Z,Vila Nova De Gaia,Porto,Norte,-8.600638,41.079331
-24872958,Abragão,Tâmega e Sousa,309,2025-01-26T15:36:00Z,24872958,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:36:00Z,Penafiel,Porto,Norte,-8.22967,41.15732
-24873026,Mujães,Alto Minho,309,2025-01-26T15:52:00Z,24873026,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.705645,41.659904
+24873093,São Pedro e Santa Maria e Vila Boa do Mondego,Beiras e Serra da Estrela,310,2025-01-26T15:59:00Z,24873093,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-26T15:59:00Z,Celorico Da Beira,Guarda,Centro,-7.454706,40.6272
+24873123,São Miguel do Souto e Mosteirô,Area M. Porto,309,2025-01-26T16:07:00Z,24873123,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T16:07:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.549941,40.892271
+24873141,Aradas,Região de Aveiro,310,2025-01-26T16:15:00Z,24873141,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-26T16:15:00Z,Aveiro,Aveiro,Centro,-8.6472,40.619932
+24873175,Bonfim,Area M. Porto,309,2025-01-26T16:15:00Z,24873175,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-01-26T16:15:00Z,Porto,Porto,Norte,-8.596119,41.151713
+24873177,Castelo Branco,Beira Baixa,310,2025-01-26T16:24:00Z,24873177,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-26T16:24:00Z,Castelo Branco,Castelo Branco,Centro,-7.490756,39.816895
+24873184,Vila Chã (São João Baptista e Santiago),Alto Minho,309,2025-01-26T16:21:00Z,24873184,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T16:21:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.321554,41.789773
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24872704,Bárrio e Cepões,Alto Minho,309,2025-01-26T14:43:00Z,24872704,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T14:43:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.574836,41.832336
 24872804,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-26T14:55:00Z,24872804,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-26T14:55:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
-24873029,Braga (São Vítor),Cávado,309,2025-01-26T15:46:00Z,24873029,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-26T15:46:00Z,Braga,Braga,Norte,-8.406451,41.557726
-24873031,Meixomil,Tâmega e Sousa,309,2025-01-26T15:53:00Z,24873031,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-26T15:53:00Z,Paços De Ferreira,Porto,Norte,-8.40137,41.29448
-24873033,Venda Nova e Pondras,Alto Tâmega e Barroso,309,2025-01-26T15:53:00Z,24873033,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-26T15:53:00Z,Montalegre,Vila Real,Norte,-7.953303,41.67588
-24873042,Braga (São José de São Lázaro e São João do Souto),Cávado,309,2025-01-26T15:33:00Z,24873042,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-26T15:33:00Z,Braga,Braga,Norte,-8.419101,41.543217
-24873051,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-01-26T15:57:00Z,24873051,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-26T15:57:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.728574,41.72131
-24873056,Maceda,Região de Aveiro,310,2025-01-26T15:54:00Z,24873056,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,6,2025-01-26T15:54:00Z,Ovar,Aveiro,Centro,-8.614021,40.935245
-24873060,Travanca,Tâmega e Sousa,309,2025-01-26T15:50:00Z,24873060,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-26T15:50:00Z,Cinfães,Viseu,Norte,-8.225891,41.037966
 24872902,Abade de Neiva,Cávado,309,2025-01-26T15:25:00Z,24872902,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:25:00Z,Barcelos,Braga,Norte,-8.65198,41.54725
 24872904,Oliveira (Santa Maria),Ave,309,2025-01-26T15:20:00Z,24872904,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-26T15:20:00Z,Vila Nova De Famalicão,Braga,Norte,-8.402107,41.406152
-24872985,"Barcelos, V. Boa e V. Frescainha",Cávado,309,2025-01-26T15:33:00Z,24872985,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:33:00Z,Barcelos,Braga,Norte,-8.631632,41.537528
+24872774,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-01-26T14:47:00Z,24872774,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,3,0,7,2025-01-26T14:47:00Z,Gondomar,Porto,Norte,-8.511531,41.155311
+24872908,Canelas,Area M. Porto,309,2025-01-26T15:22:00Z,24872908,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-26T15:22:00Z,Vila Nova De Gaia,Porto,Norte,-8.600638,41.079331
+24872958,Abragão,Tâmega e Sousa,309,2025-01-26T15:36:00Z,24872958,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:36:00Z,Penafiel,Porto,Norte,-8.22967,41.15732
+24873031,Meixomil,Tâmega e Sousa,309,2025-01-26T15:53:00Z,24873031,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-26T15:53:00Z,Paços De Ferreira,Porto,Norte,-8.40137,41.29448
+24873033,Venda Nova e Pondras,Alto Tâmega e Barroso,309,2025-01-26T15:53:00Z,24873033,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-26T15:53:00Z,Montalegre,Vila Real,Norte,-7.953303,41.67588
+24873042,Braga (São José de São Lázaro e São João do Souto),Cávado,309,2025-01-26T15:33:00Z,24873042,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-26T15:33:00Z,Braga,Braga,Norte,-8.419101,41.543217
+24872863,Valado Dos Frades,Oeste,311,2025-01-26T15:10:00Z,24872863,Em curso,3301,Queda de árvore,0,2,0,4,2025-01-26T15:10:00Z,Nazaré,Leiria,Centro,-8.992868,39.586632
+24873029,Braga (São Vítor),Cávado,309,2025-01-26T15:46:00Z,24873029,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-26T15:46:00Z,Braga,Braga,Norte,-8.406451,41.557726
+24873096,Braga (São José de São Lázaro e São João do Souto),Cávado,309,2025-01-26T16:10:00Z,24873096,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-26T16:10:00Z,Braga,Braga,Norte,-8.4175,41.54738
+24873097,Ruivães e Campos,Ave,309,2025-01-26T16:09:00Z,24873097,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T16:09:00Z,Vieira Do Minho,Braga,Norte,-8.032822,41.664634
+24873112,Grijó e Sermonde,Area M. Porto,309,2025-01-26T16:10:00Z,24873112,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-01-26T16:10:00Z,Vila Nova De Gaia,Porto,Norte,-8.579955,41.030201
+24873114,Melres e Medas,Area M. Porto,309,2025-01-26T16:04:00Z,24873114,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-26T16:04:00Z,Gondomar,Porto,Norte,-8.417228,41.06875
+24873163,Costa,Ave,309,2025-01-26T16:24:00Z,24873163,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-26T16:24:00Z,Guimarães,Braga,Norte,-8.281236,41.43782
+24873179,Ramada e Caneças,Grande Lisboa,311,2025-01-26T16:18:00Z,24873179,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-26T16:18:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
+24872985,Abade de Neiva,Cávado,309,2025-01-26T15:33:00Z,24872985,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-26T15:33:00Z,Barcelos,Braga,Norte,-8.651887,41.546728
 24873004,Vale,Alto Minho,309,2025-01-26T15:38:00Z,24873004,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-26T15:38:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.360573,41.848074
-24873039,Lavradas,Alto Minho,309,2025-01-26T15:53:00Z,24873039,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:53:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.46998,41.787532
-24873052,Arca e Ponte de Lima,Alto Minho,309,2025-01-26T15:56:00Z,24873052,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:56:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.577281,41.761526
 24873055,Arnoso (Santa Maria e Santa Eulália) e Sezures,Ave,309,2025-01-26T15:48:00Z,24873055,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:48:00Z,Vila Nova De Famalicão,Braga,Norte,-8.49773,41.468885
 24873070,Sobrosa,Area M. Porto,309,2025-01-26T15:59:00Z,24873070,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T15:59:00Z,Paredes,Porto,Norte,-8.352394,41.249863
+24873122,Viseu,Viseu Dão Lafões,310,2025-01-26T16:15:00Z,24873122,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-26T16:15:00Z,Viseu,Viseu,Centro,-7.90838,40.65814
+24873153,Glória e Vera Cruz,Região de Aveiro,310,2025-01-26T16:15:00Z,24873153,Em curso,3329,Queda de estruturas temporárias ou móveis,0,2,0,5,2025-01-26T16:15:00Z,Aveiro,Aveiro,Centro,-8.679709,40.669025
+24873156,"Nossa Senhora da Conceição, São Pedro e São Dinis",Douro,309,2025-01-26T16:19:00Z,24873156,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,1,2025-01-26T16:19:00Z,Vila Real,Vila Real,Norte,-7.74274,41.293969
+24873172,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-01-26T16:05:00Z,24873172,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-26T16:05:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
+24873051,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-01-26T15:57:00Z,24873051,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T15:57:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.728275,41.719197
+24873060,Travanca,Tâmega e Sousa,309,2025-01-26T15:50:00Z,24873060,Em curso,3301,Queda de árvore,0,1,0,3,2025-01-26T15:50:00Z,Cinfães,Viseu,Norte,-8.225891,41.037966
+24873085,São Pedro da Torre,Alto Minho,309,2025-01-26T15:58:00Z,24873085,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-26T15:58:00Z,Valença,Viana Do Castelo,Norte,-8.662744,41.985483
+24873092,Gafanha da Nazaré,Região de Aveiro,310,2025-01-26T15:59:00Z,24873092,Em curso,3301,Queda de árvore,0,2,0,4,2025-01-26T15:59:00Z,Ílhavo,Aveiro,Centro,-8.719411,40.633995
+24873101,"Trofa, Segadães e Lamas do Vouga",Região de Aveiro,310,2025-01-26T15:55:00Z,24873101,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-26T15:55:00Z,Águeda,Aveiro,Centro,-8.495862,40.607
+24873124,Faia,Ave,309,2025-01-26T16:16:00Z,24873124,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-26T16:16:00Z,Cabeceiras De Basto,Braga,Norte,-7.967234,41.47638
+24873149,Abadim,Ave,309,2025-01-26T16:17:00Z,24873149,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-26T16:17:00Z,Cabeceiras De Basto,Braga,Norte,-7.983198,41.563206
+24873158,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-01-26T16:00:00Z,24873158,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T16:00:00Z,Gondomar,Porto,Norte,-8.535295,41.129255
+24873167,Arca e Ponte de Lima,Alto Minho,309,2025-01-26T16:20:00Z,24873167,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T16:20:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.577281,41.761526
