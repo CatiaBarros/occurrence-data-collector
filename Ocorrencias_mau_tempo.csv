@@ -1,25 +1,27 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24874428,Donai,Terras de Trás-os-Montes,309,2025-01-26T21:18:00Z,24874428,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:18:00Z,Bragança,Bragança,Norte,-6.805385,41.830788
-24874564,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-26T21:55:00Z,24874564,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:55:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
-24875139,Santiago e S. Simão de Litém e Albergaria Dos Doze,Região de Leiria,310,2025-01-27T03:14:00Z,24875139,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-27T03:14:00Z,Pombal,Leiria,Centro,-8.627162,39.820311
-24875246,Pombal,Região de Leiria,310,2025-01-27T04:38:00Z,24875246,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-27T04:38:00Z,Pombal,Leiria,Centro,-8.663882,39.886795
-24875373,"Mangualde, Mesquitela e Cunha Alta",Viseu Dão Lafões,310,2025-01-27T06:58:00Z,24875373,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-27T06:58:00Z,Mangualde,Viseu,Centro,-7.70548,40.60808
-24875382,Pampilhosa da Serra,Região de Coimbra,310,2025-01-27T06:56:00Z,24875382,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-27T06:56:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.953077,40.054967
-24875391,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-01-27T07:03:00Z,24875391,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-27T07:03:00Z,Leiria,Leiria,Centro,-8.803702,39.718552
-24875283,São Vicente de Lafões,Viseu Dão Lafões,310,2025-01-27T06:01:00Z,24875283,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-27T06:01:00Z,Oliveira De Frades,Viseu,Centro,-8.16602,40.72632
 24875285,São João de Areias,Viseu Dão Lafões,310,2025-01-27T05:52:00Z,24875285,Em curso,3301,Queda de árvore,0,3,0,7,2025-01-27T05:52:00Z,Santa Comba Dão,Viseu,Centro,-8.068341,40.390527
-24875384,Madalena,Area M. Porto,309,2025-01-27T07:03:00Z,24875384,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-01-27T07:03:00Z,Vila Nova De Gaia,Porto,Norte,-8.65537,41.10313
+24875384,Madalena,Area M. Porto,309,2025-01-27T07:03:00Z,24875384,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-01-27T07:03:00Z,Vila Nova De Gaia,Porto,Norte,-8.65537,41.10313
+24875402,Moimenta,Cávado,309,2025-01-27T07:11:00Z,24875402,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-27T07:11:00Z,Terras De Bouro,Braga,Norte,-8.30027,41.71971
+24875419,Nossa Senhora da Graça do Divor,Alentejo Central,312,2025-01-27T07:18:00Z,24875419,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-27T07:18:00Z,Évora,Évora,Alentejo,-7.950304,38.601846
 24875090,Tavarede,Região de Coimbra,310,2025-01-27T02:32:00Z,24875090,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-27T02:32:00Z,Figueira Da Foz,Coimbra,Centro,-8.853871,40.165854
 24875181,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-01-27T04:04:00Z,24875181,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-27T04:04:00Z,Coimbra,Coimbra,Centro,-8.423418,40.248789
 24875215,"Areias, Sequeiró, Lama e Palmeira",Area M. Porto,309,2025-01-27T04:52:00Z,24875215,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-27T04:52:00Z,Santo Tirso,Porto,Norte,-8.465226,41.36317
-24875331,Vila Maior,Viseu Dão Lafões,310,2025-01-27T06:33:00Z,24875331,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-27T06:33:00Z,São Pedro Do Sul,Viseu,Centro,-8.028175,40.795382
-24875363,Arcozelo,Area M. Porto,309,2025-01-27T06:40:00Z,24875363,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-27T06:40:00Z,Vila Nova De Gaia,Porto,Norte,-8.640388,41.056331
-24875372,Côja e Barril de Alva,Região de Coimbra,310,2025-01-27T06:50:00Z,24875372,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-27T06:50:00Z,Arganil,Coimbra,Centro,-7.994385,40.270689
+24875363,Arcozelo,Area M. Porto,309,2025-01-27T06:40:00Z,24875363,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-27T06:40:00Z,Vila Nova De Gaia,Porto,Norte,-8.640388,41.056331
 24875374,Beijós,Viseu Dão Lafões,310,2025-01-27T06:40:00Z,24875374,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-27T06:40:00Z,Carregal Do Sal,Viseu,Centro,-7.963221,40.510194
-24875383,Vialonga,Grande Lisboa,311,2025-01-27T06:47:00Z,24875383,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-01-27T06:47:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.106591,38.858941
+24875383,Vialonga,Grande Lisboa,311,2025-01-27T06:47:00Z,24875383,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,7,2025-01-27T06:47:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.106591,38.858941
 24875388,Lorvão,Região de Coimbra,310,2025-01-27T07:00:00Z,24875388,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-27T07:00:00Z,Penacova,Coimbra,Centro,-8.292951,40.245442
+24875413,Ceira,Região de Coimbra,310,2025-01-27T07:14:00Z,24875413,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-27T07:14:00Z,Coimbra,Coimbra,Centro,-8.376792,40.17325
+24875415,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-01-27T07:08:00Z,24875415,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-01-27T07:08:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.034761,38.918068
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24874809,Mouçós e Lamares,Douro,309,2025-01-26T23:40:00Z,24874809,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T23:40:00Z,Vila Real,Vila Real,Norte,-7.700831,41.312728
-24874843,Arganil,Região de Coimbra,310,2025-01-26T23:42:00Z,24874843,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T23:42:00Z,Arganil,Coimbra,Centro,-8.049704,40.220309
 24875293,Queirã,Viseu Dão Lafões,310,2025-01-27T06:05:00Z,24875293,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-27T06:05:00Z,Vouzela,Viseu,Centro,-8.062127,40.704807
-24875375,Rocas do Vouga,Região de Aveiro,310,2025-01-27T06:47:00Z,24875375,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-01-27T06:47:00Z,Sever Do Vouga,Aveiro,Centro,-8.353407,40.762248
+24875344,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-01-27T06:41:00Z,24875344,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-27T06:41:00Z,Leiria,Leiria,Centro,-8.802832,39.749179
+24875375,Rocas do Vouga,Região de Aveiro,310,2025-01-27T06:47:00Z,24875375,Em resolução,3313,Deslizamento de terras,0,2,0,4,2025-01-27T06:47:00Z,Sever Do Vouga,Aveiro,Centro,-8.353407,40.762248
+24875393,Cepos e Teixeira,Região de Coimbra,310,2025-01-27T07:02:00Z,24875393,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-27T07:02:00Z,Arganil,Coimbra,Centro,-7.951194,40.154455
+24874428,Donai,Terras de Trás-os-Montes,309,2025-01-26T21:18:00Z,24874428,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:18:00Z,Bragança,Bragança,Norte,-6.805385,41.830788
+24874564,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-26T21:55:00Z,24874564,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:55:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
+24875373,"Mangualde, Mesquitela e Cunha Alta",Viseu Dão Lafões,310,2025-01-27T06:58:00Z,24875373,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-27T06:58:00Z,Mangualde,Viseu,Centro,-7.70548,40.60808
+24875382,Pampilhosa da Serra,Região de Coimbra,310,2025-01-27T06:56:00Z,24875382,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-27T06:56:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.953077,40.054967
+24875391,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-01-27T07:03:00Z,24875391,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-27T07:03:00Z,Leiria,Leiria,Centro,-8.803702,39.718552
+24875398,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-27T07:08:00Z,24875398,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T07:08:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
+24875455,Peniche,Oeste,311,2025-01-27T07:23:00Z,24875455,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-01-27T07:23:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
