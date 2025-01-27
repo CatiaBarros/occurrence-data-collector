@@ -1,4 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24875220,Almeirim,Lezíria do Tejo,311,2025-01-27T04:56:00Z,24875220,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-01-27T04:56:00Z,Almeirim,Santarém,Alentejo,-8.66249,39.23077
+24875090,Tavarede,Região de Coimbra,310,2025-01-27T02:32:00Z,24875090,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-27T02:32:00Z,Figueira Da Foz,Coimbra,Centro,-8.853871,40.165854
+24875181,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-01-27T04:04:00Z,24875181,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-27T04:04:00Z,Coimbra,Coimbra,Centro,-8.423418,40.248789
+24875215,"Areias, Sequeiró, Lama e Palmeira",Area M. Porto,309,2025-01-27T04:52:00Z,24875215,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T04:52:00Z,Santo Tirso,Porto,Norte,-8.465226,41.36317
 24874428,Donai,Terras de Trás-os-Montes,309,2025-01-26T21:18:00Z,24874428,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:18:00Z,Bragança,Bragança,Norte,-6.805385,41.830788
 24874519,"Areias, Sequeiró, Lama e Palmeira",Area M. Porto,309,2025-01-26T21:45:00Z,24874519,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-26T21:45:00Z,Santo Tirso,Porto,Norte,-8.475731,41.362274
 24874564,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-26T21:55:00Z,24874564,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:55:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
@@ -8,9 +12,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24874809,Mouçós e Lamares,Douro,309,2025-01-26T23:40:00Z,24874809,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T23:40:00Z,Vila Real,Vila Real,Norte,-7.700831,41.312728
 24874843,Arganil,Região de Coimbra,310,2025-01-26T23:42:00Z,24874843,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-26T23:42:00Z,Arganil,Coimbra,Centro,-8.049704,40.220309
 24874909,Vilarinho Dos Freires,Douro,309,2025-01-27T00:30:00Z,24874909,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-27T00:30:00Z,Peso Da Régua,Vila Real,Norte,-7.748211,41.175132
-24875159,Viseu,Viseu Dão Lafões,310,2025-01-27T03:41:00Z,24875159,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-27T03:41:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
-24875220,Almeirim,Lezíria do Tejo,311,2025-01-27T04:56:00Z,24875220,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-01-27T04:56:00Z,Almeirim,Santarém,Alentejo,-8.66249,39.23077
-24874313,Parreira e Chouto,Lezíria do Tejo,311,2025-01-26T20:59:00Z,24874313,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-26T20:59:00Z,Chamusca,Santarém,Alentejo,-8.356501,39.193372
-24875090,Tavarede,Região de Coimbra,310,2025-01-27T02:32:00Z,24875090,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-27T02:32:00Z,Figueira Da Foz,Coimbra,Centro,-8.853871,40.165854
-24875181,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-01-27T04:04:00Z,24875181,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-27T04:04:00Z,Coimbra,Coimbra,Centro,-8.423418,40.248789
-24875215,"Areias, Sequeiró, Lama e Palmeira",Area M. Porto,309,2025-01-27T04:52:00Z,24875215,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T04:52:00Z,Santo Tirso,Porto,Norte,-8.465226,41.36317
+24875242,Monte Real e Carvide,Região de Leiria,310,2025-01-27T05:07:00Z,24875242,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-27T05:07:00Z,Leiria,Leiria,Centro,-8.865776,39.853271
