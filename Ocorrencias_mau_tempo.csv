@@ -1,32 +1,31 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24880807,Benfica do Ribatejo,Lezíria do Tejo,311,2025-01-28T07:03:00Z,24880807,Em conclusão,3301,Queda de árvore,0,3,0,11,2025-01-28T07:03:00Z,Almeirim,Santarém,Alentejo,-8.664093,39.15862
-24881459,Viseu,Viseu Dão Lafões,310,2025-01-28T09:34:00Z,24881459,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-28T09:34:00Z,Viseu,Viseu,Centro,-7.898947,40.672175
-24882094,Serpins,Região de Coimbra,310,2025-01-28T11:27:00Z,24882094,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-28T11:27:00Z,Lousã,Coimbra,Centro,-8.194152,40.160883
-24882565,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-01-28T13:00:00Z,24882565,Em despacho,1107,Nevão,0,1,0,2,2025-01-28T13:00:00Z,Cinfães,Viseu,Norte,-7.967908,41.005471
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24880911,Salto,Alto Tâmega e Barroso,309,2025-01-28T07:30:00Z,24880911,Em despacho,1107,Nevão,0,1,0,2,2025-01-28T07:30:00Z,Montalegre,Vila Real,Norte,-7.952023,41.597916
 24882033,"Belazaima do Chão, Castanheira do Vouga e Agadão",Região de Aveiro,310,2025-01-28T11:10:00Z,24882033,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-28T11:10:00Z,Águeda,Aveiro,Centro,-8.314886,40.534486
 24882826,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-01-28T14:00:00Z,24882826,Em despacho,3301,Queda de árvore,0,2,0,7,2025-01-28T14:00:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.206824,38.629265
 24882876,Penamaior,Tâmega e Sousa,309,2025-01-28T14:11:00Z,24882876,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-28T14:11:00Z,Paços De Ferreira,Porto,Norte,-8.417673,41.276723
 24883001,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-01-28T14:28:00Z,24883001,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-01-28T14:28:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
-24882916,"Freixianda, Ribeira do Fárrio e Formigais",Médio Tejo,311,2025-01-28T14:19:00Z,24882916,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-28T14:19:00Z,Ourém,Santarém,Centro,-8.527727,39.792774
-24882965,"Bustos, Troviscal e Mamarrosa",Região de Aveiro,310,2025-01-28T14:21:00Z,24882965,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-01-28T14:21:00Z,Oliveira Do Bairro,Aveiro,Centro,-8.546051,40.506873
-24882966,São João de Lourosa,Viseu Dão Lafões,310,2025-01-28T14:28:00Z,24882966,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-28T14:28:00Z,Viseu,Viseu,Centro,-7.89483,40.61511
-24883131,Algueirão-Mem Martins,Grande Lisboa,311,2025-01-28T14:25:00Z,24883131,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T14:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.354481,38.796776
-24883150,São Vicente do Paul e Vale de Figueira,Lezíria do Tejo,311,2025-01-28T15:01:00Z,24883150,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-28T15:01:00Z,Santarém,Santarém,Alentejo,-8.622647,39.347479
-24883183,Salto,Alto Tâmega e Barroso,309,2025-01-28T15:08:00Z,24883183,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-28T15:08:00Z,Montalegre,Vila Real,Norte,-7.953108,41.639334
+24883142,Torres do Mondego,Região de Coimbra,310,2025-01-28T14:40:00Z,24883142,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-28T14:40:00Z,Coimbra,Coimbra,Centro,-8.362208,40.22101
 24874564,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-26T21:55:00Z,24874564,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:55:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
 24882693,Pontével,Lezíria do Tejo,311,2025-01-28T13:38:00Z,24882693,Em curso,3301,Queda de árvore,0,1,0,4,2025-01-28T13:38:00Z,Cartaxo,Santarém,Alentejo,-8.834097,39.147337
 24883011,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-01-28T14:29:00Z,24883011,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-01-28T14:29:00Z,Porto,Porto,Norte,-8.615939,41.15359
-24882806,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-28T12:57:00Z,24882806,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,3,2025-01-28T12:57:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.832422,41.699088
+24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24880807,Benfica do Ribatejo,Lezíria do Tejo,311,2025-01-28T07:03:00Z,24880807,Em conclusão,3301,Queda de árvore,0,1,0,1,2025-01-28T07:03:00Z,Almeirim,Santarém,Alentejo,-8.664093,39.15862
+24881459,Viseu,Viseu Dão Lafões,310,2025-01-28T09:34:00Z,24881459,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-28T09:34:00Z,Viseu,Viseu,Centro,-7.898947,40.672175
+24882094,Serpins,Região de Coimbra,310,2025-01-28T11:27:00Z,24882094,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-01-28T11:27:00Z,Lousã,Coimbra,Centro,-8.194152,40.160883
+24882565,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-01-28T13:00:00Z,24882565,Em despacho,1107,Nevão,0,1,0,2,2025-01-28T13:00:00Z,Cinfães,Viseu,Norte,-7.967908,41.005471
+24882916,"Freixianda, Ribeira do Fárrio e Formigais",Médio Tejo,311,2025-01-28T14:19:00Z,24882916,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-28T14:19:00Z,Ourém,Santarém,Centro,-8.527727,39.792774
+24882965,"Bustos, Troviscal e Mamarrosa",Região de Aveiro,310,2025-01-28T14:21:00Z,24882965,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-01-28T14:21:00Z,Oliveira Do Bairro,Aveiro,Centro,-8.546051,40.506873
+24882966,São João de Lourosa,Viseu Dão Lafões,310,2025-01-28T14:28:00Z,24882966,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-28T14:28:00Z,Viseu,Viseu,Centro,-7.89483,40.61511
+24882806,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-28T12:57:00Z,24882806,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-01-28T12:57:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.832422,41.699088
 24882871,São Cosmado,Douro,309,2025-01-28T14:07:00Z,24882871,Em curso,3301,Queda de árvore,0,1,0,4,2025-01-28T14:07:00Z,Armamar,Viseu,Norte,-7.649422,41.060723
 24882874,Carcavelos e Parede,Grande Lisboa,311,2025-01-28T12:33:00Z,24882874,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-28T12:33:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.337574,38.688343
 24882890,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-01-28T14:12:00Z,24882890,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,6,2025-01-28T14:12:00Z,Porto,Porto,Norte,-8.615939,41.15359
 24882957,Torre de Moncorvo,Douro,309,2025-01-28T14:23:00Z,24882957,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T14:23:00Z,Torre De Moncorvo,Bragança,Norte,-7.078549,41.170955
-24883056,Soure,Região de Coimbra,310,2025-01-28T14:27:00Z,24883056,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T14:27:00Z,Soure,Coimbra,Centro,-8.57271,40.071803
 24883058,Gondemaria e Olival,Médio Tejo,311,2025-01-28T14:43:00Z,24883058,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-28T14:43:00Z,Ourém,Santarém,Centro,-8.608005,39.703973
-24883042,Abraveses,Viseu Dão Lafões,310,2025-01-28T14:25:00Z,24883042,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-28T14:25:00Z,Viseu,Viseu,Centro,-7.924947,40.678528
-24883142,Torres do Mondego,Região de Coimbra,310,2025-01-28T14:40:00Z,24883142,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-28T14:40:00Z,Coimbra,Coimbra,Centro,-8.362208,40.22101
 24883129,Alcanhões,Lezíria do Tejo,311,2025-01-28T14:58:00Z,24883129,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-01-28T14:58:00Z,Santarém,Santarém,Alentejo,-8.668655,39.295935
+24883131,Algueirão-Mem Martins,Grande Lisboa,311,2025-01-28T14:25:00Z,24883131,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T14:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.354481,38.796776
+24883150,São Vicente do Paul e Vale de Figueira,Lezíria do Tejo,311,2025-01-28T15:01:00Z,24883150,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-28T15:01:00Z,Santarém,Santarém,Alentejo,-8.622647,39.347479
+24883183,Salto,Alto Tâmega e Barroso,309,2025-01-28T15:08:00Z,24883183,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-28T15:08:00Z,Montalegre,Vila Real,Norte,-7.953108,41.639334
 24883155,Seixas,Alto Minho,309,2025-01-28T14:59:00Z,24883155,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-28T14:59:00Z,Caminha,Viana Do Castelo,Norte,-8.820794,41.891932
+24883256,Almeirim,Lezíria do Tejo,311,2025-01-28T15:27:00Z,24883256,Em despacho,3301,Queda de árvore,0,3,0,6,2025-01-28T15:27:00Z,Almeirim,Santarém,Alentejo,-8.588832,39.142251
