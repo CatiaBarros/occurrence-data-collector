@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24883960,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-01-28T18:03:00Z,24883960,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-28T18:03:00Z,Covilhã,Castelo Branco,Centro,-7.489485,40.279913
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24884595,Cascais e Estoril,Grande Lisboa,311,2025-01-28T21:00:00Z,24884595,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-28T21:00:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.461169,38.722133
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
