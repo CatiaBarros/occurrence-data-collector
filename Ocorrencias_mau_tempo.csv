@@ -2,36 +2,42 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24880807,Benfica do Ribatejo,Lezíria do Tejo,311,2025-01-28T07:03:00Z,24880807,Em resolução,3301,Queda de árvore,0,5,0,15,2025-01-28T07:03:00Z,Almeirim,Santarém,Alentejo,-8.664093,39.15862
 24881459,Viseu,Viseu Dão Lafões,310,2025-01-28T09:34:00Z,24881459,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-28T09:34:00Z,Viseu,Viseu,Centro,-7.898947,40.672175
-24881526,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-28T09:48:00Z,24881526,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-28T09:48:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
+24881526,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-28T09:48:00Z,24881526,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-28T09:48:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
 24881676,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-01-28T10:17:00Z,24881676,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T10:17:00Z,Abrantes,Santarém,Centro,-8.184237,39.472798
-24881711,Carnaxide e Queijas,Grande Lisboa,311,2025-01-28T09:24:00Z,24881711,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-28T09:24:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.233587,38.727201
-24881002,Gonçalo,Beiras e Serra da Estrela,310,2025-01-28T08:10:00Z,24881002,Em curso,3301,Queda de árvore,0,2,0,6,2025-01-28T08:10:00Z,Guarda,Guarda,Centro,-7.342367,40.427758
-24881219,Lourinhã e Atalaia,Oeste,311,2025-01-28T08:28:00Z,24881219,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,2,2025-01-28T08:28:00Z,Lourinhã,Lisboa,Centro,-9.311131,39.244365
-24881587,São João de Areias,Viseu Dão Lafões,310,2025-01-28T09:55:00Z,24881587,Em curso,3301,Queda de árvore,0,2,0,4,2025-01-28T09:55:00Z,Santa Comba Dão,Viseu,Centro,-8.068341,40.390527
-24881603,Rogil,Algarve,313,2025-01-28T09:52:00Z,24881603,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-01-28T09:52:00Z,Aljezur,Faro,Algarve,-8.79915,37.371931
-24881670,Soure,Região de Coimbra,310,2025-01-28T10:13:00Z,24881670,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T10:13:00Z,Soure,Coimbra,Centro,-8.639406,40.055319
-24881701,Espariz e Sinde,Região de Coimbra,310,2025-01-28T10:20:00Z,24881701,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T10:20:00Z,Tábua,Coimbra,Centro,-8.049579,40.322974
-24881719,Aguada de Cima,Região de Aveiro,310,2025-01-28T10:20:00Z,24881719,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-28T10:20:00Z,Águeda,Aveiro,Centro,-8.418688,40.519867
 24881796,Arcozelo,Area M. Porto,309,2025-01-28T10:35:00Z,24881796,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-01-28T10:35:00Z,Vila Nova De Gaia,Porto,Norte,-8.642211,41.049481
+24881961,Povolide,Viseu Dão Lafões,310,2025-01-28T10:54:00Z,24881961,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-28T10:54:00Z,Viseu,Viseu,Centro,-7.818675,40.639567
+24881979,Canidelo,Area M. Porto,309,2025-01-28T11:00:00Z,24881979,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-01-28T11:00:00Z,Vila Nova De Gaia,Porto,Norte,-8.652723,41.127681
+24882028,Tornada e Salir do Porto,Oeste,311,2025-01-28T11:16:00Z,24882028,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T11:16:00Z,Caldas Da Rainha,Leiria,Centro,-9.166592,39.497028
+24882063,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-01-28T11:26:00Z,24882063,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-28T11:26:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
+24881002,Gonçalo,Beiras e Serra da Estrela,310,2025-01-28T08:10:00Z,24881002,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-01-28T08:10:00Z,Guarda,Guarda,Centro,-7.342367,40.427758
+24881219,Lourinhã e Atalaia,Oeste,311,2025-01-28T08:28:00Z,24881219,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,2,2025-01-28T08:28:00Z,Lourinhã,Lisboa,Centro,-9.311131,39.244365
+24881670,Soure,Região de Coimbra,310,2025-01-28T10:13:00Z,24881670,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T10:13:00Z,Soure,Coimbra,Centro,-8.639406,40.055319
+24881719,Aguada de Cima,Região de Aveiro,310,2025-01-28T10:20:00Z,24881719,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-01-28T10:20:00Z,Águeda,Aveiro,Centro,-8.418688,40.519867
+24881751,Baixa da Banheira e Vale da Amoreira,Península de Setúbal,311,2025-01-28T10:31:00Z,24881751,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-01-28T10:31:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.04706,38.65774
+24881970,Campo,Viseu Dão Lafões,310,2025-01-28T11:04:00Z,24881970,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T11:04:00Z,Viseu,Viseu,Centro,-7.917758,40.707331
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24880911,Salto,Alto Tâmega e Barroso,309,2025-01-28T07:30:00Z,24880911,Em despacho,1107,Nevão,0,1,0,2,2025-01-28T07:30:00Z,Montalegre,Vila Real,Norte,-7.952023,41.597916
-24881120,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-01-28T08:39:00Z,24881120,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-28T08:39:00Z,Cartaxo,Santarém,Alentejo,-8.794948,39.166481
+24881120,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-01-28T08:39:00Z,24881120,Em despacho,3301,Queda de árvore,0,3,0,9,2025-01-28T08:39:00Z,Cartaxo,Santarém,Alentejo,-8.794948,39.166481
 24881513,São Pedro Fins,Area M. Porto,309,2025-01-28T09:45:00Z,24881513,Em despacho,3301,Queda de árvore,0,1,0,6,2025-01-28T09:45:00Z,Maia,Porto,Norte,-8.554092,41.247401
-24881533,Moncarapacho e Fuseta,Algarve,313,2025-01-28T09:43:00Z,24881533,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-01-28T09:43:00Z,Olhão,Faro,Algarve,-7.792279,37.085895
 24881688,"Nossa Senhora do Pópulo, Coto e São Gregório",Oeste,311,2025-01-28T10:14:00Z,24881688,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-01-28T10:14:00Z,Caldas Da Rainha,Leiria,Centro,-9.13621,39.40688
+24881817,Aveiras de Cima,Lezíria do Tejo,311,2025-01-28T10:41:00Z,24881817,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-28T10:41:00Z,Azambuja,Lisboa,Alentejo,-8.897636,39.139731
 24874564,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-26T21:55:00Z,24874564,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-26T21:55:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
 24880873,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-01-28T07:25:00Z,24880873,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-28T07:25:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.164498,38.675268
 24880880,São Pedro Fins,Area M. Porto,309,2025-01-28T07:35:00Z,24880880,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-28T07:35:00Z,Maia,Porto,Norte,-8.53927,41.25492
 24881137,Maceira,Região de Leiria,310,2025-01-28T08:29:00Z,24881137,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-28T08:29:00Z,Leiria,Leiria,Centro,-8.889652,39.686501
-24881346,Chafé,Alto Minho,309,2025-01-28T09:21:00Z,24881346,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-01-28T09:21:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81407,41.634307
-24881516,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-01-28T09:51:00Z,24881516,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-28T09:51:00Z,Porto,Porto,Norte,-8.63899,41.15755
-24881692,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-28T10:10:00Z,24881692,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-01-28T10:10:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
-24881817,Aveiras de Cima,Lezíria do Tejo,311,2025-01-28T10:41:00Z,24881817,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-28T10:41:00Z,Azambuja,Lisboa,Alentejo,-8.897636,39.139731
-24881883,Madalena,Area M. Porto,309,2025-01-28T10:46:00Z,24881883,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-28T10:46:00Z,Vila Nova De Gaia,Porto,Norte,-8.646182,41.106358
-24881564,Ramalde,Area M. Porto,309,2025-01-28T09:50:00Z,24881564,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-28T09:50:00Z,Porto,Porto,Norte,-8.651472,41.168297
+24881564,Ramalde,Area M. Porto,309,2025-01-28T09:50:00Z,24881564,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-28T09:50:00Z,Porto,Porto,Norte,-8.651472,41.168297
 24881591,Gonçalo,Beiras e Serra da Estrela,310,2025-01-28T10:03:00Z,24881591,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-28T10:03:00Z,Guarda,Guarda,Centro,-7.351795,40.41611
-24881657,São João da Madeira,Area M. Porto,309,2025-01-28T09:50:00Z,24881657,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T09:50:00Z,São João Da Madeira,Aveiro,Norte,-8.497441,40.896053
 24881839,Jolda (Madalena) e Rio Cabrão,Alto Minho,309,2025-01-28T10:46:00Z,24881839,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T10:46:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.506485,41.805668
-24881866,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-01-28T10:44:00Z,24881866,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-01-28T10:44:00Z,Matosinhos,Porto,Norte,-8.692583,41.193749
+24881866,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-01-28T10:44:00Z,24881866,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-01-28T10:44:00Z,Matosinhos,Porto,Norte,-8.692583,41.193749
 24881909,Quiaios,Região de Coimbra,310,2025-01-28T10:50:00Z,24881909,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-01-28T10:50:00Z,Figueira Da Foz,Coimbra,Centro,-8.853222,40.215389
-24881925,Espinho,Area M. Porto,309,2025-01-28T11:00:00Z,24881925,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-01-28T11:00:00Z,Espinho,Aveiro,Norte,-8.64078,41.007665
+24881925,Espinho,Area M. Porto,309,2025-01-28T11:00:00Z,24881925,Em resolução,3311,Queda de elementos de estruturas edificados,0,2,0,5,2025-01-28T11:00:00Z,Espinho,Aveiro,Norte,-8.64903,41.00893
+24881950,Nazaré,Oeste,311,2025-01-28T11:02:00Z,24881950,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,5,2025-01-28T11:02:00Z,Nazaré,Leiria,Centro,-9.062127,39.596083
+24881957,Atouguia da Baleia,Oeste,311,2025-01-28T10:55:00Z,24881957,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-28T10:55:00Z,Peniche,Leiria,Centro,-9.32433,39.339703
+24881984,Paranhos,Area M. Porto,309,2025-01-28T11:02:00Z,24881984,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-01-28T11:02:00Z,Porto,Porto,Norte,-8.604254,41.174248
+24882009,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-01-28T11:14:00Z,24882009,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-28T11:14:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
+24881883,Madalena,Area M. Porto,309,2025-01-28T10:46:00Z,24881883,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-28T10:46:00Z,Vila Nova De Gaia,Porto,Norte,-8.646182,41.106358
+24881956,Mira,Região de Coimbra,310,2025-01-28T11:00:00Z,24881956,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-28T11:00:00Z,Mira,Coimbra,Centro,-8.74088,40.394345
+24881999,Mouronho,Região de Coimbra,310,2025-01-28T11:14:00Z,24881999,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T11:14:00Z,Tábua,Coimbra,Centro,-8.049228,40.278831
+24882008,Paranhos,Area M. Porto,309,2025-01-28T11:15:00Z,24882008,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-28T11:15:00Z,Porto,Porto,Norte,-8.604254,41.174248
+24882033,"Belazaima do Chão, Castanheira do Vouga e Agadão",Região de Aveiro,310,2025-01-28T11:10:00Z,24882033,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-28T11:10:00Z,Águeda,Aveiro,Centro,-8.314886,40.534486
+24882068,Peniche,Oeste,311,2025-01-28T11:20:00Z,24882068,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-01-28T11:20:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
