@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24884677,Oleiros,Alto Minho,309,2025-01-28T21:35:00Z,24884677,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-01-28T21:35:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.442838,41.798815
-24884926,Amora,Península de Setúbal,311,2025-01-28T23:28:00Z,24884926,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-01-28T23:28:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.125227,38.624582
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
