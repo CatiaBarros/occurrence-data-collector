@@ -1,13 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24885309,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-01-29T05:56:00Z,24885309,Em conclusão,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-01-29T05:56:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.32032,38.67882
-24885491,Taíde,Ave,309,2025-01-29T07:31:00Z,24885491,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T07:31:00Z,Póvoa De Lanhoso,Braga,Norte,-8.230344,41.559405
-24885527,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-01-29T07:58:00Z,24885527,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-29T07:58:00Z,Gondomar,Porto,Norte,-8.54323,41.12373
-24885550,Góis,Região de Coimbra,310,2025-01-29T08:05:00Z,24885550,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T08:05:00Z,Góis,Coimbra,Centro,-8.143675,40.137484
-24885557,Mozelos,Area M. Porto,309,2025-01-29T07:52:00Z,24885557,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-29T07:52:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56526,40.997101
-24885562,Silva Escura e Dornelas,Região de Aveiro,310,2025-01-29T08:08:00Z,24885562,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T08:08:00Z,Sever Do Vouga,Aveiro,Centro,-8.3783,40.768501
-24885595,Castêlo da Maia,Area M. Porto,309,2025-01-29T08:00:00Z,24885595,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-29T08:00:00Z,Maia,Porto,Norte,-8.616749,41.267591
-24885615,São Miguel do Mato,Viseu Dão Lafões,310,2025-01-29T08:22:00Z,24885615,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-01-29T08:22:00Z,Vouzela,Viseu,Centro,-8.02828,40.70789
+24885467,Bonfim,Area M. Porto,309,2025-01-29T07:17:00Z,24885467,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-29T07:17:00Z,Porto,Porto,Norte,-8.596119,41.151713
+24885508,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-01-29T07:45:00Z,24885508,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-29T07:45:00Z,Vila Nova De Gaia,Porto,Norte,-8.46497,41.053198
+24885642,Paranhos,Area M. Porto,309,2025-01-29T08:29:00Z,24885642,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-29T08:29:00Z,Porto,Porto,Norte,-8.624434,41.17316
+24885649,Vilar de Andorinho,Area M. Porto,309,2025-01-29T08:19:00Z,24885649,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-29T08:19:00Z,Vila Nova De Gaia,Porto,Norte,-8.57418,41.09994
+24885694,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-01-29T08:40:00Z,24885694,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-29T08:40:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
+24885710,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-01-29T08:43:00Z,24885710,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-29T08:43:00Z,Póvoa De Lanhoso,Braga,Norte,-8.26784,41.577971
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24885423,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-01-29T07:20:00Z,24885423,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-01-29T07:20:00Z,Porto,Porto,Norte,-8.61864,41.15619
 24885506,Encarnação,Grande Lisboa,311,2025-01-29T07:41:00Z,24885506,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-01-29T07:41:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.410413,39.034355
@@ -15,7 +12,13 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24885606,Vilar de Andorinho,Area M. Porto,309,2025-01-29T08:21:00Z,24885606,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T08:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.575051,41.11308
 24885621,"Nogueira, Fraião e Lamaçães",Cávado,309,2025-01-29T08:12:00Z,24885621,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-01-29T08:12:00Z,Braga,Braga,Norte,-8.399912,41.531469
 24885656,Paranhos,Area M. Porto,309,2025-01-29T08:31:00Z,24885656,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-29T08:31:00Z,Porto,Porto,Norte,-8.604254,41.174248
-24885467,Bonfim,Area M. Porto,309,2025-01-29T07:17:00Z,24885467,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-29T07:17:00Z,Porto,Porto,Norte,-8.596119,41.151713
-24885508,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-01-29T07:45:00Z,24885508,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-29T07:45:00Z,Vila Nova De Gaia,Porto,Norte,-8.46497,41.053198
-24885642,Paranhos,Area M. Porto,309,2025-01-29T08:29:00Z,24885642,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-29T08:29:00Z,Porto,Porto,Norte,-8.624434,41.17316
-24885649,Vilar de Andorinho,Area M. Porto,309,2025-01-29T08:19:00Z,24885649,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-29T08:19:00Z,Vila Nova De Gaia,Porto,Norte,-8.57418,41.09994
+24885673,Ílhavo (São Salvador),Região de Aveiro,310,2025-01-29T08:25:00Z,24885673,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-29T08:25:00Z,Ílhavo,Aveiro,Centro,-8.684741,40.586439
+24885595,Castêlo da Maia,Area M. Porto,309,2025-01-29T08:00:00Z,24885595,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-01-29T08:00:00Z,Maia,Porto,Norte,-8.616749,41.267591
+24885596,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-01-29T08:18:00Z,24885596,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,8,2025-01-29T08:18:00Z,Matosinhos,Porto,Norte,-8.67979,41.17901
+24885615,São Miguel do Mato,Viseu Dão Lafões,310,2025-01-29T08:22:00Z,24885615,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-01-29T08:22:00Z,Vouzela,Viseu,Centro,-8.02828,40.70789
+24885665,Campo e Sobrado,Area M. Porto,309,2025-01-29T08:33:00Z,24885665,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T08:33:00Z,Valongo,Porto,Norte,-8.463052,41.18263
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24885527,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-01-29T07:58:00Z,24885527,Em curso,3301,Queda de árvore,0,3,0,6,2025-01-29T07:58:00Z,Gondomar,Porto,Norte,-8.54323,41.12373
+24885550,Góis,Região de Coimbra,310,2025-01-29T08:05:00Z,24885550,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T08:05:00Z,Góis,Coimbra,Centro,-8.143675,40.137484
+24885557,Mozelos,Area M. Porto,309,2025-01-29T07:52:00Z,24885557,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-29T07:52:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56526,40.997101
+24885687,Ermesinde,Area M. Porto,309,2025-01-29T08:34:00Z,24885687,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-01-29T08:34:00Z,Valongo,Porto,Norte,-8.554072,41.216417
