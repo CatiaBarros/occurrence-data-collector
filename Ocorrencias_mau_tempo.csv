@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24885329,Arcozelo,Alto Minho,309,2025-01-29T06:09:00Z,24885329,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-29T06:09:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.604359,41.80342
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24885309,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-01-29T05:56:00Z,24885309,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-01-29T05:56:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.32032,38.67882
