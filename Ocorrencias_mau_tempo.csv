@@ -1,13 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24889675,Venteira,Grande Lisboa,311,2025-01-29T20:38:00Z,24889675,Em curso,3329,Queda de estruturas temporárias ou móveis,0,4,0,13,2025-01-29T20:38:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.232811,38.75153
-24888768,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-01-29T17:55:00Z,24888768,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-29T17:55:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.742882,39.064162
-24889702,Lamas,Região de Coimbra,310,2025-01-29T21:32:00Z,24889702,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-01-29T21:32:00Z,Miranda Do Corvo,Coimbra,Centro,-8.379408,40.104799
-24889736,Colares,Grande Lisboa,311,2025-01-29T21:14:00Z,24889736,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-29T21:14:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.460841,38.828425
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24889787,São Salvador e Santa Maria,Alentejo Litoral,312,2025-01-29T21:58:00Z,24889787,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T21:58:00Z,Odemira,Beja,Alentejo,-8.699292,37.603106
-24890087,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-01-30T00:36:00Z,24890087,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-30T00:36:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.382839,38.81385
-24890121,Cacém e São Marcos,Grande Lisboa,311,2025-01-30T00:51:00Z,24890121,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-30T00:51:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.31252,38.76993
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24889581,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-01-29T20:32:00Z,24889581,Em curso,3301,Queda de árvore,0,2,0,5,2025-01-29T20:32:00Z,Grândola,Setúbal,Alentejo,-8.5587510000000009,38.173088
-24889733,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-29T21:44:00Z,24889733,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-29T21:44:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
+24889733,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-29T21:44:00Z,24889733,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-29T21:44:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
 24890034,Alcanede,Lezíria do Tejo,311,2025-01-30T00:06:00Z,24890034,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-01-30T00:06:00Z,Santarém,Santarém,Alentejo,-8.834722,39.41796
+24889675,Venteira,Grande Lisboa,311,2025-01-29T20:38:00Z,24889675,Em curso,3329,Queda de estruturas temporárias ou móveis,0,4,0,13,2025-01-29T20:38:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.232811,38.75153
+24890161,Semide e Rio Vide,Região de Coimbra,310,2025-01-30T01:24:00Z,24890161,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T01:24:00Z,Miranda Do Corvo,Coimbra,Centro,-8.338528,40.160715
+24888768,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-01-29T17:55:00Z,24888768,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-29T17:55:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.742882,39.064162
+24889702,Lamas,Região de Coimbra,310,2025-01-29T21:32:00Z,24889702,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-01-29T21:32:00Z,Miranda Do Corvo,Coimbra,Centro,-8.379408,40.104799
+24890172,Vau,Oeste,311,2025-01-30T01:39:00Z,24890172,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-30T01:39:00Z,Óbidos,Leiria,Centro,-9.254195,39.378229
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24889787,São Salvador e Santa Maria,Alentejo Litoral,312,2025-01-29T21:58:00Z,24889787,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-29T21:58:00Z,Odemira,Beja,Alentejo,-8.699292,37.603106
+24890121,Cacém e São Marcos,Grande Lisboa,311,2025-01-30T00:51:00Z,24890121,Em despacho,3301,Queda de árvore,0,1,0,5,2025-01-30T00:51:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.31252,38.76993
+24890146,Pinhal Novo,Península de Setúbal,311,2025-01-30T01:05:00Z,24890146,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-30T01:05:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
+24890148,São Teotónio,Alentejo Litoral,312,2025-01-30T01:01:00Z,24890148,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T01:01:00Z,Odemira,Beja,Alentejo,-8.718925,37.507506
