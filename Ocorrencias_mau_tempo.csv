@@ -1,19 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24890341,Santa Bárbara de Nexe,Algarve,313,2025-01-30T04:53:00Z,24890341,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,3,0,6,2025-01-30T04:53:00Z,Faro,Faro,Algarve,-7.97666,37.09434
-24890427,Donai,Terras de Trás-os-Montes,309,2025-01-30T06:27:00Z,24890427,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-30T06:27:00Z,Bragança,Bragança,Norte,-6.793388,41.828848
-24890543,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T07:31:00Z,24890543,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T07:31:00Z,Tavira,Faro,Algarve,-7.6675,37.11636
-24890595,Quelfes,Algarve,313,2025-01-30T07:47:00Z,24890595,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-30T07:47:00Z,Olhão,Faro,Algarve,-7.823364,37.04145
-24890660,Faro (Sé e São Pedro),Algarve,313,2025-01-30T08:08:00Z,24890660,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T08:08:00Z,Faro,Faro,Algarve,-7.917216,37.01679
-24890678,São Brás de Alportel,Algarve,313,2025-01-30T08:09:00Z,24890678,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-30T08:09:00Z,São Brás De Alportel,Faro,Algarve,-7.892178,37.149213
-24890726,Vale de Anta,Alto Tâmega e Barroso,309,2025-01-30T08:20:00Z,24890726,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-30T08:20:00Z,Chaves,Vila Real,Norte,-7.499473,41.7301
-24890743,Vimeiro,Oeste,311,2025-01-30T08:29:00Z,24890743,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,5,2025-01-30T08:29:00Z,Alcobaça,Leiria,Centro,-9.052526,39.486279
-24890506,Conceição e Cabanas de Tavira,Algarve,313,2025-01-30T06:52:00Z,24890506,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T06:52:00Z,Tavira,Faro,Algarve,-7.608618,37.134785
-24890604,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T07:50:00Z,24890604,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-30T07:50:00Z,Tavira,Faro,Algarve,-7.645632,37.13715
-24890615,Santa Luzia,Algarve,313,2025-01-30T07:50:00Z,24890615,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T07:50:00Z,Tavira,Faro,Algarve,-7.669591,37.101699000000004
-24890756,Benfica do Ribatejo,Lezíria do Tejo,311,2025-01-30T08:30:00Z,24890756,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-30T08:30:00Z,Almeirim,Santarém,Alentejo,-8.642917,39.12681
-24890763,Rio de Moinhos,Alto Minho,309,2025-01-30T08:10:00Z,24890763,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-01-30T08:10:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.469367,41.886796
-24890772,Nazaré,Oeste,311,2025-01-30T08:30:00Z,24890772,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,6,2025-01-30T08:30:00Z,Nazaré,Leiria,Centro,-9.062127,39.596083
-24890824,Faro (Sé e São Pedro),Algarve,313,2025-01-30T08:48:00Z,24890824,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-30T08:48:00Z,Faro,Faro,Algarve,-7.92658,37.02948
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24890228,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-01-30T02:27:00Z,24890228,Em curso,3301,Queda de árvore,0,4,0,13,2025-01-30T02:27:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 24890489,Vila Real de Santo António,Algarve,313,2025-01-30T07:00:00Z,24890489,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-01-30T07:00:00Z,Vila Real De Santo António,Faro,Algarve,-7.426935,37.187906
@@ -21,30 +6,44 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24890557,Luz de Tavira e Santo Estêvão,Algarve,313,2025-01-30T07:34:00Z,24890557,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T07:34:00Z,Tavira,Faro,Algarve,-7.692302,37.09587
 24890689,Alfeizerão,Oeste,311,2025-01-30T08:15:00Z,24890689,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-01-30T08:15:00Z,Alcobaça,Leiria,Centro,-9.123333,39.4925
 24890800,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-01-30T08:26:00Z,24890800,Em curso,3301,Queda de árvore,0,2,0,6,2025-01-30T08:26:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.244903,38.715384
-24890911,Mondim de Basto,Ave,309,2025-01-30T09:00:00Z,24890911,Em despacho,3313,Deslizamento de terras,0,2,0,3,2025-01-30T09:00:00Z,Mondim De Basto,Vila Real,Norte,-7.939411,41.401613
-24891011,Paranhos,Area M. Porto,309,2025-01-30T09:12:00Z,24891011,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-30T09:12:00Z,Porto,Porto,Norte,-8.607437,41.17569
-24891026,Sertã,Beira Baixa,310,2025-01-30T09:10:00Z,24891026,Em curso,3301,Queda de árvore,0,2,0,4,2025-01-30T09:10:00Z,Sertã,Castelo Branco,Centro,-8.103243,39.791887
-24891028,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T08:22:00Z,24891028,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T08:22:00Z,Tavira,Faro,Algarve,-7.665155,37.195225
-24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24889733,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-29T21:44:00Z,24889733,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-29T21:44:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
-24890433,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-01-30T06:32:00Z,24890433,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-01-30T06:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.24848,38.82006
-24890486,Odivelas,Grande Lisboa,311,2025-01-30T07:06:00Z,24890486,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,6,2025-01-30T07:06:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.19399,38.79649
-24890537,Luz de Tavira e Santo Estêvão,Algarve,313,2025-01-30T07:00:00Z,24890537,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T07:00:00Z,Tavira,Faro,Algarve,-7.717746,37.141524
-24890620,Castanheira de Pêra e Coentral,Região de Leiria,310,2025-01-30T07:54:00Z,24890620,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T07:54:00Z,Castanheira De Pêra,Leiria,Centro,-8.18202,39.99241
-24890653,Nossa Senhora de Fátima,Médio Tejo,311,2025-01-30T08:03:00Z,24890653,Em resolução,3301,Queda de árvore,0,1,0,5,2025-01-30T08:03:00Z,Entroncamento,Santarém,Centro,-8.493097,39.466107
-24890702,Faro (Sé e São Pedro),Algarve,313,2025-01-30T08:18:00Z,24890702,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,1,2025-01-30T08:18:00Z,Faro,Faro,Algarve,-7.91948,37.01933
-24890922,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T08:14:00Z,24890922,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T08:14:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
-24890949,Antas,Cávado,309,2025-01-30T09:05:00Z,24890949,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T09:05:00Z,Esposende,Braga,Norte,-8.771677,41.601324
-24891033,Figueiró Dos Vinhos e Bairradas,Região de Leiria,310,2025-01-30T09:10:00Z,24891033,Em despacho,3301,Queda de árvore,0,1,0,6,2025-01-30T09:10:00Z,Figueiró Dos Vinhos,Leiria,Centro,-8.293297,39.895108
 24890839,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-01-30T08:51:00Z,24890839,Em despacho,3301,Queda de árvore,0,1,0,6,2025-01-30T08:51:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1834,38.60822
 24890891,Santa Bárbara de Nexe,Algarve,313,2025-01-30T08:51:00Z,24890891,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-01-30T08:51:00Z,Faro,Faro,Algarve,-7.921522,37.121336
 24890900,Ramalde,Area M. Porto,309,2025-01-30T08:54:00Z,24890900,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-01-30T08:54:00Z,Porto,Porto,Norte,-8.6384,41.172857
 24890980,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-30T09:00:00Z,24890980,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T09:00:00Z,Penela,Coimbra,Centro,-8.397906,40.036312
+24891123,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-01-30T09:36:00Z,24891123,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-30T09:36:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.168395,38.671949
+24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24889733,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-01-29T21:44:00Z,24889733,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-29T21:44:00Z,Bragança,Bragança,Norte,-6.761223,41.813164
+24890620,Castanheira de Pêra e Coentral,Região de Leiria,310,2025-01-30T07:54:00Z,24890620,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T07:54:00Z,Castanheira De Pêra,Leiria,Centro,-8.18202,39.99241
+24890653,Nossa Senhora de Fátima,Médio Tejo,311,2025-01-30T08:03:00Z,24890653,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-01-30T08:03:00Z,Entroncamento,Santarém,Centro,-8.493097,39.466107
 24890768,Moncarapacho e Fuseta,Algarve,313,2025-01-30T08:34:00Z,24890768,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-30T08:34:00Z,Olhão,Faro,Algarve,-7.76164,37.0572
 24890769,Azambuja,Lezíria do Tejo,311,2025-01-30T08:34:00Z,24890769,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-30T08:34:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
 24890869,Albergaria-a-Velha e Valmaior,Região de Aveiro,310,2025-01-30T08:50:00Z,24890869,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-30T08:50:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.451479,40.715192
 24890904,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-01-30T09:05:00Z,24890904,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-30T09:05:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.03838,38.50656
+24890506,Conceição e Cabanas de Tavira,Algarve,313,2025-01-30T06:52:00Z,24890506,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T06:52:00Z,Tavira,Faro,Algarve,-7.608618,37.134785
+24890604,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T07:50:00Z,24890604,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-30T07:50:00Z,Tavira,Faro,Algarve,-7.645632,37.13715
+24890615,Santa Luzia,Algarve,313,2025-01-30T07:50:00Z,24890615,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T07:50:00Z,Tavira,Faro,Algarve,-7.669591,37.101699000000004
+24890756,Benfica do Ribatejo,Lezíria do Tejo,311,2025-01-30T08:30:00Z,24890756,Em curso,3301,Queda de árvore,0,1,0,5,2025-01-30T08:30:00Z,Almeirim,Santarém,Alentejo,-8.642917,39.12681
+24890824,Faro (Sé e São Pedro),Algarve,313,2025-01-30T08:48:00Z,24890824,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-30T08:48:00Z,Faro,Faro,Algarve,-7.92658,37.02948
+24890922,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T08:14:00Z,24890922,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T08:14:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
+24890427,Donai,Terras de Trás-os-Montes,309,2025-01-30T06:27:00Z,24890427,Em despacho,3301,Queda de árvore,0,2,0,4,2025-01-30T06:27:00Z,Bragança,Bragança,Norte,-6.793388,41.828848
+24890543,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T07:31:00Z,24890543,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T07:31:00Z,Tavira,Faro,Algarve,-7.6675,37.11636
+24890595,Quelfes,Algarve,313,2025-01-30T07:47:00Z,24890595,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-30T07:47:00Z,Olhão,Faro,Algarve,-7.823364,37.04145
+24890660,Faro (Sé e São Pedro),Algarve,313,2025-01-30T08:08:00Z,24890660,Em despacho,3301,Queda de árvore,0,0,0,0,2025-01-30T08:08:00Z,Faro,Faro,Algarve,-7.917216,37.01679
+24890678,São Brás de Alportel,Algarve,313,2025-01-30T08:09:00Z,24890678,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-30T08:09:00Z,São Brás De Alportel,Faro,Algarve,-7.892178,37.149213
+24890726,Vale de Anta,Alto Tâmega e Barroso,309,2025-01-30T08:20:00Z,24890726,Em curso,3301,Queda de árvore,0,3,0,8,2025-01-30T08:20:00Z,Chaves,Vila Real,Norte,-7.499473,41.7301
+24890743,Vimeiro,Oeste,311,2025-01-30T08:29:00Z,24890743,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,5,2025-01-30T08:29:00Z,Alcobaça,Leiria,Centro,-9.052526,39.486279
 24890936,Rogil,Algarve,313,2025-01-30T09:08:00Z,24890936,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T09:08:00Z,Aljezur,Faro,Algarve,-8.79915,37.371931
-24890952,Laranjeiro e Feijó,Península de Setúbal,311,2025-01-30T09:10:00Z,24890952,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-30T09:10:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.161283,38.656699
-24890968,São Domingos de Rana,Grande Lisboa,311,2025-01-30T09:01:00Z,24890968,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-01-30T09:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
+24890968,São Domingos de Rana,Grande Lisboa,311,2025-01-30T09:01:00Z,24890968,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,6,2025-01-30T09:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
 24891020,Figueiró Dos Vinhos e Bairradas,Região de Leiria,310,2025-01-30T09:00:00Z,24891020,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-30T09:00:00Z,Figueiró Dos Vinhos,Leiria,Centro,-8.254718,39.898758
+24891071,Budens,Algarve,313,2025-01-30T09:24:00Z,24891071,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T09:24:00Z,Vila Do Bispo,Faro,Algarve,-8.851548,37.065276
+24890949,Antas,Cávado,309,2025-01-30T09:05:00Z,24890949,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T09:05:00Z,Esposende,Braga,Norte,-8.771677,41.601324
+24891033,Figueiró Dos Vinhos e Bairradas,Região de Leiria,310,2025-01-30T09:10:00Z,24891033,Em despacho,3301,Queda de árvore,0,1,0,6,2025-01-30T09:10:00Z,Figueiró Dos Vinhos,Leiria,Centro,-8.293297,39.895108
+24891108,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-01-30T09:36:00Z,24891108,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-30T09:36:00Z,Coruche,Santarém,Alentejo,-8.543936,38.980283
+24891117,Avelar,Região de Leiria,310,2025-01-30T09:35:00Z,24891117,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-30T09:35:00Z,Ansião,Leiria,Centro,-8.365894,39.925606
+24890911,Mondim de Basto,Ave,309,2025-01-30T09:00:00Z,24890911,Em despacho,3313,Deslizamento de terras,0,2,0,3,2025-01-30T09:00:00Z,Mondim De Basto,Vila Real,Norte,-7.939411,41.401613
+24891011,Paranhos,Area M. Porto,309,2025-01-30T09:12:00Z,24891011,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-30T09:12:00Z,Porto,Porto,Norte,-8.607437,41.17569
+24891028,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T08:22:00Z,24891028,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T08:22:00Z,Tavira,Faro,Algarve,-7.665155,37.195225
+24891080,Almancil,Algarve,313,2025-01-30T09:17:00Z,24891080,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-30T09:17:00Z,Loulé,Faro,Algarve,-8.028466,37.086336
+24891093,Luz de Tavira e Santo Estêvão,Algarve,313,2025-01-30T08:22:00Z,24891093,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T08:22:00Z,Tavira,Faro,Algarve,-7.71549,37.142417
+24891112,Lama de Arcos,Alto Tâmega e Barroso,309,2025-01-30T09:34:00Z,24891112,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-30T09:34:00Z,Chaves,Vila Real,Norte,-7.381964,41.832398
+24891162,São Brás de Alportel,Algarve,313,2025-01-30T09:43:00Z,24891162,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-01-30T09:43:00Z,São Brás De Alportel,Faro,Algarve,-7.907974,37.136629
