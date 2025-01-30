@@ -1,16 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24892521,Antas e Ourozinho,Douro,309,2025-01-30T13:48:00Z,24892521,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-30T13:48:00Z,Penedono,Viseu,Norte,-7.412387,40.941735
-24892864,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T14:49:00Z,24892864,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-30T14:49:00Z,Tavira,Faro,Algarve,-7.641079,37.161955
-24893439,Cidade da Maia,Area M. Porto,309,2025-01-30T17:07:00Z,24893439,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-01-30T17:07:00Z,Maia,Porto,Norte,-8.60772,41.22144
-24893623,Águas Livres,Grande Lisboa,311,2025-01-30T17:44:00Z,24893623,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,6,2025-01-30T17:44:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.219508,38.745534
-24893714,Vilela,Area M. Porto,309,2025-01-30T18:07:00Z,24893714,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-01-30T18:07:00Z,Paredes,Porto,Norte,-8.381106,41.242851
-24893721,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-01-30T17:50:00Z,24893721,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T17:50:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24893291,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-01-30T16:30:00Z,24893291,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,7,2025-01-30T16:30:00Z,Porto,Porto,Norte,-8.615939,41.15359
-24893411,Palhais e Coina,Península de Setúbal,311,2025-01-30T16:48:00Z,24893411,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-01-30T16:48:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.043332,38.595522
+24893411,Palhais e Coina,Península de Setúbal,311,2025-01-30T16:48:00Z,24893411,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-01-30T16:48:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.043332,38.595522
 24893477,Areosa,Alto Minho,309,2025-01-30T17:10:00Z,24893477,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-30T17:10:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.841057,41.722906
+24893645,Santo André,Alentejo Litoral,312,2025-01-30T17:50:00Z,24893645,Em despacho,3301,Queda de árvore,0,2,0,6,2025-01-30T17:50:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.760862,38.059815
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24891348,Faro (Sé e São Pedro),Algarve,313,2025-01-30T10:17:00Z,24891348,Em curso,3301,Queda de árvore,0,2,0,5,2025-01-30T10:17:00Z,Faro,Faro,Algarve,-7.907983,37.02212
 24892879,Maceira,Região de Leiria,310,2025-01-30T14:57:00Z,24892879,Em curso,3301,Queda de árvore,0,6,0,9,2025-01-30T14:57:00Z,Leiria,Leiria,Centro,-8.889652,39.686501
-24893645,Santo André,Alentejo Litoral,312,2025-01-30T17:50:00Z,24893645,Em despacho,3301,Queda de árvore,0,2,0,6,2025-01-30T17:50:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.760862,38.059815
-24893660,Corroios,Península de Setúbal,311,2025-01-30T18:00:00Z,24893660,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-01-30T18:00:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15234,38.57545
+24893756,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-01-30T18:15:00Z,24893756,Em despacho,3301,Queda de árvore,0,2,0,7,2025-01-30T18:15:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.171619,38.815144
+24893660,Corroios,Península de Setúbal,311,2025-01-30T18:00:00Z,24893660,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-01-30T18:00:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15234,38.57545
+24893767,Bordeira,Algarve,313,2025-01-30T18:20:00Z,24893767,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-01-30T18:20:00Z,Aljezur,Faro,Algarve,-8.868554,37.195822
+24892521,Antas e Ourozinho,Douro,309,2025-01-30T13:48:00Z,24892521,Em curso,3301,Queda de árvore,0,1,0,2,2025-01-30T13:48:00Z,Penedono,Viseu,Norte,-7.412387,40.941735
+24892864,Tavira (Santa Maria e Santiago),Algarve,313,2025-01-30T14:49:00Z,24892864,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-30T14:49:00Z,Tavira,Faro,Algarve,-7.641079,37.161955
+24893714,Vilela,Area M. Porto,309,2025-01-30T18:07:00Z,24893714,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-01-30T18:07:00Z,Paredes,Porto,Norte,-8.381106,41.242851
+24893721,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-01-30T17:50:00Z,24893721,Em despacho,3301,Queda de árvore,0,1,0,2,2025-01-30T17:50:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
