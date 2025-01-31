@@ -2,5 +2,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24897736,São João de Lourosa,Viseu Dão Lafões,310,2025-01-31T15:56:00Z,24897736,Em despacho,3301,Queda de árvore,0,2,0,3,2025-01-31T15:56:00Z,Viseu,Viseu,Centro,-7.919233,40.615482
 24897162,Santa Cruz/Trindade e Sanjurge,Alto Tâmega e Barroso,309,2025-01-31T12:12:00Z,24897162,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-31T12:12:00Z,Chaves,Vila Real,Norte,-7.512531,41.774656
-24897610,Portimão,Algarve,313,2025-01-31T15:14:00Z,24897610,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-01-31T15:14:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24897610,Portimão,Algarve,313,2025-01-31T15:14:00Z,24897610,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-01-31T15:14:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
+24898137,Pinhal Novo,Península de Setúbal,311,2025-01-31T17:37:00Z,24898137,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-01-31T17:37:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.914826,38.642815
