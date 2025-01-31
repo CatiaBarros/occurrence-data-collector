@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24897009,Palmela,Península de Setúbal,311,2025-01-31T13:49:00Z,24897009,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-31T13:49:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.872455,38.582082
-24897162,Santa Cruz/Trindade e Sanjurge,Alto Tâmega e Barroso,309,2025-01-31T12:12:00Z,24897162,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-31T12:12:00Z,Chaves,Vila Real,Norte,-7.512531,41.774656
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24896830,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-01-31T13:29:00Z,24896830,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-01-31T13:29:00Z,Porto,Porto,Norte,-8.60449,41.15998
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24895330,Vilar de Mouros,Alto Minho,309,2025-01-31T08:15:00Z,24895330,Em curso,3301,Queda de árvore,0,2,0,3,2025-01-31T08:15:00Z,Caminha,Viana Do Castelo,Norte,-8.811405,41.880553
 24895748,Beco,Médio Tejo,311,2025-01-31T09:52:00Z,24895748,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-01-31T09:52:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.275501,39.771744
-24897219,Tavarede,Região de Coimbra,310,2025-01-31T14:30:00Z,24897219,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-31T14:30:00Z,Figueira Da Foz,Coimbra,Centro,-8.830331,40.159694
+24897302,Sesimbra (Castelo),Península de Setúbal,311,2025-01-31T14:45:00Z,24897302,Em despacho,3301,Queda de árvore,0,1,0,4,2025-01-31T14:45:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.179861,38.512406
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24896830,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-01-31T13:29:00Z,24896830,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-01-31T13:29:00Z,Porto,Porto,Norte,-8.60449,41.15998
+24897009,Palmela,Península de Setúbal,311,2025-01-31T13:49:00Z,24897009,Em despacho,3301,Queda de árvore,0,2,0,5,2025-01-31T13:49:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.872455,38.582082
+24897162,Santa Cruz/Trindade e Sanjurge,Alto Tâmega e Barroso,309,2025-01-31T12:12:00Z,24897162,Em despacho,3301,Queda de árvore,0,1,0,3,2025-01-31T12:12:00Z,Chaves,Vila Real,Norte,-7.512531,41.774656
