@@ -3,7 +3,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24895330,Vilar de Mouros,Alto Minho,309,2025-01-31T08:15:00Z,24895330,Em curso,3301,Queda de árvore,0,2,0,3,2025-01-31T08:15:00Z,Caminha,Viana Do Castelo,Norte,-8.811405,41.880553
 24895748,Beco,Médio Tejo,311,2025-01-31T09:52:00Z,24895748,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-01-31T09:52:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.275501,39.771744
 24896151,Nazaré,Oeste,311,2025-01-31T11:00:00Z,24896151,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-01-31T11:00:00Z,Nazaré,Leiria,Centro,-9.062127,39.596083
-24896341,Pinhal Novo,Península de Setúbal,311,2025-01-31T11:38:00Z,24896341,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-01-31T11:38:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
-24896011,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-01-31T10:40:00Z,24896011,Em conclusão,3301,Queda de árvore,0,1,0,1,2025-01-31T10:40:00Z,Santarém,Santarém,Alentejo,-8.712035,39.260298
 24896161,Amendoeira,Terras de Trás-os-Montes,309,2025-01-31T10:59:00Z,24896161,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-01-31T10:59:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.982513,41.550895
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24896341,Pinhal Novo,Península de Setúbal,311,2025-01-31T11:38:00Z,24896341,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-01-31T11:38:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
