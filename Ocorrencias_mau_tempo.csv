@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24896011,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-01-31T10:40:00Z,24896011,Em despacho,3301,Queda de árvore,0,1,0,1,2025-01-31T10:40:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
+24896011,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-01-31T10:40:00Z,24896011,Em conclusão,3301,Queda de árvore,0,1,0,1,2025-01-31T10:40:00Z,Santarém,Santarém,Alentejo,-8.712035,39.260298
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24896112,Agualva e Mira-Sintra,Grande Lisboa,311,2025-01-31T10:59:00Z,24896112,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-31T10:59:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.296156,38.77033
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24895330,Vilar de Mouros,Alto Minho,309,2025-01-31T08:15:00Z,24895330,Em despacho,3301,Queda de árvore,0,2,0,3,2025-01-31T08:15:00Z,Caminha,Viana Do Castelo,Norte,-8.811405,41.880553
 24895748,Beco,Médio Tejo,311,2025-01-31T09:52:00Z,24895748,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-01-31T09:52:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.275501,39.771744
