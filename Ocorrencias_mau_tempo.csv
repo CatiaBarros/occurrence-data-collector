@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24903164,Setúbal (São Sebastião),Península de Setúbal,311,2025-02-01T21:19:00Z,24903164,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-02-01T21:19:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.86185,38.52192
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-24902961,Castêlo da Maia,Area M. Porto,309,2025-02-01T20:12:00Z,24902961,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-02-01T20:12:00Z,Maia,Porto,Norte,-8.620003,41.262978
