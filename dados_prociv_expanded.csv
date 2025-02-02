@@ -1,11 +1,18 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24905975,"Vagos e Santo António","Região de Aveiro",310,"2025-02-02T15:24:00",24905975,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-02-02T15:24:00","Vagos","Aveiro","Centro",-8.70104,40.545381
-24905920,"Ramalde","Area M. Porto",309,"2025-02-02T15:19:00",24905920,"Em despacho","4339","Corte ou remoção de elementos",0,2,0,7,"2025-02-02T15:19:00","Porto","Porto","Norte",-8.647951,41.16972
+24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
+24906011,"Ferreiros e Gondizalves","Cávado",309,"2025-02-02T15:40:00",24906011,"Em conclusão","2515","Fuga de gás em garrafa",0,3,0,7,"2025-02-02T15:40:00","Braga","Braga","Norte",-8.441262,41.535285
+24906044,"Canelas","Tâmega e Sousa",309,"2025-02-02T15:46:00",24906044,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-02T15:46:00","Penafiel","Porto","Norte",-8.309297,41.066072
+24906129,"Alvorninha","Oeste",311,"2025-02-02T16:09:00",24906129,"Em resolução","2407","Despiste",0,3,0,9,"2025-02-02T16:09:00","Caldas Da Rainha","Leiria","Centro",-8.995371,39.375934
+24906160,"Recardães e Espinhel","Região de Aveiro",310,"2025-02-02T16:17:00",24906160,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-02-02T16:17:00","Águeda","Aveiro","Centro",-8.488505,40.556594
+24906211,"São Mamede","Região de Leiria",310,"2025-02-02T16:35:00",24906211,"Em despacho","2407","Despiste",0,4,0,11,"2025-02-02T16:35:00","Batalha","Leiria","Centro",-8.70808,39.58671
+24906213,"Fornos","Tâmega e Sousa",309,"2025-02-02T16:33:00",24906213,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-02-02T16:33:00","Castelo De Paiva","Aveiro","Norte",-8.252907,41.049527
+24906244,"Lagos (São Sebastião e Santa Maria)","Algarve",313,"2025-02-02T16:49:00",24906244,"Em curso","2101","Incêndio em edifícios habitacionais",0,1,0,5,"2025-02-02T16:49:00","Lagos","Faro","Algarve",-8.668524,37.100485
 24906004,"Carcavelos e Parede","Grande Lisboa",311,"2025-02-02T15:34:00",24906004,"Em curso","3329","Queda de estruturas temporárias ou móveis",0,2,0,5,"2025-02-02T15:34:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.366962,38.695671
 24906021,"Igreja Nova e Cheleiros","Grande Lisboa",311,"2025-02-02T15:40:00",24906021,"Em conclusão","2403","Colisão rodoviária",0,4,0,11,"2025-02-02T15:40:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.321884,38.919998
 24906071,"Vieira de Leiria","Região de Leiria",310,"2025-02-02T15:53:00",24906071,"Em resolução","2403","Colisão rodoviária",0,2,0,5,"2025-02-02T15:53:00","Marinha Grande","Leiria","Centro",-8.929016,39.865463
-24906102,"Gafanha do Carmo","Região de Aveiro",310,"2025-02-02T16:07:00",24906102,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-02-02T16:07:00","Ílhavo","Aveiro","Centro",-8.730367,40.58637
-24906188,"Barcelos, V. Boa e V. Frescainha","Cávado",309,"2025-02-02T16:29:00",24906188,"Em conclusão","3203","Detritos confinados",0,4,0,9,"2025-02-02T16:29:00","Barcelos","Braga","Norte",-8.62162,41.54958
+24906102,"Gafanha do Carmo","Região de Aveiro",310,"2025-02-02T16:07:00",24906102,"Em conclusão","2403","Colisão rodoviária",0,4,0,11,"2025-02-02T16:07:00","Ílhavo","Aveiro","Centro",-8.730367,40.58637
+24906188,"Barcelos, V. Boa e V. Frescainha","Cávado",309,"2025-02-02T16:29:00",24906188,"Em conclusão","3203","Detritos confinados",0,4,0,9,"2025-02-02T16:29:00","Barcelos","Braga","Norte",-8.621475,41.549117
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24905495,"Águas Santas","Area M. Porto",309,"2025-02-02T13:26:00",24905495,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-02T13:26:00","Maia","Porto","Norte",-8.57042,41.204197
 24905738,"Calvaria de Cima","Região de Leiria",310,"2025-02-02T14:30:00",24905738,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,1,"2025-02-02T14:30:00","Porto De Mós","Leiria","Centro",-8.847124,39.631831
@@ -13,11 +20,4 @@
 24906013,"Paderne","Algarve",313,"2025-02-02T15:40:00",24906013,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,9,"2025-02-02T15:40:00","Albufeira","Faro","Algarve",-8.22508,37.20662
 24906058,"Santo Antão e São Julião do Tojal","Grande Lisboa",311,"2025-02-02T15:45:00",24906058,"Em curso","4329","Busca e resgate aquático de pessoas",0,7,0,17,"2025-02-02T15:45:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.125464,38.852072
 24906172,"Alcoentre","Lezíria do Tejo",311,"2025-02-02T16:25:00",24906172,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-02-02T16:25:00","Azambuja","Lisboa","Alentejo",-8.968984,39.206794
-24906206,"Lamego (Almacave e Sé)","Douro",309,"2025-02-02T16:27:00",24906206,"Em despacho","2513","Fuga de gás em conduta",0,1,0,1,"2025-02-02T16:27:00","Lamego","Viseu","Norte",-7.808172,41.09878
-24851780,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-01-21T23:25:00",24851780,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-21T23:25:00","Penela","Coimbra","Centro",-8.399036,40.025502
-24906011,"Ferreiros e Gondizalves","Cávado",309,"2025-02-02T15:40:00",24906011,"Em conclusão","2515","Fuga de gás em garrafa",0,3,0,7,"2025-02-02T15:40:00","Braga","Braga","Norte",-8.441262,41.535285
-24906044,"Canelas","Tâmega e Sousa",309,"2025-02-02T15:46:00",24906044,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-02T15:46:00","Penafiel","Porto","Norte",-8.309297,41.066072
-24906129,"Alvorninha","Oeste",311,"2025-02-02T16:09:00",24906129,"Em resolução","2407","Despiste",0,3,0,9,"2025-02-02T16:09:00","Caldas Da Rainha","Leiria","Centro",-8.995371,39.375934
-24906160,"Recardães e Espinhel","Região de Aveiro",310,"2025-02-02T16:17:00",24906160,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-02-02T16:17:00","Águeda","Aveiro","Centro",-8.488505,40.556594
-24906211,"São Mamede","Região de Leiria",310,"2025-02-02T16:35:00",24906211,"Em despacho","2407","Despiste",0,2,0,7,"2025-02-02T16:35:00","Batalha","Leiria","Centro",-8.70808,39.58671
-24906213,"Fornos","Tâmega e Sousa",309,"2025-02-02T16:33:00",24906213,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-02-02T16:33:00","Castelo De Paiva","Aveiro","Norte",-8.255654,41.055046
+24906249,"Loulé (São Sebastião)","Algarve",313,"2025-02-02T16:53:00",24906249,"Em despacho","3203","Detritos confinados",0,1,0,5,"2025-02-02T16:53:00","Loulé","Faro","Algarve",-8.06403,37.10378
