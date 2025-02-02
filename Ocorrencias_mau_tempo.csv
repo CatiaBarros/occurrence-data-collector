@@ -2,6 +2,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24905831,Gafanha da Boa Hora,Região de Aveiro,310,2025-02-02T14:50:00Z,24905831,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-02T14:50:00Z,Vagos,Aveiro,Centro,-8.76944,40.549982
 24905865,Marmelete,Algarve,313,2025-02-02T14:50:00Z,24905865,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-02T14:50:00Z,Monchique,Faro,Algarve,-8.691157,37.271578
-24905923,Nossa Senhora da Piedade,Médio Tejo,311,2025-02-02T15:19:00Z,24905923,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,6,2025-02-02T15:19:00Z,Ourém,Santarém,Centro,-8.577082,39.6611
-24906004,Carcavelos e Parede,Grande Lisboa,311,2025-02-02T15:34:00Z,24906004,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-02-02T15:34:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.366962,38.695671
 24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
+24905923,Nossa Senhora da Piedade,Médio Tejo,311,2025-02-02T15:19:00Z,24905923,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,6,2025-02-02T15:19:00Z,Ourém,Santarém,Centro,-8.577082,39.6611
+24906004,Carcavelos e Parede,Grande Lisboa,311,2025-02-02T15:34:00Z,24906004,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-02-02T15:34:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.366962,38.695671
