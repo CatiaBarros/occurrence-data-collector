@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24909661,Quarteira,Algarve,313,2025-02-03T13:13:00Z,24909661,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-02-03T13:13:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
-24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24909934,Marco,Tâmega e Sousa,309,2025-02-03T14:29:00Z,24909934,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-02-03T14:29:00Z,Marco De Canaveses,Porto,Norte,-8.14386,41.181173
+24851780,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-01-21T23:25:00Z,24851780,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-21T23:25:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
