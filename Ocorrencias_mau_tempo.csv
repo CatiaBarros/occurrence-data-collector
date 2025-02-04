@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24914861,Outeiro Seco,Alto Tâmega e Barroso,309,2025-02-04T15:40:00Z,24914861,Em despacho,3317,Inundação de estruturas por água canalizada,0,2,0,5,2025-02-04T15:40:00Z,Chaves,Vila Real,Norte,-7.445173,41.775173
-24915379,Souto da Casa,Beiras e Serra da Estrela,310,2025-02-04T17:44:00Z,24915379,Em curso,3301,Queda de árvore,0,1,0,4,2025-02-04T17:44:00Z,Fundão,Castelo Branco,Centro,-7.550085,40.120713
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24915582,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-02-04T18:37:00Z,24915582,Em curso,3313,Deslizamento de terras,0,1,0,5,2025-02-04T18:37:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
