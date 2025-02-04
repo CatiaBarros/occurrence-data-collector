@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24916179,Rio de Loba,Viseu Dão Lafões,310,2025-02-04T21:32:00Z,24916179,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-04T21:32:00Z,Viseu,Viseu,Centro,-7.884831,40.651434
-24915935,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-02-04T20:10:00Z,24915935,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-02-04T20:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.442718,38.844843
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24916173,Agualva e Mira-Sintra,Grande Lisboa,311,2025-02-04T21:37:00Z,24916173,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-02-04T21:37:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.29305,38.76727
+24916173,Agualva e Mira-Sintra,Grande Lisboa,311,2025-02-04T21:37:00Z,24916173,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-02-04T21:37:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.29305,38.76727
+24916224,Massamá e Monte Abraão,Grande Lisboa,311,2025-02-04T21:53:00Z,24916224,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-04T21:53:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.27045,38.75541
