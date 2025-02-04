@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24913301,São João Baptista,Médio Tejo,311,2025-02-04T10:40:00Z,24913301,Em despacho,3301,Queda de árvore,0,1,0,1,2025-02-04T10:40:00Z,Entroncamento,Santarém,Centro,-8.472394,39.461503
-24915259,Nossa Senhora da Piedade,Médio Tejo,311,2025-02-04T17:22:00Z,24915259,Em curso,3301,Queda de árvore,0,2,0,5,2025-02-04T17:22:00Z,Ourém,Santarém,Centro,-8.577082,39.6611
 24914861,Outeiro Seco,Alto Tâmega e Barroso,309,2025-02-04T15:40:00Z,24914861,Em despacho,3317,Inundação de estruturas por água canalizada,0,2,0,5,2025-02-04T15:40:00Z,Chaves,Vila Real,Norte,-7.445173,41.775173
 24915176,Gulpilhares e Valadares,Area M. Porto,309,2025-02-04T17:01:00Z,24915176,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-02-04T17:01:00Z,Vila Nova De Gaia,Porto,Norte,-8.637978,41.084091
 24915379,Souto da Casa,Beiras e Serra da Estrela,310,2025-02-04T17:44:00Z,24915379,Em curso,3301,Queda de árvore,0,1,0,4,2025-02-04T17:44:00Z,Fundão,Castelo Branco,Centro,-7.550085,40.120713
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24915259,Nossa Senhora da Piedade,Médio Tejo,311,2025-02-04T17:22:00Z,24915259,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-02-04T17:22:00Z,Ourém,Santarém,Centro,-8.58221,39.653633
