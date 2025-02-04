@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24913082,Alvega e Concavada,Médio Tejo,311,2025-02-04T10:04:00Z,24913082,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-04T10:04:00Z,Abrantes,Santarém,Centro,-8.037832,39.453858
-24912688,Bordonhos,Viseu Dão Lafões,310,2025-02-04T08:49:00Z,24912688,Em curso,3301,Queda de árvore,0,2,0,5,2025-02-04T08:49:00Z,São Pedro Do Sul,Viseu,Centro,-8.083379,40.770555
-24913141,Sesimbra (Santiago),Península de Setúbal,311,2025-02-04T10:04:00Z,24913141,Em despacho,3301,Queda de árvore,0,1,0,4,2025-02-04T10:04:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.097261,38.445674
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24913076,Arez e Amieira do Tejo,Alto Alentejo,312,2025-02-04T10:03:00Z,24913076,Em despacho,3301,Queda de árvore,0,0,0,0,2025-02-04T10:03:00Z,Nisa,Portalegre,Alentejo,-7.721615,39.431275
+24913141,Sesimbra (Santiago),Península de Setúbal,311,2025-02-04T10:04:00Z,24913141,Em despacho,3301,Queda de árvore,0,1,0,4,2025-02-04T10:04:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.097261,38.445674
+24912688,Bordonhos,Viseu Dão Lafões,310,2025-02-04T08:49:00Z,24912688,Em curso,3301,Queda de árvore,0,2,0,5,2025-02-04T08:49:00Z,São Pedro Do Sul,Viseu,Centro,-8.083379,40.770555
+24913082,Alvega e Concavada,Médio Tejo,311,2025-02-04T10:04:00Z,24913082,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-04T10:04:00Z,Abrantes,Santarém,Centro,-8.037832,39.453858
