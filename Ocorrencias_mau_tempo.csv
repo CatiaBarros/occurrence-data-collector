@@ -1,6 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24917095,Moledo e Cristelo,Alto Minho,309,2025-02-05T08:39:00Z,24917095,Em curso,3301,Queda de árvore,0,4,0,7,2025-02-05T08:39:00Z,Caminha,Viana Do Castelo,Norte,-8.843705,41.854767
-24917165,Serpins,Região de Coimbra,310,2025-02-05T08:54:00Z,24917165,Em despacho,3301,Queda de árvore,0,2,0,2,2025-02-05T08:54:00Z,Lousã,Coimbra,Centro,-8.194131,40.137468
 24916924,Azambuja,Lezíria do Tejo,311,2025-02-05T07:51:00Z,24916924,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-05T07:51:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
 24917290,Almoster,Lezíria do Tejo,311,2025-02-05T09:22:00Z,24917290,Em resolução,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-02-05T09:22:00Z,Santarém,Santarém,Alentejo,-8.761925,39.234793
+24917459,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-02-05T09:54:00Z,24917459,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-02-05T09:54:00Z,Torres Novas,Santarém,Centro,-8.539335,39.476394
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24917095,Moledo e Cristelo,Alto Minho,309,2025-02-05T08:39:00Z,24917095,Em curso,3301,Queda de árvore,0,4,0,7,2025-02-05T08:39:00Z,Caminha,Viana Do Castelo,Norte,-8.843705,41.854767
+24917481,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-02-05T09:58:00Z,24917481,Em despacho,3301,Queda de árvore,0,1,0,5,2025-02-05T09:58:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
+24917165,Serpins,Região de Coimbra,310,2025-02-05T08:54:00Z,24917165,Em despacho,3301,Queda de árvore,0,2,0,2,2025-02-05T08:54:00Z,Lousã,Coimbra,Centro,-8.194131,40.137468
