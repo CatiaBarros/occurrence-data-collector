@@ -1,8 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24916392,"Pedrouços","Area M. Porto",309,"2025-02-04T23:27:00",24916392,"Em curso","3201","Detritos não confinados",0,1,0,3,"2025-02-04T23:27:00","Maia","Porto","Norte",-8.585997,41.18758
-24916417,"São Félix da Marinha","Area M. Porto",309,"2025-02-04T22:59:00",24916417,"Em curso","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-02-04T22:59:00","Vila Nova De Gaia","Porto","Norte",-8.627823,41.034236
-24916428,"Aljubarrota","Oeste",311,"2025-02-04T23:36:00",24916428,"Em curso","2401","Atropelamento rodoviário",0,2,0,4,"2025-02-04T23:36:00","Alcobaça","Leiria","Centro",-8.917809,39.549067
 24915488,"Alcantarilha e Pêra","Algarve",313,"2025-02-04T18:16:00",24915488,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,4,0,13,"2025-02-04T18:16:00","Silves","Faro","Algarve",-8.348619,37.16979
+24916522,"Alfragide","Grande Lisboa",311,"2025-02-05T00:38:00",24916522,"Em conclusão","2407","Despiste",0,3,0,11,"2025-02-05T00:38:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.225704,38.738085
+24916392,"Pedrouços","Area M. Porto",309,"2025-02-04T23:27:00",24916392,"Em curso","3201","Detritos não confinados",0,2,0,5,"2025-02-04T23:27:00","Maia","Porto","Norte",-8.585997,41.18758
+24916428,"Aljubarrota","Oeste",311,"2025-02-04T23:36:00",24916428,"Em curso","2401","Atropelamento rodoviário",0,2,0,4,"2025-02-04T23:36:00","Alcobaça","Leiria","Centro",-8.917809,39.549067
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24912072,"Romeira e Várzea","Lezíria do Tejo",311,"2025-02-04T01:22:00",24912072,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,1,"2025-02-04T01:22:00","Santarém","Santarém","Alentejo",-8.714057,39.254832
 24916434,"Carcavelos e Parede","Grande Lisboa",311,"2025-02-04T23:44:00",24916434,"Em resolução","2403","Colisão rodoviária",0,2,0,6,"2025-02-04T23:44:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.342724,38.683988
