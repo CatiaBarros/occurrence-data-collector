@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24916924,Azambuja,Lezíria do Tejo,311,2025-02-05T07:51:00Z,24916924,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-05T07:51:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
+24919691,Viseu,Viseu Dão Lafões,310,2025-02-05T17:05:00Z,24919691,Em despacho,3309,Desabamento de estruturas edificadas,0,4,0,8,2025-02-05T17:05:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24919691,Viseu,Viseu Dão Lafões,310,2025-02-05T17:05:00Z,24919691,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,3,2025-02-05T17:05:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
 24919895,Queluz e Belas,Grande Lisboa,311,2025-02-05T17:47:00Z,24919895,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-05T17:47:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.278377,38.760705
-24919977,Santo Estêvão,Lezíria do Tejo,311,2025-02-05T18:15:00Z,24919977,Em despacho,3301,Queda de árvore,0,0,0,0,2025-02-05T18:15:00Z,Benavente,Santarém,Alentejo,-8.710555,38.892201
+24919977,Santo Estêvão,Lezíria do Tejo,311,2025-02-05T18:15:00Z,24919977,Em despacho,3301,Queda de árvore,0,2,0,7,2025-02-05T18:15:00Z,Benavente,Santarém,Alentejo,-8.710555,38.892201
