@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24916924,Azambuja,Lezíria do Tejo,311,2025-02-05T07:51:00Z,24916924,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-05T07:51:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24917095,Moledo e Cristelo,Alto Minho,309,2025-02-05T08:39:00Z,24917095,Em conclusão,3301,Queda de árvore,0,2,0,3,2025-02-05T08:39:00Z,Caminha,Viana Do Castelo,Norte,-8.843705,41.854767
 24918532,Moldes,Area M. Porto,309,2025-02-05T13:21:00Z,24918532,Em despacho,3301,Queda de árvore,0,2,0,3,2025-02-05T13:21:00Z,Arouca,Aveiro,Norte,-8.241147,40.91459
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24919143,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-02-05T15:10:00Z,24919143,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-02-05T15:10:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
+24919318,Miranda do Corvo,Região de Coimbra,310,2025-02-05T15:45:00Z,24919318,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-02-05T15:45:00Z,Miranda Do Corvo,Coimbra,Centro,-8.339499,40.09407
