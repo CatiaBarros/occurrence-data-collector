@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24921947,Montalegre e Padroso,Alto Tâmega e Barroso,309,2025-02-06T09:22:00Z,24921947,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-06T09:22:00Z,Montalegre,Vila Real,Norte,-7.805737,41.826281
+24924587,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-02-06T18:22:00Z,24924587,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-02-06T18:22:00Z,Matosinhos,Porto,Norte,-8.682603,41.186161
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
