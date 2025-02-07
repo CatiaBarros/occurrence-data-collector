@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24925682,Guarda,Beiras e Serra da Estrela,310,2025-02-07T01:02:00Z,24925682,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-07T01:02:00Z,Guarda,Guarda,Centro,-7.260869,40.536751
+24925925,São João de Ver,Area M. Porto,309,2025-02-07T06:04:00Z,24925925,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-02-07T06:04:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56637,40.94646
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
