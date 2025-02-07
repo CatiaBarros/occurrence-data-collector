@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24928407,Salir de Matos,Oeste,311,2025-02-07T15:34:00Z,24928407,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-02-07T15:34:00Z,Caldas Da Rainha,Leiria,Centro,-9.085958,39.466195
+24928661,Gandra,Area M. Porto,309,2025-02-07T16:33:00Z,24928661,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-07T16:33:00Z,Paredes,Porto,Norte,-8.432364,41.188841
 24928362,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-02-07T15:17:00Z,24928362,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-07T15:17:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
-24928482,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-02-07T15:47:00Z,24928482,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,9,2025-02-07T15:47:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
-24928512,Silvalde,Area M. Porto,309,2025-02-07T15:58:00Z,24928512,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-02-07T15:58:00Z,Espinho,Aveiro,Norte,-8.630075,40.992078
+24928482,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-02-07T15:47:00Z,24928482,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-02-07T15:47:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
+24928512,Silvalde,Area M. Porto,309,2025-02-07T15:58:00Z,24928512,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-02-07T15:58:00Z,Espinho,Aveiro,Norte,-8.630075,40.992078
