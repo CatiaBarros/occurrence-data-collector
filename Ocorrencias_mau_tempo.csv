@@ -1,9 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24925957,Nogueiró e Tenões,Cávado,309,2025-02-07T06:32:00Z,24925957,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-02-07T06:32:00Z,Braga,Braga,Norte,-8.383364,41.550025
-24926073,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-02-07T07:25:00Z,24926073,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-07T07:25:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
 24925682,Guarda,Beiras e Serra da Estrela,310,2025-02-07T01:02:00Z,24925682,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-07T01:02:00Z,Guarda,Guarda,Centro,-7.260869,40.536751
 24926016,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-02-07T07:21:00Z,24926016,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-07T07:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.60097,41.10741
+24926073,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-02-07T07:25:00Z,24926073,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-07T07:25:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24926035,Madalena,Area M. Porto,309,2025-02-07T07:27:00Z,24926035,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-02-07T07:27:00Z,Vila Nova De Gaia,Porto,Norte,-8.634263,41.11841
-24926046,Ferreiros e Gondizalves,Cávado,309,2025-02-07T07:29:00Z,24926046,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-02-07T07:29:00Z,Braga,Braga,Norte,-8.448388,41.535375
-24926085,Prozelo,Alto Minho,309,2025-02-07T07:37:00Z,24926085,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-07T07:37:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.436642,41.866457
+24926085,Prozelo,Alto Minho,309,2025-02-07T07:37:00Z,24926085,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-02-07T07:37:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.441375,41.860018
