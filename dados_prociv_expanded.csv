@@ -1,9 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24930200,"Murça","Douro",309,"2025-02-08T01:08:00",24930200,"Em curso","2407","Despiste",0,7,0,18,"2025-02-08T01:08:00","Murça","Vila Real","Norte",-7.379017,41.42106
-24930237,"Palhais e Coina","Península de Setúbal",311,"2025-02-08T01:17:00",24930237,"Em conclusão","2407","Despiste",0,2,0,6,"2025-02-08T01:17:00","Barreiro","Setúbal","Área Metropolitana De Lisboa",-9.046005,38.625227
 24929708,"Silves","Algarve",313,"2025-02-07T21:17:00",24929708,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-07T21:17:00","Silves","Faro","Algarve",-8.44293,37.225637
-24930176,"Travanca","Tâmega e Sousa",309,"2025-02-08T00:53:00",24930176,"Em conclusão","2407","Despiste",0,2,0,4,"2025-02-08T00:53:00","Amarante","Porto","Norte",-8.208618,41.27618
-24930292,"Corroios","Península de Setúbal",311,"2025-02-08T02:06:00",24930292,"Em curso","2403","Colisão rodoviária",0,3,0,8,"2025-02-08T02:06:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.156291,38.628818
-24930275,"Sesimbra (Castelo)","Península de Setúbal",311,"2025-02-08T01:38:00",24930275,"Em conclusão","2109","Incêndio em edifícios escolares",0,2,0,7,"2025-02-08T01:38:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.133596,38.483084
+24930292,"Corroios","Península de Setúbal",311,"2025-02-08T02:06:00",24930292,"Em curso","2407","Despiste",0,5,0,12,"2025-02-08T02:06:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.156291,38.628818
+24930311,"Campo e Sobrado","Area M. Porto",309,"2025-02-08T02:19:00",24930311,"Em conclusão","3203","Detritos confinados",0,1,0,4,"2025-02-08T02:19:00","Valongo","Porto","Norte",-8.47224,41.226012
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24912072,"Romeira e Várzea","Lezíria do Tejo",311,"2025-02-04T01:22:00",24912072,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,1,"2025-02-04T01:22:00","Santarém","Santarém","Alentejo",-8.714057,39.254832
+24930322,"Oldrões","Tâmega e Sousa",309,"2025-02-08T02:32:00",24930322,"Em despacho","2407","Despiste",0,0,0,0,"2025-02-08T02:32:00","Penafiel","Porto","Norte",-8.297002,41.14658
+24930200,"Murça","Douro",309,"2025-02-08T01:08:00",24930200,"Em conclusão","2407","Despiste",0,7,0,18,"2025-02-08T01:08:00","Murça","Vila Real","Norte",-7.379017,41.42106
+24930237,"Palhais e Coina","Península de Setúbal",311,"2025-02-08T01:17:00",24930237,"Em conclusão","2407","Despiste",0,2,0,6,"2025-02-08T01:17:00","Barreiro","Setúbal","Área Metropolitana De Lisboa",-9.046005,38.625227
