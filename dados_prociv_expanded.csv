@@ -1,10 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24934653,"Colares","Grande Lisboa",311,"2025-02-09T03:30:00",24934653,"Em conclusão","3301","Queda de árvore",0,1,0,3,"2025-02-09T03:30:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.475282,38.800337
+24934681,"Castro Marim","Algarve",313,"2025-02-09T03:57:00",24934681,"Em resolução","2403","Colisão rodoviária",0,5,0,13,"2025-02-09T03:57:00","Castro Marim","Faro","Algarve",-7.477058,37.252166
+24934682,"Marrazes e Barosa","Região de Leiria",310,"2025-02-09T04:00:00",24934682,"Em despacho","2407","Despiste",0,1,0,3,"2025-02-09T04:00:00","Leiria","Leiria","Centro",-8.823695,39.764442
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24912072,"Romeira e Várzea","Lezíria do Tejo",311,"2025-02-04T01:22:00",24912072,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,1,"2025-02-04T01:22:00","Santarém","Santarém","Alentejo",-8.714057,39.254832
 24934486,"Poceirão e Marateca","Península de Setúbal",311,"2025-02-09T01:42:00",24934486,"Em resolução","3111","Queima",0,3,0,7,"2025-02-09T01:42:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.686815,38.58218
-24934634,"Ferreiras","Algarve",313,"2025-02-09T03:32:00",24934634,"Em conclusão","2407","Despiste",0,0,0,0,"2025-02-09T03:32:00","Albufeira","Faro","Algarve",-8.191585,37.132321
-24934589,"Beja (Salvador e Santa Maria da Feira)","Baixo Alentejo",312,"2025-02-09T03:00:00",24934589,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,4,"2025-02-09T03:00:00","Beja","Beja","Alentejo",-7.848722,38.018028
-24934604,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2025-02-09T03:06:00",24934604,"Em conclusão","2407","Despiste",0,3,0,4,"2025-02-09T03:06:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.128836,38.809705
-24934681,"Castro Marim","Algarve",313,"2025-02-09T03:57:00",24934681,"Em resolução","2403","Colisão rodoviária",0,5,0,13,"2025-02-09T03:57:00","Castro Marim","Faro","Algarve",-7.477058,37.252166
-24934682,"Marrazes e Barosa","Região de Leiria",310,"2025-02-09T04:00:00",24934682,"Em despacho","2407","Despiste",0,1,0,3,"2025-02-09T04:00:00","Leiria","Leiria","Centro",-8.823695,39.764442
