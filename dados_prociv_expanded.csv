@@ -1,21 +1,22 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24935025,"Vilarinho do Bairro","Região de Aveiro",310,"2025-02-09T08:00:00",24935025,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-09T08:00:00","Anadia","Aveiro","Centro",-8.542679,40.420451
 24935323,"Vila Chã","Cávado",309,"2025-02-09T09:22:00",24935323,"Em curso","2407","Despiste",0,2,0,5,"2025-02-09T09:22:00","Esposende","Braga","Norte",-8.773278,41.568522
-24935423,"Mira","Região de Coimbra",310,"2025-02-09T09:49:00",24935423,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-09T09:49:00","Mira","Coimbra","Centro",-8.734102,40.4268
+24935423,"Mira","Região de Coimbra",310,"2025-02-09T09:49:00",24935423,"Em conclusão","2407","Despiste",0,2,0,4,"2025-02-09T09:49:00","Mira","Coimbra","Centro",-8.734102,40.4268
 24935426,"Esmeriz e Cabeçudos","Ave",309,"2025-02-09T09:50:00",24935426,"Em despacho","2407","Despiste",0,3,0,6,"2025-02-09T09:50:00","Vila Nova De Famalicão","Braga","Norte",-8.50338,41.374467
-24935593,"Batalha","Região de Leiria",310,"2025-02-09T10:25:00",24935593,"Em curso","2407","Despiste",0,2,0,6,"2025-02-09T10:25:00","Batalha","Leiria","Centro",-8.814627,39.643735
+24935593,"Batalha","Região de Leiria",310,"2025-02-09T10:25:00",24935593,"Em curso","2407","Despiste",0,4,0,10,"2025-02-09T10:25:00","Batalha","Leiria","Centro",-8.814627,39.643735
+24935691,"Algoso, Campo de Víboras e Uva","Terras de Trás-os-Montes",309,"2025-02-09T10:50:00",24935691,"Em despacho","3203","Detritos confinados",0,0,0,0,"2025-02-09T10:50:00","Vimioso","Bragança","Norte",-6.554139,41.522406
+24934846,"Barrancos","Baixo Alentejo",312,"2025-02-09T06:45:00",24934846,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-09T06:45:00","Barrancos","Beja","Alentejo",-7.089595,38.147652
+24935237,"Moledo","Viseu Dão Lafões",310,"2025-02-09T09:11:00",24935237,"Em curso","2407","Despiste",0,4,0,9,"2025-02-09T09:11:00","São Pedro Do Sul","Viseu","Centro",-7.928103,40.797952
+24935489,"Almagreira","Região de Leiria",310,"2025-02-09T10:06:00",24935489,"Em curso","2401","Atropelamento rodoviário",0,2,0,4,"2025-02-09T10:06:00","Pombal","Leiria","Centro",-8.68112,39.986543
+24935521,"Reguengo e São Julião","Alto Alentejo",312,"2025-02-09T10:13:00",24935521,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-02-09T10:13:00","Portalegre","Portalegre","Alentejo",-7.385715,39.31195
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24912072,"Romeira e Várzea","Lezíria do Tejo",311,"2025-02-04T01:22:00",24912072,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,1,"2025-02-04T01:22:00","Santarém","Santarém","Alentejo",-8.714057,39.254832
 24935427,"Macieira de Rates","Cávado",309,"2025-02-09T09:49:00",24935427,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-09T09:49:00","Barcelos","Braga","Norte",-8.63764,41.434486
 24935495,"Quarteira","Algarve",313,"2025-02-09T10:00:00",24935495,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-09T10:00:00","Loulé","Faro","Algarve",-8.1072,37.074665
 24935588,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-02-09T10:25:00",24935588,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-02-09T10:25:00","Bragança","Bragança","Norte",-6.757323,41.822458
-24934846,"Barrancos","Baixo Alentejo",312,"2025-02-09T06:45:00",24934846,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-09T06:45:00","Barrancos","Beja","Alentejo",-7.089595,38.147652
-24935237,"Moledo","Viseu Dão Lafões",310,"2025-02-09T09:11:00",24935237,"Em curso","2407","Despiste",0,4,0,9,"2025-02-09T09:11:00","São Pedro Do Sul","Viseu","Centro",-7.928103,40.797952
-24935489,"Almagreira","Região de Leiria",310,"2025-02-09T10:06:00",24935489,"Em curso","2401","Atropelamento rodoviário",0,2,0,4,"2025-02-09T10:06:00","Pombal","Leiria","Centro",-8.68112,39.986543
-24935521,"Reguengo e São Julião","Alto Alentejo",312,"2025-02-09T10:13:00",24935521,"Em resolução","2403","Colisão rodoviária",0,3,0,6,"2025-02-09T10:13:00","Portalegre","Portalegre","Alentejo",-7.385715,39.31195
 24935314,"Igreja Nova e Cheleiros","Grande Lisboa",311,"2025-02-09T09:26:00",24935314,"Em conclusão","2403","Colisão rodoviária",0,5,0,14,"2025-02-09T09:26:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.321418,38.89208
-24935331,"Cepães e Fareja","Ave",309,"2025-02-09T09:33:00",24935331,"Em curso","2403","Colisão rodoviária",0,4,0,12,"2025-02-09T09:33:00","Fafe","Braga","Norte",-8.2357,41.412733
+24935331,"Cepães e Fareja","Ave",309,"2025-02-09T09:33:00",24935331,"Em curso","2403","Colisão rodoviária",0,3,0,6,"2025-02-09T09:33:00","Fafe","Braga","Norte",-8.2357,41.412733
 24935448,"Almargem do Bispo, Pêro Pinheiro e Montelavar","Grande Lisboa",311,"2025-02-09T09:56:00",24935448,"Em conclusão","2405","Acidente com tratores e máquinas",0,3,0,8,"2025-02-09T09:56:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.264324,38.853014
 24935499,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória","Area M. Porto",309,"2025-02-09T10:11:00",24935499,"Em despacho","2117","Incêndio em edifícios comerciais e gares de transporte",0,4,0,16,"2025-02-09T10:11:00","Porto","Porto","Norte",-8.61125,41.14638
 24935600,"S.julião, N.s. da Anunciada e S. Maria da Graça","Península de Setúbal",311,"2025-02-09T10:25:00",24935600,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-02-09T10:25:00","Setúbal","Setúbal","Área Metropolitana De Lisboa",-8.889983,38.529955
-24935632,"Armação de Pêra","Algarve",313,"2025-02-09T10:26:00",24935632,"Em despacho","2407","Despiste",0,2,0,7,"2025-02-09T10:26:00","Silves","Faro","Algarve",-8.355807,37.10329
+24935632,"Armação de Pêra","Algarve",313,"2025-02-09T10:26:00",24935632,"Em curso","2407","Despiste",0,3,0,9,"2025-02-09T10:26:00","Silves","Faro","Algarve",-8.355807,37.10329
