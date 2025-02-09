@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24936665,Silveira,Oeste,311,2025-02-09T14:52:00Z,24936665,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-02-09T14:52:00Z,Torres Vedras,Lisboa,Centro,-9.342288,39.102635
+24936704,São João da Madeira,Area M. Porto,309,2025-02-09T15:05:00Z,24936704,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,1,2025-02-09T15:05:00Z,São João Da Madeira,Aveiro,Norte,-8.490365,40.895632
