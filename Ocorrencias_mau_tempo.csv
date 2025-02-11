@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24946072,Alvorninha,Oeste,311,2025-02-11T14:50:00Z,24946072,Em conclusão,3301,Queda de árvore,0,3,0,7,2025-02-11T14:50:00Z,Caldas Da Rainha,Leiria,Centro,-9.016553,39.399192
-24946873,Madalena e Beselga,Médio Tejo,311,2025-02-11T18:03:00Z,24946873,Em despacho,3301,Queda de árvore,0,1,0,4,2025-02-11T18:03:00Z,Tomar,Santarém,Centro,-8.489487,39.622674
 24944560,Glória e Vera Cruz,Região de Aveiro,310,2025-02-11T10:09:00Z,24944560,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,1,2025-02-11T10:09:00Z,Aveiro,Aveiro,Centro,-8.647359,40.640643
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
