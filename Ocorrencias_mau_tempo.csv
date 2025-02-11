@@ -1,13 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24944419,São Jacinto,Região de Aveiro,310,2025-02-11T09:29:00Z,24944419,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-02-11T09:29:00Z,Aveiro,Aveiro,Centro,-8.723538,40.699711
+24945317,Carcavelos e Parede,Grande Lisboa,311,2025-02-11T12:17:00Z,24945317,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-11T12:17:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
+24945885,São Domingos de Rana,Grande Lisboa,311,2025-02-11T13:52:00Z,24945885,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-02-11T13:52:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
 24944560,Glória e Vera Cruz,Região de Aveiro,310,2025-02-11T10:09:00Z,24944560,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,1,2025-02-11T10:09:00Z,Aveiro,Aveiro,Centro,-8.647359,40.640643
 24944591,São Bartolomeu de Messines,Algarve,313,2025-02-11T10:17:00Z,24944591,Em curso,1103,Vento forte,0,9,0,23,2025-02-11T10:17:00Z,Silves,Faro,Algarve,-8.293242,37.307028
 24945445,São Domingos de Rana,Grande Lisboa,311,2025-02-11T12:39:00Z,24945445,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-11T12:39:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.347651,38.740483
-24945019,Estômbar e Parchal,Algarve,313,2025-02-11T11:00:00Z,24945019,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-02-11T11:00:00Z,Lagoa,Faro,Algarve,-8.517968,37.136212
-24945317,Carcavelos e Parede,Grande Lisboa,311,2025-02-11T12:17:00Z,24945317,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-11T12:17:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
-24945518,Loulé (São Clemente),Algarve,313,2025-02-11T12:50:00Z,24945518,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-02-11T12:50:00Z,Loulé,Faro,Algarve,-8.018267,37.137687
-24945701,Altura,Algarve,313,2025-02-11T13:44:00Z,24945701,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-02-11T13:44:00Z,Castro Marim,Faro,Algarve,-7.49919,37.17488
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24944419,São Jacinto,Região de Aveiro,310,2025-02-11T09:29:00Z,24944419,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-02-11T09:29:00Z,Aveiro,Aveiro,Centro,-8.723538,40.699711
-24945399,Évora de Alcobaça,Oeste,311,2025-02-11T12:36:00Z,24945399,Em conclusão,3301,Queda de árvore,0,3,0,5,2025-02-11T12:36:00Z,Alcobaça,Leiria,Centro,-8.996057,39.525441
+24945877,Couço,Lezíria do Tejo,311,2025-02-11T14:18:00Z,24945877,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,3,0,5,2025-02-11T14:18:00Z,Coruche,Santarém,Alentejo,-8.284298,38.990819
 24945483,São Martinho do Porto,Oeste,311,2025-02-11T12:55:00Z,24945483,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-02-11T12:55:00Z,Alcobaça,Leiria,Centro,-9.131915,39.510842
-24945513,Estômbar e Parchal,Algarve,313,2025-02-11T12:55:00Z,24945513,Em despacho,3301,Queda de árvore,0,1,0,5,2025-02-11T12:55:00Z,Lagoa,Faro,Algarve,-8.481987,37.143532
+24945783,Faro (Sé e São Pedro),Algarve,313,2025-02-11T13:47:00Z,24945783,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-02-11T13:47:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+24945824,Mora,Alentejo Central,312,2025-02-11T14:07:00Z,24945824,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-02-11T14:07:00Z,Mora,Évora,Alentejo,-8.168853,38.946775
