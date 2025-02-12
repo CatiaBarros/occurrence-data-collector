@@ -1,4 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24949780,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-02-12T12:24:00Z,24949780,Em despacho,3317,Inundação de estruturas por água canalizada,0,2,0,9,2025-02-12T12:24:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.926392,38.520139
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24949792,Ramada e Caneças,Grande Lisboa,311,2025-02-12T12:20:00Z,24949792,Em curso,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-02-12T12:20:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194441,38.801427
 24949000,Ramada e Caneças,Grande Lisboa,311,2025-02-12T09:57:00Z,24949000,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-12T09:57:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
 24949618,Laranjeiro e Feijó,Península de Setúbal,311,2025-02-12T11:50:00Z,24949618,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-12T11:50:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.156624,38.652235
