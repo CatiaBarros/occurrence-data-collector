@@ -1,1 +1,14 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24951185,"Alcanena e Vila Moreira","Médio Tejo",311,"2025-02-12T17:21:00",24951185,"Em conclusão","2513","Fuga de gás em conduta",0,3,0,7,"2025-02-12T17:21:00","Alcanena","Santarém","Centro",-8.676243,39.472785
+24952255,"Nogueira e Silva Escura","Area M. Porto",309,"2025-02-12T22:30:00",24952255,"Em resolução","2101","Incêndio em edifícios habitacionais",0,1,0,5,"2025-02-12T22:30:00","Maia","Porto","Norte",-8.583457,41.245601
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+24951530,"Ferreira do Alentejo e Canhestros","Baixo Alentejo",312,"2025-02-12T18:49:00",24951530,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-12T18:49:00","Ferreira Do Alentejo","Beja","Alentejo",-8.170632,37.977713
+24952014,"Campolide","Grande Lisboa",311,"2025-02-12T21:12:00",24952014,"Em despacho","2129","Incêndio em edifícios degradados ou devolutos",0,1,0,4,"2025-02-12T21:12:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.17028,38.72593
+24952082,"Águeda e Borralha","Região de Aveiro",310,"2025-02-12T21:15:00",24952082,"Em despacho","4331","Busca e resgate terrestre de animais",0,2,0,5,"2025-02-12T21:15:00","Águeda","Aveiro","Centro",-8.422513,40.585595
+24952248,"Mafamude e Vilar do Paraíso","Area M. Porto",309,"2025-02-12T22:32:00",24952248,"Em resolução","2403","Colisão rodoviária",0,5,0,14,"2025-02-12T22:32:00","Vila Nova De Gaia","Porto","Norte",-8.599652,41.112173
+24952273,"Monte Córdova","Area M. Porto",309,"2025-02-12T22:39:00",24952273,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-02-12T22:39:00","Santo Tirso","Porto","Norte",-8.428603,41.317841
+24951994,"Revinhade","Tâmega e Sousa",309,"2025-02-12T20:52:00",24951994,"Em conclusão","2401","Atropelamento rodoviário",0,1,0,2,"2025-02-12T20:52:00","Felgueiras","Porto","Norte",-8.262957,41.34142
+24952244,"Pinheiro da Bemposta, Travanca e Palmaz","Area M. Porto",309,"2025-02-12T22:24:00",24952244,"Em resolução","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-02-12T22:24:00","Oliveira De Azeméis","Aveiro","Norte",-8.48914,40.8039
+24952083,"Mação, Penhascoso e Aboboreira","Médio Tejo",311,"2025-02-12T21:28:00",24952083,"Em conclusão","2407","Despiste",0,6,0,15,"2025-02-12T21:28:00","Mação","Santarém","Centro",-7.984748,39.521677
+24952115,"a Dos Cunhados e Maceira","Oeste",311,"2025-02-12T21:27:00",24952115,"Em conclusão","2403","Colisão rodoviária",0,3,0,8,"2025-02-12T21:27:00","Torres Vedras","Lisboa","Centro",-9.358485,39.170019
+24952176,"Retorta e Tougues","Area M. Porto",309,"2025-02-12T22:04:00",24952176,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,3,0,6,"2025-02-12T22:04:00","Vila Do Conde","Porto","Norte",-8.726575,41.34605
