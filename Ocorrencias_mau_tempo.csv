@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24955172,Corroios,Península de Setúbal,311,2025-02-13T14:45:00Z,24955172,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-13T14:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15139,38.58
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24955390,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-02-13T15:26:00Z,24955390,Em despacho,3301,Queda de árvore,0,1,0,4,2025-02-13T15:26:00Z,Vila Nova De Gaia,Porto,Norte,-8.624714,41.132843
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 24955257,Cabeça Boa,Douro,309,2025-02-13T14:55:00Z,24955257,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-13T14:55:00Z,Torre De Moncorvo,Bragança,Norte,-7.120096,41.181232
+24955630,"Torres Novas (São Pedro), Lapas e Ribeira Branca",Médio Tejo,311,2025-02-13T16:23:00Z,24955630,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-02-13T16:23:00Z,Torres Novas,Santarém,Centro,-8.559665,39.481931
+24955172,Corroios,Península de Setúbal,311,2025-02-13T14:45:00Z,24955172,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-13T14:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15139,38.58
