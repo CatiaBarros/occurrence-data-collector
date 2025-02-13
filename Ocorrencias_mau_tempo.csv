@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24953386,Lousa,Douro,309,2025-02-13T09:19:00Z,24953386,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-13T09:19:00Z,Torre De Moncorvo,Bragança,Norte,-7.187022,41.168294
+24954056,Silves,Algarve,313,2025-02-13T11:15:00Z,24954056,Em despacho,3301,Queda de árvore,0,1,0,5,2025-02-13T11:15:00Z,Silves,Faro,Algarve,-8.443919,37.192295
