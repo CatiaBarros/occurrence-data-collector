@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
-24955934,Amora,Península de Setúbal,311,2025-02-13T17:17:00Z,24955934,Em despacho,3301,Queda de árvore,0,2,0,5,2025-02-13T17:17:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.14758,38.581152
-24956243,São Teotónio,Alentejo Litoral,312,2025-02-13T18:35:00Z,24956243,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-13T18:35:00Z,Odemira,Beja,Alentejo,-8.803445,37.599856
-24956284,Ramada e Caneças,Grande Lisboa,311,2025-02-13T18:41:00Z,24956284,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-02-13T18:41:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24956223,Silves,Algarve,313,2025-02-13T18:34:00Z,24956223,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-02-13T18:34:00Z,Silves,Faro,Algarve,-8.467563,37.190428
+24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
+24955934,Amora,Península de Setúbal,311,2025-02-13T17:17:00Z,24955934,Em curso,3301,Queda de árvore,0,1,0,2,2025-02-13T17:17:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.14758,38.581152
+24956243,São Teotónio,Alentejo Litoral,312,2025-02-13T18:35:00Z,24956243,Em conclusão,3301,Queda de árvore,0,3,0,5,2025-02-13T18:35:00Z,Odemira,Beja,Alentejo,-8.791488,37.599562
