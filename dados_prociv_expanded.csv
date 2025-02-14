@@ -1,1 +1,28 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24960216,"Lavos","Região de Coimbra",310,"2025-02-14T16:08:00",24960216,"Em conclusão","2407","Despiste",0,1,0,5,"2025-02-14T16:08:00","Figueira Da Foz","Coimbra","Centro",-8.83925,40.09521
+24961019,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-02-14T19:29:00",24961019,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,7,"2025-02-14T19:29:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.18373,38.63466
+24961068,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-02-14T19:25:00",24961068,"Em conclusão","2403","Colisão rodoviária",0,2,0,6,"2025-02-14T19:25:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.206824,38.629265
+24961086,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-02-14T19:46:00",24961086,"Em conclusão","3203","Detritos confinados",0,1,0,5,"2025-02-14T19:46:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.289911,38.77183
+24961121,"Pousa","Cávado",309,"2025-02-14T19:50:00",24961121,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-14T19:50:00","Barcelos","Braga","Norte",-8.516327,41.552466
+24960894,"Luso","Região de Coimbra",310,"2025-02-14T18:51:00",24960894,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-14T18:51:00","Mealhada","Aveiro","Centro",-8.40577,40.39159
+24960944,"Matas e Cercal","Médio Tejo",311,"2025-02-14T19:07:00",24960944,"Em resolução","2101","Incêndio em edifícios habitacionais",0,2,0,7,"2025-02-14T19:07:00","Ourém","Santarém","Centro",-8.65785,39.70989
+24960976,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão","Tâmega e Sousa",309,"2025-02-14T19:16:00",24960976,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-14T19:16:00","Amarante","Porto","Norte",-8.06546,41.294287
+24961178,"Travanca","Tâmega e Sousa",309,"2025-02-14T20:00:00",24961178,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-14T20:00:00","Amarante","Porto","Norte",-8.191621,41.278404
+24961194,"Portimão","Algarve",313,"2025-02-14T20:13:00",24961194,"Em despacho","2515","Fuga de gás em garrafa",0,0,0,0,"2025-02-14T20:13:00","Portimão","Faro","Algarve",-8.54015,37.13133
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+24959956,"Sesimbra (Castelo)","Península de Setúbal",311,"2025-02-14T15:14:00",24959956,"Em conclusão","2407","Despiste",0,14,0,33,"2025-02-14T15:14:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.216311,38.41558
+24960663,"Enxara do Bispo, Gradil e Vila Franca do Rosário","Grande Lisboa",311,"2025-02-14T17:51:00",24960663,"Em conclusão","2401","Atropelamento rodoviário",0,1,0,2,"2025-02-14T17:51:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.249023,38.979266
+24960947,"Oliveira (São Mateus)","Ave",309,"2025-02-14T19:02:00",24960947,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-14T19:02:00","Vila Nova De Famalicão","Braga","Norte",-8.398055,41.386532
+24961024,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim","Grande Lisboa",311,"2025-02-14T19:26:00",24961024,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-14T19:26:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.366763,38.781718
+24961156,"Mozelos","Area M. Porto",309,"2025-02-14T19:57:00",24961156,"Em curso","2403","Colisão rodoviária",0,2,0,8,"2025-02-14T19:57:00","Santa Maria Da Feira","Aveiro","Norte",-8.56526,40.997101
+24961181,"Aljubarrota","Oeste",311,"2025-02-14T20:09:00",24961181,"Em despacho","2403","Colisão rodoviária",0,3,0,7,"2025-02-14T20:09:00","Alcobaça","Leiria","Centro",-8.943989,39.548333
+24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+24960205,"Torreira","Região de Aveiro",310,"2025-02-14T16:00:00",24960205,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-14T16:00:00","Murtosa","Aveiro","Centro",-8.693681,40.773279
+24960605,"Pataias e Martingança","Oeste",311,"2025-02-14T17:35:00",24960605,"Em conclusão","2403","Colisão rodoviária",0,2,0,7,"2025-02-14T17:35:00","Alcobaça","Leiria","Centro",-9.042683,39.724275
+24960880,"Sazes do Lorvão","Região de Coimbra",310,"2025-02-14T18:42:00",24960880,"Em conclusão","2403","Colisão rodoviária",0,4,0,10,"2025-02-14T18:42:00","Penacova","Coimbra","Centro",-8.326027,40.304829
+24960907,"Guia","Algarve",313,"2025-02-14T18:56:00",24960907,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-14T18:56:00","Albufeira","Faro","Algarve",-8.269234,37.130454
+24961089,"Carregosa","Area M. Porto",309,"2025-02-14T19:43:00",24961089,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-02-14T19:43:00","Oliveira De Azeméis","Aveiro","Norte",-8.413127,40.881882
+24961107,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-02-14T19:50:00",24961107,"Em resolução","2403","Colisão rodoviária",0,4,0,10,"2025-02-14T19:50:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.297451,38.765315
+24961148,"Lamelas e Guimarei","Area M. Porto",309,"2025-02-14T19:45:00",24961148,"Em despacho","3103","Incêndio rural",0,1,0,2,"2025-02-14T19:45:00","Santo Tirso","Porto","Norte",-8.488278,41.294002
+24961168,"Glória e Vera Cruz","Região de Aveiro",310,"2025-02-14T19:58:00",24961168,"Em curso","2403","Colisão rodoviária",0,3,0,8,"2025-02-14T19:58:00","Aveiro","Aveiro","Centro",-8.659223,40.645992
+24961198,"Alto do Seixalinho, Santo André e Verderena","Península de Setúbal",311,"2025-02-14T20:08:00",24961198,"Em despacho","2403","Colisão rodoviária",0,3,0,10,"2025-02-14T20:08:00","Barreiro","Setúbal","Área Metropolitana De Lisboa",-9.056708,38.653969
