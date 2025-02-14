@@ -1,12 +1,16 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24959133,"Nogueira do Cravo e Pindelo","Area M. Porto",309,"2025-02-14T12:42:00",24959133,"Em curso","2407","Despiste",0,10,0,27,"2025-02-14T12:42:00","Oliveira De Azeméis","Aveiro","Norte",-8.455398,40.872535
+24959551,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo","Grande Lisboa",311,"2025-02-14T13:55:00",24959551,"Em curso","3311","Queda de elementos de estruturas edificados",0,2,0,4,"2025-02-14T13:55:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.22967,38.696612
+24959584,"Benedita","Oeste",311,"2025-02-14T14:06:00",24959584,"Em curso","2403","Colisão rodoviária",0,3,0,10,"2025-02-14T14:06:00","Alcobaça","Leiria","Centro",-8.972931,39.440047
+24959650,"Quinta do Conde","Península de Setúbal",311,"2025-02-14T14:22:00",24959650,"Em resolução","2301","Incêndio em transporte rodoviário",0,2,0,8,"2025-02-14T14:22:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.040139,38.56438
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
 24958440,"Carregueira","Lezíria do Tejo",311,"2025-02-14T10:27:00",24958440,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-14T10:27:00","Chamusca","Santarém","Alentejo",-8.4144,39.41909
-24959221,"Queluz e Belas","Grande Lisboa",311,"2025-02-14T12:55:00",24959221,"Em conclusão","3325","Dano na rede de abastecimento de gás",0,2,0,8,"2025-02-14T12:55:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.253541,38.753134
 24959346,"Macieira de Cambra","Area M. Porto",309,"2025-02-14T13:14:00",24959346,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-14T13:14:00","Vale De Cambra","Aveiro","Norte",-8.367205,40.870286
 24958704,"Chamusca e Pinheiro Grande","Lezíria do Tejo",311,"2025-02-14T11:15:00",24958704,"Em conclusão","2407","Despiste",0,0,0,0,"2025-02-14T11:15:00","Chamusca","Santarém","Alentejo",-8.425048,39.406007
 24959408,"Rebordosa","Area M. Porto",309,"2025-02-14T13:24:00",24959408,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-14T13:24:00","Paredes","Porto","Norte",-8.413867,41.217556
 24959422,"Tocha","Região de Coimbra",310,"2025-02-14T13:37:00",24959422,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,7,"2025-02-14T13:37:00","Cantanhede","Coimbra","Centro",-8.756653,40.316813
-24959508,"Nine","Ave",309,"2025-02-14T13:56:00",24959508,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-14T13:56:00","Vila Nova De Famalicão","Braga","Norte",-8.54183,41.46396
+24959508,"Nine","Ave",309,"2025-02-14T13:56:00",24959508,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-14T13:56:00","Vila Nova De Famalicão","Braga","Norte",-8.54183,41.46396
+24959825,"Bustelo, Carneiro e Carvalho de Rei","Tâmega e Sousa",309,"2025-02-14T14:40:00",24959825,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-14T14:40:00","Amarante","Porto","Norte",-7.970962,41.215278
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24958852,"Porto Covo","Alentejo Litoral",312,"2025-02-14T11:40:00",24958852,"Em conclusão","2407","Despiste",0,3,0,7,"2025-02-14T11:40:00","Sines","Setúbal","Alentejo",-8.736322,37.846067
 24958984,"Águas Santas","Area M. Porto",309,"2025-02-14T11:58:00",24958984,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-14T11:58:00","Maia","Porto","Norte",-8.574268,41.21017
@@ -14,9 +18,3 @@
 24959352,"Torre de Moncorvo","Douro",309,"2025-02-14T13:20:00",24959352,"Em despacho","3111","Queima",0,1,0,3,"2025-02-14T13:20:00","Torre De Moncorvo","Bragança","Norte",-7.078549,41.170955
 24959463,"Amendoeira","Terras de Trás-os-Montes",309,"2025-02-14T13:44:00",24959463,"Em despacho","4335","Prevenção a queimadas",0,1,0,3,"2025-02-14T13:44:00","Macedo De Cavaleiros","Bragança","Norte",-6.98721482038884,41.5668195702795
 24959477,"Ota","Oeste",311,"2025-02-14T13:49:00",24959477,"Em despacho","3111","Queima",0,1,0,2,"2025-02-14T13:49:00","Alenquer","Lisboa","Centro",-8.97978,39.10834
-24959133,"Nogueira do Cravo e Pindelo","Area M. Porto",309,"2025-02-14T12:42:00",24959133,"Em curso","2407","Despiste",0,9,0,25,"2025-02-14T12:42:00","Oliveira De Azeméis","Aveiro","Norte",-8.455398,40.872535
-24959214,"Ramalde","Area M. Porto",309,"2025-02-14T12:51:00",24959214,"Em conclusão","2403","Colisão rodoviária",0,2,0,3,"2025-02-14T12:51:00","Porto","Porto","Norte",-8.642922,41.17139
-24959497,"Alfândega da Fé","Terras de Trás-os-Montes",309,"2025-02-14T13:55:00",24959497,"Em despacho","3203","Detritos confinados",0,2,0,4,"2025-02-14T13:55:00","Alfândega Da Fé","Bragança","Norte",-6.96582,41.34423
-24959551,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo","Grande Lisboa",311,"2025-02-14T13:55:00",24959551,"Em curso","3311","Queda de elementos de estruturas edificados",0,2,0,4,"2025-02-14T13:55:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.22967,38.696612
-24959584,"Benedita","Oeste",311,"2025-02-14T14:06:00",24959584,"Em curso","2403","Colisão rodoviária",0,3,0,10,"2025-02-14T14:06:00","Alcobaça","Leiria","Centro",-8.972931,39.440047
-24959650,"Quinta do Conde","Península de Setúbal",311,"2025-02-14T14:22:00",24959650,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,6,"2025-02-14T14:22:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.040139,38.56438
