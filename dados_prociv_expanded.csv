@@ -1,9 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24962256,"Tropeço","Area M. Porto",309,"2025-02-15T06:19:00",24962256,"Em despacho","2407","Despiste",0,1,0,3,"2025-02-15T06:19:00","Arouca","Aveiro","Norte",-8.300565,40.940632
+24962256,"Tropeço","Area M. Porto",309,"2025-02-15T06:19:00",24962256,"Em curso","2407","Despiste",0,0,0,0,"2025-02-15T06:19:00","Arouca","Aveiro","Norte",-8.300565,40.940632
+24962683,"Nespereira e Casais","Tâmega e Sousa",309,"2025-02-15T09:17:00",24962683,"Em curso","2407","Despiste",0,1,0,2,"2025-02-15T09:17:00","Lousada","Porto","Norte",-8.303752,41.25308
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-24962587,"Santa Maria, São Pedro e Sobral da Lagoa","Oeste",311,"2025-02-15T08:52:00",24962587,"Em curso","2407","Despiste",0,2,0,7,"2025-02-15T08:52:00","Óbidos","Leiria","Centro",-9.161155,39.364678
+24962587,"Santa Maria, São Pedro e Sobral da Lagoa","Oeste",311,"2025-02-15T08:52:00",24962587,"Em resolução","2407","Despiste",0,3,0,9,"2025-02-15T08:52:00","Óbidos","Leiria","Centro",-9.161155,39.364678
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-24962186,"Amieira e Alqueva","Alentejo Central",312,"2025-02-15T05:33:00",24962186,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2025-02-15T05:33:00","Portel","Évora","Alentejo",-7.501322,38.197988
-24962227,"Ervões","Alto Tâmega e Barroso",309,"2025-02-15T06:24:00",24962227,"Em curso","2403","Colisão rodoviária",1,12,0,33,"2025-02-15T06:24:00","Valpaços","Vila Real","Norte",-7.336518,41.668135
-24962404,"Canidelo","Area M. Porto",309,"2025-02-15T08:13:00",24962404,"Em resolução","2301","Incêndio em transporte rodoviário",0,10,0,28,"2025-02-15T08:13:00","Vila Nova De Gaia","Porto","Norte",-8.635603,41.130873
+24962227,"Ervões","Alto Tâmega e Barroso",309,"2025-02-15T06:24:00",24962227,"Em curso","2403","Colisão rodoviária",1,10,0,29,"2025-02-15T06:24:00","Valpaços","Vila Real","Norte",-7.336518,41.668135
+24962404,"Canidelo","Area M. Porto",309,"2025-02-15T08:13:00",24962404,"Em resolução","2301","Incêndio em transporte rodoviário",0,9,0,26,"2025-02-15T08:13:00","Vila Nova De Gaia","Porto","Norte",-8.635603,41.130873
 24962529,"Covilhã e Canhoso","Beiras e Serra da Estrela",310,"2025-02-15T08:35:00",24962529,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-02-15T08:35:00","Covilhã","Castelo Branco","Centro",-7.498188,40.27714
