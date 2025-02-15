@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24964832,Urra,Alto Alentejo,312,2025-02-15T18:01:00Z,24964832,Em resolução,3301,Queda de árvore,0,2,0,7,2025-02-15T18:01:00Z,Portalegre,Portalegre,Alentejo,-7.460775,39.198202
+24964855,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-02-15T18:14:00Z,24964855,Em despacho,3313,Deslizamento de terras,0,1,0,6,2025-02-15T18:14:00Z,Leiria,Leiria,Centro,-8.803324,39.73417
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24964832,Urra,Alto Alentejo,312,2025-02-15T18:01:00Z,24964832,Em conclusão,3301,Queda de árvore,0,2,0,7,2025-02-15T18:01:00Z,Portalegre,Portalegre,Alentejo,-7.460775,39.198202
