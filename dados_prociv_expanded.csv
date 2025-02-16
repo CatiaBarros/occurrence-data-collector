@@ -1,11 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24967837,"Pinheiro","Ave",309,"2025-02-16T13:44:00",24967837,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-16T13:44:00","Vieira Do Minho","Braga","Norte",-8.099518,41.631454
+24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+24964526,"Aldoar, Foz do Douro e Nevogilde","Area M. Porto",309,"2025-02-15T16:36:00",24964526,"Em curso","4329","Busca e resgate aquático de pessoas",1,7,0,18,"2025-02-15T16:36:00","Porto","Porto","Norte",-8.67565,41.14698
+24967600,"Esmoriz","Região de Aveiro",310,"2025-02-16T12:34:00",24967600,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-16T12:34:00","Ovar","Aveiro","Centro",-8.637974,40.962156
+24967768,"Alpiarça","Lezíria do Tejo",311,"2025-02-16T13:29:00",24967768,"Em conclusão","2403","Colisão rodoviária",0,2,0,5,"2025-02-16T13:29:00","Alpiarça","Santarém","Alentejo",-8.574608,39.249088
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24967699,"Gondomar (São Cosme), Valbom e Jovim","Area M. Porto",309,"2025-02-16T13:06:00",24967699,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-02-16T13:06:00","Gondomar","Porto","Norte",-8.55878,41.12617
 24967428,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-02-16T11:39:00",24967428,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-16T11:39:00","Serpa","Beja","Alentejo",-7.558738,37.88636
 24967729,"Olho Marinho","Oeste",311,"2025-02-16T13:17:00",24967729,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,6,"2025-02-16T13:17:00","Óbidos","Leiria","Centro",-9.24789,39.33168
-24967831,"Vide e Cabeça","Beiras e Serra da Estrela",310,"2025-02-16T13:47:00",24967831,"Em despacho","2407","Despiste",0,3,0,8,"2025-02-16T13:47:00","Seia","Guarda","Centro",-7.74685,40.32904
-24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-24964526,"Aldoar, Foz do Douro e Nevogilde","Area M. Porto",309,"2025-02-15T16:36:00",24964526,"Em curso","4329","Busca e resgate aquático de pessoas",1,6,0,16,"2025-02-15T16:36:00","Porto","Porto","Norte",-8.67565,41.14698
-24967600,"Esmoriz","Região de Aveiro",310,"2025-02-16T12:34:00",24967600,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-16T12:34:00","Ovar","Aveiro","Centro",-8.637974,40.962156
-24967768,"Alpiarça","Lezíria do Tejo",311,"2025-02-16T13:29:00",24967768,"Em conclusão","2403","Colisão rodoviária",0,2,0,5,"2025-02-16T13:29:00","Alpiarça","Santarém","Alentejo",-8.574608,39.249088
+24967831,"Vide e Cabeça","Beiras e Serra da Estrela",310,"2025-02-16T13:47:00",24967831,"Em curso","2407","Despiste",0,3,0,8,"2025-02-16T13:47:00","Seia","Guarda","Centro",-7.74625,40.329002
