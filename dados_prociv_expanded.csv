@@ -1,12 +1,17 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24967837,"Pinheiro","Ave",309,"2025-02-16T13:44:00",24967837,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-16T13:44:00","Vieira Do Minho","Braga","Norte",-8.099518,41.631454
+24967837,"Anjos e Vilar do Chão","Ave",309,"2025-02-16T13:44:00",24967837,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-16T13:44:00","Vieira Do Minho","Braga","Norte",-8.064458,41.612462
 24967957,"Fridão","Tâmega e Sousa",309,"2025-02-16T14:18:00",24967957,"Em despacho","2403","Colisão rodoviária",0,3,0,8,"2025-02-16T14:18:00","Amarante","Porto","Norte",-8.019708,41.31572
-24967428,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-02-16T11:39:00",24967428,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-16T11:39:00","Serpa","Beja","Alentejo",-7.558738,37.88636
-24967831,"Vide e Cabeça","Beiras e Serra da Estrela",310,"2025-02-16T13:47:00",24967831,"Em curso","2407","Despiste",0,3,0,8,"2025-02-16T13:47:00","Seia","Guarda","Centro",-7.74625,40.329002
+24968024,"Costa da Caparica","Península de Setúbal",311,"2025-02-16T14:02:00",24968024,"Em conclusão","2407","Despiste",0,1,0,3,"2025-02-16T14:02:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.227696,38.642583
+24968041,"Negreiros e Chavão","Cávado",309,"2025-02-16T14:31:00",24968041,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-02-16T14:31:00","Barcelos","Braga","Norte",-8.608352,41.43716
+24968054,"Castelo Branco","Beira Baixa",310,"2025-02-16T14:29:00",24968054,"Em despacho","4331","Busca e resgate terrestre de animais",0,2,0,3,"2025-02-16T14:29:00","Castelo Branco","Castelo Branco","Centro",-7.490756,39.816895
+24968089,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-02-16T14:28:00",24968089,"Em resolução","2101","Incêndio em edifícios habitacionais",0,2,0,7,"2025-02-16T14:28:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.335956,38.797352
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-24967958,"Bobadela","Região de Coimbra",310,"2025-02-16T14:18:00",24967958,"Em despacho","2101","Incêndio em edifícios habitacionais",0,4,0,11,"2025-02-16T14:18:00","Oliveira Do Hospital","Coimbra","Centro",-7.883525,40.365063
+24967958,"Bobadela","Região de Coimbra",310,"2025-02-16T14:18:00",24967958,"Em resolução","2101","Incêndio em edifícios habitacionais",0,5,0,16,"2025-02-16T14:18:00","Oliveira Do Hospital","Coimbra","Centro",-7.883525,40.365063
+24968067,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-02-16T14:35:00",24968067,"Em curso","2407","Despiste",0,2,0,4,"2025-02-16T14:35:00","Bragança","Bragança","Norte",-6.761223,41.813164
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
 24964526,"Aldoar, Foz do Douro e Nevogilde","Area M. Porto",309,"2025-02-15T16:36:00",24964526,"Em curso","4329","Busca e resgate aquático de pessoas",1,7,0,18,"2025-02-15T16:36:00","Porto","Porto","Norte",-8.67565,41.14698
-24967600,"Esmoriz","Região de Aveiro",310,"2025-02-16T12:34:00",24967600,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-16T12:34:00","Ovar","Aveiro","Centro",-8.637974,40.962156
 24967768,"Alpiarça","Lezíria do Tejo",311,"2025-02-16T13:29:00",24967768,"Em conclusão","2403","Colisão rodoviária",0,2,0,5,"2025-02-16T13:29:00","Alpiarça","Santarém","Alentejo",-8.574608,39.249088
-24968002,"Faro (Sé e São Pedro)","Algarve",313,"2025-02-16T14:22:00",24968002,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-16T14:22:00","Faro","Faro","Algarve",-7.942032,37.01865
+24968002,"Faro (Sé e São Pedro)","Algarve",313,"2025-02-16T14:22:00",24968002,"Em curso","2403","Colisão rodoviária",0,3,0,10,"2025-02-16T14:22:00","Faro","Faro","Algarve",-7.942032,37.01865
+24967831,"Vide e Cabeça","Beiras e Serra da Estrela",310,"2025-02-16T13:47:00",24967831,"Em resolução","2407","Despiste",0,3,0,8,"2025-02-16T13:47:00","Seia","Guarda","Centro",-7.74625,40.329002
+24968013,"Asseiceira","Lezíria do Tejo",311,"2025-02-16T14:28:00",24968013,"Em curso","2407","Despiste",0,3,0,7,"2025-02-16T14:28:00","Rio Maior","Santarém","Alentejo",-8.936468,39.315428
+24968082,"Gafanha da Nazaré","Região de Aveiro",310,"2025-02-16T14:43:00",24968082,"Em despacho","2407","Despiste",0,0,0,0,"2025-02-16T14:43:00","Ílhavo","Aveiro","Centro",-8.70282,40.63442
