@@ -1,10 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-24966697,"Silves","Algarve",313,"2025-02-16T08:51:00",24966697,"Em curso","4333","Busca e resgate aquático de animais",0,2,0,4,"2025-02-16T08:51:00","Silves","Faro","Algarve",-8.467563,37.190428
-24966774,"São Domingos de Rana","Grande Lisboa",311,"2025-02-16T09:05:00",24966774,"Em despacho","3203","Detritos confinados",0,1,0,4,"2025-02-16T09:05:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.347651,38.740483
-24966847,"Eiras e São Paulo de Frades","Região de Coimbra",310,"2025-02-16T09:40:00",24966847,"Em resolução","2101","Incêndio em edifícios habitacionais",0,4,0,15,"2025-02-16T09:40:00","Coimbra","Coimbra","Centro",-8.43533,40.22257
-24967017,"Priscos","Cávado",309,"2025-02-16T10:16:00",24967017,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-16T10:16:00","Braga","Braga","Norte",-8.476427,41.4954
-24967024,"Lordelo","Area M. Porto",309,"2025-02-16T10:23:00",24967024,"Em despacho","2101","Incêndio em edifícios habitacionais",0,0,0,0,"2025-02-16T10:23:00","Paredes","Porto","Norte",-8.40571,41.23336
+24966774,"São Domingos de Rana","Grande Lisboa",311,"2025-02-16T09:05:00",24966774,"Em conclusão","3203","Detritos confinados",0,1,0,4,"2025-02-16T09:05:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.347651,38.740483
+24966847,"Eiras e São Paulo de Frades","Região de Coimbra",310,"2025-02-16T09:40:00",24966847,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,4,0,15,"2025-02-16T09:40:00","Coimbra","Coimbra","Centro",-8.43533,40.22257
+24967017,"Priscos","Cávado",309,"2025-02-16T10:16:00",24967017,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-16T10:16:00","Braga","Braga","Norte",-8.465163,41.491993
+24967024,"Lordelo","Area M. Porto",309,"2025-02-16T10:23:00",24967024,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,7,"2025-02-16T10:23:00","Paredes","Porto","Norte",-8.405897,41.233877
+24967092,"Viseu","Viseu Dão Lafões",310,"2025-02-16T10:33:00",24967092,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-02-16T10:33:00","Viseu","Viseu","Centro",-7.908451,40.659587
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
 24964526,"Aldoar, Foz do Douro e Nevogilde","Area M. Porto",309,"2025-02-15T16:36:00",24964526,"Em curso","4329","Busca e resgate aquático de pessoas",1,6,0,17,"2025-02-15T16:36:00","Porto","Porto","Norte",-8.67565,41.14698
-24966651,"Carrazedo","Cávado",309,"2025-02-16T08:39:00",24966651,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-16T08:39:00","Amares","Braga","Norte",-8.385126,41.631803
