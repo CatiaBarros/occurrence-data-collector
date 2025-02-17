@@ -2,4 +2,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24973781,Campanhã,Area M. Porto,309,2025-02-17T18:36:00Z,24973781,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-02-17T18:36:00Z,Porto,Porto,Norte,-8.571543,41.154223
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
-24974109,Massamá e Monte Abraão,Grande Lisboa,311,2025-02-17T20:14:00Z,24974109,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-02-17T20:14:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.277134,38.75422
+24974109,Massamá e Monte Abraão,Grande Lisboa,311,2025-02-17T20:14:00Z,24974109,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-17T20:14:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.277134,38.75422
