@@ -1,1 +1,16 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24972040,"Ribas","Tâmega e Sousa",309,"2025-02-17T12:44:00",24972040,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-17T12:44:00","Celorico De Basto","Braga","Norte",-8.017767,41.456569
+24972843,"Grijó","Terras de Trás-os-Montes",309,"2025-02-17T15:22:00",24972843,"Em curso","2407","Despiste",0,4,0,11,"2025-02-17T15:22:00","Macedo De Cavaleiros","Bragança","Norte",-6.97451,41.51012
+24972978,"Cristelo","Cávado",309,"2025-02-17T15:42:00",24972978,"Em conclusão","2403","Colisão rodoviária",0,6,0,15,"2025-02-17T15:42:00","Barcelos","Braga","Norte",-8.698328,41.487435
+24973397,"Casal Comba","Região de Coimbra",310,"2025-02-17T17:15:00",24973397,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-02-17T17:15:00","Mealhada","Aveiro","Centro",-8.468561,40.345928
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+24972574,"Peniche","Oeste",311,"2025-02-17T14:28:00",24972574,"Em curso","4335","Prevenção a queimadas",0,3,0,3,"2025-02-17T14:28:00","Peniche","Leiria","Centro",-9.39573865718003,39.3659976039044
+24972965,"São João Das Lampas e Terrugem","Grande Lisboa",311,"2025-02-17T15:37:00",24972965,"Em conclusão","2401","Atropelamento rodoviário",0,3,0,8,"2025-02-17T15:37:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.426082,38.874715
+24973374,"Fonte Arcada e Oliveira","Ave",309,"2025-02-17T17:07:00",24973374,"Em resolução","2401","Atropelamento rodoviário",0,2,0,5,"2025-02-17T17:07:00","Póvoa De Lanhoso","Braga","Norte",-8.238942,41.572612
+24972219,"Carnaxide e Queijas","Grande Lisboa",311,"2025-02-17T13:28:00",24972219,"Em curso","1105","Sismo",0,0,0,0,"2025-02-17T13:28:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.243421,38.725234
+24973104,"Vila Chã do Marão","Tâmega e Sousa",309,"2025-02-17T16:04:00",24973104,"Em resolução","2407","Despiste",0,1,0,2,"2025-02-17T16:04:00","Amarante","Porto","Norte",-8.044547,41.294603
+24973168,"Carregal do Sal","Viseu Dão Lafões",310,"2025-02-17T16:27:00",24973168,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,5,0,13,"2025-02-17T16:27:00","Carregal Do Sal","Viseu","Centro",-8.0131,40.4247
+24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+24964526,"Aldoar, Foz do Douro e Nevogilde","Area M. Porto",309,"2025-02-15T16:36:00",24964526,"Em curso","4329","Busca e resgate aquático de pessoas",0,6,0,16,"2025-02-15T16:36:00","Porto","Porto","Norte",-8.67565,41.14698
+24972721,"Muxagata","Douro",309,"2025-02-17T14:55:00",24972721,"Em conclusão","2403","Colisão rodoviária",0,3,0,8,"2025-02-17T14:55:00","Vila Nova De Foz Côa","Guarda","Norte",-7.169897,41.037425
+24973041,"Torres do Mondego","Região de Coimbra",310,"2025-02-17T16:02:00",24973041,"Em conclusão","2403","Colisão rodoviária",0,5,0,14,"2025-02-17T16:02:00","Coimbra","Coimbra","Centro",-8.380899,40.192152
