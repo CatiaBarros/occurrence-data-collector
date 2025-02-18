@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24976087,Alfândega da Fé,Terras de Trás-os-Montes,309,2025-02-18T10:33:00Z,24976087,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-18T10:33:00Z,Alfândega Da Fé,Bragança,Norte,-6.971876,41.341004
 24976288,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-02-18T11:09:00Z,24976288,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-02-18T11:09:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24976075,Quinta do Conde,Península de Setúbal,311,2025-02-18T10:29:00Z,24976075,Em curso,3301,Queda de árvore,0,4,0,8,2025-02-18T10:29:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.063159,38.551927
-24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
-24975967,Belver,Alto Alentejo,312,2025-02-18T10:05:00Z,24975967,Em conclusão,3301,Queda de árvore,0,4,0,6,2025-02-18T10:05:00Z,Gavião,Portalegre,Alentejo,-7.98508,39.493117
