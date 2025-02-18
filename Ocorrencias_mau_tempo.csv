@@ -2,6 +2,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 24976978,Setúbal (São Sebastião),Península de Setúbal,311,2025-02-18T13:30:00Z,24976978,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-02-18T13:30:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.862337,38.527365
 24977710,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-02-18T15:43:00Z,24977710,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-18T15:43:00Z,Leiria,Leiria,Centro,-8.741307,39.784643
-24977700,Cela,Oeste,311,2025-02-18T15:40:00Z,24977700,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-18T15:40:00Z,Alcobaça,Leiria,Centro,-9.035757,39.537749
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24977527,Ferragudo,Algarve,313,2025-02-18T15:08:00Z,24977527,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-02-18T15:08:00Z,Lagoa,Faro,Algarve,-8.514204,37.11762
+24977700,Cela,Oeste,311,2025-02-18T15:40:00Z,24977700,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-18T15:40:00Z,Alcobaça,Leiria,Centro,-9.035757,39.537749
