@@ -1,5 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24985637,São Bartolomeu de Messines,Algarve,313,2025-02-20T11:29:00Z,24985637,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-02-20T11:29:00Z,Silves,Faro,Algarve,-8.287502,37.25838
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 24984712,Santa Maria Maior,Alto Tâmega e Barroso,309,2025-02-20T08:35:00Z,24984712,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-02-20T08:35:00Z,Chaves,Vila Real,Norte,-7.477948,41.740078
 24985214,Caldas da Rainha - Santo Onofre e Serra do Bouro,Oeste,311,2025-02-20T10:19:00Z,24985214,Em despacho,3301,Queda de árvore,0,3,0,5,2025-02-20T10:19:00Z,Caldas Da Rainha,Leiria,Centro,-9.172184,39.40421
+24985543,"Nossa Senhora da Conceição, São Pedro e São Dinis",Douro,309,2025-02-20T11:29:00Z,24985543,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-02-20T11:29:00Z,Vila Real,Vila Real,Norte,-7.74387,41.30668
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
