@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24984335,Vila Franca Das Naves e Feital,Beiras e Serra da Estrela,310,2025-02-20T06:50:00Z,24984335,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-20T06:50:00Z,Trancoso,Guarda,Centro,-7.258443,40.723136
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 24984337,São Brás de Alportel,Algarve,313,2025-02-20T06:56:00Z,24984337,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-02-20T06:56:00Z,São Brás De Alportel,Faro,Algarve,-7.909012,37.166366
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
