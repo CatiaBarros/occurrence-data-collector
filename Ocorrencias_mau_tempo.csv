@@ -1,9 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24990493,Zibreira,Médio Tejo,311,2025-02-21T12:06:00Z,24990493,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-02-21T12:06:00Z,Torres Novas,Santarém,Centro,-8.625817,39.479641
-24990586,Esmoriz,Região de Aveiro,310,2025-02-21T12:20:00Z,24990586,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-02-21T12:20:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
-24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
-24989987,Lousã e Vilarinho,Região de Coimbra,310,2025-02-21T10:30:00Z,24989987,Em despacho,3301,Queda de árvore,0,2,0,3,2025-02-21T10:30:00Z,Lousã,Coimbra,Centro,-8.243385,40.12032
-24990473,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-02-21T11:57:00Z,24990473,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-02-21T11:57:00Z,Porto,Porto,Norte,-8.644953,41.152973
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24990177,Pontinha e Famões,Grande Lisboa,311,2025-02-21T10:56:00Z,24990177,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-02-21T10:56:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.214967,38.788628
 24990590,São João da Madeira,Area M. Porto,309,2025-02-21T12:05:00Z,24990590,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-21T12:05:00Z,São João Da Madeira,Aveiro,Norte,-8.490365,40.895632
+24990493,Zibreira,Médio Tejo,311,2025-02-21T12:06:00Z,24990493,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-02-21T12:06:00Z,Torres Novas,Santarém,Centro,-8.625817,39.479641
+24990727,Encarnação,Grande Lisboa,311,2025-02-21T12:53:00Z,24990727,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-02-21T12:53:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.414755,39.018995
+24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
