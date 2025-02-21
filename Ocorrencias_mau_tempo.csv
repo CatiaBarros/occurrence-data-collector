@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24990001,Rogil,Algarve,313,2025-02-21T10:30:00Z,24990001,Em despacho,3301,Queda de árvore,0,2,0,7,2025-02-21T10:30:00Z,Aljezur,Faro,Algarve,-8.79915,37.371931
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24990177,Pontinha e Famões,Grande Lisboa,311,2025-02-21T10:56:00Z,24990177,Em resolução,3311,Queda de elementos de estruturas edificados,0,4,0,11,2025-02-21T10:56:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.214967,38.788628
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 24989987,Lousã e Vilarinho,Região de Coimbra,310,2025-02-21T10:30:00Z,24989987,Em despacho,3301,Queda de árvore,0,2,0,3,2025-02-21T10:30:00Z,Lousã,Coimbra,Centro,-8.243385,40.12032
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24990001,Rogil,Algarve,313,2025-02-21T10:30:00Z,24990001,Em despacho,3301,Queda de árvore,0,2,0,7,2025-02-21T10:30:00Z,Aljezur,Faro,Algarve,-8.79915,37.371931
 24989388,Aveiras de Cima,Lezíria do Tejo,311,2025-02-21T08:50:00Z,24989388,Em despacho,3301,Queda de árvore,0,2,0,4,2025-02-21T08:50:00Z,Azambuja,Lisboa,Alentejo,-8.91956,39.135081
