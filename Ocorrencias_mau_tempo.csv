@@ -1,20 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
-24991398,Carcavelos e Parede,Grande Lisboa,311,2025-02-21T15:17:00Z,24991398,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-02-21T15:17:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.332918,38.6957
-24991434,Valadares,Viseu Dão Lafões,310,2025-02-21T15:17:00Z,24991434,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-02-21T15:17:00Z,São Pedro Do Sul,Viseu,Centro,-8.208916,40.757932
-24991441,Massamá e Monte Abraão,Grande Lisboa,311,2025-02-21T15:15:00Z,24991441,Em resolução,3301,Queda de árvore,0,3,0,13,2025-02-21T15:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.288089,38.750267
-24991509,Pendilhe,Viseu Dão Lafões,310,2025-02-21T15:36:00Z,24991509,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-21T15:36:00Z,Vila Nova De Paiva,Viseu,Centro,-7.847096,40.905285
 24990493,Zibreira,Médio Tejo,311,2025-02-21T12:06:00Z,24990493,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-02-21T12:06:00Z,Torres Novas,Santarém,Centro,-8.625817,39.479641
 24991161,Santo António Dos Olivais,Região de Coimbra,310,2025-02-21T14:20:00Z,24991161,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-02-21T14:20:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
-24991310,Alfragide,Grande Lisboa,311,2025-02-21T14:56:00Z,24991310,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,3,0,9,2025-02-21T14:56:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
-24991527,Algueirão-Mem Martins,Grande Lisboa,311,2025-02-21T15:17:00Z,24991527,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-21T15:17:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.345795,38.786998
+24991310,Alfragide,Grande Lisboa,311,2025-02-21T14:56:00Z,24991310,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-02-21T14:56:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
 24991629,São Lourenço do Bairro,Região de Aveiro,310,2025-02-21T16:00:00Z,24991629,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-02-21T16:00:00Z,Anadia,Aveiro,Centro,-8.463135,40.4396
+24991646,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-02-21T16:00:00Z,24991646,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-02-21T16:00:00Z,Porto,Porto,Norte,-8.615939,41.15359
+24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
+24991398,Carcavelos e Parede,Grande Lisboa,311,2025-02-21T15:17:00Z,24991398,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-02-21T15:17:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.332918,38.6957
+24991441,Massamá e Monte Abraão,Grande Lisboa,311,2025-02-21T15:15:00Z,24991441,Em conclusão,3301,Queda de árvore,0,3,0,13,2025-02-21T15:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.288089,38.750267
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24991656,Arganil,Região de Coimbra,310,2025-02-21T16:05:00Z,24991656,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-21T16:05:00Z,Arganil,Coimbra,Centro,-8.049704,40.220309
 24990936,Serpins,Região de Coimbra,310,2025-02-21T13:42:00Z,24990936,Em despacho,3301,Queda de árvore,0,1,0,1,2025-02-21T13:42:00Z,Lousã,Coimbra,Centro,-8.200016,40.156377
 24991453,Miranda do Corvo,Região de Coimbra,310,2025-02-21T15:25:00Z,24991453,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-21T15:25:00Z,Miranda Do Corvo,Coimbra,Centro,-8.359503,40.114746
-24991454,Ramada e Caneças,Grande Lisboa,311,2025-02-21T15:12:00Z,24991454,Em curso,3301,Queda de árvore,0,2,0,6,2025-02-21T15:12:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.225171,38.812571
+24991454,Ramada e Caneças,Grande Lisboa,311,2025-02-21T15:12:00Z,24991454,Em curso,3301,Queda de árvore,0,5,0,11,2025-02-21T15:12:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.225171,38.812571
 24991585,Peniche,Oeste,311,2025-02-21T15:54:00Z,24991585,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,6,2025-02-21T15:54:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 24991603,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-02-21T15:37:00Z,24991603,Em despacho,3311,Queda de elementos de estruturas edificados,0,3,0,9,2025-02-21T15:37:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.139208,38.802817
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24991601,"Esposende, Marinhas e Gandra",Cávado,309,2025-02-21T15:55:00Z,24991601,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-21T15:55:00Z,Esposende,Braga,Norte,-8.77323,41.541808
-24991656,Arganil,Região de Coimbra,310,2025-02-21T16:05:00Z,24991656,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-21T16:05:00Z,Arganil,Coimbra,Centro,-8.049704,40.220309
-24991646,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-02-21T16:00:00Z,24991646,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-02-21T16:00:00Z,Porto,Porto,Norte,-8.615939,41.15359
+24991736,Paranhos,Area M. Porto,309,2025-02-21T16:25:00Z,24991736,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-21T16:25:00Z,Porto,Porto,Norte,-8.604254,41.174248
