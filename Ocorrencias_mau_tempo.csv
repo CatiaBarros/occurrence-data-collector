@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+24991801,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-02-21T16:43:00Z,24991801,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-21T16:43:00Z,Abrantes,Santarém,Centro,-8.184237,39.472798
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 24991161,Santo António Dos Olivais,Região de Coimbra,310,2025-02-21T14:20:00Z,24991161,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-02-21T14:20:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
 24992364,Sardoal,Médio Tejo,311,2025-02-21T19:03:00Z,24992364,Em resolução,3301,Queda de árvore,0,2,0,5,2025-02-21T19:03:00Z,Sardoal,Santarém,Centro,-8.170733,39.542958
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-24991801,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-02-21T16:43:00Z,24991801,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-21T16:43:00Z,Abrantes,Santarém,Centro,-8.184237,39.472798
-24992317,Vila Nova da Barquinha,Médio Tejo,311,2025-02-21T18:51:00Z,24992317,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-02-21T18:51:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.46174,39.45428
