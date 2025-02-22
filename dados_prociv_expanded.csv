@@ -1,12 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24993870,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-02-22T07:55:00",24993870,"Em resolução","2403","Colisão rodoviária",0,3,0,9,"2025-02-22T07:55:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.340934,38.801232
-24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-24993790,"Borba (Matriz)","Alentejo Central",312,"2025-02-22T07:15:00",24993790,"Em resolução","2403","Colisão rodoviária",0,9,0,21,"2025-02-22T07:15:00","Borba","Évora","Alentejo",-7.458308,38.791242
-24993872,"Gafanha da Nazaré","Região de Aveiro",310,"2025-02-22T07:46:00",24993872,"Em curso","2407","Despiste",0,6,0,13,"2025-02-22T07:46:00","Ílhavo","Aveiro","Centro",-8.719411,40.633995
-24993956,"Torre de Coelheiros","Alentejo Central",312,"2025-02-22T08:18:00",24993956,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,3,"2025-02-22T08:18:00","Évora","Évora","Alentejo",-7.90264,38.47867
-24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-24993948,"Esgueira","Região de Aveiro",310,"2025-02-22T08:06:00",24993948,"Em curso","2407","Despiste",0,3,0,9,"2025-02-22T08:06:00","Aveiro","Aveiro","Centro",-8.58244,40.655322
 24993761,"Candemil","Tâmega e Sousa",309,"2025-02-22T07:04:00",24993761,"Em curso","2407","Despiste",0,3,0,7,"2025-02-22T07:04:00","Amarante","Porto","Norte",-7.979227,41.253
 24993776,"Pinhal Novo","Península de Setúbal",311,"2025-02-22T07:11:00",24993776,"Em conclusão","2407","Despiste",0,4,0,9,"2025-02-22T07:11:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.87354,38.63949
 24993792,"Turquel","Oeste",311,"2025-02-22T07:14:00",24993792,"Em conclusão","2407","Despiste",0,2,0,4,"2025-02-22T07:14:00","Alcobaça","Leiria","Centro",-8.982518,39.464295
-24993794,"Palhaça","Região de Aveiro",310,"2025-02-22T07:20:00",24993794,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2025-02-22T07:20:00","Oliveira Do Bairro","Aveiro","Centro",-8.606,40.51307
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+24993948,"Esgueira","Região de Aveiro",310,"2025-02-22T08:06:00",24993948,"Em resolução","2407","Despiste",0,3,0,9,"2025-02-22T08:06:00","Aveiro","Aveiro","Centro",-8.58244,40.655322
+24993870,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-02-22T07:55:00",24993870,"Em resolução","2403","Colisão rodoviária",0,3,0,9,"2025-02-22T07:55:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.340934,38.801232
+24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+24993790,"Borba (Matriz)","Alentejo Central",312,"2025-02-22T07:15:00",24993790,"Em resolução","2403","Colisão rodoviária",0,9,0,21,"2025-02-22T07:15:00","Borba","Évora","Alentejo",-7.458308,38.791242
+24993872,"Gafanha da Nazaré","Região de Aveiro",310,"2025-02-22T07:46:00",24993872,"Em resolução","2407","Despiste",0,6,0,13,"2025-02-22T07:46:00","Ílhavo","Aveiro","Centro",-8.719411,40.633995
+24993956,"Torre de Coelheiros","Alentejo Central",312,"2025-02-22T08:18:00",24993956,"Em curso","2301","Incêndio em transporte rodoviário",0,2,0,5,"2025-02-22T08:18:00","Évora","Évora","Alentejo",-7.90264,38.47867
