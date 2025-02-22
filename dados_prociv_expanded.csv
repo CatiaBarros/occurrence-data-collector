@@ -1,8 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-24993948,"Esgueira","Região de Aveiro",310,"2025-02-22T08:06:00",24993948,"Em conclusão","2407","Despiste",0,4,0,11,"2025-02-22T08:06:00","Aveiro","Aveiro","Centro",-8.58244,40.655322
-24993761,"Candemil","Tâmega e Sousa",309,"2025-02-22T07:04:00",24993761,"Em curso","2407","Despiste",0,3,0,7,"2025-02-22T07:04:00","Amarante","Porto","Norte",-7.979227,41.253
+24993761,"Candemil","Tâmega e Sousa",309,"2025-02-22T07:04:00",24993761,"Em curso","2407","Despiste",0,0,0,0,"2025-02-22T07:04:00","Amarante","Porto","Norte",-7.979227,41.253
 24993776,"Pinhal Novo","Península de Setúbal",311,"2025-02-22T07:11:00",24993776,"Em conclusão","2407","Despiste",0,4,0,9,"2025-02-22T07:11:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.87354,38.63949
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+24993948,"Esgueira","Região de Aveiro",310,"2025-02-22T08:06:00",24993948,"Em conclusão","2407","Despiste",0,2,0,7,"2025-02-22T08:06:00","Aveiro","Aveiro","Centro",-8.58244,40.655322
+24994116,"Cadafaz e Colmeal","Região de Coimbra",310,"2025-02-22T09:03:00",24994116,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-02-22T09:03:00","Góis","Coimbra","Centro",-8.079135,40.141975
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
 24993790,"Borba (Matriz)","Alentejo Central",312,"2025-02-22T07:15:00",24993790,"Em conclusão","2403","Colisão rodoviária",0,8,0,16,"2025-02-22T07:15:00","Borba","Évora","Alentejo",-7.458308,38.791242
 24993872,"Gafanha da Nazaré","Região de Aveiro",310,"2025-02-22T07:46:00",24993872,"Em conclusão","2407","Despiste",0,5,0,11,"2025-02-22T07:46:00","Ílhavo","Aveiro","Centro",-8.719411,40.633995
+24994138,"Abrantes (São Vicente e São João) e Alferrarede","Médio Tejo",311,"2025-02-22T09:11:00",24994138,"Em despacho","3313","Deslizamento de terras",0,2,0,4,"2025-02-22T09:11:00","Abrantes","Santarém","Centro",-8.215654,39.505205
