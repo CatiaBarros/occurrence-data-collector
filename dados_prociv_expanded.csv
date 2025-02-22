@@ -1,7 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-24993392,"Monte Gordo","Algarve",313,"2025-02-22T00:54:00",24993392,"Em conclusão","2407","Despiste",0,0,0,0,"2025-02-22T00:54:00","Vila Real De Santo António","Faro","Algarve",-7.446136,37.181711
-24993726,"Brufe","Ave",309,"2025-02-22T06:23:00",24993726,"Em despacho","2407","Despiste",0,1,0,2,"2025-02-22T06:23:00","Vila Nova De Famalicão","Braga","Norte",-8.540604,41.413234
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 24993651,"Mafamude e Vilar do Paraíso","Area M. Porto",309,"2025-02-22T04:38:00",24993651,"Em despacho","3201","Detritos não confinados",0,1,0,3,"2025-02-22T04:38:00","Vila Nova De Gaia","Porto","Norte",-8.61446,41.12014
-24993716,"Samora Correia","Lezíria do Tejo",311,"2025-02-22T06:20:00",24993716,"Em despacho","2301","Incêndio em transporte rodoviário",0,2,0,3,"2025-02-22T06:20:00","Benavente","Santarém","Alentejo",-8.781552,38.86443
+24993716,"Samora Correia","Lezíria do Tejo",311,"2025-02-22T06:20:00",24993716,"Em despacho","2301","Incêndio em transporte rodoviário",0,5,0,11,"2025-02-22T06:20:00","Benavente","Santarém","Alentejo",-8.781552,38.86443
+24993392,"Monte Gordo","Algarve",313,"2025-02-22T00:54:00",24993392,"Em conclusão","2407","Despiste",0,0,0,0,"2025-02-22T00:54:00","Vila Real De Santo António","Faro","Algarve",-7.446136,37.181711
+24993726,"Brufe","Ave",309,"2025-02-22T06:23:00",24993726,"Em resolução","2407","Despiste",0,2,0,4,"2025-02-22T06:23:00","Vila Nova De Famalicão","Braga","Norte",-8.538513,41.416438
