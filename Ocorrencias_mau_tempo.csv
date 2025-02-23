@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24998665,"Várzea, Aliviada e Folhada",Tâmega e Sousa,309,2025-02-23T10:33:00Z,24998665,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-23T10:33:00Z,Marco De Canaveses,Porto,Norte,-8.089171,41.205964
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 24998575,Buarcos,Região de Coimbra,310,2025-02-23T10:19:00Z,24998575,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-02-23T10:19:00Z,Figueira Da Foz,Coimbra,Centro,-8.853671,40.146943
