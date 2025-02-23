@@ -1,6 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+24997727,"Pinhal Novo","Península de Setúbal",311,"2025-02-23T03:58:00",24997727,"Em despacho","3203","Detritos confinados",0,0,0,0,"2025-02-23T03:58:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.9149,38.62572
 24997368,"Maiorca","Região de Coimbra",310,"2025-02-23T00:01:00",24997368,"Em conclusão","2407","Despiste",0,0,0,0,"2025-02-23T00:01:00","Figueira Da Foz","Coimbra","Centro",-8.742345,40.18631
-24997653,"Aldeia Galega da Merceana e Aldeia Gavinha","Oeste",311,"2025-02-23T03:11:00",24997653,"Em despacho","2407","Despiste",0,2,0,4,"2025-02-23T03:11:00","Alenquer","Lisboa","Centro",-9.132958,39.095613
-24997511,"Fátima","Médio Tejo",311,"2025-02-23T01:30:00",24997511,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,6,"2025-02-23T01:30:00","Ourém","Santarém","Centro",-8.687722,39.627472
+24997653,"Aldeia Galega da Merceana e Aldeia Gavinha","Oeste",311,"2025-02-23T03:11:00",24997653,"Em resolução","2407","Despiste",0,3,0,6,"2025-02-23T03:11:00","Alenquer","Lisboa","Centro",-9.132958,39.095613
+24997719,"Paranhos","Area M. Porto",309,"2025-02-23T03:53:00",24997719,"Em despacho","3203","Detritos confinados",0,1,0,6,"2025-02-23T03:53:00","Porto","Porto","Norte",-8.60311,41.18491
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
