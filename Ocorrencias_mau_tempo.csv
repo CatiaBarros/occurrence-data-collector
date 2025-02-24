@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25005416,Candoso São Tiago e Mascotelos,Ave,309,2025-02-24T18:47:00Z,25005416,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,6,2025-02-24T18:47:00Z,Guimarães,Braga,Norte,-8.30662,41.41965
-25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
-24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 25004755,Sesimbra (Castelo),Península de Setúbal,311,2025-02-24T16:21:00Z,25004755,Em conclusão,3311,Queda de elementos de estruturas edificados,0,5,0,9,2025-02-24T16:21:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.09733,38.47287
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+25005416,Candoso São Tiago e Mascotelos,Ave,309,2025-02-24T18:47:00Z,25005416,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,6,2025-02-24T18:47:00Z,Guimarães,Braga,Norte,-8.309017,41.419463
+25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
+24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
+25005672,"Esposende, Marinhas e Gandra",Cávado,309,2025-02-24T19:50:00Z,25005672,Em despacho,3301,Queda de árvore,0,1,0,2,2025-02-24T19:50:00Z,Esposende,Braga,Norte,-8.77323,41.541808
