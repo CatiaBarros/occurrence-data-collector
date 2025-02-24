@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
-25002546,Fortios,Alto Alentejo,312,2025-02-24T09:35:00Z,25002546,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-02-24T09:35:00Z,Portalegre,Portalegre,Alentejo,-7.514032,39.262773
-25004755,Sesimbra (Castelo),Península de Setúbal,311,2025-02-24T16:21:00Z,25004755,Em resolução,3311,Queda de elementos de estruturas edificados,0,5,0,12,2025-02-24T16:21:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.09733,38.47287
+25004755,Sesimbra (Castelo),Península de Setúbal,311,2025-02-24T16:21:00Z,25004755,Em conclusão,3311,Queda de elementos de estruturas edificados,0,6,0,14,2025-02-24T16:21:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.09733,38.47287
 25005190,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-02-24T17:50:00Z,25005190,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-02-24T17:50:00Z,Vila Nova De Gaia,Porto,Norte,-8.611105,41.107184
+25005324,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-02-24T18:21:00Z,25005324,Em resolução,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-02-24T18:21:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
