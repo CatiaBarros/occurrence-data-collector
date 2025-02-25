@@ -1,7 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25006277,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2025-02-24T23:25:00",25006277,"Em conclusão","2407","Despiste",0,0,0,0,"2025-02-24T23:25:00","Aljustrel","Beja","Alentejo",-8.117982,37.92322
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+25006667,"Castelo Branco","Beira Baixa",310,"2025-02-25T05:30:00",25006667,"Em despacho","3203","Detritos confinados",0,1,0,2,"2025-02-25T05:30:00","Castelo Branco","Castelo Branco","Centro",-7.490756,39.816895
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-25006548,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-02-25T03:06:00",25006548,"Em conclusão","2407","Despiste",0,3,0,8,"2025-02-25T03:06:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.181748,38.642104
+25006277,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2025-02-24T23:25:00",25006277,"Em conclusão","2407","Despiste",0,0,0,0,"2025-02-24T23:25:00","Aljustrel","Beja","Alentejo",-8.117982,37.92322
 25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em curso","3313","Deslizamento de terras",0,0,0,0,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
 25006503,"Aveiras de Baixo","Lezíria do Tejo",311,"2025-02-25T02:22:00",25006503,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,7,0,20,"2025-02-25T02:22:00","Azambuja","Lisboa","Alentejo",-8.852303,39.09881
