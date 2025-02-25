@@ -1,6 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25007899,"São Domingos de Rana","Grande Lisboa",311,"2025-02-25T11:04:00",25007899,"Em conclusão","3325","Dano na rede de abastecimento de gás",0,1,0,4,"2025-02-25T11:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.346471,38.738694
 25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em curso","3313","Deslizamento de terras",0,1,0,1,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
-25007307,"Barcelinhos","Cávado",309,"2025-02-25T09:22:00",25007307,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-02-25T09:22:00","Barcelos","Braga","Norte",-8.615225,41.516357
+25007307,"Alvelos","Cávado",309,"2025-02-25T09:22:00",25007307,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-02-25T09:22:00","Barcelos","Braga","Norte",-8.620587,41.506625
 25007522,"Sambade","Terras de Trás-os-Montes",309,"2025-02-25T09:30:00",25007522,"Em despacho","3301","Queda de árvore",0,2,0,4,"2025-02-25T09:30:00","Alfândega Da Fé","Bragança","Norte",-6.970628,41.41122
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
 25007126,"Encosta do Sol","Grande Lisboa",311,"2025-02-25T08:46:00",25007126,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-02-25T08:46:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.214086,38.769383
@@ -12,8 +13,5 @@
 25007234,"Cabril","Alto Tâmega e Barroso",309,"2025-02-25T09:05:00",25007234,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-02-25T09:05:00","Montalegre","Vila Real","Norte",-8.035815,41.712361
 25007236,"Sesimbra (Castelo)","Península de Setúbal",311,"2025-02-25T09:06:00",25007236,"Em despacho","3301","Queda de árvore",0,1,0,4,"2025-02-25T09:06:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.179861,38.512406
 25007400,"Coruche, Fajarda e Erra","Lezíria do Tejo",311,"2025-02-25T09:44:00",25007400,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2025-02-25T09:44:00","Coruche","Santarém","Alentejo",-8.483112,38.949755
-25007636,"Folgosa","Area M. Porto",309,"2025-02-25T10:12:00",25007636,"Em curso","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-02-25T10:12:00","Maia","Porto","Norte",-8.530628,41.283131
 25007652,"Águas Santas","Area M. Porto",309,"2025-02-25T10:08:00",25007652,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-02-25T10:08:00","Maia","Porto","Norte",-8.574268,41.21017
-25007463,"Espadanedo, Edroso, Murçós e Soutelo Mourisco","Terras de Trás-os-Montes",309,"2025-02-25T09:44:00",25007463,"Em despacho","4335","Prevenção a queimadas",0,1,0,5,"2025-02-25T09:44:00","Macedo De Cavaleiros","Bragança","Norte",-6.9470641255255,41.6628765811687
-25007630,"Madalena","Area M. Porto",309,"2025-02-25T10:20:00",25007630,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-25T10:20:00","Vila Nova De Gaia","Porto","Norte",-8.646182,41.106358
-25007899,"São Domingos de Rana","Grande Lisboa",311,"2025-02-25T11:04:00",25007899,"Em despacho","3325","Dano na rede de abastecimento de gás",0,1,0,4,"2025-02-25T11:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.346471,38.738694
+25008011,"Oliveira (Santa Maria)","Ave",309,"2025-02-25T11:26:00",25008011,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-25T11:26:00","Vila Nova De Famalicão","Braga","Norte",-8.408947,41.404583
