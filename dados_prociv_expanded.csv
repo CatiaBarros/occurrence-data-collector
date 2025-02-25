@@ -1,4 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+25007126,"Encosta do Sol","Grande Lisboa",311,"2025-02-25T08:46:00",25007126,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-02-25T08:46:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.214086,38.769383
+25007233,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-02-25T09:15:00",25007233,"Em conclusão","2413","Abalroamento ferroviário",0,0,0,0,"2025-02-25T09:15:00","Matosinhos","Porto","Norte",-8.692562,41.187683
+25007701,"Febres","Região de Coimbra",310,"2025-02-25T10:30:00",25007701,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-02-25T10:30:00","Cantanhede","Coimbra","Centro",-8.63492,40.400257
+25007842,"Gáfete","Alto Alentejo",312,"2025-02-25T10:51:00",25007842,"Em conclusão","2407","Despiste",0,3,0,7,"2025-02-25T10:51:00","Crato","Portalegre","Alentejo",-7.693633,39.404223
+25008260,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-02-25T12:12:00",25008260,"Em despacho","2129","Incêndio em edifícios degradados ou devolutos",0,0,0,0,"2025-02-25T12:12:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.35075,38.7922
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 25007118,"Cepões, Meijinhos e Melcões","Douro",309,"2025-02-25T08:42:00",25007118,"Em despacho","2403","Colisão rodoviária",0,4,0,6,"2025-02-25T08:42:00","Lamego","Viseu","Norte",-7.80117,41.070846
 25007236,"Sesimbra (Castelo)","Península de Setúbal",311,"2025-02-25T09:06:00",25007236,"Em despacho","3301","Queda de árvore",0,1,0,4,"2025-02-25T09:06:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.179861,38.512406
@@ -6,8 +12,6 @@
 25008011,"Oliveira (Santa Maria)","Ave",309,"2025-02-25T11:26:00",25008011,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-02-25T11:26:00","Vila Nova De Famalicão","Braga","Norte",-8.408947,41.404583
 25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em curso","3313","Deslizamento de terras",0,1,0,1,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
 25007522,"Sambade","Terras de Trás-os-Montes",309,"2025-02-25T09:30:00",25007522,"Em despacho","3301","Queda de árvore",0,2,0,4,"2025-02-25T09:30:00","Alfândega Da Fé","Bragança","Norte",-6.970628,41.41122
-24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-25007126,"Encosta do Sol","Grande Lisboa",311,"2025-02-25T08:46:00",25007126,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-02-25T08:46:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.214086,38.769383
-25007233,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-02-25T09:15:00",25007233,"Em conclusão","2413","Abalroamento ferroviário",0,0,0,0,"2025-02-25T09:15:00","Matosinhos","Porto","Norte",-8.692562,41.187683
-25007701,"Febres","Região de Coimbra",310,"2025-02-25T10:30:00",25007701,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-02-25T10:30:00","Cantanhede","Coimbra","Centro",-8.63492,40.400257
-25007842,"Gáfete","Alto Alentejo",312,"2025-02-25T10:51:00",25007842,"Em conclusão","2407","Despiste",0,3,0,7,"2025-02-25T10:51:00","Crato","Portalegre","Alentejo",-7.693633,39.404223
+25008225,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias","Grande Lisboa",311,"2025-02-25T12:01:00",25008225,"Em despacho","2403","Colisão rodoviária",0,4,0,10,"2025-02-25T12:01:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.310159,38.698531
+25008257,"São Lourenço do Bairro","Região de Aveiro",310,"2025-02-25T12:11:00",25008257,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-02-25T12:11:00","Anadia","Aveiro","Centro",-8.463135,40.4396
+25008273,"Vila do Conde","Area M. Porto",309,"2025-02-25T12:06:00",25008273,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-25T12:06:00","Vila Do Conde","Porto","Norte",-8.745714,41.359468
