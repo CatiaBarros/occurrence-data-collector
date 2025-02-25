@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25006277,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2025-02-24T23:25:00",25006277,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-24T23:25:00","Aljustrel","Beja","Alentejo",-8.117982,37.92322
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em curso","3313","Deslizamento de terras",0,0,0,0,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
-25006318,"Almancil","Algarve",313,"2025-02-25T00:04:00",25006318,"Em conclusão","2407","Despiste",0,4,0,12,"2025-02-25T00:04:00","Loulé","Faro","Algarve",-8.031876,37.059307
+25006486,"Morreira e Trandeiras","Cávado",309,"2025-02-25T01:57:00",25006486,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-25T01:57:00","Braga","Braga","Norte",-8.406502,41.497271
+25006277,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2025-02-24T23:25:00",25006277,"Em conclusão","2407","Despiste",0,1,0,2,"2025-02-24T23:25:00","Aljustrel","Beja","Alentejo",-8.117982,37.92322
