@@ -3,11 +3,10 @@
 25007307,"Barcelinhos","Cávado",309,"2025-02-25T09:22:00",25007307,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-02-25T09:22:00","Barcelos","Braga","Norte",-8.615225,41.516357
 25007522,"Sambade","Terras de Trás-os-Montes",309,"2025-02-25T09:30:00",25007522,"Em despacho","3301","Queda de árvore",0,2,0,4,"2025-02-25T09:30:00","Alfândega Da Fé","Bragança","Norte",-6.970628,41.41122
 24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-25006949,"Paranhos","Area M. Porto",309,"2025-02-25T08:11:00",25006949,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-02-25T08:11:00","Porto","Porto","Norte",-8.60894,41.17383
 25007126,"Encosta do Sol","Grande Lisboa",311,"2025-02-25T08:46:00",25007126,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-02-25T08:46:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.214086,38.769383
-25007233,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-02-25T09:15:00",25007233,"Em curso","2413","Abalroamento ferroviário",0,0,0,0,"2025-02-25T09:15:00","Matosinhos","Porto","Norte",-8.692562,41.187683
+25007233,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-02-25T09:15:00",25007233,"Em conclusão","2413","Abalroamento ferroviário",0,0,0,0,"2025-02-25T09:15:00","Matosinhos","Porto","Norte",-8.692562,41.187683
 25007701,"Febres","Região de Coimbra",310,"2025-02-25T10:30:00",25007701,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-02-25T10:30:00","Cantanhede","Coimbra","Centro",-8.63492,40.400257
-25007842,"Gáfete","Alto Alentejo",312,"2025-02-25T10:51:00",25007842,"Em despacho","2407","Despiste",0,2,0,4,"2025-02-25T10:51:00","Crato","Portalegre","Alentejo",-7.681551,39.393491
+25007842,"Gáfete","Alto Alentejo",312,"2025-02-25T10:51:00",25007842,"Em conclusão","2407","Despiste",0,3,0,7,"2025-02-25T10:51:00","Crato","Portalegre","Alentejo",-7.693633,39.404223
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 25007118,"Cepões, Meijinhos e Melcões","Douro",309,"2025-02-25T08:42:00",25007118,"Em despacho","2403","Colisão rodoviária",0,4,0,6,"2025-02-25T08:42:00","Lamego","Viseu","Norte",-7.80117,41.070846
 25007234,"Cabril","Alto Tâmega e Barroso",309,"2025-02-25T09:05:00",25007234,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-02-25T09:05:00","Montalegre","Vila Real","Norte",-8.035815,41.712361
@@ -15,6 +14,6 @@
 25007400,"Coruche, Fajarda e Erra","Lezíria do Tejo",311,"2025-02-25T09:44:00",25007400,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2025-02-25T09:44:00","Coruche","Santarém","Alentejo",-8.483112,38.949755
 25007636,"Folgosa","Area M. Porto",309,"2025-02-25T10:12:00",25007636,"Em curso","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-02-25T10:12:00","Maia","Porto","Norte",-8.530628,41.283131
 25007652,"Águas Santas","Area M. Porto",309,"2025-02-25T10:08:00",25007652,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-02-25T10:08:00","Maia","Porto","Norte",-8.574268,41.21017
-25007365,"Atouguia da Baleia","Oeste",311,"2025-02-25T09:30:00",25007365,"Em conclusão","2403","Colisão rodoviária",0,3,0,7,"2025-02-25T09:30:00","Peniche","Leiria","Centro",-9.32433,39.339703
 25007463,"Espadanedo, Edroso, Murçós e Soutelo Mourisco","Terras de Trás-os-Montes",309,"2025-02-25T09:44:00",25007463,"Em despacho","4335","Prevenção a queimadas",0,1,0,5,"2025-02-25T09:44:00","Macedo De Cavaleiros","Bragança","Norte",-6.9470641255255,41.6628765811687
 25007630,"Madalena","Area M. Porto",309,"2025-02-25T10:20:00",25007630,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-25T10:20:00","Vila Nova De Gaia","Porto","Norte",-8.646182,41.106358
+25007899,"São Domingos de Rana","Grande Lisboa",311,"2025-02-25T11:04:00",25007899,"Em despacho","3325","Dano na rede de abastecimento de gás",0,1,0,4,"2025-02-25T11:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.346471,38.738694
