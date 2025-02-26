@@ -1,9 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
-24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-25011105,"Avintes","Area M. Porto",309,"2025-02-26T01:10:00",25011105,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,4,"2025-02-26T01:10:00","Vila Nova De Gaia","Porto","Norte",-8.547155,41.105347
-25011110,"São Pedro da Cadeira","Oeste",311,"2025-02-26T01:23:00",25011110,"Em despacho","2403","Colisão rodoviária",0,3,0,9,"2025-02-26T01:23:00","Torres Vedras","Lisboa","Centro",-9.397409,39.082234
+25011110,"São Pedro da Cadeira","Oeste",311,"2025-02-26T01:23:00",25011110,"Em conclusão","2407","Despiste",0,3,0,9,"2025-02-26T01:23:00","Torres Vedras","Lisboa","Centro",-9.397409,39.082234
+24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+24032148,"Figueira Dos Cavaleiros","Baixo Alentejo",312,"2024-07-24T03:46:00",24032148,"Em conclusão","3101","Incêndio rural",0,0,0,0,"2024-07-24T03:46:00","Ferreira Do Alentejo","Beja","Alentejo",-8.293375,38.079908
+25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
+25011134,"Ramada e Caneças","Grande Lisboa",311,"2025-02-26T01:40:00",25011134,"Em curso","2407","Despiste",0,3,0,7,"2025-02-26T01:40:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.224517,38.811058
+25011147,"Alverca do Ribatejo e Sobralinho","Grande Lisboa",311,"2025-02-26T01:56:00",25011147,"Em conclusão","2407","Despiste",0,2,0,7,"2025-02-26T01:56:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.034761,38.918068
 25010738,"Boliqueime","Algarve",313,"2025-02-25T21:50:00",25010738,"Em conclusão","2515","Fuga de gás em garrafa",0,0,0,0,"2025-02-25T21:50:00","Loulé","Faro","Algarve",-8.12247,37.12045
 25011005,"Famalicão","Oeste",311,"2025-02-26T00:12:00",25011005,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,2,0,3,"2025-02-26T00:12:00","Nazaré","Leiria","Centro",-9.081685,39.547066
 25011108,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu","Região de Coimbra",310,"2025-02-26T01:27:00",25011108,"Em curso","2407","Despiste",0,3,0,13,"2025-02-26T01:27:00","Coimbra","Coimbra","Centro",-8.425582,40.205556
