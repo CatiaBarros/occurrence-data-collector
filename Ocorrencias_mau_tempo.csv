@@ -1,6 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-25015051,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-02-26T20:14:00Z,25015051,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-02-26T20:14:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.24294,38.84936
 25015084,Gualtar,Cávado,309,2025-02-26T20:25:00Z,25015084,Em despacho,3301,Queda de árvore,0,1,0,3,2025-02-26T20:25:00Z,Braga,Braga,Norte,-8.39529,41.55735
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 24888293,Pernes,Lezíria do Tejo,311,2025-01-29T16:41:00Z,24888293,Em curso,3301,Queda de árvore,0,0,0,0,2025-01-29T16:41:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
 25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
