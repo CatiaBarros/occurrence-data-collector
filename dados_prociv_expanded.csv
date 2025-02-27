@@ -1,1 +1,15 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25016721,"Póvoa de Santa Iria e Forte da Casa","Grande Lisboa",311,"2025-02-27T09:41:00",25016721,"Em despacho","3201","Detritos não confinados",0,1,0,4,"2025-02-27T09:41:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.080109,38.86006
+24888293,"Pernes","Lezíria do Tejo",311,"2025-01-29T16:41:00",24888293,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-01-29T16:41:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
+25016375,"Custóias, Leça do Balio e Guifões","Area M. Porto",309,"2025-02-27T08:41:00",25016375,"Em resolução","2403","Colisão rodoviária",0,6,0,12,"2025-02-27T08:41:00","Matosinhos","Porto","Norte",-8.648535,41.203067
+25016836,"Santa Iria de Azoia, São João da Talha e Bobadela","Grande Lisboa",311,"2025-02-27T10:02:00",25016836,"Em despacho","2407","Despiste",0,3,0,8,"2025-02-27T10:02:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.093217,38.806807
+25016859,"Viseu","Viseu Dão Lafões",310,"2025-02-27T10:05:00",25016859,"Em curso","2403","Colisão rodoviária",0,2,0,6,"2025-02-27T10:05:00","Viseu","Viseu","Centro",-7.908451,40.659587
+25016893,"Santa Maria Maior e Monserrate e Meadela","Alto Minho",309,"2025-02-27T10:09:00",25016893,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-02-27T10:09:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.81652,41.703882
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+25016542,"Sebal e Belide","Região de Coimbra",310,"2025-02-27T09:14:00",25016542,"Em conclusão","2403","Colisão rodoviária",0,5,0,9,"2025-02-27T09:14:00","Condeixa-a-Nova","Coimbra","Centro",-8.502714,40.134189
+25016878,"Mira","Região de Coimbra",310,"2025-02-27T10:08:00",25016878,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-02-27T10:08:00","Mira","Coimbra","Centro",-8.757811,40.441983
+25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
+25016380,"Cedrim e Paradela","Região de Aveiro",310,"2025-02-27T08:40:00",25016380,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-02-27T08:40:00","Sever Do Vouga","Aveiro","Centro",-8.344579,40.698246
+25016464,"Sandim, Olival, Lever e Crestuma","Area M. Porto",309,"2025-02-27T08:58:00",25016464,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-02-27T08:58:00","Vila Nova De Gaia","Porto","Norte",-8.5209,41.06298
+25016481,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-02-27T09:09:00",25016481,"Em despacho","3111","Queima",0,2,0,7,"2025-02-27T09:09:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.18105,38.63943
+25016749,"Formariz e Ferreira","Alto Minho",309,"2025-02-27T09:52:00",25016749,"Em despacho","3109","Gestão de combustível",0,3,0,7,"2025-02-27T09:52:00","Paredes De Coura","Viana Do Castelo","Norte",-8.572768,41.959235
