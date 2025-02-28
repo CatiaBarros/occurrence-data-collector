@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-25018171,São Domingos de Rana,Grande Lisboa,311,2025-02-27T14:11:00Z,25018171,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-02-27T14:11:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
+25020315,Luz,Algarve,313,2025-02-28T00:18:00Z,25020315,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-02-28T00:18:00Z,Lagos,Faro,Algarve,-8.736029,37.101963
 25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
 25020391,Colares,Grande Lisboa,311,2025-02-28T01:34:00Z,25020391,Em despacho,3301,Queda de árvore,0,1,0,4,2025-02-28T01:34:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.458055,38.81278
-25020312,Aljezur,Algarve,313,2025-02-28T00:15:00Z,25020312,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-28T00:15:00Z,Aljezur,Faro,Algarve,-8.80176,37.284519
-25020315,Luz,Algarve,313,2025-02-28T00:18:00Z,25020315,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-02-28T00:18:00Z,Lagos,Faro,Algarve,-8.736029,37.101963
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
