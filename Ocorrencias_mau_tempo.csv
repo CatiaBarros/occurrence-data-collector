@@ -4,4 +4,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
 25020666,Aljezur,Algarve,313,2025-02-28T06:31:00Z,25020666,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-02-28T06:31:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+25018171,São Domingos de Rana,Grande Lisboa,311,2025-02-27T14:11:00Z,25018171,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,3,0,4,2025-02-27T14:11:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
 25021149,Bordeira,Algarve,313,2025-02-28T09:01:00Z,25021149,Em despacho,3313,Deslizamento de terras,0,3,0,3,2025-02-28T09:01:00Z,Aljezur,Faro,Algarve,-8.868554,37.195822
