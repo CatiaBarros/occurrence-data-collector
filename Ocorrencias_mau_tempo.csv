@@ -1,8 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-25024105,Aljezur,Algarve,313,2025-02-28T19:30:00Z,25024105,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-02-28T19:30:00Z,Aljezur,Faro,Algarve,-8.732201,37.329042
-25020666,Aljezur,Algarve,313,2025-02-28T06:31:00Z,25020666,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-28T06:31:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
-25023992,Alcantarilha e Pêra,Algarve,313,2025-02-28T19:10:00Z,25023992,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-02-28T19:10:00Z,Silves,Faro,Algarve,-8.347453,37.12993
 25023165,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-02-28T15:50:00Z,25023165,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-28T15:50:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.242367,38.700095
 25024133,Darque,Alto Minho,309,2025-02-28T19:43:00Z,25024133,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-28T19:43:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.79651,41.68171
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+25024105,Aljezur,Algarve,313,2025-02-28T19:30:00Z,25024105,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-02-28T19:30:00Z,Aljezur,Faro,Algarve,-8.732201,37.329042
 25023954,Monchique,Algarve,313,2025-02-28T19:01:00Z,25023954,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-02-28T19:01:00Z,Monchique,Faro,Algarve,-8.6228,37.36322
+25020666,Aljezur,Algarve,313,2025-02-28T06:31:00Z,25020666,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-28T06:31:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
