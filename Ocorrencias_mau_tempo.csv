@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
+25020230,Barcarena,Grande Lisboa,311,2025-02-27T23:35:00Z,25020230,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-02-27T23:35:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.282164,38.744749
+25020216,Sapataria,Oeste,311,2025-02-27T23:21:00Z,25020216,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-02-27T23:21:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.198053,38.966232
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 25018171,São Domingos de Rana,Grande Lisboa,311,2025-02-27T14:11:00Z,25018171,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-02-27T14:11:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
-25020230,Barcarena,Grande Lisboa,311,2025-02-27T23:35:00Z,25020230,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-02-27T23:35:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.282164,38.744749
-25020216,Sapataria,Oeste,311,2025-02-27T23:21:00Z,25020216,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-02-27T23:21:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.198053,38.966232
+25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
