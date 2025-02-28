@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
 25020666,Aljezur,Algarve,313,2025-02-28T06:31:00Z,25020666,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-28T06:31:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
