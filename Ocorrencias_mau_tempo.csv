@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
 25023165,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-02-28T15:50:00Z,25023165,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-02-28T15:50:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.242367,38.700095
 25023551,Aljezur,Algarve,313,2025-02-28T17:13:00Z,25023551,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-02-28T17:13:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
 25020666,Aljezur,Algarve,313,2025-02-28T06:31:00Z,25020666,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-28T06:31:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
-24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
