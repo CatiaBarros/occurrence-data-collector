@@ -1,7 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+25020511,"Loures","Grande Lisboa",311,"2025-02-28T04:00:00",25020511,"Em conclusão","3111","Queima",0,0,0,0,"2025-02-28T04:00:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.17255,38.83215
+25020622,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-02-28T05:56:00",25020622,"Em despacho","2407","Despiste",0,2,0,7,"2025-02-28T05:56:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.194473,38.648295
 25005550,"Sines","Alentejo Litoral",312,"2025-02-24T19:12:00",25005550,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-02-24T19:12:00","Sines","Setúbal","Alentejo",-8.849778,37.961314
 25020391,"Colares","Grande Lisboa",311,"2025-02-28T01:34:00",25020391,"Em despacho","3301","Queda de árvore",0,1,0,4,"2025-02-28T01:34:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.458055,38.81278
 25020591,"Aljezur","Algarve",313,"2025-02-28T05:23:00",25020591,"Em despacho","3313","Deslizamento de terras",0,2,0,4,"2025-02-28T05:23:00","Aljezur","Faro","Algarve",-8.8076,37.307011
-25020519,"Loures","Grande Lisboa",311,"2025-02-28T03:56:00",25020519,"Em despacho","3203","Detritos confinados",0,2,0,7,"2025-02-28T03:56:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.176421,38.828612
-24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-25020511,"Loures","Grande Lisboa",311,"2025-02-28T04:00:00",25020511,"Em conclusão","3111","Queima",0,0,0,0,"2025-02-28T04:00:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.17255,38.83215
+25020623,"São Salvador e Santa Maria","Alentejo Litoral",312,"2025-02-28T05:30:00",25020623,"Em despacho","3301","Queda de árvore",0,2,0,4,"2025-02-28T05:30:00","Odemira","Beja","Alentejo",-8.650536,37.594321
