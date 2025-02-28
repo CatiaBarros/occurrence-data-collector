@@ -2,3 +2,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
 25020391,Colares,Grande Lisboa,311,2025-02-28T01:34:00Z,25020391,Em despacho,3301,Queda de árvore,0,1,0,4,2025-02-28T01:34:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.458055,38.81278
+25020591,Aljezur,Algarve,313,2025-02-28T05:23:00Z,25020591,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-02-28T05:23:00Z,Aljezur,Faro,Algarve,-8.8076,37.307011
