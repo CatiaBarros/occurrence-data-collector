@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25021087,Odeceixe,Algarve,313,2025-02-28T08:52:00Z,25021087,Em despacho,3313,Deslizamento de terras,0,3,0,4,2025-02-28T08:52:00Z,Aljezur,Faro,Algarve,-8.774846,37.434235
 25005550,Sines,Alentejo Litoral,312,2025-02-24T19:12:00Z,25005550,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-02-24T19:12:00Z,Sines,Setúbal,Alentejo,-8.849778,37.961314
-25020623,São Salvador e Santa Maria,Alentejo Litoral,312,2025-02-28T05:30:00Z,25020623,Em conclusão,3301,Queda de árvore,0,3,0,5,2025-02-28T05:30:00Z,Odemira,Beja,Alentejo,-8.721337,37.612495
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 25021015,Aljezur,Algarve,313,2025-02-28T08:41:00Z,25021015,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-02-28T08:41:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
 25020666,Aljezur,Algarve,313,2025-02-28T06:31:00Z,25020666,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-02-28T06:31:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
