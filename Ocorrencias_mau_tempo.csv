@@ -1,4 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25025002,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-03-01T00:51:00Z,25025002,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-01T00:51:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.051508,38.875602
-25025011,"Nossa Senhora do Pópulo, Coto e São Gregório",Oeste,311,2025-03-01T00:59:00Z,25025011,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-01T00:59:00Z,Caldas Da Rainha,Leiria,Centro,-9.13621,39.40688
+25025078,Braga (São Vicente),Cávado,309,2025-03-01T01:41:00Z,25025078,Em despacho,3317,Inundação de estruturas por água canalizada,0,2,0,5,2025-03-01T01:41:00Z,Braga,Braga,Norte,-8.42354,41.5541
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
