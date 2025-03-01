@@ -1,9 +1,1 @@
-"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25025161,"Marinha Grande","Região de Leiria",310,"2025-03-01T02:44:00",25025161,"Em curso","2101","Incêndio em edifícios habitacionais",0,1,0,5,"2025-03-01T02:44:00","Marinha Grande","Leiria","Centro",-8.93755,39.74797
-25025149,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu","Região de Coimbra",310,"2025-03-01T02:29:00",25025149,"Em despacho","4331","Busca e resgate terrestre de animais",0,2,0,5,"2025-03-01T02:29:00","Coimbra","Coimbra","Centro",-8.437288,40.221746
-25024736,"Campo de Ourique","Grande Lisboa",311,"2025-02-28T22:28:00",25024736,"Em despacho","3325","Dano na rede de abastecimento de gás",0,1,0,2,"2025-02-28T22:28:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.169863,38.718496
-25025156,"Aldoar, Foz do Douro e Nevogilde","Area M. Porto",309,"2025-03-01T02:42:00",25025156,"Em despacho","3201","Detritos não confinados",0,1,0,5,"2025-03-01T02:42:00","Porto","Porto","Norte",-8.66312,41.14803
-24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-25024657,"Azeitão (São Lourenço e São Simão)","Península de Setúbal",311,"2025-02-28T22:09:00",25024657,"Em curso","2403","Colisão rodoviária",0,0,0,0,"2025-02-28T22:09:00","Setúbal","Setúbal","Área Metropolitana De Lisboa",-9.008871,38.513402
-25025082,"Santa Catarina da Serra e Chainça","Região de Leiria",310,"2025-03-01T01:42:00",25025082,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-03-01T01:42:00","Leiria","Leiria","Centro",-8.71452,39.66314
-25025166,"Coronado (São Romão e São Mamede)","Area M. Porto",309,"2025-03-01T02:30:00",25025166,"Em despacho","3101","Incêndio rural",0,1,0,4,"2025-03-01T02:30:00","Trofa","Porto","Norte",-8.573605,41.283875
+""
