@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25027175,Palmeira de Faro e Curvos,Cávado,309,2025-03-01T14:15:00Z,25027175,Em resolução,3313,Deslizamento de terras,0,5,0,12,2025-03-01T14:15:00Z,Esposende,Braga,Norte,-8.737512,41.551813
+25027392,Sesimbra (Castelo),Península de Setúbal,311,2025-03-01T14:42:00Z,25027392,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-01T14:42:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.103501,38.460817
 25027555,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-03-01T15:21:00Z,25027555,Em despacho,3301,Queda de árvore,0,3,0,8,2025-03-01T15:21:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.171619,38.815144
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-25027175,Palmeira de Faro e Curvos,Cávado,309,2025-03-01T14:15:00Z,25027175,Em resolução,3313,Deslizamento de terras,0,5,0,12,2025-03-01T14:15:00Z,Esposende,Braga,Norte,-8.737512,41.551813
-25027392,Sesimbra (Castelo),Península de Setúbal,311,2025-03-01T14:42:00Z,25027392,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-01T14:42:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.103501,38.460817
