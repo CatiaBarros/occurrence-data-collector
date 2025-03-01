@@ -2,3 +2,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25028513,Peniche,Oeste,311,2025-03-01T19:35:00Z,25028513,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,5,2025-03-01T19:35:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 25028833,Monchique,Algarve,313,2025-03-01T20:46:00Z,25028833,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-01T20:46:00Z,Monchique,Faro,Algarve,-8.572045,37.339657
+25028883,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-01T21:32:00Z,25028883,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-03-01T21:32:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
