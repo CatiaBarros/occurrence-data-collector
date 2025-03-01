@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25027798,Aveiras de Cima,Lezíria do Tejo,311,2025-03-01T16:33:00Z,25027798,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-03-01T16:33:00Z,Azambuja,Lisboa,Alentejo,-8.92095,39.127863
-25027694,Monchique,Algarve,313,2025-03-01T15:25:00Z,25027694,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-01T15:25:00Z,Monchique,Faro,Algarve,-8.567422,37.320753
-25027879,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-03-01T16:49:00Z,25027879,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-03-01T16:49:00Z,Coimbra,Coimbra,Centro,-8.437288,40.221746
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
+25028183,Gavião,Ave,309,2025-03-01T18:00:00Z,25028183,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-01T18:00:00Z,Vila Nova De Famalicão,Braga,Norte,-8.513308,41.427995
+25027694,Monchique,Algarve,313,2025-03-01T15:25:00Z,25027694,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-01T15:25:00Z,Monchique,Faro,Algarve,-8.567422,37.320753
