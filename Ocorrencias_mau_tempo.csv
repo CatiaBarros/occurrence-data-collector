@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 25031474,Almancil,Algarve,313,2025-03-02T14:25:00Z,25031474,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-02T14:25:00Z,Loulé,Faro,Algarve,-8.028466,37.086336
+25031605,Baixa da Banheira e Vale da Amoreira,Península de Setúbal,311,2025-03-02T14:38:00Z,25031605,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-03-02T14:38:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.039445,38.651402
+25031673,Braga (São Vítor),Cávado,309,2025-03-02T15:10:00Z,25031673,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-02T15:10:00Z,Braga,Braga,Norte,-8.406451,41.557726
