@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25037345,Bonfim,Area M. Porto,309,2025-03-03T20:35:00Z,25037345,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-03T20:35:00Z,Porto,Porto,Norte,-8.60281,41.15867
 25036813,Monchique,Algarve,313,2025-03-03T18:01:00Z,25036813,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-03T18:01:00Z,Monchique,Faro,Algarve,-8.589695,37.272914
 25037076,São Cristóvão,Alentejo Central,312,2025-03-03T18:57:00Z,25037076,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-03T18:57:00Z,Montemor-o-Novo,Évora,Alentejo,-8.310759,38.495338
-25037401,Ervedal,Alto Alentejo,312,2025-03-03T20:35:00Z,25037401,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-03-03T20:35:00Z,Avis,Portalegre,Alentejo,-7.803517,39.019447
+25037401,Ervedal,Alto Alentejo,312,2025-03-03T20:35:00Z,25037401,Em curso,3315,Inundação de estruturas por precipitação intensa,0,3,0,8,2025-03-03T20:35:00Z,Avis,Portalegre,Alentejo,-7.803517,39.019447
+25037501,Corroios,Península de Setúbal,311,2025-03-03T21:21:00Z,25037501,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-03-03T21:21:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.156291,38.628818
+25037345,Bonfim,Area M. Porto,309,2025-03-03T20:35:00Z,25037345,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-03T20:35:00Z,Porto,Porto,Norte,-8.60281,41.15867
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-25037323,Lazarim,Douro,309,2025-03-03T20:26:00Z,25037323,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-03T20:26:00Z,Lamego,Viseu,Norte,-7.846542,41.034049
 25037350,São Pedro da Cadeira,Oeste,311,2025-03-03T20:12:00Z,25037350,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-03T20:12:00Z,Torres Vedras,Lisboa,Centro,-9.365837,39.060955
