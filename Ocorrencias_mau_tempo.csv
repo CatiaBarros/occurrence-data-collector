@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25036156,Alcabideche,Grande Lisboa,311,2025-03-03T15:37:00Z,25036156,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-03T15:37:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.385597,38.740082
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
-25035744,Paranhos,Area M. Porto,309,2025-03-03T14:16:00Z,25035744,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-03T14:16:00Z,Porto,Porto,Norte,-8.609398,41.18145
-25036039,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-03T15:08:00Z,25036039,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-03T15:08:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
+25036156,Alcabideche,Grande Lisboa,311,2025-03-03T15:37:00Z,25036156,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-03T15:37:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.385597,38.740082
