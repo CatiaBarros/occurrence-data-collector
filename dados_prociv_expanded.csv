@@ -1,10 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25031633,"Alcabideche","Grande Lisboa",311,"2025-03-02T15:04:00",25031633,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-02T15:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.47686,38.75392
-25037181,"Maceira","Região de Leiria",310,"2025-03-03T19:38:00",25037181,"Em despacho","3203","Detritos confinados",0,1,0,2,"2025-03-03T19:38:00","Leiria","Leiria","Centro",-8.929179,39.67723
 25038267,"Pedroso e Seixezelo","Area M. Porto",309,"2025-03-04T04:27:00",25038267,"Em resolução","2403","Colisão rodoviária",0,7,0,18,"2025-03-04T04:27:00","Vila Nova De Gaia","Porto","Norte",-8.587063,41.091048
 25038328,"Vila Nova de Famalicão e Calendário","Ave",309,"2025-03-04T05:14:00",25038328,"Em curso","2411","Atropelamento ferroviário",0,3,0,7,"2025-03-04T05:14:00","Vila Nova De Famalicão","Braga","Norte",-8.526293,41.389943
+25038451,"Miragaia e Marteleira","Oeste",311,"2025-03-04T07:20:00",25038451,"Em despacho","2407","Despiste",0,0,0,0,"2025-03-04T07:20:00","Lourinhã","Lisboa","Centro",-9.25632,39.22397
+25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
+25038398,"Murtede","Região de Coimbra",310,"2025-03-04T06:39:00",25038398,"Em conclusão","2407","Despiste",0,5,0,13,"2025-03-04T06:39:00","Cantanhede","Coimbra","Centro",-8.51204,40.35362
 24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
 25038370,"Ganfei","Alto Minho",309,"2025-03-04T06:00:00",25038370,"Em resolução","2407","Despiste",0,2,0,5,"2025-03-04T06:00:00","Valença","Viana Do Castelo","Norte",-8.630223,42.030993
 25038429,"Vila Nova de Milfontes","Alentejo Litoral",312,"2025-03-04T06:55:00",25038429,"Em despacho","2515","Fuga de gás em garrafa",0,1,0,2,"2025-03-04T06:55:00","Odemira","Beja","Alentejo",-8.787529,37.721575
-25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
-25038398,"Murtede","Região de Coimbra",310,"2025-03-04T06:39:00",25038398,"Em curso","2407","Despiste",0,5,0,13,"2025-03-04T06:39:00","Cantanhede","Coimbra","Centro",-8.51204,40.35362
