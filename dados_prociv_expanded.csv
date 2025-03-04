@@ -1,11 +1,13 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25031633,"Alcabideche","Grande Lisboa",311,"2025-03-02T15:04:00",25031633,"Em curso","4329","Busca e resgate aquático de pessoas",0,3,0,6,"2025-03-02T15:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.47686,38.75392
-25038451,"Miragaia e Marteleira","Oeste",311,"2025-03-04T07:20:00",25038451,"Em conclusão","2407","Despiste",0,2,0,4,"2025-03-04T07:20:00","Lourinhã","Lisboa","Centro",-9.25632,39.22397
-25038596,"Quarteira","Algarve",313,"2025-03-04T08:24:00",25038596,"Em conclusão","2407","Despiste",0,4,0,14,"2025-03-04T08:24:00","Loulé","Faro","Algarve",-8.1072,37.074665
 25038589,"Soure","Região de Coimbra",310,"2025-03-04T07:51:00",25038589,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-03-04T07:51:00","Soure","Coimbra","Centro",-8.639406,40.055319
-24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
-25038711,"Folgosa","Area M. Porto",309,"2025-03-04T09:09:00",25038711,"Em despacho","2403","Colisão rodoviária",0,2,0,6,"2025-03-04T09:09:00","Maia","Porto","Norte",-8.539096,41.264661
-25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
+25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,7,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
 25038598,"Lordelo do Ouro e Massarelos","Area M. Porto",309,"2025-03-04T08:21:00",25038598,"Em despacho","4339","Corte ou remoção de elementos",0,1,0,5,"2025-03-04T08:21:00","Porto","Porto","Norte",-8.644953,41.152973
 25038614,"Grijó e Sermonde","Area M. Porto",309,"2025-03-04T08:35:00",25038614,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,7,0,20,"2025-03-04T08:35:00","Vila Nova De Gaia","Porto","Norte",-8.56547,41.02851
 25038650,"Lamego (Almacave e Sé)","Douro",309,"2025-03-04T08:41:00",25038650,"Em despacho","2407","Despiste",0,1,0,2,"2025-03-04T08:41:00","Lamego","Viseu","Norte",-7.797372,41.115857
+25038765,"Eira Vedra","Ave",309,"2025-03-04T09:27:00",25038765,"Em despacho","2101","Incêndio em edifícios habitacionais",0,1,0,2,"2025-03-04T09:27:00","Vieira Do Minho","Braga","Norte",-8.14453,41.64784
+25038783,"Cercal","Alentejo Litoral",312,"2025-03-04T09:02:00",25038783,"Em curso","3301","Queda de árvore",0,2,0,6,"2025-03-04T09:02:00","Santiago Do Cacém","Setúbal","Alentejo",-8.667891,37.803265
+24877003,"Malagueira e Horta Das Figueiras","Alentejo Central",312,"2025-01-27T11:41:00",24877003,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-01-27T11:41:00","Évora","Évora","Alentejo",-7.924277,38.57285
+25038711,"Folgosa","Area M. Porto",309,"2025-03-04T09:09:00",25038711,"Em curso","2403","Colisão rodoviária",0,3,0,8,"2025-03-04T09:09:00","Maia","Porto","Norte",-8.546955,41.259058
+25031633,"Alcabideche","Grande Lisboa",311,"2025-03-02T15:04:00",25031633,"Em curso","4329","Busca e resgate aquático de pessoas",0,3,0,6,"2025-03-02T15:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.47686,38.75392
+25038451,"Miragaia e Marteleira","Oeste",311,"2025-03-04T07:20:00",25038451,"Em conclusão","2407","Despiste",0,2,0,4,"2025-03-04T07:20:00","Lourinhã","Lisboa","Centro",-9.25632,39.22397
+25038596,"Quarteira","Algarve",313,"2025-03-04T08:24:00",25038596,"Em conclusão","2407","Despiste",0,1,0,2,"2025-03-04T08:24:00","Loulé","Faro","Algarve",-8.1072,37.074665
