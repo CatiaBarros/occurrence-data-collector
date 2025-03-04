@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25038812,Alcanena e Vila Moreira,Médio Tejo,311,2025-03-04T09:38:00Z,25038812,Em resolução,3329,Queda de estruturas temporárias ou móveis,0,2,0,3,2025-03-04T09:38:00Z,Alcanena,Santarém,Centro,-8.66522,39.459647
 25038837,Braga (São Vítor),Cávado,309,2025-03-04T09:42:00Z,25038837,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-04T09:42:00Z,Braga,Braga,Norte,-8.406451,41.557726
 25038589,Soure,Região de Coimbra,310,2025-03-04T07:51:00Z,25038589,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-04T07:51:00Z,Soure,Coimbra,Centro,-8.639406,40.055319
 24877003,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-01-27T11:41:00Z,24877003,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-01-27T11:41:00Z,Évora,Évora,Alentejo,-7.924277,38.57285
 25038850,Sesimbra (Santiago),Península de Setúbal,311,2025-03-04T09:41:00Z,25038850,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-04T09:41:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.097261,38.445674
+25038901,Fervença,Tâmega e Sousa,309,2025-03-04T09:59:00Z,25038901,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-03-04T09:59:00Z,Celorico De Basto,Braga,Norte,-8.089548,41.353437
