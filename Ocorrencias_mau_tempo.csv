@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25043403,Aveiras de Cima,Lezíria do Tejo,311,2025-03-05T11:21:00Z,25043403,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-05T11:21:00Z,Azambuja,Lisboa,Alentejo,-8.897636,39.139731
-25044059,Macedo de Cavaleiros,Terras de Trás-os-Montes,309,2025-03-05T13:35:00Z,25044059,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-05T13:35:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.958775,41.538051
-25044327,"São Pedro do Sul, Várzea e Baiões",Viseu Dão Lafões,310,2025-03-05T14:26:00Z,25044327,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-05T14:26:00Z,São Pedro Do Sul,Viseu,Centro,-8.067856,40.756654
 25042959,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-03-05T09:30:00Z,25042959,Em despacho,3333,Rutura de barragem,0,3,0,7,2025-03-05T09:30:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.209571,39.970806
 25044042,"Espírito Santo, Nossa Senhora da Graça e São Simão",Alto Alentejo,312,2025-03-05T13:33:00Z,25044042,Em curso,3313,Deslizamento de terras,0,3,0,4,2025-03-05T13:33:00Z,Nisa,Portalegre,Alentejo,-7.593232,39.549907
+25043403,Aveiras de Cima,Lezíria do Tejo,311,2025-03-05T11:21:00Z,25043403,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-05T11:21:00Z,Azambuja,Lisboa,Alentejo,-8.897636,39.139731
+25044059,Macedo de Cavaleiros,Terras de Trás-os-Montes,309,2025-03-05T13:35:00Z,25044059,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-05T13:35:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.958775,41.538051
+25044327,"São Pedro do Sul, Várzea e Baiões",Viseu Dão Lafões,310,2025-03-05T14:26:00Z,25044327,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-03-05T14:26:00Z,São Pedro Do Sul,Viseu,Centro,-8.067856,40.756654
