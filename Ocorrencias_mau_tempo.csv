@@ -1,6 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25044042,"Espírito Santo, Nossa Senhora da Graça e São Simão",Alto Alentejo,312,2025-03-05T13:33:00Z,25044042,Em curso,3313,Deslizamento de terras,0,3,0,4,2025-03-05T13:33:00Z,Nisa,Portalegre,Alentejo,-7.593232,39.549907
-25044327,"São Pedro do Sul, Várzea e Baiões",Viseu Dão Lafões,310,2025-03-05T14:26:00Z,25044327,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-03-05T14:26:00Z,São Pedro Do Sul,Viseu,Centro,-8.067856,40.756654
-25044495,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-03-05T15:00:00Z,25044495,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-05T15:00:00Z,Santo Tirso,Porto,Norte,-8.474679,41.335886
 25042959,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-03-05T09:30:00Z,25042959,Em despacho,3333,Rutura de barragem,0,3,0,7,2025-03-05T09:30:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.209571,39.970806
 25044515,Fazendas de Almeirim,Lezíria do Tejo,311,2025-03-05T15:10:00Z,25044515,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-03-05T15:10:00Z,Almeirim,Santarém,Alentejo,-8.578123,39.177887
+25044327,"São Pedro do Sul, Várzea e Baiões",Viseu Dão Lafões,310,2025-03-05T14:26:00Z,25044327,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-03-05T14:26:00Z,São Pedro Do Sul,Viseu,Centro,-8.067856,40.756654
+25044495,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-03-05T15:00:00Z,25044495,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-05T15:00:00Z,Santo Tirso,Porto,Norte,-8.474679,41.335886
