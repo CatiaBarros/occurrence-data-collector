@@ -1,5 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25031633,"Alcabideche","Grande Lisboa",311,"2025-03-02T15:04:00",25031633,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-02T15:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.47686,38.75392
-25046718,"Canas de Senhorim","Viseu Dão Lafões",310,"2025-03-06T05:43:00",25046718,"Em despacho","4333","Busca e resgate aquático de animais",0,0,0,0,"2025-03-06T05:43:00","Nelas","Viseu","Centro",-7.89934,40.50132
 25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
 25046636,"Penacova","Tâmega e Sousa",309,"2025-03-06T04:09:00",25046636,"Em conclusão","2407","Despiste",0,3,0,7,"2025-03-06T04:09:00","Felgueiras","Porto","Norte",-8.252708,41.36986
+25046724,"Souselas e Botão","Região de Coimbra",310,"2025-03-06T05:48:00",25046724,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,2,0,8,"2025-03-06T05:48:00","Coimbra","Coimbra","Centro",-8.43321,40.29309
+25031633,"Alcabideche","Grande Lisboa",311,"2025-03-02T15:04:00",25031633,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-02T15:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.47686,38.75392
+25046718,"Canas de Senhorim","Viseu Dão Lafões",310,"2025-03-06T05:43:00",25046718,"Em despacho","4333","Busca e resgate aquático de animais",0,1,0,3,"2025-03-06T05:43:00","Nelas","Viseu","Centro",-7.89934,40.50132
