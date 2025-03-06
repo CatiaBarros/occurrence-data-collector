@@ -1,5 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25031633,"Alcabideche","Grande Lisboa",311,"2025-03-02T15:04:00",25031633,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-02T15:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.47686,38.75392
 25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
-25046554,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-03-06T02:39:00",25046554,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,5,"2025-03-06T02:39:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.1828,38.66084
-25046636,"Penacova","Tâmega e Sousa",309,"2025-03-06T04:09:00",25046636,"Em despacho","3321","Dano na rede de fornecimento de eletricidade ",0,0,0,0,"2025-03-06T04:09:00","Felgueiras","Porto","Norte",-8.25231,41.36993
+25046636,"Penacova","Tâmega e Sousa",309,"2025-03-06T04:09:00",25046636,"Em despacho","2407","Despiste",0,3,0,6,"2025-03-06T04:09:00","Felgueiras","Porto","Norte",-8.25231,41.36993
