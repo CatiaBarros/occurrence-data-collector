@@ -1,9 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
-25046779,"Santa Eulália","Ave",309,"2025-03-06T06:35:00",25046779,"Em resolução","2407","Despiste",0,2,0,4,"2025-03-06T06:35:00","Vizela","Braga","Norte",-8.290288,41.35464
 25046724,"Souselas e Botão","Região de Coimbra",310,"2025-03-06T05:48:00",25046724,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,4,0,11,"2025-03-06T05:48:00","Coimbra","Coimbra","Centro",-8.43321,40.29309
-25046767,"Mina de Água","Grande Lisboa",311,"2025-03-06T06:29:00",25046767,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,8,"2025-03-06T06:29:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.23674,38.76271
 25046835,"Peva e Segões","Douro",309,"2025-03-06T07:10:00",25046835,"Em despacho","2407","Despiste",0,2,0,5,"2025-03-06T07:10:00","Moimenta Da Beira","Viseu","Norte",-7.665639,40.886685
+25046908,"Santa Maria Maior e Monserrate e Meadela","Alto Minho",309,"2025-03-06T07:44:00",25046908,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,6,"2025-03-06T07:44:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.81652,41.703882
+25046779,"Santa Eulália","Ave",309,"2025-03-06T06:35:00",25046779,"Em resolução","2407","Despiste",0,2,0,4,"2025-03-06T06:35:00","Vizela","Braga","Norte",-8.290288,41.35464
+25046914,"Noura e Palheiros","Douro",309,"2025-03-06T07:51:00",25046914,"Em despacho","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-03-06T07:51:00","Murça","Vila Real","Norte",-7.40348,41.42343
+25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
+25046888,"Lourosa","Area M. Porto",309,"2025-03-06T07:30:00",25046888,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-03-06T07:30:00","Santa Maria Da Feira","Aveiro","Norte",-8.54384,40.98201
 25031633,"Alcabideche","Grande Lisboa",311,"2025-03-02T15:04:00",25031633,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-02T15:04:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.47686,38.75392
 25046718,"Canas de Senhorim","Viseu Dão Lafões",310,"2025-03-06T05:43:00",25046718,"Em despacho","4333","Busca e resgate aquático de animais",0,2,0,5,"2025-03-06T05:43:00","Nelas","Viseu","Centro",-7.89934,40.50132
-25046834,"Melres e Medas","Area M. Porto",309,"2025-03-06T07:07:00",25046834,"Em curso","2403","Colisão rodoviária",0,5,0,11,"2025-03-06T07:07:00","Gondomar","Porto","Norte",-8.447682,41.068195
+25046834,"Melres e Medas","Area M. Porto",309,"2025-03-06T07:07:00",25046834,"Em curso","2403","Colisão rodoviária",0,6,0,13,"2025-03-06T07:07:00","Gondomar","Porto","Norte",-8.447682,41.068195
