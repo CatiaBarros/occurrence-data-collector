@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25049124,Alcobaça e Vestiaria,Oeste,311,2025-03-06T15:17:00Z,25049124,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-06T15:17:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
-25049139,Alcobaça e Vestiaria,Oeste,311,2025-03-06T15:23:00Z,25049139,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-06T15:23:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
 25048193,Amora,Península de Setúbal,311,2025-03-06T12:02:00Z,25048193,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-03-06T12:02:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.125227,38.624582
+25049139,Alcobaça e Vestiaria,Oeste,311,2025-03-06T15:23:00Z,25049139,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-06T15:23:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
+25049124,Alcobaça e Vestiaria,Oeste,311,2025-03-06T15:17:00Z,25049124,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-06T15:17:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
 25049321,Sardoal,Médio Tejo,311,2025-03-06T16:05:00Z,25049321,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-03-06T16:05:00Z,Sardoal,Santarém,Centro,-8.158693,39.533153
-25049336,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-03-06T15:13:00Z,25049336,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-03-06T15:13:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.288438,38.919433
+25049336,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-03-06T15:13:00Z,25049336,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-06T15:13:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.288438,38.919433
