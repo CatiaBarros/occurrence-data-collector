@@ -1,11 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25052616,Montijo e Afonsoeiro,Península de Setúbal,311,2025-03-07T11:55:00Z,25052616,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-07T11:55:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.96882,38.70678
-25051479,Azambuja,Lezíria do Tejo,311,2025-03-07T08:33:00Z,25051479,Em despacho,3301,Queda de árvore,0,3,0,5,2025-03-07T08:33:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
-25052574,Caparica e Trafaria,Península de Setúbal,311,2025-03-07T11:40:00Z,25052574,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-03-07T11:40:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.217592,38.657991
-25052561,Aljezur,Algarve,313,2025-03-07T11:40:00Z,25052561,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-07T11:40:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
-25052612,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-03-07T11:54:00Z,25052612,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-07T11:54:00Z,Ovar,Aveiro,Centro,-8.632482,40.864029
 25052238,Canidelo,Area M. Porto,309,2025-03-07T10:35:00Z,25052238,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-07T10:35:00Z,Vila Nova De Gaia,Porto,Norte,-8.643973,41.123309
 25052352,Portela,Alto Minho,309,2025-03-07T11:10:00Z,25052352,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-07T11:10:00Z,Monção,Viana Do Castelo,Norte,-8.485607,41.980903
 25052436,Lorvão,Região de Coimbra,310,2025-03-07T11:25:00Z,25052436,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-07T11:25:00Z,Penacova,Coimbra,Centro,-8.328179,40.235482
 25052556,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-07T11:31:00Z,25052556,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,6,2025-03-07T11:31:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.206824,38.629265
-25052586,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-07T11:45:00Z,25052586,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-07T11:45:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.290593,38.696925
+25052586,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-07T11:45:00Z,25052586,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-07T11:45:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.290593,38.696925
+25051479,Azambuja,Lezíria do Tejo,311,2025-03-07T08:33:00Z,25051479,Em despacho,3301,Queda de árvore,0,3,0,5,2025-03-07T08:33:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
+25052726,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-03-07T12:14:00Z,25052726,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-07T12:14:00Z,Ovar,Aveiro,Centro,-8.632482,40.864029
+25052735,Caparica e Trafaria,Península de Setúbal,311,2025-03-07T12:12:00Z,25052735,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-07T12:12:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.215111,38.660442
+25052561,Aljezur,Algarve,313,2025-03-07T11:40:00Z,25052561,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-07T11:40:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
+25052698,Santo António Dos Olivais,Região de Coimbra,310,2025-03-07T12:01:00Z,25052698,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-07T12:01:00Z,Coimbra,Coimbra,Centro,-8.408011,40.217307
+25052713,Cascais e Estoril,Grande Lisboa,311,2025-03-07T12:06:00Z,25052713,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-03-07T12:06:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.398759,38.70391
+25052616,Montijo e Afonsoeiro,Península de Setúbal,311,2025-03-07T11:55:00Z,25052616,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-07T11:55:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.96882,38.70678
