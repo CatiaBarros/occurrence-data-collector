@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
-25050999,"Sobral da Adiça","Baixo Alentejo",312,"2025-03-07T01:45:00",25050999,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-03-07T01:45:00","Moura","Beja","Alentejo",-7.268611,38.01917
 25050321,"Custóias, Leça do Balio e Guifões","Area M. Porto",309,"2025-03-06T20:22:00",25050321,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,9,"2025-03-06T20:22:00","Matosinhos","Porto","Norte",-8.667773,41.207865
-25050959,"Águas Santas","Area M. Porto",309,"2025-03-07T01:06:00",25050959,"Em conclusão","3201","Detritos não confinados",0,1,0,5,"2025-03-07T01:06:00","Maia","Porto","Norte",-8.572688,41.23258
+25051013,"Santo Antão e São Julião do Tojal","Grande Lisboa",311,"2025-03-07T01:46:00",25051013,"Em curso","2401","Atropelamento rodoviário",0,3,0,8,"2025-03-07T01:46:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.137133,38.85709
+25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
+25050999,"Sobral da Adiça","Baixo Alentejo",312,"2025-03-07T01:45:00",25050999,"Em curso","2401","Atropelamento rodoviário",0,2,0,7,"2025-03-07T01:45:00","Moura","Beja","Alentejo",-7.26254,38.042442
