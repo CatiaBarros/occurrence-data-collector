@@ -1,3 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
-25051325,"Santa Vitória e Mombeja","Baixo Alentejo",312,"2025-03-07T07:35:00",25051325,"Em despacho","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-03-07T07:35:00","Beja","Beja","Alentejo",-8.009812,37.88529
+25051349,"Fermentões","Ave",309,"2025-03-07T07:46:00",25051349,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-03-07T07:46:00","Guimarães","Braga","Norte",-8.314269,41.456141
+25051325,"Santa Vitória e Mombeja","Baixo Alentejo",312,"2025-03-07T07:35:00",25051325,"Em despacho","2301","Incêndio em transporte rodoviário",0,2,0,4,"2025-03-07T07:35:00","Beja","Beja","Alentejo",-8.009812,37.88529
+25051360,"Amora","Península de Setúbal",311,"2025-03-07T07:49:00",25051360,"Em despacho","2515","Fuga de gás em garrafa",0,1,0,3,"2025-03-07T07:49:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.125227,38.624582
