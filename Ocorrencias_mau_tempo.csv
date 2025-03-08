@@ -1,5 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25056089,Bugalhos,Médio Tejo,311,2025-03-08T05:32:00Z,25056089,Em curso,3301,Queda de árvore,0,3,0,5,2025-03-08T05:32:00Z,Alcanena,Santarém,Centro,-8.633163,39.429217
-25056119,Fazendas de Almeirim,Lezíria do Tejo,311,2025-03-08T06:04:00Z,25056119,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-08T06:04:00Z,Almeirim,Santarém,Alentejo,-8.476829,39.182269
-25056091,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-08T05:25:00Z,25056091,Em curso,3313,Deslizamento de terras,0,3,0,8,2025-03-08T05:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.28663,38.818606
 25056097,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-03-08T05:27:00Z,25056097,Em curso,3313,Deslizamento de terras,0,4,0,10,2025-03-08T05:27:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.227598,38.920829
+25056119,Fazendas de Almeirim,Lezíria do Tejo,311,2025-03-08T06:04:00Z,25056119,Em curso,3301,Queda de árvore,0,2,0,6,2025-03-08T06:04:00Z,Almeirim,Santarém,Alentejo,-8.477368,39.18098
+25056160,Nossa Senhora da Graça do Divor,Alentejo Central,312,2025-03-08T06:32:00Z,25056160,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-08T06:32:00Z,Évora,Évora,Alentejo,-7.983694,38.653775
+25056091,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-08T05:25:00Z,25056091,Em curso,3313,Deslizamento de terras,0,3,0,8,2025-03-08T05:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.28663,38.818606
+25056089,Bugalhos,Médio Tejo,311,2025-03-08T05:32:00Z,25056089,Em curso,3301,Queda de árvore,0,4,0,6,2025-03-08T05:32:00Z,Alcanena,Santarém,Centro,-8.633163,39.429217
+25056154,Pernes,Lezíria do Tejo,311,2025-03-08T06:30:00Z,25056154,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-08T06:30:00Z,Santarém,Santarém,Alentejo,-8.658865,39.381547
