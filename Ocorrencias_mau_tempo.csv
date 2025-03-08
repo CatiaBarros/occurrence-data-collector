@@ -1,13 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25058870,Estômbar e Parchal,Algarve,313,2025-03-08T17:33:00Z,25058870,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-08T17:33:00Z,Lagoa,Faro,Algarve,-8.505588,37.136252
-25058940,Carcavelos e Parede,Grande Lisboa,311,2025-03-08T18:01:00Z,25058940,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-08T18:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
+25058940,Carcavelos e Parede,Grande Lisboa,311,2025-03-08T18:01:00Z,25058940,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-08T18:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
 25056922,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-01-22T10:38:00Z,25056922,Em despacho,1101,Cheia,0,0,0,0,2025-01-22T10:38:00Z,Trofa,Porto,Norte,-8.558796,41.329536
 25059167,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-08T19:06:00Z,25059167,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-08T19:06:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.310159,38.698531
+25059179,Esmoriz,Região de Aveiro,310,2025-03-08T19:11:00Z,25059179,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-08T19:11:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
+25059298,Mafra,Grande Lisboa,311,2025-03-08T19:38:00Z,25059298,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T19:38:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.337252,38.942359
 25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
-25059018,Panoias e Conceição,Baixo Alentejo,312,2025-03-08T18:27:00Z,25059018,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-08T18:27:00Z,Ourique,Beja,Alentejo,-8.354408,37.8341
-25059152,Póvoa de Santo Adrião e Olival Basto,Grande Lisboa,311,2025-03-08T19:09:00Z,25059152,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-08T19:09:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.159148,38.80347
-25059168,Alcabideche,Grande Lisboa,311,2025-03-08T19:04:00Z,25059168,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-08T19:04:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.418781,38.730714
-25058613,Almeirim,Lezíria do Tejo,311,2025-03-08T16:25:00Z,25058613,Em conclusão,3301,Queda de árvore,0,2,0,3,2025-03-08T16:25:00Z,Almeirim,Santarém,Alentejo,-8.656655,39.21719
-25059179,Esmoriz,Região de Aveiro,310,2025-03-08T19:11:00Z,25059179,Em resolução,1101,Cheia,0,1,0,4,2025-03-08T19:11:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
-25059180,Pinhal Novo,Península de Setúbal,311,2025-03-08T19:10:00Z,25059180,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-03-08T19:10:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.881886,38.633601
