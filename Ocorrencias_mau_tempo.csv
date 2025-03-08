@@ -2,13 +2,11 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25056097,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-03-08T05:27:00Z,25056097,Em curso,3313,Deslizamento de terras,0,4,0,10,2025-03-08T05:27:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.227598,38.920829
 25056180,Santa Eulália,Alto Alentejo,312,2025-03-08T06:31:00Z,25056180,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-03-08T06:31:00Z,Elvas,Portalegre,Alentejo,-7.258011,39.006562
 25056181,Silvares,Beiras e Serra da Estrela,310,2025-03-08T06:43:00Z,25056181,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T06:43:00Z,Fundão,Castelo Branco,Centro,-7.67432,40.137481
-25056199,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-03-08T07:07:00Z,25056199,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-08T07:07:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.23632,39.92362
-25056089,Bugalhos,Médio Tejo,311,2025-03-08T05:32:00Z,25056089,Em conclusão,3301,Queda de árvore,0,4,0,6,2025-03-08T05:32:00Z,Alcanena,Santarém,Centro,-8.633163,39.429217
-25056154,Pernes,Lezíria do Tejo,311,2025-03-08T06:30:00Z,25056154,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-03-08T06:30:00Z,Santarém,Santarém,Alentejo,-8.668137,39.376353
-25056160,Nossa Senhora da Graça do Divor,Alentejo Central,312,2025-03-08T06:32:00Z,25056160,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-08T06:32:00Z,Évora,Évora,Alentejo,-7.983694,38.653775
-25056178,"Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",Beiras e Serra da Estrela,310,2025-03-08T06:40:00Z,25056178,Em resolução,3301,Queda de árvore,0,3,0,8,2025-03-08T06:40:00Z,Fundão,Castelo Branco,Centro,-7.465232,40.121515
-25056192,Poceirão e Marateca,Península de Setúbal,311,2025-03-08T06:56:00Z,25056192,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-08T06:56:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.747517,38.633484
-25056210,Espariz e Sinde,Região de Coimbra,310,2025-03-08T07:08:00Z,25056210,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-08T07:08:00Z,Tábua,Coimbra,Centro,-8.023716,40.309444
-25056217,Ferreira do Zêzere,Médio Tejo,311,2025-03-08T07:16:00Z,25056217,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-08T07:16:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.285757,39.66005
+25056199,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-03-08T07:07:00Z,25056199,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-03-08T07:07:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.23632,39.92362
 25056091,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-08T05:25:00Z,25056091,Em curso,3313,Deslizamento de terras,0,4,0,9,2025-03-08T05:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.28663,38.818606
-25056184,Valada,Lezíria do Tejo,311,2025-03-08T06:54:00Z,25056184,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-08T06:54:00Z,Cartaxo,Santarém,Alentejo,-8.73969,39.12955
+25056252,Albufeira e Olhos de Água,Algarve,313,2025-03-08T07:30:00Z,25056252,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-08T07:30:00Z,Albufeira,Faro,Algarve,-8.239918,37.090838
+25056160,Nossa Senhora da Graça do Divor,Alentejo Central,312,2025-03-08T06:32:00Z,25056160,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-08T06:32:00Z,Évora,Évora,Alentejo,-7.983694,38.653775
+25056178,"Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",Beiras e Serra da Estrela,310,2025-03-08T06:40:00Z,25056178,Em conclusão,3301,Queda de árvore,0,3,0,8,2025-03-08T06:40:00Z,Fundão,Castelo Branco,Centro,-7.465232,40.121515
+25056192,Poceirão e Marateca,Península de Setúbal,311,2025-03-08T06:56:00Z,25056192,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-08T06:56:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.747517,38.633484
+25056210,Espariz e Sinde,Região de Coimbra,310,2025-03-08T07:08:00Z,25056210,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-08T07:08:00Z,Tábua,Coimbra,Centro,-8.023716,40.309444
+25056217,Ferreira do Zêzere,Médio Tejo,311,2025-03-08T07:16:00Z,25056217,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-08T07:16:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.285757,39.66005
