@@ -3,7 +3,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25059351,Ramada e Caneças,Grande Lisboa,311,2025-03-08T20:08:00Z,25059351,Em resolução,3309,Desabamento de estruturas edificadas,0,2,0,7,2025-03-08T20:08:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.196117,38.80141
 25059179,Esmoriz,Região de Aveiro,310,2025-03-08T19:11:00Z,25059179,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-08T19:11:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
 25059415,Águas Belas,Médio Tejo,311,2025-03-08T20:29:00Z,25059415,Em resolução,3313,Deslizamento de terras,0,2,0,4,2025-03-08T20:29:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.309182,39.710118
+25059480,Samora Correia,Lezíria do Tejo,311,2025-03-08T20:49:00Z,25059480,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,6,2025-03-08T20:49:00Z,Benavente,Santarém,Alentejo,-8.890675,38.921796
 25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25058940,Carcavelos e Parede,Grande Lisboa,311,2025-03-08T18:01:00Z,25058940,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-08T18:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
 25059355,Monchique,Algarve,313,2025-03-08T19:03:00Z,25059355,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-08T19:03:00Z,Monchique,Faro,Algarve,-8.601491,37.356663
+25059407,Palmela,Península de Setúbal,311,2025-03-08T20:27:00Z,25059407,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-03-08T20:27:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.836579,38.580735
+25059456,Pinhal Novo,Península de Setúbal,311,2025-03-08T20:40:00Z,25059456,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-08T20:40:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91647,38.62932
