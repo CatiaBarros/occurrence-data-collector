@@ -1,11 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
-25059711,Faro (Sé e São Pedro),Algarve,313,2025-03-08T22:06:00Z,25059711,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-03-08T22:06:00Z,Faro,Faro,Algarve,-7.961044,37.059227
-25059179,Esmoriz,Região de Aveiro,310,2025-03-08T19:11:00Z,25059179,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-08T19:11:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
-25059697,Branca,Lezíria do Tejo,311,2025-03-08T21:49:00Z,25059697,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-08T21:49:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.597557,38.840492
-25059800,Teixoso e Sarzedo,Beiras e Serra da Estrela,310,2025-03-08T22:30:00Z,25059800,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-03-08T22:30:00Z,Covilhã,Castelo Branco,Centro,-7.455476,40.315622
+25059800,Teixoso e Sarzedo,Beiras e Serra da Estrela,310,2025-03-08T22:30:00Z,25059800,Em curso,3313,Deslizamento de terras,0,3,0,6,2025-03-08T22:30:00Z,Covilhã,Castelo Branco,Centro,-7.465258,40.305112
+25059848,Pelariga,Região de Leiria,310,2025-03-08T22:51:00Z,25059848,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-08T22:51:00Z,Pombal,Leiria,Centro,-8.61172,39.950967
+25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
+25059574,Branca,Lezíria do Tejo,311,2025-03-08T21:24:00Z,25059574,Em conclusão,3311,Queda de elementos de estruturas edificados,0,3,0,5,2025-03-08T21:24:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.597557,38.840492
+25059706,Cascais e Estoril,Grande Lisboa,311,2025-03-08T21:59:00Z,25059706,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T21:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.398759,38.70391
 25056922,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-01-22T10:38:00Z,25056922,Em despacho,1101,Cheia,0,0,0,0,2025-01-22T10:38:00Z,Trofa,Porto,Norte,-8.558796,41.329536
 25059337,Marmelete,Algarve,313,2025-03-08T19:03:00Z,25059337,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-08T19:03:00Z,Monchique,Faro,Algarve,-8.673138,37.274364
-25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
-25059574,Branca,Lezíria do Tejo,311,2025-03-08T21:24:00Z,25059574,Em conclusão,3311,Queda de elementos de estruturas edificados,0,4,0,7,2025-03-08T21:24:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.597557,38.840492
-25059706,Cascais e Estoril,Grande Lisboa,311,2025-03-08T21:59:00Z,25059706,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T21:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.398759,38.70391
+25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
+25059711,Faro (Sé e São Pedro),Algarve,313,2025-03-08T22:06:00Z,25059711,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-03-08T22:06:00Z,Faro,Faro,Algarve,-7.961044,37.059227
+25059811,Rio Tinto,Area M. Porto,309,2025-03-08T22:48:00Z,25059811,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-08T22:48:00Z,Gondomar,Porto,Norte,-8.548765,41.17295
