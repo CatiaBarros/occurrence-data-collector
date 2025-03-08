@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25056086,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-08T05:19:00Z,25056086,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-08T05:19:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.002401,38.532777
-25056091,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-08T05:25:00Z,25056091,Em despacho,3313,Deslizamento de terras,0,1,0,4,2025-03-08T05:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.28663,38.818606
-25056072,Benfica do Ribatejo,Lezíria do Tejo,311,2025-03-08T05:09:00Z,25056072,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-03-08T05:09:00Z,Almeirim,Santarém,Alentejo,-8.673835,39.15365
-25056088,"Malhou, Louriceira e Espinheiro",Médio Tejo,311,2025-03-08T05:29:00Z,25056088,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-08T05:29:00Z,Alcanena,Santarém,Centro,-8.679167,39.42861
+25056097,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-03-08T05:27:00Z,25056097,Em curso,3313,Deslizamento de terras,0,2,0,7,2025-03-08T05:27:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.227598,38.920829
+25056088,"Malhou, Louriceira e Espinheiro",Médio Tejo,311,2025-03-08T05:29:00Z,25056088,Em resolução,3301,Queda de árvore,0,1,0,1,2025-03-08T05:29:00Z,Alcanena,Santarém,Centro,-8.679167,39.42861
 25056089,Bugalhos,Médio Tejo,311,2025-03-08T05:32:00Z,25056089,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T05:32:00Z,Alcanena,Santarém,Centro,-8.631023,39.43175
-25056097,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-03-08T05:27:00Z,25056097,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-03-08T05:27:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.228575,38.925416
+25056086,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-08T05:19:00Z,25056086,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-08T05:19:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.002401,38.532777
+25056091,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-08T05:25:00Z,25056091,Em curso,3313,Deslizamento de terras,0,3,0,8,2025-03-08T05:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.28663,38.818606
