@@ -2,6 +2,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434123,38.391487
 25057150,Ulme,Lezíria do Tejo,311,2025-03-08T10:56:00Z,25057150,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-03-08T10:56:00Z,Chamusca,Santarém,Alentejo,-8.300107,39.329477
 25057265,Faro (Sé e São Pedro),Algarve,313,2025-03-08T11:00:00Z,25057265,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-03-08T11:00:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+25057352,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-08T11:21:00Z,25057352,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-08T11:21:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.259177,38.818835
+25057399,Pinhal Novo,Península de Setúbal,311,2025-03-08T11:43:00Z,25057399,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-08T11:43:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.898349,38.639295
+25057484,Águeda e Borralha,Região de Aveiro,310,2025-03-08T11:54:00Z,25057484,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-08T11:54:00Z,Águeda,Aveiro,Centro,-8.443932,40.581652
+25057502,Sesimbra (Castelo),Península de Setúbal,311,2025-03-08T12:05:00Z,25057502,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-08T12:05:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.179861,38.512406
 25056603,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2025-03-08T08:14:00Z,25056603,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-08T08:14:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.065968,38.6593
 25057194,Nossa Senhora do Pranto,Médio Tejo,311,2025-03-08T11:06:00Z,25057194,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,4,0,9,2025-03-08T11:06:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.307417,39.749872
 25057196,Abiul,Região de Leiria,310,2025-03-08T11:30:00Z,25057196,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-03-08T11:30:00Z,Pombal,Leiria,Centro,-8.536554,39.904421
@@ -9,17 +13,15 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25057248,Lorvão,Região de Coimbra,310,2025-03-08T11:17:00Z,25057248,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T11:17:00Z,Penacova,Coimbra,Centro,-8.328179,40.235482
 25057253,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-03-08T10:34:00Z,25057253,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T10:34:00Z,Grândola,Setúbal,Alentejo,-8.5587510000000009,38.173088
 25057273,Carvalhal,Alentejo Litoral,312,2025-03-08T11:06:00Z,25057273,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T11:06:00Z,Grândola,Setúbal,Alentejo,-8.859443,38.458082
-25057352,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-08T11:21:00Z,25057352,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-08T11:21:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.259177,38.818835
-25057399,Pinhal Novo,Península de Setúbal,311,2025-03-08T11:43:00Z,25057399,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-08T11:43:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.898349,38.639295
 25057314,Rogil,Algarve,313,2025-03-08T11:23:00Z,25057314,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T11:23:00Z,Aljezur,Faro,Algarve,-8.758563,37.37846
-25057353,Ramalde,Area M. Porto,309,2025-03-08T11:37:00Z,25057353,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-08T11:37:00Z,Porto,Porto,Norte,-8.639748,41.17515
 25056993,São João da Pesqueira e Várzea de Trevões,Douro,309,2025-03-08T10:26:00Z,25056993,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-03-08T10:26:00Z,São João Da Pesqueira,Viseu,Norte,-7.45358,41.11825
 25057110,Conceição e Estoi,Algarve,313,2025-03-08T10:49:00Z,25057110,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-08T10:49:00Z,Faro,Faro,Algarve,-7.910512,37.038455
 25057274,Aranhas,Beira Baixa,310,2025-03-08T11:19:00Z,25057274,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-08T11:19:00Z,Penamacor,Castelo Branco,Centro,-7.126743,40.111508
-25057341,Loulé (São Clemente),Algarve,313,2025-03-08T11:22:00Z,25057341,Em curso,3329,Queda de estruturas temporárias ou móveis,0,2,0,7,2025-03-08T11:22:00Z,Loulé,Faro,Algarve,-8.018267,37.137687
+25057341,Loulé (São Clemente),Algarve,313,2025-03-08T11:22:00Z,25057341,Em curso,3329,Queda de estruturas temporárias ou móveis,0,3,0,9,2025-03-08T11:22:00Z,Loulé,Faro,Algarve,-8.018267,37.137687
 25057360,Colares,Grande Lisboa,311,2025-03-08T11:33:00Z,25057360,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-08T11:33:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.475282,38.800337
-25057376,Lufrei,Tâmega e Sousa,309,2025-03-08T11:31:00Z,25057376,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T11:31:00Z,Amarante,Porto,Norte,-8.051976,41.27479
 25057394,Ferreiras,Algarve,313,2025-03-08T11:28:00Z,25057394,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T11:28:00Z,Albufeira,Faro,Algarve,-8.24221,37.119669
 25056922,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-01-22T10:38:00Z,25056922,Em despacho,1101,Cheia,0,0,0,0,2025-01-22T10:38:00Z,Trofa,Porto,Norte,-8.558796,41.329536
-25057388,Olhão,Algarve,313,2025-03-08T11:08:00Z,25057388,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-08T11:08:00Z,Olhão,Faro,Algarve,-7.843133,37.022054
+25057388,Olhão,Algarve,313,2025-03-08T11:08:00Z,25057388,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-08T11:08:00Z,Olhão,Faro,Algarve,-7.843133,37.022054
 25057447,Pombal,Região de Leiria,310,2025-03-08T11:30:00Z,25057447,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T11:30:00Z,Pombal,Leiria,Centro,-8.655657,39.881429
+25057479,Alpalhão,Alto Alentejo,312,2025-03-08T12:02:00Z,25057479,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-08T12:02:00Z,Nisa,Portalegre,Alentejo,-7.621037,39.417576
+25057353,Ramalde,Area M. Porto,309,2025-03-08T11:37:00Z,25057353,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-08T11:37:00Z,Porto,Porto,Norte,-8.639748,41.17515
