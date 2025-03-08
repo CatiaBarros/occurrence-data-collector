@@ -1,11 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25055955,"Rio Maior","Lezíria do Tejo",311,"2025-03-08T03:06:00",25055955,"Em conclusão","2407","Despiste",0,3,0,8,"2025-03-08T03:06:00","Rio Maior","Santarém","Alentejo",-8.964473,39.320631
-25056005,"Corroios","Península de Setúbal",311,"2025-03-08T04:09:00",25056005,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,6,"2025-03-08T04:09:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.15159,38.63859
-25056037,"Alcabideche","Grande Lisboa",311,"2025-03-08T04:40:00",25056037,"Em despacho","3301","Queda de árvore",0,1,0,4,"2025-03-08T04:40:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.43844,38.75878
+25055959,"Glória e Vera Cruz","Região de Aveiro",310,"2025-03-08T03:12:00",25055959,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-03-08T03:12:00","Aveiro","Aveiro","Centro",-8.652088,40.640621
+25056028,"Caldelas","Ave",309,"2025-03-08T04:25:00",25056028,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2025-03-08T04:25:00","Guimarães","Braga","Norte",-8.344354,41.491575
+25056035,"Alcochete","Península de Setúbal",311,"2025-03-08T04:11:00",25056035,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-03-08T04:11:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-8.90895,38.693778
 25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
 25055895,"São Pedro de Tomar","Médio Tejo",311,"2025-03-08T02:12:00",25055895,"Em despacho","2407","Despiste",0,2,0,4,"2025-03-08T02:12:00","Tomar","Santarém","Centro",-8.350918,39.558429
 25056013,"Romeira e Várzea","Lezíria do Tejo",311,"2025-03-08T04:14:00",25056013,"Em resolução","2407","Despiste",0,5,0,14,"2025-03-08T04:14:00","Santarém","Santarém","Alentejo",-8.737803,39.253168
-25056028,"Caldelas","Ave",309,"2025-03-08T04:25:00",25056028,"Em curso","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2025-03-08T04:25:00","Guimarães","Braga","Norte",-8.344354,41.491575
-25056035,"Alcochete","Península de Setúbal",311,"2025-03-08T04:11:00",25056035,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-03-08T04:11:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-8.90895,38.693778
-25055959,"Glória e Vera Cruz","Região de Aveiro",310,"2025-03-08T03:12:00",25055959,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-03-08T03:12:00","Aveiro","Aveiro","Centro",-8.652088,40.640621
-25055961,"Rans","Tâmega e Sousa",309,"2025-03-08T03:12:00",25055961,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-03-08T03:12:00","Penafiel","Porto","Norte",-8.30544,41.170737
+25055955,"Rio Maior","Lezíria do Tejo",311,"2025-03-08T03:06:00",25055955,"Em conclusão","2407","Despiste",0,3,0,8,"2025-03-08T03:06:00","Rio Maior","Santarém","Alentejo",-8.964473,39.320631
+25056005,"Corroios","Península de Setúbal",311,"2025-03-08T04:09:00",25056005,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,6,"2025-03-08T04:09:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.15159,38.63859
+25056037,"Alcabideche","Grande Lisboa",311,"2025-03-08T04:40:00",25056037,"Em curso","3301","Queda de árvore",0,1,0,4,"2025-03-08T04:40:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.43844,38.75878
