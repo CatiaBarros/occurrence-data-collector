@@ -1,11 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25056922,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-01-22T10:38:00Z,25056922,Em despacho,1101,Cheia,0,0,0,0,2025-01-22T10:38:00Z,Trofa,Porto,Norte,-8.558796,41.329536
+25059351,Ramada e Caneças,Grande Lisboa,311,2025-03-08T20:08:00Z,25059351,Em resolução,3309,Desabamento de estruturas edificadas,0,2,0,7,2025-03-08T20:08:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.196117,38.80141
+25059179,Esmoriz,Região de Aveiro,310,2025-03-08T19:11:00Z,25059179,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-08T19:11:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
+25059415,Águas Belas,Médio Tejo,311,2025-03-08T20:29:00Z,25059415,Em resolução,3313,Deslizamento de terras,0,2,0,4,2025-03-08T20:29:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.309182,39.710118
+25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25058940,Carcavelos e Parede,Grande Lisboa,311,2025-03-08T18:01:00Z,25058940,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-08T18:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
-25059354,Costa da Caparica,Península de Setúbal,311,2025-03-08T19:53:00Z,25059354,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-03-08T19:53:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.227696,38.642583
 25059355,Monchique,Algarve,313,2025-03-08T19:03:00Z,25059355,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-08T19:03:00Z,Monchique,Faro,Algarve,-8.601491,37.356663
-25056922,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-01-22T10:38:00Z,25056922,Em despacho,1101,Cheia,0,0,0,0,2025-01-22T10:38:00Z,Trofa,Porto,Norte,-8.558796,41.329536
-25059351,Ramada e Caneças,Grande Lisboa,311,2025-03-08T20:08:00Z,25059351,Em resolução,3309,Desabamento de estruturas edificadas,0,1,0,5,2025-03-08T20:08:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.196117,38.80141
-25059179,Esmoriz,Região de Aveiro,310,2025-03-08T19:11:00Z,25059179,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-08T19:11:00Z,Ovar,Aveiro,Centro,-8.637974,40.962156
-25059298,Mafra,Grande Lisboa,311,2025-03-08T19:38:00Z,25059298,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-08T19:38:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.337252,38.942359
-25059415,Águas Belas,Médio Tejo,311,2025-03-08T20:29:00Z,25059415,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-08T20:29:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.308025,39.710455
-25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
