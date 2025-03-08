@@ -1,9 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25055933,"Falagueira-Venda Nova","Grande Lisboa",311,"2025-03-08T02:45:00",25055933,"Em curso","2403","Colisão rodoviária",0,3,0,11,"2025-03-08T02:45:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.222638,38.763335
-25055955,"Landal","Oeste",311,"2025-03-08T03:06:00",25055955,"Em despacho","2407","Despiste",0,3,0,9,"2025-03-08T03:06:00","Caldas Da Rainha","Leiria","Centro",-9.024795,39.317167
-25055925,"Pinhal Novo","Península de Setúbal",311,"2025-03-08T02:33:00",25055925,"Em conclusão","2407","Despiste",0,1,0,2,"2025-03-08T02:33:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.91294,38.637902
-25055959,"Glória e Vera Cruz","Região de Aveiro",310,"2025-03-08T03:12:00",25055959,"Em curso","2403","Colisão rodoviária",0,5,0,13,"2025-03-08T03:12:00","Aveiro","Aveiro","Centro",-8.652088,40.640621
-25055961,"Rans","Tâmega e Sousa",309,"2025-03-08T03:12:00",25055961,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-03-08T03:12:00","Penafiel","Porto","Norte",-8.296894,41.170124
 25026516,"Melres e Medas","Area M. Porto",309,"2025-03-01T11:41:00",25026516,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-03-01T11:41:00","Gondomar","Porto","Norte",-8.458103,41.061746
 25055895,"São Pedro de Tomar","Médio Tejo",311,"2025-03-08T02:12:00",25055895,"Em despacho","2407","Despiste",0,2,0,4,"2025-03-08T02:12:00","Tomar","Santarém","Centro",-8.350918,39.558429
-25055946,"Alverca do Ribatejo e Sobralinho","Grande Lisboa",311,"2025-03-08T02:59:00",25055946,"Em resolução","2407","Despiste",0,2,0,7,"2025-03-08T02:59:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.041157,38.904461
+25055946,"Alverca do Ribatejo e Sobralinho","Grande Lisboa",311,"2025-03-08T02:59:00",25055946,"Em conclusão","2407","Despiste",0,4,0,10,"2025-03-08T02:59:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.041157,38.904461
+25055933,"Falagueira-Venda Nova","Grande Lisboa",311,"2025-03-08T02:45:00",25055933,"Em conclusão","2403","Colisão rodoviária",0,3,0,11,"2025-03-08T02:45:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.222638,38.763335
+25055955,"Rio Maior","Lezíria do Tejo",311,"2025-03-08T03:06:00",25055955,"Em resolução","2407","Despiste",0,4,0,10,"2025-03-08T03:06:00","Rio Maior","Santarém","Alentejo",-8.964473,39.320631
+25055971,"Alcabideche","Grande Lisboa",311,"2025-03-08T03:15:00",25055971,"Em despacho","3301","Queda de árvore",0,1,0,4,"2025-03-08T03:15:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.438785,38.755713
+25055959,"Glória e Vera Cruz","Região de Aveiro",310,"2025-03-08T03:12:00",25055959,"Em curso","2403","Colisão rodoviária",0,5,0,13,"2025-03-08T03:12:00","Aveiro","Aveiro","Centro",-8.652088,40.640621
+25055961,"Rans","Tâmega e Sousa",309,"2025-03-08T03:12:00",25055961,"Em curso","2403","Colisão rodoviária",0,3,0,6,"2025-03-08T03:12:00","Penafiel","Porto","Norte",-8.30544,41.170737
