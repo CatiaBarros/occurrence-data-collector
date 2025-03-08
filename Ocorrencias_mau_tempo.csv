@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25055276,Areosa,Alto Minho,309,2025-03-07T20:59:00Z,25055276,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-07T20:59:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.841057,41.722906
-25055665,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-07T23:15:00Z,25055665,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-03-07T23:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.345795,38.786998
 25053308,Ermidas-Sado,Alentejo Litoral,312,2025-03-07T14:02:00Z,25053308,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-07T14:02:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.366897,38.010808
 25053740,Palhais e Coina,Península de Setúbal,311,2025-03-07T15:18:00Z,25053740,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-03-07T15:18:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.043332,38.595522
 25054474,Chamusca e Pinheiro Grande,Lezíria do Tejo,311,2025-03-07T17:48:00Z,25054474,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-07T17:48:00Z,Chamusca,Santarém,Alentejo,-8.490477,39.362372
+25055276,Areosa,Alto Minho,309,2025-03-07T20:59:00Z,25055276,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-07T20:59:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.841057,41.722906
+25055665,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-07T23:15:00Z,25055665,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-03-07T23:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.345795,38.786998
