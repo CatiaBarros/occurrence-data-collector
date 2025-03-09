@@ -1,8 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25060452,Torrão,Alentejo Litoral,312,2025-03-09T06:05:00Z,25060452,Em resolução,3301,Queda de árvore,0,8,0,13,2025-03-09T06:05:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.220052,38.272115
-25060750,Envendos,Médio Tejo,311,2025-03-09T08:35:00Z,25060750,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-09T08:35:00Z,Mação,Santarém,Centro,-7.86844,39.6028
 25060571,Maiorga,Oeste,311,2025-03-09T07:32:00Z,25060571,Em resolução,3313,Deslizamento de terras,0,2,0,3,2025-03-09T07:32:00Z,Alcobaça,Leiria,Centro,-8.98044,39.56966
-25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
-25060828,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-03-09T08:54:00Z,25060828,Em resolução,3309,Desabamento de estruturas edificadas,0,2,0,7,2025-03-09T08:54:00Z,Santarém,Santarém,Alentejo,-8.671677,39.236474
-25060765,Ramada e Caneças,Grande Lisboa,311,2025-03-09T08:41:00Z,25060765,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-09T08:41:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.22736,38.8249
+25060765,Ramada e Caneças,Grande Lisboa,311,2025-03-09T08:41:00Z,25060765,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-09T08:41:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.22736,38.8249
 25060829,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-09T08:45:00Z,25060829,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-09T08:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
+25060452,Torrão,Alentejo Litoral,312,2025-03-09T06:05:00Z,25060452,Em resolução,3301,Queda de árvore,0,8,0,13,2025-03-09T06:05:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.220052,38.272115
+25060750,Envendos,Médio Tejo,311,2025-03-09T08:35:00Z,25060750,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-03-09T08:35:00Z,Mação,Santarém,Centro,-7.86844,39.6028
+25060918,"Achete, Azoia de Baixo e Póvoa de Santarém",Lezíria do Tejo,311,2025-03-09T09:17:00Z,25060918,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-09T09:17:00Z,Santarém,Santarém,Alentejo,-8.718514,39.297496
+25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
+25060828,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-03-09T08:54:00Z,25060828,Em resolução,3309,Desabamento de estruturas edificadas,0,3,0,8,2025-03-09T08:54:00Z,Santarém,Santarém,Alentejo,-8.671677,39.236474
+25060927,São Pedro de Tomar,Médio Tejo,311,2025-03-09T09:20:00Z,25060927,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-09T09:20:00Z,Tomar,Santarém,Centro,-8.382121,39.561709
