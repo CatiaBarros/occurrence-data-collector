@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
-25063210,Pataias e Martingança,Oeste,311,2025-03-09T18:55:00Z,25063210,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,5,2025-03-09T18:55:00Z,Alcobaça,Leiria,Centro,-9.005079,39.688392
-25060596,Santo André,Alentejo Litoral,312,2025-03-09T07:42:00Z,25060596,Em curso,1101,Cheia,0,2,0,3,2025-03-09T07:42:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.766964,38.100976
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25062800,Melides,Alentejo Litoral,312,2025-03-09T16:35:00Z,25062800,Em resolução,1101,Cheia,0,4,0,6,2025-03-09T16:35:00Z,Grândola,Setúbal,Alentejo,-8.76281,38.13827
 25063118,Paderne,Algarve,313,2025-03-09T18:24:00Z,25063118,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-03-09T18:24:00Z,Albufeira,Faro,Algarve,-8.21086,37.17849
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,1,0,1,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
+25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
+25063210,Pataias e Martingança,Oeste,311,2025-03-09T18:55:00Z,25063210,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,5,2025-03-09T18:55:00Z,Alcobaça,Leiria,Centro,-9.005079,39.688392
+25060596,Santo André,Alentejo Litoral,312,2025-03-09T07:42:00Z,25060596,Em curso,1101,Cheia,0,2,0,3,2025-03-09T07:42:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.766964,38.100976
