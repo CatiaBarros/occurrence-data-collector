@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
-25060452,Torrão,Alentejo Litoral,312,2025-03-09T06:05:00Z,25060452,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-09T06:05:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.222219,38.28817
+25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
 25056922,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-01-22T10:38:00Z,25056922,Em despacho,1101,Cheia,0,0,0,0,2025-01-22T10:38:00Z,Trofa,Porto,Norte,-8.558796,41.329536
 25060112,"Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",Beiras e Serra da Estrela,310,2025-03-09T00:55:00Z,25060112,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-09T00:55:00Z,Fundão,Castelo Branco,Centro,-7.505345,40.138491
-25057228,Carregueira,Lezíria do Tejo,311,2025-03-08T11:12:00Z,25057228,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-08T11:12:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
+25060452,Torrão,Alentejo Litoral,312,2025-03-09T06:05:00Z,25060452,Em resolução,3301,Queda de árvore,0,1,0,2,2025-03-09T06:05:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.222219,38.28817
+25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
