@@ -2,16 +2,17 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25067364,Paranhos,Area M. Porto,309,2025-03-10T17:12:00Z,25067364,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T17:12:00Z,Porto,Porto,Norte,-8.60156,41.16693
 25067716,Salir,Algarve,313,2025-03-10T18:27:00Z,25067716,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-10T18:27:00Z,Loulé,Faro,Algarve,-7.957935,37.23457
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25068385,Benfica do Ribatejo,Lezíria do Tejo,311,2025-03-10T21:27:00Z,25068385,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-10T21:27:00Z,Almeirim,Santarém,Alentejo,-8.668729,39.139431
+25068853,Avintes,Area M. Porto,309,2025-03-10T23:27:00Z,25068853,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-10T23:27:00Z,Vila Nova De Gaia,Porto,Norte,-8.547155,41.105347
+25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,0,0,0,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25064922,Arruda Dos Vinhos,Oeste,311,2025-03-10T09:03:00Z,25064922,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-10T09:03:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.098654,39.001645
 25067630,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-10T17:53:00Z,25067630,Em curso,3313,Deslizamento de terras,0,2,0,3,2025-03-10T17:53:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.513732,38.402515
 25067679,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-10T17:45:00Z,25067679,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-10T17:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.340934,38.801232
 25068563,Pedrógão Grande,Região de Leiria,310,2025-03-10T22:40:00Z,25068563,Em despacho,3313,Deslizamento de terras,0,1,0,4,2025-03-10T22:40:00Z,Pedrógão Grande,Leiria,Centro,-8.144807,39.916835
 25068582,São Salvador e Santa Maria,Alentejo Litoral,312,2025-03-10T22:56:00Z,25068582,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-10T22:56:00Z,Odemira,Beja,Alentejo,-8.62584,37.63083
-25068748,São Martinho Das Amoreiras,Alentejo Litoral,312,2025-03-10T23:08:00Z,25068748,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-10T23:08:00Z,Odemira,Beja,Alentejo,-8.423175,37.653664
-25067824,Marinhais,Lezíria do Tejo,311,2025-03-10T18:55:00Z,25067824,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,2,0,2,2025-03-10T18:55:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.71595,39.054252
-25068385,Benfica do Ribatejo,Lezíria do Tejo,311,2025-03-10T21:27:00Z,25068385,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-10T21:27:00Z,Almeirim,Santarém,Alentejo,-8.668729,39.139431
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25067153,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-03-10T16:13:00Z,25067153,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-10T16:13:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.283967,38.107288
 25067352,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-03-10T17:10:00Z,25067352,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T17:10:00Z,Vila Nova De Gaia,Porto,Norte,-8.648161,41.14226
-25068607,Monchique,Algarve,313,2025-03-10T23:07:00Z,25068607,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-10T23:07:00Z,Monchique,Faro,Algarve,-8.559947,37.28532
+25068607,Monchique,Algarve,313,2025-03-10T23:07:00Z,25068607,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-03-10T23:07:00Z,Monchique,Faro,Algarve,-8.559947,37.28532
+25068748,São Martinho Das Amoreiras,Alentejo Litoral,312,2025-03-10T23:08:00Z,25068748,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-10T23:08:00Z,Odemira,Beja,Alentejo,-8.423175,37.653664
