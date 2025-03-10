@@ -1,4 +1,22 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25066522,Reguengo e São Julião,Alto Alentejo,312,2025-03-10T14:12:00Z,25066522,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-10T14:12:00Z,Portalegre,Portalegre,Alentejo,-7.403278,39.298715
+25067040,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T15:45:00Z,25067040,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-10T15:45:00Z,Portalegre,Portalegre,Alentejo,-7.407555,39.284165
+25067824,Marinhais,Lezíria do Tejo,311,2025-03-10T18:55:00Z,25067824,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,4,0,7,2025-03-10T18:55:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.71595,39.054252
+25067933,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-03-10T19:16:00Z,25067933,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-10T19:16:00Z,Évora,Évora,Alentejo,-7.869122,38.593644
+25068124,Salir,Algarve,313,2025-03-10T20:11:00Z,25068124,Em conclusão,3313,Deslizamento de terras,0,1,0,3,2025-03-10T20:11:00Z,Loulé,Faro,Algarve,-8.08813,37.26915
+25068233,Vimeiro,Oeste,311,2025-03-10T20:32:00Z,25068233,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-10T20:32:00Z,Alcobaça,Leiria,Centro,-9.010754,39.492006
+25068251,Ramada e Caneças,Grande Lisboa,311,2025-03-10T20:15:00Z,25068251,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T20:15:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
+25068308,Corroios,Península de Setúbal,311,2025-03-10T20:59:00Z,25068308,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,6,2025-03-10T20:59:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.155796,38.618466
+25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
+25064922,Arruda Dos Vinhos,Oeste,311,2025-03-10T09:03:00Z,25064922,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-10T09:03:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.098654,39.001645
+25066126,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T12:30:00Z,25066126,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-10T12:30:00Z,Portalegre,Portalegre,Alentejo,-7.421847,39.289553
+25066273,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T13:02:00Z,25066273,Em conclusão,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-10T13:02:00Z,Portalegre,Portalegre,Alentejo,-7.417375,39.288735
+25066357,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T13:27:00Z,25066357,Em conclusão,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-10T13:27:00Z,Portalegre,Portalegre,Alentejo,-7.405077,39.28866
+25066393,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T13:30:00Z,25066393,Em conclusão,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-10T13:30:00Z,Portalegre,Portalegre,Alentejo,-7.40493,39.2887
+25066793,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T15:06:00Z,25066793,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-10T15:06:00Z,Portalegre,Portalegre,Alentejo,-7.404387,39.297978
+25067630,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-10T17:53:00Z,25067630,Em curso,3313,Deslizamento de terras,0,2,0,3,2025-03-10T17:53:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.513732,38.402515
+25067679,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-10T17:45:00Z,25067679,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-10T17:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.340934,38.801232
+25067878,Madalena,Area M. Porto,309,2025-03-10T19:07:00Z,25067878,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T19:07:00Z,Vila Nova De Gaia,Porto,Norte,-8.64865,41.10778
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25066365,Reguengo e São Julião,Alto Alentejo,312,2025-03-10T13:47:00Z,25066365,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-10T13:47:00Z,Portalegre,Portalegre,Alentejo,-7.40139,39.30139
 25066467,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T13:56:00Z,25066467,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-10T13:56:00Z,Portalegre,Portalegre,Alentejo,-7.412372,39.282628
@@ -6,39 +24,21 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25067153,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-03-10T16:13:00Z,25067153,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-10T16:13:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.283967,38.107288
 25067352,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-03-10T17:10:00Z,25067352,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T17:10:00Z,Vila Nova De Gaia,Porto,Norte,-8.648161,41.14226
 25067755,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-03-10T18:38:00Z,25067755,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T18:38:00Z,Vila Nova De Gaia,Porto,Norte,-8.62476,41.1364
-25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
-25064922,Arruda Dos Vinhos,Oeste,311,2025-03-10T09:03:00Z,25064922,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-10T09:03:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.098654,39.001645
-25066126,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T12:30:00Z,25066126,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-10T12:30:00Z,Portalegre,Portalegre,Alentejo,-7.421847,39.289553
-25066273,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T13:02:00Z,25066273,Em conclusão,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-10T13:02:00Z,Portalegre,Portalegre,Alentejo,-7.417375,39.288735
-25066357,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T13:27:00Z,25066357,Em conclusão,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-10T13:27:00Z,Portalegre,Portalegre,Alentejo,-7.405077,39.28866
-25066393,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T13:30:00Z,25066393,Em conclusão,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-10T13:30:00Z,Portalegre,Portalegre,Alentejo,-7.40493,39.2887
-25066793,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T15:06:00Z,25066793,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-03-10T15:06:00Z,Portalegre,Portalegre,Alentejo,-7.404387,39.297978
-25067630,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-10T17:53:00Z,25067630,Em curso,3313,Deslizamento de terras,0,2,0,3,2025-03-10T17:53:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.513732,38.402515
-25067679,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-10T17:45:00Z,25067679,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-10T17:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.340934,38.801232
-25067711,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-03-10T18:26:00Z,25067711,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-03-10T18:26:00Z,Porto,Porto,Norte,-8.63804,41.15058
-25067906,Bonfim,Area M. Porto,309,2025-03-10T19:00:00Z,25067906,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T19:00:00Z,Porto,Porto,Norte,-8.591769,41.150542
-25068038,Campanhã,Area M. Porto,309,2025-03-10T19:37:00Z,25068038,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-10T19:37:00Z,Porto,Porto,Norte,-8.575994,41.158637
-25068240,Assentiz,Médio Tejo,311,2025-03-10T20:42:00Z,25068240,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-10T20:42:00Z,Torres Novas,Santarém,Centro,-8.513766,39.590173
-25068257,Oliveira do Douro,Area M. Porto,309,2025-03-10T20:37:00Z,25068257,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-10T20:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.58327,41.127164
-25068288,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T20:57:00Z,25068288,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T20:57:00Z,Portalegre,Portalegre,Alentejo,-7.42792,39.27783
+25068240,Assentiz,Médio Tejo,311,2025-03-10T20:42:00Z,25068240,Em conclusão,3301,Queda de árvore,0,2,0,7,2025-03-10T20:42:00Z,Torres Novas,Santarém,Centro,-8.517162,39.59031
 25065928,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T12:15:00Z,25065928,Em conclusão,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-10T12:15:00Z,Portalegre,Portalegre,Alentejo,-7.4066090000000004,39.288378
 25065953,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T12:21:00Z,25065953,Em conclusão,3301,Queda de árvore,0,1,0,1,2025-03-10T12:21:00Z,Portalegre,Portalegre,Alentejo,-7.405434,39.281244
 25067364,Paranhos,Area M. Porto,309,2025-03-10T17:12:00Z,25067364,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T17:12:00Z,Porto,Porto,Norte,-8.60156,41.16693
-25067448,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-03-10T17:28:00Z,25067448,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T17:28:00Z,Porto,Porto,Norte,-8.61777,41.1517
 25067716,Salir,Algarve,313,2025-03-10T18:27:00Z,25067716,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-10T18:27:00Z,Loulé,Faro,Algarve,-7.957935,37.23457
 25067775,Madalena,Area M. Porto,309,2025-03-10T18:45:00Z,25067775,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T18:45:00Z,Vila Nova De Gaia,Porto,Norte,-8.64005,41.11209
 25067902,Angeja,Região de Aveiro,310,2025-03-10T19:05:00Z,25067902,Em conclusão,3313,Deslizamento de terras,0,1,0,2,2025-03-10T19:05:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.56369,40.681509
 25067916,Albergaria-a-Velha e Valmaior,Região de Aveiro,310,2025-03-10T19:05:00Z,25067916,Em conclusão,3313,Deslizamento de terras,0,1,0,2,2025-03-10T19:05:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.479745,40.688996
-25067878,Madalena,Area M. Porto,309,2025-03-10T19:07:00Z,25067878,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-10T19:07:00Z,Vila Nova De Gaia,Porto,Norte,-8.64865,41.10778
-25068164,Cambres,Douro,309,2025-03-10T20:18:00Z,25068164,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-10T20:18:00Z,Lamego,Viseu,Norte,-7.811598,41.128504
-25068180,Ventosa,Oeste,311,2025-03-10T20:23:00Z,25068180,Em despacho,3301,Queda de árvore,0,3,0,7,2025-03-10T20:23:00Z,Alenquer,Lisboa,Centro,-9.099775,39.120213
-25068198,Roliça,Oeste,311,2025-03-10T20:26:00Z,25068198,Em resolução,3311,Queda de elementos de estruturas edificados,0,3,0,5,2025-03-10T20:26:00Z,Bombarral,Leiria,Centro,-9.152078,39.299008
-25066522,Reguengo e São Julião,Alto Alentejo,312,2025-03-10T14:12:00Z,25066522,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-10T14:12:00Z,Portalegre,Portalegre,Alentejo,-7.403278,39.298715
-25067040,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T15:45:00Z,25067040,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-10T15:45:00Z,Portalegre,Portalegre,Alentejo,-7.407555,39.284165
-25067824,Marinhais,Lezíria do Tejo,311,2025-03-10T18:55:00Z,25067824,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,4,0,7,2025-03-10T18:55:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.71595,39.054252
-25067933,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-03-10T19:16:00Z,25067933,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-10T19:16:00Z,Évora,Évora,Alentejo,-7.869122,38.593644
-25068124,Salir,Algarve,313,2025-03-10T20:11:00Z,25068124,Em curso,3313,Deslizamento de terras,0,1,0,3,2025-03-10T20:11:00Z,Loulé,Faro,Algarve,-8.08813,37.26915
 25068034,Quinta do Anjo,Península de Setúbal,311,2025-03-10T19:43:00Z,25068034,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-10T19:43:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.9718,38.55533
-25068233,Vimeiro,Oeste,311,2025-03-10T20:32:00Z,25068233,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-10T20:32:00Z,Alcobaça,Leiria,Centro,-9.010754,39.492006
-25068251,Ramada e Caneças,Grande Lisboa,311,2025-03-10T20:15:00Z,25068251,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-10T20:15:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
-25068308,Corroios,Península de Setúbal,311,2025-03-10T20:59:00Z,25068308,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-03-10T20:59:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.155796,38.618466
+25068257,Oliveira do Douro,Area M. Porto,309,2025-03-10T20:37:00Z,25068257,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-10T20:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.58327,41.127164
+25068288,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T20:57:00Z,25068288,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-10T20:57:00Z,Portalegre,Portalegre,Alentejo,-7.428383,39.278072
+25068305,Alvega e Concavada,Médio Tejo,311,2025-03-10T21:03:00Z,25068305,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-03-10T21:03:00Z,Abrantes,Santarém,Centro,-8.05692,39.45422
+25068320,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T21:00:00Z,25068320,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-10T21:00:00Z,Portalegre,Portalegre,Alentejo,-7.429978,39.279895
+25068164,Sande,Douro,309,2025-03-10T20:18:00Z,25068164,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-10T20:18:00Z,Lamego,Viseu,Norte,-7.791978,41.153213
+25068180,Ventosa,Oeste,311,2025-03-10T20:23:00Z,25068180,Em resolução,3301,Queda de árvore,0,3,0,8,2025-03-10T20:23:00Z,Alenquer,Lisboa,Centro,-9.099775,39.120213
+25068198,Roliça,Oeste,311,2025-03-10T20:26:00Z,25068198,Em resolução,3311,Queda de elementos de estruturas edificados,0,3,0,5,2025-03-10T20:26:00Z,Bombarral,Leiria,Centro,-9.152078,39.299008
+25068365,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-03-10T21:21:00Z,25068365,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-03-10T21:21:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.73342,39.006483
+25068381,Sé e São Lourenço,Alto Alentejo,312,2025-03-10T21:23:00Z,25068381,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-10T21:23:00Z,Portalegre,Portalegre,Alentejo,-7.42866,39.281951
