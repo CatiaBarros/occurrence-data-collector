@@ -1,19 +1,27 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,2,0,3,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
+25063971,Salir,Algarve,313,2025-03-09T23:45:00Z,25063971,Em resolução,3313,Deslizamento de terras,0,1,0,1,2025-03-09T23:45:00Z,Loulé,Faro,Algarve,-7.945758,37.230723
+25064916,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-03-10T08:56:00Z,25064916,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-10T08:56:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.137133,38.85709
+25065325,Odeceixe,Algarve,313,2025-03-10T10:09:00Z,25065325,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-10T10:09:00Z,Aljezur,Faro,Algarve,-8.742576,37.399882
+25065343,Vialonga,Grande Lisboa,311,2025-03-10T10:28:00Z,25065343,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-03-10T10:28:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.106591,38.858941
+25065377,Fazendas de Almeirim,Lezíria do Tejo,311,2025-03-10T10:37:00Z,25065377,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-10T10:37:00Z,Almeirim,Santarém,Alentejo,-8.538074,39.165858
+25060596,Santo André,Alentejo Litoral,312,2025-03-09T07:42:00Z,25060596,Em curso,1101,Cheia,0,2,0,3,2025-03-09T07:42:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.766964,38.100976
+25064774,Aljezur,Algarve,313,2025-03-10T08:41:00Z,25064774,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-10T08:41:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
+25064801,Mira,Região de Coimbra,310,2025-03-10T08:34:00Z,25064801,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-10T08:34:00Z,Mira,Coimbra,Centro,-8.734102,40.4268
+25065167,Sousel,Alto Alentejo,312,2025-03-10T09:55:00Z,25065167,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-10T09:55:00Z,Sousel,Portalegre,Alentejo,-7.674733,38.951227
+25065185,Moscavide e Portela,Grande Lisboa,311,2025-03-10T10:02:00Z,25065185,Em curso,3313,Deslizamento de terras,0,2,0,7,2025-03-10T10:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.104095,38.779
+25065376,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-10T10:30:00Z,25065376,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-10T10:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.385912,38.758094
+25065403,Marmelete,Algarve,313,2025-03-10T10:26:00Z,25065403,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-10T10:26:00Z,Monchique,Faro,Algarve,-8.697881,37.26614
+25065437,Costa da Caparica,Península de Setúbal,311,2025-03-10T10:43:00Z,25065437,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-03-10T10:43:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.227696,38.642583
 25062800,Melides,Alentejo Litoral,312,2025-03-09T16:35:00Z,25062800,Em resolução,1101,Cheia,0,4,0,6,2025-03-09T16:35:00Z,Grândola,Setúbal,Alentejo,-8.76281,38.13827
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,1,0,1,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25064904,Peniche,Oeste,311,2025-03-10T09:07:00Z,25064904,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-03-10T09:07:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 25064922,Arruda Dos Vinhos,Oeste,311,2025-03-10T09:03:00Z,25064922,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-10T09:03:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.098654,39.001645
-25065220,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-10T09:52:00Z,25065220,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-10T09:52:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
-25060596,Santo André,Alentejo Litoral,312,2025-03-09T07:42:00Z,25060596,Em curso,1101,Cheia,0,2,0,3,2025-03-09T07:42:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.766964,38.100976
-25064774,Aljezur,Algarve,313,2025-03-10T08:41:00Z,25064774,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-10T08:41:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
-25064801,Mira,Região de Coimbra,310,2025-03-10T08:34:00Z,25064801,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-10T08:34:00Z,Mira,Coimbra,Centro,-8.734102,40.4268
-25064890,Alcochete,Península de Setúbal,311,2025-03-10T09:08:00Z,25064890,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-03-10T09:08:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.94653,38.75031
-25065167,Sousel,Alto Alentejo,312,2025-03-10T09:55:00Z,25065167,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-10T09:55:00Z,Sousel,Portalegre,Alentejo,-7.674733,38.951227
-25065185,Moscavide e Portela,Grande Lisboa,311,2025-03-10T10:02:00Z,25065185,Em curso,3313,Deslizamento de terras,0,2,0,7,2025-03-10T10:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.104095,38.779
-25063971,Salir,Algarve,313,2025-03-09T23:45:00Z,25063971,Em resolução,3313,Deslizamento de terras,0,1,0,1,2025-03-09T23:45:00Z,Loulé,Faro,Algarve,-8.017068,37.269388
-25064916,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-03-10T08:56:00Z,25064916,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-10T08:56:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.137133,38.85709
-25065325,Odeceixe,Algarve,313,2025-03-10T10:09:00Z,25065325,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-10T10:09:00Z,Aljezur,Faro,Algarve,-8.742576,37.399882
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
-25065031,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-10T09:27:00Z,25065031,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-10T09:27:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.023955,38.513697
 25065114,Santana do Mato,Lezíria do Tejo,311,2025-03-10T09:46:00Z,25065114,Em despacho,3333,Rutura de barragem,0,2,0,4,2025-03-10T09:46:00Z,Coruche,Santarém,Alentejo,-8.468222,38.831897
+25065430,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-03-10T10:31:00Z,25065430,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-03-10T10:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.268324,38.887204
+25065460,Sado,Península de Setúbal,311,2025-03-10T10:41:00Z,25065460,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-10T10:41:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.830049,38.498799
+25065467,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-03-10T10:50:00Z,25065467,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-03-10T10:50:00Z,Cartaxo,Santarém,Alentejo,-8.794948,39.166481
+25065469,Benedita,Oeste,311,2025-03-10T10:46:00Z,25065469,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-10T10:46:00Z,Alcobaça,Leiria,Centro,-8.979714,39.424686
+25065478,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão",Tâmega e Sousa,309,2025-03-10T10:50:00Z,25065478,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-10T10:50:00Z,Amarante,Porto,Norte,-8.085399,41.267605
+25065354,Nazaré,Oeste,311,2025-03-10T10:29:00Z,25065354,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-10T10:29:00Z,Nazaré,Leiria,Centro,-9.062127,39.596083
+25065355,Aljezur,Algarve,313,2025-03-10T10:22:00Z,25065355,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-03-10T10:22:00Z,Aljezur,Faro,Algarve,-8.737814,37.325409
