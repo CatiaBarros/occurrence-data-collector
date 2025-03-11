@@ -1,11 +1,14 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em curso","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
 25067856,"Alhadas","Região de Coimbra",310,"2025-03-10T19:01:00",25067856,"Em curso","2509","Acidente químico em trânsito",0,0,0,0,"2025-03-10T19:01:00","Figueira Da Foz","Coimbra","Centro",-8.824783,40.191247
+25067674,"Porto Salvo","Grande Lisboa",311,"2025-03-10T18:09:00",25067674,"Em resolução","2407","Despiste",0,1,0,1,"2025-03-10T18:09:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.305901,38.719291
+25068058,"Pombal","Região de Leiria",310,"2025-03-10T19:45:00",25068058,"Em despacho","4333","Busca e resgate aquático de animais",0,1,0,2,"2025-03-10T19:45:00","Pombal","Leiria","Centro",-8.635983,39.908535
+25068501,"Santo Antão e São Julião do Tojal","Grande Lisboa",311,"2025-03-10T22:05:00",25068501,"Em despacho","2407","Despiste",0,2,0,7,"2025-03-10T22:05:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.137133,38.85709
+25069137,"Alenquer (Santo Estêvão e Triana)","Oeste",311,"2025-03-11T01:00:00",25069137,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,2,"2025-03-11T01:00:00","Alenquer","Lisboa","Centro",-9.007918,39.054242
 25067716,"Salir","Algarve",313,"2025-03-10T18:27:00",25067716,"Em curso","3313","Deslizamento de terras",0,0,0,0,"2025-03-10T18:27:00","Loulé","Faro","Algarve",-7.957935,37.23457
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25069229,"Tocha","Região de Coimbra",310,"2025-03-11T02:19:00",25069229,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,9,"2025-03-11T02:19:00","Cantanhede","Coimbra","Centro",-8.74858,40.31275
 25069238,"Vila Real de Santo António","Algarve",313,"2025-03-11T02:22:00",25069238,"Em resolução","2407","Despiste",0,3,0,9,"2025-03-11T02:22:00","Vila Real De Santo António","Faro","Algarve",-7.413388,37.191428
-25069281,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-03-11T03:16:00",25069281,"Em despacho","3201","Detritos não confinados",0,0,0,0,"2025-03-11T03:16:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.285555,38.76588
+25069281,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-03-11T03:16:00",25069281,"Em curso","3201","Detritos não confinados",0,1,0,4,"2025-03-11T03:16:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.285555,38.76588
 25057015,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-08T10:20:00",25057015,"Em curso","1101","Cheia",0,0,0,0,"2025-03-08T10:20:00","Alcácer Do Sal","Setúbal","Alentejo",-8.432801,38.398147
 25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em curso","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
 25064922,"Arruda Dos Vinhos","Oeste",311,"2025-03-10T09:03:00",25064922,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,1,0,1,"2025-03-10T09:03:00","Arruda Dos Vinhos","Lisboa","Centro",-9.098654,39.001645
@@ -13,10 +16,3 @@
 25067679,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-03-10T17:45:00",25067679,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-03-10T17:45:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.340934,38.801232
 25068582,"São Salvador e Santa Maria","Alentejo Litoral",312,"2025-03-10T22:56:00",25068582,"Em despacho","3313","Deslizamento de terras",0,1,0,2,"2025-03-10T22:56:00","Odemira","Beja","Alentejo",-8.62584,37.63083
 25068748,"São Martinho Das Amoreiras","Alentejo Litoral",312,"2025-03-10T23:08:00",25068748,"Em despacho","3313","Deslizamento de terras",0,2,0,4,"2025-03-10T23:08:00","Odemira","Beja","Alentejo",-8.423175,37.653664
-25069251,"Fafe","Ave",309,"2025-03-11T02:33:00",25069251,"Em curso","2407","Despiste",0,2,0,4,"2025-03-11T02:33:00","Fafe","Braga","Norte",-8.175239,41.449617
-25067674,"Porto Salvo","Grande Lisboa",311,"2025-03-10T18:09:00",25067674,"Em resolução","2407","Despiste",0,1,0,1,"2025-03-10T18:09:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.305901,38.719291
-25068058,"Pombal","Região de Leiria",310,"2025-03-10T19:45:00",25068058,"Em despacho","4333","Busca e resgate aquático de animais",0,1,0,2,"2025-03-10T19:45:00","Pombal","Leiria","Centro",-8.635983,39.908535
-25068501,"Santo Antão e São Julião do Tojal","Grande Lisboa",311,"2025-03-10T22:05:00",25068501,"Em despacho","2407","Despiste",0,2,0,7,"2025-03-10T22:05:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.137133,38.85709
-25069137,"Alenquer (Santo Estêvão e Triana)","Oeste",311,"2025-03-11T01:00:00",25069137,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,2,"2025-03-11T01:00:00","Alenquer","Lisboa","Centro",-9.007918,39.054242
-25069164,"Murtede","Região de Coimbra",310,"2025-03-11T01:19:00",25069164,"Em despacho","3301","Queda de árvore",0,1,0,3,"2025-03-11T01:19:00","Cantanhede","Coimbra","Centro",-8.518066,40.358381
-25069246,"Corroios","Península de Setúbal",311,"2025-03-11T02:35:00",25069246,"Em despacho","3301","Queda de árvore",0,1,0,4,"2025-03-11T02:35:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.155796,38.618466
