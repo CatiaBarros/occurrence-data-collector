@@ -1,8 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25069164,Murtede,Região de Coimbra,310,2025-03-11T01:19:00Z,25069164,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-11T01:19:00Z,Cantanhede,Coimbra,Centro,-8.518066,40.358381
-25069246,Corroios,Península de Setúbal,311,2025-03-11T02:35:00Z,25069246,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-11T02:35:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.155796,38.618466
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
-25067153,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-03-10T16:13:00Z,25067153,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-10T16:13:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.283967,38.107288
 25067716,Salir,Algarve,313,2025-03-10T18:27:00Z,25067716,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-10T18:27:00Z,Loulé,Faro,Algarve,-7.957935,37.23457
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,0,0,0,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
@@ -12,4 +9,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25067679,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-10T17:45:00Z,25067679,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-10T17:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.340934,38.801232
 25068582,São Salvador e Santa Maria,Alentejo Litoral,312,2025-03-10T22:56:00Z,25068582,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-10T22:56:00Z,Odemira,Beja,Alentejo,-8.62584,37.63083
 25068748,São Martinho Das Amoreiras,Alentejo Litoral,312,2025-03-10T23:08:00Z,25068748,Em despacho,3313,Deslizamento de terras,0,2,0,4,2025-03-10T23:08:00Z,Odemira,Beja,Alentejo,-8.423175,37.653664
-25069234,Vila Verde,Região de Coimbra,310,2025-03-11T02:19:00Z,25069234,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-03-11T02:19:00Z,Figueira Da Foz,Coimbra,Centro,-8.800856,40.146359
+25069164,Murtede,Região de Coimbra,310,2025-03-11T01:19:00Z,25069164,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-11T01:19:00Z,Cantanhede,Coimbra,Centro,-8.518066,40.358381
+25069246,Corroios,Península de Setúbal,311,2025-03-11T02:35:00Z,25069246,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-11T02:35:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.155796,38.618466
