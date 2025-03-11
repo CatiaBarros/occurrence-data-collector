@@ -2,10 +2,11 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25067716,Salir,Algarve,313,2025-03-10T18:27:00Z,25067716,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-10T18:27:00Z,Loulé,Faro,Algarve,-7.957935,37.23457
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25068918,Santo António da Charneca,Península de Setúbal,311,2025-03-10T23:44:00Z,25068918,Em despacho,3301,Queda de árvore,0,3,0,7,2025-03-10T23:44:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.029919,38.624451
-25069097,Casais e Alviobeira,Médio Tejo,311,2025-03-11T00:41:00Z,25069097,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-11T00:41:00Z,Tomar,Santarém,Centro,-8.361875,39.623717
-25069136,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-03-11T01:09:00Z,25069136,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-11T01:09:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.5871,40.92019
+25069136,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-03-11T01:09:00Z,25069136,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-11T01:09:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.5871,40.92019
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25067153,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-03-10T16:13:00Z,25067153,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-10T16:13:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.283967,38.107288
+25069158,São Pedro de Tomar,Médio Tejo,311,2025-03-11T01:17:00Z,25069158,Em conclusão,3313,Deslizamento de terras,0,3,0,8,2025-03-11T01:17:00Z,Tomar,Santarém,Centro,-8.362502,39.540595
+25069164,Murtede,Região de Coimbra,310,2025-03-11T01:19:00Z,25069164,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-11T01:19:00Z,Cantanhede,Coimbra,Centro,-8.518066,40.358381
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,0,0,0,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25064922,Arruda Dos Vinhos,Oeste,311,2025-03-10T09:03:00Z,25064922,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-10T09:03:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.098654,39.001645
