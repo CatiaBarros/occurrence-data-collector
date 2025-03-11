@@ -10,8 +10,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,0,0,0,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25069918,Envendos,Médio Tejo,311,2025-03-11T08:48:00Z,25069918,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-03-11T08:48:00Z,Mação,Santarém,Centro,-7.840018,39.526485
-25070053,Vila Marim,Douro,309,2025-03-11T09:11:00Z,25070053,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-03-11T09:11:00Z,Vila Real,Vila Real,Norte,-7.788045,41.305818
-25072442,Carregueira,Lezíria do Tejo,311,2025-03-11T16:14:00Z,25072442,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-11T16:14:00Z,Chamusca,Santarém,Alentejo,-8.4137,39.41708
-25069971,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-03-11T08:40:00Z,25069971,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-11T08:40:00Z,Penela,Coimbra,Centro,-8.399036,40.025502
-25072229,"Esposende, Marinhas e Gandra",Cávado,309,2025-03-11T15:20:00Z,25072229,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-11T15:20:00Z,Esposende,Braga,Norte,-8.77323,41.541808
+25072442,Carregueira,Lezíria do Tejo,311,2025-03-11T16:14:00Z,25072442,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-03-11T16:14:00Z,Chamusca,Santarém,Alentejo,-8.377848,39.395187
 25072579,Aljezur,Algarve,313,2025-03-11T16:32:00Z,25072579,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-11T16:32:00Z,Aljezur,Faro,Algarve,-8.803144,37.313343
