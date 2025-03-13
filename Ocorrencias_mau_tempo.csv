@@ -1,15 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
-25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25082644,Podentes,Região de Coimbra,310,2025-03-13T18:42:00Z,25082644,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-03-13T18:42:00Z,Penela,Coimbra,Centro,-8.382207,40.05313
 25057015,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-08T10:20:00Z,25057015,Em curso,1101,Cheia,0,0,0,0,2025-03-08T10:20:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.432801,38.398147
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25082202,Benfica do Ribatejo,Lezíria do Tejo,311,2025-03-13T17:01:00Z,25082202,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,3,0,7,2025-03-13T17:01:00Z,Almeirim,Santarém,Alentejo,-8.688346,39.147223
 25082588,Lamas,Região de Coimbra,310,2025-03-13T18:15:00Z,25082588,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-13T18:15:00Z,Miranda Do Corvo,Coimbra,Centro,-8.376991,40.084991
 25082772,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-03-13T19:06:00Z,25082772,Em despacho,3313,Deslizamento de terras,0,1,0,4,2025-03-13T19:06:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.064747,38.918733
-25082782,Lamas,Região de Coimbra,310,2025-03-13T19:10:00Z,25082782,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-13T19:10:00Z,Miranda Do Corvo,Coimbra,Centro,-8.365291,40.09222
 25067716,Salir,Algarve,313,2025-03-10T18:27:00Z,25067716,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-10T18:27:00Z,Loulé,Faro,Algarve,-7.957935,37.23457
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25082138,Silves,Algarve,313,2025-03-13T16:40:00Z,25082138,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-03-13T16:40:00Z,Silves,Faro,Algarve,-8.443919,37.192295
-25082756,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-03-13T18:55:00Z,25082756,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-13T18:55:00Z,Porto,Porto,Norte,-8.615939,41.15359
+25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,0,0,0,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
+25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25082644,Podentes,Região de Coimbra,310,2025-03-13T18:42:00Z,25082644,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-03-13T18:42:00Z,Penela,Coimbra,Centro,-8.382207,40.05313
