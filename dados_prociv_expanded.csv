@@ -1,20 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25067716,"Salir","Algarve",313,"2025-03-10T18:27:00",25067716,"Em curso","3313","Deslizamento de terras",0,1,0,2,"2025-03-10T18:27:00","Loulé","Faro","Algarve",-7.957935,37.23457
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
-25088413,"Falagueira-Venda Nova","Grande Lisboa",311,"2025-03-14T21:56:00",25088413,"Em conclusão","2403","Colisão rodoviária",0,3,0,10,"2025-03-14T21:56:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.222638,38.763335
-25088458,"Gavieira","Alto Minho",309,"2025-03-14T22:18:00",25088458,"Em despacho","3103","Incêndio rural",0,0,0,0,"2025-03-14T22:18:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.24028,41.93753
-25088481,"Vilarinho do Bairro","Região de Aveiro",310,"2025-03-14T22:18:00",25088481,"Em despacho","2407","Despiste",0,2,0,7,"2025-03-14T22:18:00","Anadia","Aveiro","Centro",-8.570566,40.437766
-25088522,"Lourinhã e Atalaia","Oeste",311,"2025-03-14T22:21:00",25088522,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-03-14T22:21:00","Lourinhã","Lisboa","Centro",-9.311131,39.244365
-25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
-25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25088159,"Montijo e Afonsoeiro","Península de Setúbal",311,"2025-03-14T20:43:00",25088159,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,1,0,2,"2025-03-14T20:43:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.98655,38.71052
-25088194,"Braga (São José de São Lázaro e São João do Souto)","Cávado",309,"2025-03-14T20:51:00",25088194,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,5,"2025-03-14T20:51:00","Braga","Braga","Norte",-8.42034,41.54653
-25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
-25087539,"São Teotónio","Alentejo Litoral",312,"2025-03-14T18:10:00",25087539,"Em conclusão","1101","Cheia",0,2,0,2,"2025-03-14T18:10:00","Odemira","Beja","Alentejo",-8.728352,37.47017
-25088205,"Ponte de Sor, Tramaga e Vale de Açor","Alto Alentejo",312,"2025-03-14T20:50:00",25088205,"Em conclusão","4331","Busca e resgate terrestre de animais",0,2,0,6,"2025-03-14T20:50:00","Ponte De Sor","Portalegre","Alentejo",-8.004513,39.248463
-25088523,"Vale","Alto Minho",309,"2025-03-14T22:27:00",25088523,"Em despacho","3103","Incêndio rural",0,1,0,3,"2025-03-14T22:27:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.37518,41.849894
 25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
 25087331,"Urrós","Terras de Trás-os-Montes",309,"2025-03-14T17:40:00",25087331,"Em resolução","2403","Colisão rodoviária",0,3,0,7,"2025-03-14T17:40:00","Mogadouro","Bragança","Norte",-6.463989,41.347368
 25087766,"Laundos","Area M. Porto",309,"2025-03-14T19:12:00",25087766,"Em conclusão","2403","Colisão rodoviária",0,9,0,21,"2025-03-14T19:12:00","Póvoa De Varzim","Porto","Norte",-8.72016,41.448008
@@ -22,6 +6,21 @@
 25088051,"Coz, Alpedriz e Montes","Oeste",311,"2025-03-14T20:00:00",25088051,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-03-14T20:00:00","Alcobaça","Leiria","Centro",-8.981807,39.596698
 25088150,"Abrunheira, Verride e Vila Nova da Barca","Região de Coimbra",310,"2025-03-14T20:30:00",25088150,"Em curso","4327","Busca e resgate terrestre de pessoas",0,4,0,12,"2025-03-14T20:30:00","Montemor-o-Velho","Coimbra","Centro",-8.696313,40.134308
 25088184,"Lourosa","Area M. Porto",309,"2025-03-14T20:40:00",25088184,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-03-14T20:40:00","Santa Maria Da Feira","Aveiro","Norte",-8.546668,40.987733
-25088337,"Alhos Vedros","Península de Setúbal",311,"2025-03-14T21:30:00",25088337,"Em conclusão","2407","Despiste",0,2,0,6,"2025-03-14T21:30:00","Moita","Setúbal","Área Metropolitana De Lisboa",-9.026889,38.657804
 25088420,"Pessegueiro do Vouga","Região de Aveiro",310,"2025-03-14T22:02:00",25088420,"Em curso","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-03-14T22:02:00","Sever Do Vouga","Aveiro","Centro",-8.38939,40.69041
 25088501,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-03-14T22:31:00",25088501,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2025-03-14T22:31:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.345795,38.786998
+25088518,"Pontinha e Famões","Grande Lisboa",311,"2025-03-14T22:39:00",25088518,"Em despacho","3325","Dano na rede de abastecimento de gás",0,1,0,5,"2025-03-14T22:39:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.2107,38.79105
+25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
+25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25088546,"Lordelo do Ouro e Massarelos","Area M. Porto",309,"2025-03-14T22:40:00",25088546,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-03-14T22:40:00","Porto","Porto","Norte",-8.644953,41.152973
+25067716,"Salir","Algarve",313,"2025-03-10T18:27:00",25067716,"Em curso","3313","Deslizamento de terras",0,1,0,2,"2025-03-10T18:27:00","Loulé","Faro","Algarve",-7.957935,37.23457
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
+25088413,"Falagueira-Venda Nova","Grande Lisboa",311,"2025-03-14T21:56:00",25088413,"Em conclusão","2403","Colisão rodoviária",0,3,0,10,"2025-03-14T21:56:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.222638,38.763335
+25088458,"Gavieira","Alto Minho",309,"2025-03-14T22:18:00",25088458,"Em despacho","3103","Incêndio rural",0,0,0,0,"2025-03-14T22:18:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.24028,41.93753
+25088481,"Vilarinho do Bairro","Região de Aveiro",310,"2025-03-14T22:18:00",25088481,"Em curso","2407","Despiste",0,2,0,7,"2025-03-14T22:18:00","Anadia","Aveiro","Centro",-8.575975,40.441028
+25088522,"Lourinhã e Atalaia","Oeste",311,"2025-03-14T22:21:00",25088522,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-03-14T22:21:00","Lourinhã","Lisboa","Centro",-9.311131,39.244365
+25088540,"Covelas","Area M. Porto",309,"2025-03-14T22:40:00",25088540,"Em despacho","3203","Detritos confinados",0,1,0,3,"2025-03-14T22:40:00","Trofa","Porto","Norte",-8.536728,41.300867
+25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
+25088205,"Ponte de Sor, Tramaga e Vale de Açor","Alto Alentejo",312,"2025-03-14T20:50:00",25088205,"Em conclusão","4331","Busca e resgate terrestre de animais",0,2,0,6,"2025-03-14T20:50:00","Ponte De Sor","Portalegre","Alentejo",-8.004513,39.248463
+25088523,"Vale","Alto Minho",309,"2025-03-14T22:27:00",25088523,"Em despacho","3103","Incêndio rural",0,1,0,3,"2025-03-14T22:27:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.37518,41.849894
