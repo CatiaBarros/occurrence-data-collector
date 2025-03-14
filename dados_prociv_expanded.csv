@@ -1,10 +1,12 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
-25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25057015,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-08T10:20:00",25057015,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T10:20:00","Alcácer Do Sal","Setúbal","Alentejo",-8.432801,38.398147
 25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
+25084054,"Real, Dume e Semelhe","Cávado",309,"2025-03-14T05:58:00",25084054,"Em resolução","3203","Detritos confinados",0,1,0,6,"2025-03-14T05:58:00","Braga","Braga","Norte",-8.445918,41.559256
 25067716,"Salir","Algarve",313,"2025-03-10T18:27:00",25067716,"Em curso","3313","Deslizamento de terras",0,0,0,0,"2025-03-10T18:27:00","Loulé","Faro","Algarve",-7.957935,37.23457
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
 25081963,"Sines","Alentejo Litoral",312,"2025-03-13T16:02:00",25081963,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,0,0,0,"2025-03-13T16:02:00","Sines","Setúbal","Alentejo",-8.804695,37.930428
 25084026,"Milagres","Região de Leiria",310,"2025-03-14T05:29:00",25084026,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-03-14T05:29:00","Leiria","Leiria","Centro",-8.74852,39.808022
+25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
+25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25084048,"Conceição e Estoi","Algarve",313,"2025-03-14T05:52:00",25084048,"Em curso","2407","Despiste",0,2,0,7,"2025-03-14T05:52:00","Faro","Faro","Algarve",-7.91006,37.07275
