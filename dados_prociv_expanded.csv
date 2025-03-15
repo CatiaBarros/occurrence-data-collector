@@ -1,15 +1,12 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
+25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
+25088051,"Coz, Alpedriz e Montes","Oeste",311,"2025-03-14T20:00:00",25088051,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-03-14T20:00:00","Alcobaça","Leiria","Centro",-8.981807,39.596698
+25088886,"Assunção","Alto Alentejo",312,"2025-03-15T02:06:00",25088886,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,14,"2025-03-15T02:06:00","Arronches","Portalegre","Alentejo",-7.283792,39.122475
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
+25088481,"Vilarinho do Bairro","Região de Aveiro",310,"2025-03-14T22:18:00",25088481,"Em conclusão","2407","Despiste",0,1,0,2,"2025-03-14T22:18:00","Anadia","Aveiro","Centro",-8.575975,40.441028
 25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25088811,"Refontoura","Tâmega e Sousa",309,"2025-03-15T00:57:00",25088811,"Em conclusão","2407","Despiste",0,2,0,4,"2025-03-15T00:57:00","Felgueiras","Porto","Norte",-8.190183,41.328385
-25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
-25088051,"Coz, Alpedriz e Montes","Oeste",311,"2025-03-14T20:00:00",25088051,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-03-14T20:00:00","Alcobaça","Leiria","Centro",-8.981807,39.596698
-25088886,"Assunção","Alto Alentejo",312,"2025-03-15T02:06:00",25088886,"Em despacho","2101","Incêndio em edifícios habitacionais",0,0,0,0,"2025-03-15T02:06:00","Arronches","Portalegre","Alentejo",-7.33434,39.097183
-25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
-25088832,"Rio de Mouro","Grande Lisboa",311,"2025-03-15T01:18:00",25088832,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-03-15T01:18:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.321906,38.783084
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
-25088458,"Gavieira","Alto Minho",309,"2025-03-14T22:18:00",25088458,"Em conclusão","3103","Incêndio rural",0,1,0,3,"2025-03-14T22:18:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.244347,41.934758
-25088481,"Vilarinho do Bairro","Região de Aveiro",310,"2025-03-14T22:18:00",25088481,"Em conclusão","2407","Despiste",0,1,0,2,"2025-03-14T22:18:00","Anadia","Aveiro","Centro",-8.575975,40.441028
-25088808,"Alfragide","Grande Lisboa",311,"2025-03-15T01:07:00",25088808,"Em conclusão","2407","Despiste",0,3,0,10,"2025-03-15T01:07:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.21028,38.72284
