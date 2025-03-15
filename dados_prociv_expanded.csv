@@ -1,16 +1,16 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
-25088458,"Gavieira","Alto Minho",309,"2025-03-14T22:18:00",25088458,"Em despacho","3103","Incêndio rural",0,0,0,0,"2025-03-14T22:18:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.24028,41.93753
-25088481,"Vilarinho do Bairro","Região de Aveiro",310,"2025-03-14T22:18:00",25088481,"Em conclusão","2407","Despiste",0,1,0,2,"2025-03-14T22:18:00","Anadia","Aveiro","Centro",-8.575975,40.441028
-25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
-25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25088711,"Amora","Península de Setúbal",311,"2025-03-14T23:46:00",25088711,"Em curso","2403","Colisão rodoviária",0,3,0,7,"2025-03-14T23:46:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.125227,38.624582
-25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
-25088630,"Guardizela","Ave",309,"2025-03-14T23:18:00",25088630,"Em despacho","2407","Despiste",0,3,0,6,"2025-03-14T23:18:00","Guimarães","Braga","Norte",-8.372967,41.38275
-25088682,"Moreira de Cónegos","Ave",309,"2025-03-14T23:44:00",25088682,"Em despacho","2515","Fuga de gás em garrafa",0,1,0,3,"2025-03-14T23:44:00","Guimarães","Braga","Norte",-8.344488,41.387707
 25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
 25088016,"Azambuja","Lezíria do Tejo",311,"2025-03-14T20:12:00",25088016,"Em conclusão","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-03-14T20:12:00","Azambuja","Lisboa","Alentejo",-8.916367,39.11734
 25088051,"Coz, Alpedriz e Montes","Oeste",311,"2025-03-14T20:00:00",25088051,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-03-14T20:00:00","Alcobaça","Leiria","Centro",-8.981807,39.596698
-25088150,"Abrunheira, Verride e Vila Nova da Barca","Região de Coimbra",310,"2025-03-14T20:30:00",25088150,"Em curso","4327","Busca e resgate terrestre de pessoas",0,4,0,12,"2025-03-14T20:30:00","Montemor-o-Velho","Coimbra","Centro",-8.696313,40.134308
+25088772,"Campo e Campinho","Alentejo Central",312,"2025-03-15T00:22:00",25088772,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,2,0,6,"2025-03-15T00:22:00","Reguengos De Monsaraz","Évora","Alentejo",-7.510503,38.338055
+25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
+25088682,"Moreira de Cónegos","Ave",309,"2025-03-14T23:44:00",25088682,"Em conclusão","2515","Fuga de gás em garrafa",0,1,0,3,"2025-03-14T23:44:00","Guimarães","Braga","Norte",-8.344488,41.387707
+25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
+25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25088711,"Amora","Península de Setúbal",311,"2025-03-14T23:46:00",25088711,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-03-14T23:46:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.125227,38.624582
+25088793,"Faíl e Vila Chã de Sá","Viseu Dão Lafões",310,"2025-03-15T00:54:00",25088793,"Em despacho","2515","Fuga de gás em garrafa",0,1,0,4,"2025-03-15T00:54:00","Viseu","Viseu","Centro",-7.987654,40.60236
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
+25088458,"Gavieira","Alto Minho",309,"2025-03-14T22:18:00",25088458,"Em despacho","3103","Incêndio rural",0,1,0,3,"2025-03-14T22:18:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.24028,41.93753
+25088481,"Vilarinho do Bairro","Região de Aveiro",310,"2025-03-14T22:18:00",25088481,"Em conclusão","2407","Despiste",0,1,0,2,"2025-03-14T22:18:00","Anadia","Aveiro","Centro",-8.575975,40.441028
