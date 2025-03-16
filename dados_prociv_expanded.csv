@@ -1,15 +1,14 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
+25093605,"Alcobaça e Vestiaria","Oeste",311,"2025-03-16T07:03:00",25093605,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-03-16T07:03:00","Alcobaça","Leiria","Centro",-8.997577,39.554251
+25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
+25092548,"Arruda Dos Vinhos","Oeste",311,"2025-03-15T20:16:00",25092548,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,2,0,3,"2025-03-15T20:16:00","Arruda Dos Vinhos","Lisboa","Centro",-9.075983,38.983497
+25093634,"Condeixa-a-Velha e Condeixa-a-Nova","Região de Coimbra",310,"2025-03-16T07:15:00",25093634,"Em resolução","2407","Despiste",0,2,0,5,"2025-03-16T07:15:00","Condeixa-a-Nova","Coimbra","Centro",-8.478524,40.100536
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
+25093720,"Olhão","Algarve",313,"2025-03-16T07:49:00",25093720,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-03-16T07:49:00","Olhão","Faro","Algarve",-7.843133,37.022054
 25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25093626,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2025-03-16T07:10:00",25093626,"Em conclusão","2407","Despiste",0,3,0,6,"2025-03-16T07:10:00","Aljustrel","Beja","Alentejo",-8.154105,37.873585
-25093660,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu","Região de Coimbra",310,"2025-03-16T07:35:00",25093660,"Em conclusão","2407","Despiste",0,6,0,19,"2025-03-16T07:35:00","Coimbra","Coimbra","Centro",-8.45955,40.23824
 25093757,"Arcos","Alentejo Central",312,"2025-03-16T08:09:00",25093757,"Em resolução","2407","Despiste",0,1,0,2,"2025-03-16T08:09:00","Estremoz","Évora","Alentejo",-7.503707,38.823315
-25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
-25093605,"Alcobaça e Vestiaria","Oeste",311,"2025-03-16T07:03:00",25093605,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-03-16T07:03:00","Alcobaça","Leiria","Centro",-8.997577,39.554251
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25087870,"Luzianes-Gare","Alentejo Litoral",312,"2025-03-14T18:49:00",25087870,"Em despacho","3313","Deslizamento de terras",0,1,0,1,"2025-03-14T18:49:00","Odemira","Beja","Alentejo",-8.48633,37.589522
-25093720,"Olhão","Algarve",313,"2025-03-16T07:49:00",25093720,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-03-16T07:49:00","Olhão","Faro","Algarve",-7.843133,37.022054
-25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
-25092548,"Arruda Dos Vinhos","Oeste",311,"2025-03-15T20:16:00",25092548,"Em curso","3315","Inundação de estruturas por precipitação intensa",0,2,0,3,"2025-03-15T20:16:00","Arruda Dos Vinhos","Lisboa","Centro",-9.075983,38.983497
-25093634,"Condeixa-a-Velha e Condeixa-a-Nova","Região de Coimbra",310,"2025-03-16T07:15:00",25093634,"Em resolução","2407","Despiste",0,2,0,5,"2025-03-16T07:15:00","Condeixa-a-Nova","Coimbra","Centro",-8.478524,40.100536
