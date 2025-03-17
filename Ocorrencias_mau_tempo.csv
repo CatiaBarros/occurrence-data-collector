@@ -11,8 +11,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25096986,São Teotónio,Alentejo Litoral,312,2025-03-16T22:54:00Z,25096986,Em resolução,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-16T22:54:00Z,Odemira,Beja,Alentejo,-8.803445,37.599856
 25098071,São Salvador e Santa Maria,Alentejo Litoral,312,2025-03-17T08:31:00Z,25098071,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-17T08:31:00Z,Odemira,Beja,Alentejo,-8.650536,37.594321
 25098253,Brinches,Baixo Alentejo,312,2025-03-17T09:24:00Z,25098253,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-17T09:24:00Z,Serpa,Beja,Alentejo,-7.604525,38.039347
-25099289,Brinches,Baixo Alentejo,312,2025-03-17T12:25:00Z,25099289,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,5,2025-03-17T12:25:00Z,Serpa,Beja,Alentejo,-7.611956,37.998304
-25099339,Gáfete,Alto Alentejo,312,2025-03-17T12:38:00Z,25099339,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-17T12:38:00Z,Crato,Portalegre,Alentejo,-7.683769,39.407998
+25099289,Brinches,Baixo Alentejo,312,2025-03-17T12:25:00Z,25099289,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-17T12:25:00Z,Serpa,Beja,Alentejo,-7.610817,38.000032
+25099339,Gáfete,Alto Alentejo,312,2025-03-17T12:38:00Z,25099339,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-17T12:38:00Z,Crato,Portalegre,Alentejo,-7.679612,39.410657
+25099423,Miragaia e Marteleira,Oeste,311,2025-03-17T12:35:00Z,25099423,Em despacho,3313,Deslizamento de terras,0,1,0,4,2025-03-17T12:35:00Z,Lourinhã,Lisboa,Centro,-9.2768,39.198772
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,3,0,5,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
 25098142,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-03-17T09:00:00Z,25098142,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-17T09:00:00Z,Évora,Évora,Alentejo,-7.918509,38.549701
 25098426,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-17T09:56:00Z,25098426,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-17T09:56:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
+25099419,Odeceixe,Algarve,313,2025-03-17T12:52:00Z,25099419,Em despacho,3313,Deslizamento de terras,0,2,0,2,2025-03-17T12:52:00Z,Aljezur,Faro,Algarve,-8.729266,37.38582
