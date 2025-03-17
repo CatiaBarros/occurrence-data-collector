@@ -1,4 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
+25100453,Alpiarça,Lezíria do Tejo,311,2025-03-17T16:03:00Z,25100453,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,3,0,5,2025-03-17T16:03:00Z,Alpiarça,Santarém,Alentejo,-8.595402,39.262022
+25100688,Silves,Algarve,313,2025-03-17T16:50:00Z,25100688,Em curso,1103,Vento forte,0,0,0,0,2025-03-17T16:50:00Z,Silves,Faro,Algarve,-8.397682,37.214183
+25100734,Monchique,Algarve,313,2025-03-17T16:41:00Z,25100734,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-17T16:41:00Z,Monchique,Faro,Algarve,-8.593188,37.290921
+25100837,Alvor,Algarve,313,2025-03-17T17:11:00Z,25100837,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-17T17:11:00Z,Portimão,Faro,Algarve,-8.5944680000000009,37.131433
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
@@ -6,13 +11,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25100444,Serra D'El-Rei,Oeste,311,2025-03-17T16:01:00Z,25100444,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-17T16:01:00Z,Peniche,Leiria,Centro,-9.27897,39.332052
 25100544,Olhão,Algarve,313,2025-03-17T16:25:00Z,25100544,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-17T16:25:00Z,Olhão,Faro,Algarve,-7.83762,37.02928
 25100576,Portimão,Algarve,313,2025-03-17T16:25:00Z,25100576,Em conclusão,3311,Queda de elementos de estruturas edificados,0,3,0,7,2025-03-17T16:25:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
-25100595,Silves,Algarve,313,2025-03-17T16:35:00Z,25100595,Em curso,3311,Queda de elementos de estruturas edificados,0,3,0,9,2025-03-17T16:35:00Z,Silves,Faro,Algarve,-8.39753,37.21412
-25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
-25100453,Alpiarça,Lezíria do Tejo,311,2025-03-17T16:03:00Z,25100453,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,3,0,5,2025-03-17T16:03:00Z,Alpiarça,Santarém,Alentejo,-8.595402,39.262022
-25100688,Silves,Algarve,313,2025-03-17T16:50:00Z,25100688,Em curso,1103,Vento forte,0,0,0,0,2025-03-17T16:50:00Z,Silves,Faro,Algarve,-8.407961,37.21491
-25100734,Monchique,Algarve,313,2025-03-17T16:41:00Z,25100734,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-17T16:41:00Z,Monchique,Faro,Algarve,-8.593188,37.290921
-25100837,Alvor,Algarve,313,2025-03-17T17:11:00Z,25100837,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-17T17:11:00Z,Portimão,Faro,Algarve,-8.5944680000000009,37.131433
-25100827,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-03-17T17:20:00Z,25100827,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-17T17:20:00Z,Évora,Évora,Alentejo,-7.909364,38.560124
+25100595,Porches,Algarve,313,2025-03-17T16:35:00Z,25100595,Em curso,3311,Queda de elementos de estruturas edificados,0,4,0,11,2025-03-17T16:35:00Z,Silves,Faro,Algarve,-8.397682,37.214183
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,2,0,4,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
 25098142,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-03-17T09:00:00Z,25098142,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-17T09:00:00Z,Évora,Évora,Alentejo,-7.918509,38.549701
 25099571,São Bartolomeu Dos Galegos e Moledo,Oeste,311,2025-03-17T13:24:00Z,25099571,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,8,2025-03-17T13:24:00Z,Lourinhã,Lisboa,Centro,-9.285243,39.29773
@@ -22,6 +21,8 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25087870,Luzianes-Gare,Alentejo Litoral,312,2025-03-14T18:49:00Z,25087870,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-14T18:49:00Z,Odemira,Beja,Alentejo,-8.48633,37.589522
 25096664,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-16T20:53:00Z,25096664,Em resolução,1101,Cheia,0,1,0,1,2025-03-16T20:53:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.390827,38.447443
 25099379,Sagres,Algarve,313,2025-03-17T12:49:00Z,25099379,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-17T12:49:00Z,Vila Do Bispo,Faro,Algarve,-8.944832,37.036479
-25100841,Portimão,Algarve,313,2025-03-17T17:11:00Z,25100841,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-17T17:11:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
 25100722,Estômbar e Parchal,Algarve,313,2025-03-17T16:48:00Z,25100722,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-17T16:48:00Z,Lagoa,Faro,Algarve,-8.517968,37.136212
 25100783,Colares,Grande Lisboa,311,2025-03-17T17:05:00Z,25100783,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-17T17:05:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.460456,38.807712
+25100841,Portimão,Algarve,313,2025-03-17T17:11:00Z,25100841,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-17T17:11:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
+25100859,Mexilhoeira Grande,Algarve,313,2025-03-17T17:06:00Z,25100859,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-17T17:06:00Z,Portimão,Faro,Algarve,-8.604782,37.161127
+25100827,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-03-17T17:20:00Z,25100827,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-17T17:20:00Z,Évora,Évora,Alentejo,-7.918982,38.564512
