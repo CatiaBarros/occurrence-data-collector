@@ -1,4 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,1,0,2,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
+25098401,"Souto da Carpalhosa e Ortigosa","Região de Leiria",310,"2025-03-17T09:54:00",25098401,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-03-17T09:54:00","Leiria","Leiria","Centro",-8.812813,39.841248
+25102404,"Massamá e Monte Abraão","Grande Lisboa",311,"2025-03-18T04:00:00",25102404,"Em conclusão","3325","Dano na rede de abastecimento de gás",0,2,0,3,"2025-03-18T04:00:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.279446,38.75391
 25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em curso","1101","Cheia",0,1,0,2,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
@@ -9,6 +12,3 @@
 25102035,"Mértola","Baixo Alentejo",312,"2025-03-17T23:15:00",25102035,"Em curso","3311","Queda de elementos de estruturas edificados",0,0,0,0,"2025-03-17T23:15:00","Mértola","Beja","Alentejo",-7.6591,37.641033
 25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
 25101670,"Vila Velha de Ródão","Beira Baixa",310,"2025-03-17T20:45:00",25101670,"Em resolução","2413","Abalroamento ferroviário",0,7,0,10,"2025-03-17T20:45:00","Vila Velha De Ródão","Castelo Branco","Centro",-7.678338,39.647667
-25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,1,0,2,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
-25098401,"Souto da Carpalhosa e Ortigosa","Região de Leiria",310,"2025-03-17T09:54:00",25098401,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-03-17T09:54:00","Leiria","Leiria","Centro",-8.812813,39.841248
-25102404,"Massamá e Monte Abraão","Grande Lisboa",311,"2025-03-18T04:00:00",25102404,"Em conclusão","3325","Dano na rede de abastecimento de gás",0,4,0,10,"2025-03-18T04:00:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.279446,38.75391
