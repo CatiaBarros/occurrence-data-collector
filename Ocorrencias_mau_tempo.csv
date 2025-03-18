@@ -7,8 +7,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25087870,Luzianes-Gare,Alentejo Litoral,312,2025-03-14T18:49:00Z,25087870,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-14T18:49:00Z,Odemira,Beja,Alentejo,-8.48633,37.589522
 25096664,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-16T20:53:00Z,25096664,Em resolução,1101,Cheia,0,1,0,1,2025-03-16T20:53:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.390827,38.447443
-25106245,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-18T20:23:00Z,25106245,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-03-18T20:23:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.173069,38.677312
 25106290,Lagoa e Carvoeiro,Algarve,313,2025-03-18T20:43:00Z,25106290,Em curso,3313,Deslizamento de terras,0,1,0,4,2025-03-18T20:43:00Z,Lagoa,Faro,Algarve,-8.443293,37.115531
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25106217,Pampilhosa da Serra,Região de Coimbra,310,2025-03-18T20:14:00Z,25106217,Em resolução,3313,Deslizamento de terras,0,3,0,6,2025-03-18T20:14:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.973746,40.045515
-25106267,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-03-18T20:39:00Z,25106267,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-03-18T20:39:00Z,Covilhã,Castelo Branco,Centro,-7.498188,40.27714
+25106267,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-03-18T20:39:00Z,25106267,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-18T20:39:00Z,Covilhã,Castelo Branco,Centro,-7.498188,40.27714
