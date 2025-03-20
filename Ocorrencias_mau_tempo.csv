@@ -12,7 +12,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25112974,Corroios,Península de Setúbal,311,2025-03-20T01:04:00Z,25112974,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:04:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.1683,38.62225
 25113022,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:10:00Z,25113022,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:10:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.3408,38.73652
 25113042,Oliveira do Hospital e São Paio de Gramaços,Região de Coimbra,310,2025-03-20T01:10:00Z,25113042,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-03-20T01:10:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.849022,40.355133
-25113047,Corroios,Península de Setúbal,311,2025-03-20T01:13:00Z,25113047,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:13:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.16166,38.61952
 25113076,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:15:00Z,25113076,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:15:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40634,38.72382
 25113090,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-03-20T01:16:00Z,25113090,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:16:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.02855,38.9405
 25113101,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:18:00Z,25113101,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:18:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17264,38.5926
@@ -31,18 +30,18 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113331,Almoster,Lezíria do Tejo,311,2025-03-20T01:41:00Z,25113331,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:41:00Z,Santarém,Santarém,Alentejo,-8.867038,39.241897
 25113333,Mina de Água,Grande Lisboa,311,2025-03-20T01:41:00Z,25113333,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:41:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.24209,38.77874
 25113358,Vale de Cavalos,Lezíria do Tejo,311,2025-03-20T01:42:00Z,25113358,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T01:42:00Z,Chamusca,Santarém,Alentejo,-8.516783,39.292933
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25112462,Costa da Caparica,Península de Setúbal,311,2025-03-19T23:45:00Z,25112462,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-19T23:45:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.227696,38.642583
+25112466,Colares,Grande Lisboa,311,2025-03-19T23:50:00Z,25112466,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,7,2025-03-19T23:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.470171,38.782676
+25112539,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-20T00:02:00Z,25112539,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-20T00:02:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.297507,38.825783
+25112564,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T00:13:00Z,25112564,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:13:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.178229,38.59188
+25112639,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-20T00:23:00Z,25112639,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T00:23:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.90127,38.52768
 25113367,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:45:00Z,25113367,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:45:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17951,38.59582
 25113376,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-03-20T01:45:00Z,25113376,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:45:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.098026,38.83377
 25113399,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T01:47:00Z,25113399,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:47:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
 25113426,Queluz e Belas,Grande Lisboa,311,2025-03-20T01:49:00Z,25113426,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:49:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.27789,38.76549
 25113510,Fernão Ferro,Península de Setúbal,311,2025-03-20T01:59:00Z,25113510,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:59:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.10545,38.57734
 25113515,Rio de Mouro,Grande Lisboa,311,2025-03-20T01:59:00Z,25113515,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:59:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.314418,38.78093
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25112462,Costa da Caparica,Península de Setúbal,311,2025-03-19T23:45:00Z,25112462,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-19T23:45:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.227696,38.642583
-25112466,Colares,Grande Lisboa,311,2025-03-19T23:50:00Z,25112466,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,7,2025-03-19T23:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.470171,38.782676
-25112539,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-20T00:02:00Z,25112539,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-20T00:02:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.297507,38.825783
-25112564,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T00:13:00Z,25112564,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:13:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.178229,38.59188
-25112639,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-20T00:23:00Z,25112639,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T00:23:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.90127,38.52768
 25113599,Alcanede,Lezíria do Tejo,311,2025-03-20T02:07:00Z,25113599,Em resolução,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T02:07:00Z,Santarém,Santarém,Alentejo,-8.80677,39.38777
 25113619,Marmeleira e Assentiz,Lezíria do Tejo,311,2025-03-20T02:13:00Z,25113619,Em despacho,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-20T02:13:00Z,Rio Maior,Santarém,Alentejo,-8.86298,39.25578
 25113769,Quinta do Anjo,Península de Setúbal,311,2025-03-20T02:26:00Z,25113769,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:26:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.9956,38.59028
@@ -52,14 +51,8 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113851,Mina de Água,Grande Lisboa,311,2025-03-20T02:31:00Z,25113851,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:31:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.236908,38.777438
 25113908,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-03-20T02:37:00Z,25113908,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T02:37:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.0987,38.62593
 25113910,Pó,Oeste,311,2025-03-20T02:27:00Z,25113910,Em curso,3301,Queda de árvore,0,3,0,6,2025-03-20T02:27:00Z,Bombarral,Leiria,Centro,-9.214362,39.309208
-25113953,Colares,Grande Lisboa,311,2025-03-20T02:30:00Z,25113953,Em curso,3301,Queda de árvore,0,4,0,10,2025-03-20T02:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.474758,38.77242
+25113953,Colares,Grande Lisboa,311,2025-03-20T02:30:00Z,25113953,Em curso,3301,Queda de árvore,0,5,0,12,2025-03-20T02:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.47026,38.772895
 25114001,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T02:46:00Z,25114001,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:46:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.021503,38.53171
-25114069,Alcabideche,Grande Lisboa,311,2025-03-20T02:52:00Z,25114069,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-20T02:52:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.45321,38.75341
-25114126,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T02:57:00Z,25114126,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:57:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.27078,38.71533
-25114219,Corroios,Península de Setúbal,311,2025-03-20T03:06:00Z,25114219,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:06:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15172,38.57536
-25114260,Midões,Região de Coimbra,310,2025-03-20T03:10:00Z,25114260,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:10:00Z,Tábua,Coimbra,Centro,-7.959948,40.405726
-25114294,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T03:13:00Z,25114294,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T03:13:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.32693,38.69181
-25114337,Romariz,Area M. Porto,309,2025-03-20T03:17:00Z,25114337,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:17:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.46628,40.9398
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em curso,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25112066,Gafanha da Nazaré,Região de Aveiro,310,2025-03-19T22:51:00Z,25112066,Em resolução,3311,Queda de elementos de estruturas edificados,0,0,0,1,2025-03-19T22:51:00Z,Ílhavo,Aveiro,Centro,-8.714699,40.63582
 25112402,Golegã,Lezíria do Tejo,311,2025-03-19T23:46:00Z,25112402,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-19T23:46:00Z,Golegã,Santarém,Alentejo,-8.483135,39.415012
@@ -72,34 +65,55 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25112160,"Guia, Ilha e Mata Mourisca",Região de Leiria,310,2025-03-19T22:25:00Z,25112160,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-19T22:25:00Z,Pombal,Leiria,Centro,-8.753282,39.947593
-25112193,Louriçal,Região de Leiria,310,2025-03-19T23:18:00Z,25112193,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-19T23:18:00Z,Pombal,Leiria,Centro,-8.711387,39.974828
 25112444,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-19T23:45:00Z,25112444,Em curso,3301,Queda de árvore,0,2,0,9,2025-03-19T23:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.414924,38.772191
 25112562,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-20T00:12:00Z,25112562,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T00:12:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.90758,38.52468
 25112595,Maiorca,Região de Coimbra,310,2025-03-20T00:16:00Z,25112595,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T00:16:00Z,Figueira Da Foz,Coimbra,Centro,-8.749227,40.16851
 25112611,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-03-20T00:18:00Z,25112611,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T00:18:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.791365,39.03049
 25112628,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-03-20T00:10:00Z,25112628,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T00:10:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
+25112675,Alhos Vedros,Península de Setúbal,311,2025-03-20T00:28:00Z,25112675,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:28:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.010387,38.63902
+25112721,Quinta do Anjo,Península de Setúbal,311,2025-03-20T00:34:00Z,25112721,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:34:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.950333,38.56405
+25112773,Poceirão e Marateca,Península de Setúbal,311,2025-03-20T00:40:00Z,25112773,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:40:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.76661,38.69349
+25112814,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-03-20T00:44:00Z,25112814,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:44:00Z,Santarém,Santarém,Alentejo,-8.675088,39.23623
+25112875,Palmela,Península de Setúbal,311,2025-03-20T00:52:00Z,25112875,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T00:52:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.87707,38.60478
+25112900,Queluz e Belas,Grande Lisboa,311,2025-03-20T00:50:00Z,25112900,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T00:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.270072,38.779997
+25112984,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T01:06:00Z,25112984,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:06:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.303858,38.70432
+25112998,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:07:00Z,25112998,Em curso,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-20T01:07:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19436,38.64644
+25113023,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-03-20T01:10:00Z,25113023,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T01:10:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.055658,38.87217
+25112821,Queluz e Belas,Grande Lisboa,311,2025-03-20T00:05:00Z,25112821,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T00:05:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.270072,38.779997
+25112835,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T00:47:00Z,25112835,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:47:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.15992,38.67447
+25112887,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T00:53:00Z,25112887,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:53:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.093273,38.47523
+25112936,Pinhal Novo,Península de Setúbal,311,2025-03-20T00:59:00Z,25112936,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T00:59:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.93024,38.60548
+25112987,Quinta do Anjo,Península de Setúbal,311,2025-03-20T01:06:00Z,25112987,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:06:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.94361,38.60282
+25113018,Alcochete,Península de Setúbal,311,2025-03-20T01:10:00Z,25113018,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:10:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.93938,38.73429
+25113052,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:13:00Z,25113052,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:13:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.32533,38.72599
+25113069,Amora,Península de Setúbal,311,2025-03-20T01:15:00Z,25113069,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:15:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.11034,38.62046
+25113085,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-03-20T01:14:00Z,25113085,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:14:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.171619,38.815144
+25114069,Alcabideche,Grande Lisboa,311,2025-03-20T02:52:00Z,25114069,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-20T02:52:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.45321,38.75341
+25114126,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T02:57:00Z,25114126,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:57:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.27078,38.71533
+25114219,Corroios,Península de Setúbal,311,2025-03-20T03:06:00Z,25114219,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:06:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15172,38.57536
+25114260,Midões,Região de Coimbra,310,2025-03-20T03:10:00Z,25114260,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:10:00Z,Tábua,Coimbra,Centro,-7.959948,40.405726
+25114294,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T03:13:00Z,25114294,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T03:13:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.32693,38.69181
+25114337,Romariz,Area M. Porto,309,2025-03-20T03:17:00Z,25114337,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:17:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.46628,40.9398
+25114401,Mértola,Baixo Alentejo,312,2025-03-20T03:17:00Z,25114401,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:17:00Z,Mértola,Beja,Alentejo,-7.720218,37.719977
+25114403,Alvaiázere,Região de Leiria,310,2025-03-20T03:18:00Z,25114403,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:18:00Z,Alvaiázere,Leiria,Centro,-8.400663,39.842672
+25114412,Rio de Mouro,Grande Lisboa,311,2025-03-20T03:24:00Z,25114412,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:24:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.3418,38.78651
+25114444,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:27:00Z,25114444,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:27:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.183841,38.59734
 25112662,Setúbal (São Sebastião),Península de Setúbal,311,2025-03-20T00:27:00Z,25112662,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T00:27:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.86899,38.52164
 25112796,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-20T00:42:00Z,25112796,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T00:42:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.890614,38.52599
 25112829,Bucelas,Grande Lisboa,311,2025-03-20T00:44:00Z,25112829,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-20T00:44:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.121038,38.903857
 25112876,Corroios,Península de Setúbal,311,2025-03-20T00:52:00Z,25112876,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:52:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.157211,38.5818
 25112944,Longueira/Almograve,Alentejo Litoral,312,2025-03-20T00:20:00Z,25112944,Em conclusão,3301,Queda de árvore,0,4,0,9,2025-03-20T00:20:00Z,Odemira,Beja,Alentejo,-8.752532,37.635323
 25113011,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:09:00Z,25113011,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:09:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.398759,38.70391
-25112675,Alhos Vedros,Península de Setúbal,311,2025-03-20T00:28:00Z,25112675,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:28:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.010387,38.63902
-25112680,Samora Correia,Lezíria do Tejo,311,2025-03-20T00:28:00Z,25112680,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-20T00:28:00Z,Benavente,Santarém,Alentejo,-8.890675,38.921796
-25112721,Quinta do Anjo,Península de Setúbal,311,2025-03-20T00:34:00Z,25112721,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:34:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.950333,38.56405
-25112773,Poceirão e Marateca,Península de Setúbal,311,2025-03-20T00:40:00Z,25112773,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:40:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.76661,38.69349
-25112814,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-03-20T00:44:00Z,25112814,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:44:00Z,Santarém,Santarém,Alentejo,-8.675088,39.23623
-25112823,Samora Correia,Lezíria do Tejo,311,2025-03-20T00:46:00Z,25112823,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T00:46:00Z,Benavente,Santarém,Alentejo,-8.87181,38.90654
-25112850,Samora Correia,Lezíria do Tejo,311,2025-03-20T00:49:00Z,25112850,Em despacho,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-20T00:49:00Z,Benavente,Santarém,Alentejo,-8.844734,38.92736
-25112875,Palmela,Península de Setúbal,311,2025-03-20T00:52:00Z,25112875,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T00:52:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.87707,38.60478
-25112900,Queluz e Belas,Grande Lisboa,311,2025-03-20T00:50:00Z,25112900,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T00:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.270072,38.779997
-25112984,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T01:06:00Z,25112984,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:06:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.303858,38.70432
-25114401,Mértola,Baixo Alentejo,312,2025-03-20T03:17:00Z,25114401,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:17:00Z,Mértola,Beja,Alentejo,-7.720218,37.719977
-25114403,Alvaiázere,Região de Leiria,310,2025-03-20T03:18:00Z,25114403,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:18:00Z,Alvaiázere,Leiria,Centro,-8.400663,39.842672
-25114412,Rio de Mouro,Grande Lisboa,311,2025-03-20T03:24:00Z,25114412,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:24:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.3418,38.78651
-25114444,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:27:00Z,25114444,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:27:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.183841,38.59734
-25114471,Mira,Região de Coimbra,310,2025-03-20T03:25:00Z,25114471,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:25:00Z,Mira,Coimbra,Centro,-8.735184,40.415987
+25113012,Cacém e São Marcos,Grande Lisboa,311,2025-03-20T01:09:00Z,25113012,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.3115,38.76819
+25113095,Amora,Península de Setúbal,311,2025-03-20T01:17:00Z,25113095,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:17:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.124338,38.61855
+25113041,Alcabideche,Grande Lisboa,311,2025-03-20T01:12:00Z,25113041,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:12:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.422703,38.72363
+25113064,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-03-20T01:14:00Z,25113064,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:14:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.03587,38.95457
+25113073,Corroios,Península de Setúbal,311,2025-03-20T01:15:00Z,25113073,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T01:15:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15315,38.64089
+25113089,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-20T01:16:00Z,25113089,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:16:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.24059,38.80967
+25113100,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T01:17:00Z,25113100,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:17:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.17306,38.47686
+25113107,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:18:00Z,25113107,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:18:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.177058,38.60883
+25113114,Alpiarça,Lezíria do Tejo,311,2025-03-20T01:15:00Z,25113114,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:15:00Z,Alpiarça,Santarém,Alentejo,-8.595402,39.262022
+25113125,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-03-20T01:20:00Z,25113125,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.03425,38.91567
 25114505,Valada,Lezíria do Tejo,311,2025-03-20T03:33:00Z,25114505,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T03:33:00Z,Cartaxo,Santarém,Alentejo,-8.736603,39.136708
 25114521,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-20T03:17:00Z,25114521,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-20T03:17:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.319754,38.42776
 25114619,Corroios,Península de Setúbal,311,2025-03-20T03:45:00Z,25114619,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.144781,38.65383
@@ -110,60 +124,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25114928,Juncal,Região de Leiria,310,2025-03-20T04:10:00Z,25114928,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-20T04:10:00Z,Porto De Mós,Leiria,Centro,-8.891382,39.63155
 25114944,Adeganha e Cardanha,Douro,309,2025-03-20T04:19:00Z,25114944,Em despacho,3301,Queda de árvore,0,3,0,8,2025-03-20T04:19:00Z,Torre De Moncorvo,Bragança,Norte,-7.09195,41.21715
 25114978,Glória e Vera Cruz,Região de Aveiro,310,2025-03-20T04:12:00Z,25114978,Em curso,3301,Queda de árvore,0,2,0,6,2025-03-20T04:12:00Z,Aveiro,Aveiro,Centro,-8.637882,40.637983
-25115003,Eixo e Eirol,Região de Aveiro,310,2025-03-20T04:25:00Z,25115003,Em curso,3301,Queda de árvore,0,1,0,1,2025-03-20T04:25:00Z,Aveiro,Aveiro,Centro,-8.564536,40.629276
 25115030,Azueira e Sobral da Abelheira,Grande Lisboa,311,2025-03-20T04:31:00Z,25115030,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.291996,39.00547
-25115046,Romariz,Area M. Porto,309,2025-03-20T04:28:00Z,25115046,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:28:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.452556,40.945991
-25115080,Carnaxide e Queijas,Grande Lisboa,311,2025-03-20T04:37:00Z,25115080,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T04:37:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.21979,38.72683
-25115121,Aveleda,Area M. Porto,309,2025-03-20T04:41:00Z,25115121,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T04:41:00Z,Vila Do Conde,Porto,Norte,-8.69431,41.2725
-25115130,Rio de Mouro,Grande Lisboa,311,2025-03-20T04:42:00Z,25115130,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:42:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35842,38.75712
-25112821,Queluz e Belas,Grande Lisboa,311,2025-03-20T00:05:00Z,25112821,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T00:05:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.270072,38.779997
-25112835,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T00:47:00Z,25112835,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:47:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.15992,38.67447
-25112887,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T00:53:00Z,25112887,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T00:53:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.093273,38.47523
-25112936,Pinhal Novo,Península de Setúbal,311,2025-03-20T00:59:00Z,25112936,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T00:59:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.93024,38.60548
-25112987,Quinta do Anjo,Península de Setúbal,311,2025-03-20T01:06:00Z,25112987,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:06:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.94361,38.60282
-25113018,Alcochete,Península de Setúbal,311,2025-03-20T01:10:00Z,25113018,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:10:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.93938,38.73429
-25113052,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:13:00Z,25113052,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:13:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.32533,38.72599
-25113069,Amora,Península de Setúbal,311,2025-03-20T01:15:00Z,25113069,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:15:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.11034,38.62046
-25113085,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-03-20T01:14:00Z,25113085,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:14:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.171619,38.815144
-25113012,Cacém e São Marcos,Grande Lisboa,311,2025-03-20T01:09:00Z,25113012,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.3115,38.76819
-25113026,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:11:00Z,25113026,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:11:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.43197,38.69844
-25113095,Amora,Península de Setúbal,311,2025-03-20T01:17:00Z,25113095,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:17:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.124338,38.61855
-25113145,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-03-20T01:21:00Z,25113145,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:21:00Z,Coruche,Santarém,Alentejo,-8.602737,38.971954
-25113160,Corroios,Península de Setúbal,311,2025-03-20T01:24:00Z,25113160,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:24:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.14678,38.62745
-25113162,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:24:00Z,25113162,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:24:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.3553,38.70397
-25113163,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:18:00Z,25113163,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:18:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.341509,38.701875
-25113177,Amora,Península de Setúbal,311,2025-03-20T01:25:00Z,25113177,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:25:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.11848,38.61897
-25113180,Pena Verde,Viseu Dão Lafões,310,2025-03-20T01:01:00Z,25113180,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T01:01:00Z,Aguiar Da Beira,Guarda,Centro,-7.504589,40.727437
-25115155,Souselo,Tâmega e Sousa,309,2025-03-20T04:40:00Z,25115155,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:40:00Z,Cinfães,Viseu,Norte,-8.255672,41.064951
-25115162,Moita,Região de Leiria,310,2025-03-20T04:39:00Z,25115162,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:39:00Z,Marinha Grande,Leiria,Centro,-8.94346,39.702349
-25115178,Palhais e Coina,Península de Setúbal,311,2025-03-20T04:14:00Z,25115178,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:14:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.043332,38.595522
-25115198,Macieira da Lixa e Caramos,Tâmega e Sousa,309,2025-03-20T04:47:00Z,25115198,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-20T04:47:00Z,Felgueiras,Porto,Norte,-8.154645,41.35135
-25115212,Arcos,Douro,309,2025-03-20T04:55:00Z,25115212,Em despacho,3301,Queda de árvore,0,4,0,8,2025-03-20T04:55:00Z,Tabuaço,Viseu,Norte,-7.571136,41.04228
-25115237,Priscos,Cávado,309,2025-03-20T04:40:00Z,25115237,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:40:00Z,Braga,Braga,Norte,-8.476427,41.4954
-25115248,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-03-20T05:00:00Z,25115248,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T05:00:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.08265,38.62702
-25115255,Amora,Península de Setúbal,311,2025-03-20T05:01:00Z,25115255,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:01:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.13591,38.60274
-25115282,Martinchel,Médio Tejo,311,2025-03-20T05:05:00Z,25115282,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-03-20T05:05:00Z,Abrantes,Santarém,Centro,-8.29941,39.523128
-25115289,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-03-20T05:05:00Z,25115289,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T05:05:00Z,Cartaxo,Santarém,Alentejo,-8.794948,39.166481
-25115296,Rio de Mouro,Grande Lisboa,311,2025-03-20T05:06:00Z,25115296,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:06:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.32604,38.76507
-25115355,Mesão Frio (Santo André),Douro,309,2025-03-20T05:05:00Z,25115355,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-20T05:05:00Z,Mesão Frio,Vila Real,Norte,-7.886501,41.161103
-25115362,Carapeços,Cávado,309,2025-03-20T05:10:00Z,25115362,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:10:00Z,Barcelos,Braga,Norte,-8.649854,41.592582
-25115414,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:46:00Z,25115414,Em curso,3301,Queda de árvore,0,2,0,5,2025-03-20T02:46:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.394403,38.872548
-25115421,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-03-20T05:22:00Z,25115421,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T05:22:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.29796,38.9259
-25115432,Vagos e Santo António,Região de Aveiro,310,2025-03-20T05:10:00Z,25115432,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:10:00Z,Vagos,Aveiro,Centro,-8.697362,40.542253
-25115437,Modivas,Area M. Porto,309,2025-03-20T05:24:00Z,25115437,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:24:00Z,Vila Do Conde,Porto,Norte,-8.686451,41.29132
-25115448,Vilar,Oeste,311,2025-03-20T05:26:00Z,25115448,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:26:00Z,Cadaval,Lisboa,Centro,-9.12176,39.17837
-25115462,Canas de Senhorim,Viseu Dão Lafões,310,2025-03-20T05:27:00Z,25115462,Em curso,3301,Queda de árvore,0,3,0,7,2025-03-20T05:27:00Z,Nelas,Viseu,Centro,-7.896051,40.486662
-25115464,Almancil,Algarve,313,2025-03-20T02:07:00Z,25115464,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T02:07:00Z,Loulé,Faro,Algarve,-8.056598,37.071941
-25115473,Arazede,Região de Coimbra,310,2025-03-20T05:29:00Z,25115473,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:29:00Z,Montemor-o-Velho,Coimbra,Centro,-8.67425,40.25773
-25115482,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-03-20T05:31:00Z,25115482,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.22384,38.91728
-25112998,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:07:00Z,25112998,Em curso,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-20T01:07:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19436,38.64644
-25113023,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-03-20T01:10:00Z,25113023,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T01:10:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.055658,38.87217
-25113041,Alcabideche,Grande Lisboa,311,2025-03-20T01:12:00Z,25113041,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:12:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.422703,38.72363
-25113064,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-03-20T01:14:00Z,25113064,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:14:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.03587,38.95457
-25113073,Corroios,Península de Setúbal,311,2025-03-20T01:15:00Z,25113073,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T01:15:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15315,38.64089
-25113089,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-20T01:16:00Z,25113089,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:16:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.24059,38.80967
-25113100,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T01:17:00Z,25113100,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:17:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.17306,38.47686
-25113107,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:18:00Z,25113107,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:18:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.177058,38.60883
 25113086,Quinta do Conde,Península de Setúbal,311,2025-03-20T01:16:00Z,25113086,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:16:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.04645,38.56296
 25113088,Venteira,Grande Lisboa,311,2025-03-20T01:16:00Z,25113088,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:16:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.23452,38.75815
 25113102,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:18:00Z,25113102,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:18:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17228,38.58738
@@ -173,39 +134,15 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113221,Soure,Região de Coimbra,310,2025-03-20T01:15:00Z,25113221,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T01:15:00Z,Soure,Coimbra,Centro,-8.60866,40.015823
 25113236,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T01:32:00Z,25113236,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:32:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.15908,38.67736
 25113237,Costa da Caparica,Península de Setúbal,311,2025-03-20T01:32:00Z,25113237,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:32:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.23149,38.63755
-25115487,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-03-20T05:21:00Z,25115487,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:21:00Z,Ovar,Aveiro,Centro,-8.535223,40.86441
-25115512,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-03-20T05:30:00Z,25115512,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:30:00Z,Póvoa De Lanhoso,Braga,Norte,-8.26784,41.577971
-25115557,Âncora,Alto Minho,309,2025-03-20T05:12:00Z,25115557,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T05:12:00Z,Caminha,Viana Do Castelo,Norte,-8.852921,41.796416
-25115573,Vimeiro,Oeste,311,2025-03-20T05:21:00Z,25115573,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:21:00Z,Lourinhã,Lisboa,Centro,-9.32046,39.17942
-25115582,São Pedro de France,Viseu Dão Lafões,310,2025-03-20T05:43:00Z,25115582,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:43:00Z,Viseu,Viseu,Centro,-7.78239,40.71977
-25115589,Ferreira de Aves,Viseu Dão Lafões,310,2025-03-20T05:44:00Z,25115589,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:44:00Z,Sátão,Viseu,Centro,-7.667194,40.80845
-25115607,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T05:47:00Z,25115607,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:47:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16378,38.58647
-25115614,Barreiros e Cepões,Viseu Dão Lafões,310,2025-03-20T04:23:00Z,25115614,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:23:00Z,Viseu,Viseu,Centro,-7.816104,40.747415
-25115623,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-03-20T05:48:00Z,25115623,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:48:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.257597,38.706696
-25115630,Asseiceira,Médio Tejo,311,2025-03-20T05:48:00Z,25115630,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T05:48:00Z,Tomar,Santarém,Centro,-8.40641,39.540923
-25115664,Vimeiro,Oeste,311,2025-03-20T05:43:00Z,25115664,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-20T05:43:00Z,Alcobaça,Leiria,Centro,-9.022205,39.478409
-25115673,Alguber,Oeste,311,2025-03-20T05:41:00Z,25115673,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:41:00Z,Cadaval,Lisboa,Centro,-9.020804,39.276666
-25115680,Paialvo,Médio Tejo,311,2025-03-20T05:55:00Z,25115680,Em resolução,3301,Queda de árvore,0,2,0,6,2025-03-20T05:55:00Z,Tomar,Santarém,Centro,-8.440148,39.524562
-25115689,Vermelha,Oeste,311,2025-03-20T05:41:00Z,25115689,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T05:41:00Z,Cadaval,Lisboa,Centro,-9.113389,39.267816
-25115691,Carvalhal Benfeito,Oeste,311,2025-03-20T05:56:00Z,25115691,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T05:56:00Z,Caldas Da Rainha,Leiria,Centro,-9.044987,39.443106
-25115696,Parreira e Chouto,Lezíria do Tejo,311,2025-03-20T05:58:00Z,25115696,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T05:58:00Z,Chamusca,Santarém,Alentejo,-8.327738,39.256475
-25115707,Monforte,Alto Alentejo,312,2025-03-20T06:00:00Z,25115707,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T06:00:00Z,Monforte,Portalegre,Alentejo,-7.514484,39.031169
-25115714,Cesar,Area M. Porto,309,2025-03-20T06:01:00Z,25115714,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:01:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.45053,40.92867
-25115730,Loivos e Póvoa de Agrações,Alto Tâmega e Barroso,309,2025-03-20T06:03:00Z,25115730,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:03:00Z,Chaves,Vila Real,Norte,-7.514424,41.62522
-25115748,Cabeceiras de Basto,Ave,309,2025-03-20T05:55:00Z,25115748,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:55:00Z,Cabeceiras De Basto,Braga,Norte,-8.020499,41.559144
-25115755,São Cristóvão de Nogueira,Tâmega e Sousa,309,2025-03-20T06:05:00Z,25115755,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T06:05:00Z,Cinfães,Viseu,Norte,-8.133131,41.075823
-25115766,Paderne,Alto Minho,309,2025-03-20T06:07:00Z,25115766,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Melgaço,Viana Do Castelo,Norte,-8.282994,42.076029
+25113145,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-03-20T01:21:00Z,25113145,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:21:00Z,Coruche,Santarém,Alentejo,-8.602737,38.971954
+25113160,Corroios,Península de Setúbal,311,2025-03-20T01:24:00Z,25113160,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:24:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.14678,38.62745
+25113162,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:24:00Z,25113162,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:24:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.3553,38.70397
+25113163,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:18:00Z,25113163,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:18:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.341509,38.701875
+25113177,Amora,Península de Setúbal,311,2025-03-20T01:25:00Z,25113177,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:25:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.11848,38.61897
+25113180,Pena Verde,Viseu Dão Lafões,310,2025-03-20T01:01:00Z,25113180,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T01:01:00Z,Aguiar Da Beira,Guarda,Centro,-7.504589,40.727437
 25113194,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-03-20T01:27:00Z,25113194,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:27:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.0484000000000009,38.90376
 25113227,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:31:00Z,25113227,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:31:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.176084,38.58879
 25113229,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:31:00Z,25113229,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:31:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.182356,38.58913
-25113294,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-20T01:37:00Z,25113294,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:37:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.324166,38.79472
-25113313,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-03-20T01:39:00Z,25113313,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:39:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.05384,38.90527
-25113329,Falagueira-Venda Nova,Grande Lisboa,311,2025-03-20T01:40:00Z,25113329,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:40:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.223747,38.760622
-25113330,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:40:00Z,25113330,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:40:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.398759,38.70391
-25113346,Soure,Região de Coimbra,310,2025-03-20T01:42:00Z,25113346,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T01:42:00Z,Soure,Coimbra,Centro,-8.639406,40.055319
-25113430,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:50:00Z,25113430,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:50:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1789,38.60783
-25113114,Alpiarça,Lezíria do Tejo,311,2025-03-20T01:15:00Z,25113114,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:15:00Z,Alpiarça,Santarém,Alentejo,-8.595402,39.262022
-25113125,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-03-20T01:20:00Z,25113125,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.03425,38.91567
 25113148,Soure,Região de Coimbra,310,2025-03-20T00:46:00Z,25113148,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T00:46:00Z,Soure,Coimbra,Centro,-8.613421,40.026611
 25113173,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:25:00Z,25113173,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:25:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18059,38.59585
 25113198,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:27:00Z,25113198,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:27:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18368,38.58977
@@ -213,67 +150,27 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113241,Odivelas,Grande Lisboa,311,2025-03-20T01:32:00Z,25113241,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:32:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.17906,38.78882
 25113243,Odivelas,Grande Lisboa,311,2025-03-20T01:32:00Z,25113243,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:32:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.17332,38.79666
 25113266,Marinhais,Lezíria do Tejo,311,2025-03-20T01:33:00Z,25113266,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T01:33:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.697218,39.037103
-25113444,Carnota,Oeste,311,2025-03-20T01:40:00Z,25113444,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-20T01:40:00Z,Alenquer,Lisboa,Centro,-9.046712,39.040476
-25113461,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T01:54:00Z,25113461,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:54:00Z,Beja,Beja,Alentejo,-7.86754,38.00967
-25113462,Carregal do Sal,Viseu Dão Lafões,310,2025-03-20T01:52:00Z,25113462,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-20T01:52:00Z,Carregal Do Sal,Viseu,Centro,-7.999939,40.437298
-25113463,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T01:54:00Z,25113463,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:54:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1648,38.67804
-25113464,Soure,Região de Coimbra,310,2025-03-20T01:50:00Z,25113464,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-03-20T01:50:00Z,Soure,Coimbra,Centro,-8.639406,40.055319
-25113480,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:55:00Z,25113480,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:55:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.34564,38.69702
-25113498,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:58:00Z,25113498,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:58:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18074,38.58747
-25113512,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:59:00Z,25113512,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40005,38.71162
-25113513,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:59:00Z,25113513,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T01:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.38034,38.70228
-25115782,Alcabideche,Grande Lisboa,311,2025-03-20T05:57:00Z,25115782,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:57:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.430066,38.718879
-25115789,Touro,Viseu Dão Lafões,310,2025-03-20T06:07:00Z,25115789,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Vila Nova De Paiva,Viseu,Centro,-7.748647,40.895095
-25115798,Alvorninha,Oeste,311,2025-03-20T06:10:00Z,25115798,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:10:00Z,Caldas Da Rainha,Leiria,Centro,-9.044306,39.390872
-25115800,Alcabideche,Grande Lisboa,311,2025-03-20T06:01:00Z,25115800,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.402781,38.736294
-25115805,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-03-20T05:52:00Z,25115805,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:52:00Z,Matosinhos,Porto,Norte,-8.630369,41.188957
-25115814,Lanheses,Alto Minho,309,2025-03-20T06:06:00Z,25115814,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:06:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.686926,41.746459
-25115816,Martim Longo,Algarve,313,2025-03-20T05:25:00Z,25115816,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:25:00Z,Alcoutim,Faro,Algarve,-7.774862,37.44085
-25115830,Ceira,Região de Coimbra,310,2025-03-20T05:56:00Z,25115830,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:56:00Z,Miranda Do Corvo,Coimbra,Centro,-8.362499,40.181047
-25115832,Ventosa,Oeste,311,2025-03-20T06:10:00Z,25115832,Em despacho,3301,Queda de árvore,0,2,0,2,2025-03-20T06:10:00Z,Alenquer,Lisboa,Centro,-9.126353,39.119089
-25115839,Antas e Abade de Vermoim,Ave,309,2025-03-20T06:04:00Z,25115839,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-03-20T06:04:00Z,Vila Nova De Famalicão,Braga,Norte,-8.505134,41.399124
-25115841,Carnaxide e Queijas,Grande Lisboa,311,2025-03-20T06:05:00Z,25115841,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:05:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.25881,38.722457
-25115848,Azambuja,Lezíria do Tejo,311,2025-03-20T06:17:00Z,25115848,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-03-20T06:17:00Z,Azambuja,Lisboa,Alentejo,-8.902594,39.064036
-25115855,"Torres Novas (São Pedro), Lapas e Ribeira Branca",Médio Tejo,311,2025-03-20T06:18:00Z,25115855,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-20T06:18:00Z,Torres Novas,Santarém,Centro,-8.551616,39.496371
-25115864,Venteira,Grande Lisboa,311,2025-03-20T06:20:00Z,25115864,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:20:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.23751,38.74258
-25115873,Sertã,Beira Baixa,310,2025-03-20T06:13:00Z,25115873,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T06:13:00Z,Sertã,Castelo Branco,Centro,-8.079347,39.865488
-25115880,Portela do Fojo-Machio,Região de Coimbra,310,2025-03-20T06:21:00Z,25115880,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:21:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.99429,40.00474
-25115882,Palmeira de Faro e Curvos,Cávado,309,2025-03-20T06:21:00Z,25115882,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:21:00Z,Esposende,Braga,Norte,-8.738948,41.549993
-25115889,Roliça,Oeste,311,2025-03-20T06:11:00Z,25115889,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:11:00Z,Bombarral,Leiria,Centro,-9.176338,39.293388
-25115891,"Britelo, Gémeos e Ourilhe",Tâmega e Sousa,309,2025-03-20T06:00:00Z,25115891,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:00:00Z,Celorico De Basto,Braga,Norte,-8.015594,41.393423
-25115900,Falagueira-Venda Nova,Grande Lisboa,311,2025-03-20T06:24:00Z,25115900,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:24:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.22461,38.75611
-25115907,"Seia, São Romão e Lapa Dos Dinheiros",Beiras e Serra da Estrela,310,2025-03-20T05:50:00Z,25115907,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:50:00Z,Seia,Guarda,Centro,-7.683032,40.41759
 25113275,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:35:00Z,25113275,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:35:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17436,38.59079
 25113332,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:41:00Z,25113332,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:41:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18218,38.59689
-25113382,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-03-20T01:46:00Z,25113382,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:46:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.12403,38.86915
-25113393,Alfragide,Grande Lisboa,311,2025-03-20T01:46:00Z,25113393,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:46:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
-25113416,Vila Franca de Xira,Grande Lisboa,311,2025-03-20T01:49:00Z,25113416,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:49:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.99117,38.95186
-25113425,Carcavelos e Parede,Grande Lisboa,311,2025-03-20T01:49:00Z,25113425,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:49:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.337574,38.688343
-25113434,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-03-20T01:50:00Z,25113434,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:50:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.08101,38.61963
-25113441,Casal de Cambra,Grande Lisboa,311,2025-03-20T01:51:00Z,25113441,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:51:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.22849,38.801
-25113466,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T01:54:00Z,25113466,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:54:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.01947,38.5205
-25113482,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T01:54:00Z,25113482,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:54:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.436253,38.869236
-25113516,Samora Correia,Lezíria do Tejo,311,2025-03-20T00:53:00Z,25113516,Em curso,3309,Desabamento de estruturas edificadas,0,0,0,0,2025-03-20T00:53:00Z,Benavente,Santarém,Alentejo,-8.868908,38.935447
-25113527,Fernão Ferro,Península de Setúbal,311,2025-03-20T02:01:00Z,25113527,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:01:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.09935,38.56798
-25113616,"Enxara do Bispo, Gradil e Vila Franca do Rosário",Grande Lisboa,311,2025-03-20T01:30:00Z,25113616,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:30:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.260847,38.962848
-25113650,Carcavelos e Parede,Grande Lisboa,311,2025-03-20T02:12:00Z,25113650,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:12:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.325114,38.69928
-25113686,Alpiarça,Lezíria do Tejo,311,2025-03-20T02:17:00Z,25113686,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-20T02:17:00Z,Alpiarça,Santarém,Alentejo,-8.57695,39.25462
-25113700,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:19:00Z,25113700,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T02:19:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.39833,38.92588
-25113741,Carregal do Sal,Viseu Dão Lafões,310,2025-03-20T02:17:00Z,25113741,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-03-20T02:17:00Z,Carregal Do Sal,Viseu,Centro,-7.999939,40.437298
-25113768,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:26:00Z,25113768,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:26:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.41128,38.85702
-25113866,Bensafrim e Barão de São João,Algarve,313,2025-03-20T01:30:00Z,25113866,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T01:30:00Z,Lagos,Faro,Algarve,-8.733104,37.158743
-25113875,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:35:00Z,25113875,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T02:35:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17345,38.58643
-25113911,Sapataria,Oeste,311,2025-03-20T02:15:00Z,25113911,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T02:15:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.198053,38.966232
-25113927,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T02:38:00Z,25113927,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:38:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16689,38.67327
-25113968,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T01:55:00Z,25113968,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T01:55:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
-25113970,Pontinha e Famões,Grande Lisboa,311,2025-03-20T02:43:00Z,25113970,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-20T02:43:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.19871,38.76359
-25113993,Corroios,Península de Setúbal,311,2025-03-20T02:45:00Z,25113993,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.1512,38.58007
-25113995,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T02:45:00Z,25113995,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:45:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.272,38.70125
-25115914,Lavos,Região de Coimbra,310,2025-03-20T06:26:00Z,25115914,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T06:26:00Z,Figueira Da Foz,Coimbra,Centro,-8.874025,40.09146
-25115930,Travanca,Tâmega e Sousa,309,2025-03-20T06:25:00Z,25115930,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:25:00Z,Amarante,Porto,Norte,-8.191621,41.278404
-25115932,Barcarena,Grande Lisboa,311,2025-03-20T06:28:00Z,25115932,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T06:28:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.28434,38.73876
-25115939,Benfica do Ribatejo,Lezíria do Tejo,311,2025-03-20T06:28:00Z,25115939,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:28:00Z,Almeirim,Santarém,Alentejo,-8.688346,39.147223
-25115955,Ermidas-Sado,Alentejo Litoral,312,2025-03-20T06:30:00Z,25115955,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:30:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.381269,37.997922
+25113294,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-20T01:37:00Z,25113294,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:37:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.324166,38.79472
+25113313,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-03-20T01:39:00Z,25113313,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:39:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.05384,38.90527
+25113329,Falagueira-Venda Nova,Grande Lisboa,311,2025-03-20T01:40:00Z,25113329,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:40:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.223747,38.760622
+25113330,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:40:00Z,25113330,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:40:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.398759,38.70391
+25113346,Soure,Região de Coimbra,310,2025-03-20T01:42:00Z,25113346,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T01:42:00Z,Soure,Coimbra,Centro,-8.639406,40.055319
+25113430,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:50:00Z,25113430,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:50:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1789,38.60783
+25113444,Carnota,Oeste,311,2025-03-20T01:40:00Z,25113444,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-20T01:40:00Z,Alenquer,Lisboa,Centro,-9.046712,39.040476
+25113461,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T01:54:00Z,25113461,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T01:54:00Z,Beja,Beja,Alentejo,-7.86754,38.00967
+25113462,Carregal do Sal,Viseu Dão Lafões,310,2025-03-20T01:52:00Z,25113462,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-20T01:52:00Z,Carregal Do Sal,Viseu,Centro,-7.999939,40.437298
+25115080,Carnaxide e Queijas,Grande Lisboa,311,2025-03-20T04:37:00Z,25115080,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T04:37:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.21979,38.72683
+25115121,Aveleda,Area M. Porto,309,2025-03-20T04:41:00Z,25115121,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T04:41:00Z,Vila Do Conde,Porto,Norte,-8.69431,41.2725
+25115130,Rio de Mouro,Grande Lisboa,311,2025-03-20T04:42:00Z,25115130,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:42:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35842,38.75712
+25115162,Moita,Região de Leiria,310,2025-03-20T04:39:00Z,25115162,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:39:00Z,Marinha Grande,Leiria,Centro,-8.94346,39.702349
+25115178,Palhais e Coina,Península de Setúbal,311,2025-03-20T04:14:00Z,25115178,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:14:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.043332,38.595522
+25115198,Macieira da Lixa e Caramos,Tâmega e Sousa,309,2025-03-20T04:47:00Z,25115198,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-20T04:47:00Z,Felgueiras,Porto,Norte,-8.154645,41.35135
+25115212,Arcos,Douro,309,2025-03-20T04:55:00Z,25115212,Em despacho,3301,Queda de árvore,0,4,0,8,2025-03-20T04:55:00Z,Tabuaço,Viseu,Norte,-7.571136,41.04228
+25115237,Priscos,Cávado,309,2025-03-20T04:40:00Z,25115237,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:40:00Z,Braga,Braga,Norte,-8.476427,41.4954
+25115248,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-03-20T05:00:00Z,25115248,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T05:00:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.08265,38.62702
+25115255,Amora,Península de Setúbal,311,2025-03-20T05:01:00Z,25115255,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:01:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.13591,38.60274
 25113252,Venteira,Grande Lisboa,311,2025-03-20T01:33:00Z,25113252,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:33:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.23969,38.75664
 25113270,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:34:00Z,25113270,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:34:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17811,38.58586
 25113288,"N. S. da Vila, N. S. do Bispo e Silveiras",Alentejo Central,312,2025-03-20T01:20:00Z,25113288,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T01:20:00Z,Montemor-o-Novo,Évora,Alentejo,-8.21652,38.662575
@@ -283,25 +180,33 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113386,Alpiarça,Lezíria do Tejo,311,2025-03-20T01:46:00Z,25113386,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:46:00Z,Alpiarça,Santarém,Alentejo,-8.595402,39.262022
 25113421,Igreja Nova e Cheleiros,Grande Lisboa,311,2025-03-20T01:49:00Z,25113421,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:49:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.310799,38.93288
 25113436,Fernão Ferro,Península de Setúbal,311,2025-03-20T01:51:00Z,25113436,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:51:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.09578,38.55292
+25113382,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-03-20T01:46:00Z,25113382,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:46:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.12403,38.86915
+25113393,Alfragide,Grande Lisboa,311,2025-03-20T01:46:00Z,25113393,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:46:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
+25113416,Vila Franca de Xira,Grande Lisboa,311,2025-03-20T01:49:00Z,25113416,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:49:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.99117,38.95186
+25113425,Carcavelos e Parede,Grande Lisboa,311,2025-03-20T01:49:00Z,25113425,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:49:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.337574,38.688343
+25113434,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-03-20T01:50:00Z,25113434,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:50:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.08101,38.61963
+25113441,Casal de Cambra,Grande Lisboa,311,2025-03-20T01:51:00Z,25113441,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:51:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.22849,38.801
+25113466,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T01:54:00Z,25113466,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:54:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.01947,38.5205
+25113482,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T01:54:00Z,25113482,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:54:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.436253,38.869236
+25115289,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-03-20T05:05:00Z,25115289,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T05:05:00Z,Cartaxo,Santarém,Alentejo,-8.794948,39.166481
+25115355,Mesão Frio (Santo André),Douro,309,2025-03-20T05:05:00Z,25115355,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-20T05:05:00Z,Mesão Frio,Vila Real,Norte,-7.886501,41.161103
+25115414,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:46:00Z,25115414,Em curso,3301,Queda de árvore,0,3,0,7,2025-03-20T02:46:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.383123,38.911462
+25115421,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-03-20T05:22:00Z,25115421,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T05:22:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.29796,38.9259
+25115448,Vilar,Oeste,311,2025-03-20T05:26:00Z,25115448,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:26:00Z,Cadaval,Lisboa,Centro,-9.12176,39.17837
+25115462,Canas de Senhorim,Viseu Dão Lafões,310,2025-03-20T05:27:00Z,25115462,Em curso,3301,Queda de árvore,0,3,0,7,2025-03-20T05:27:00Z,Nelas,Viseu,Centro,-7.896051,40.486662
+25115473,Arazede,Região de Coimbra,310,2025-03-20T05:29:00Z,25115473,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:29:00Z,Montemor-o-Velho,Coimbra,Centro,-8.67425,40.25773
+25115482,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-03-20T05:31:00Z,25115482,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.22384,38.91728
+25115512,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-03-20T05:30:00Z,25115512,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:30:00Z,Póvoa De Lanhoso,Braga,Norte,-8.26784,41.577971
+25115557,Âncora,Alto Minho,309,2025-03-20T05:12:00Z,25115557,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T05:12:00Z,Caminha,Viana Do Castelo,Norte,-8.852921,41.796416
+25113463,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T01:54:00Z,25113463,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T01:54:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1648,38.67804
+25113464,Soure,Região de Coimbra,310,2025-03-20T01:50:00Z,25113464,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-03-20T01:50:00Z,Soure,Coimbra,Centro,-8.639406,40.055319
+25113480,São Domingos de Rana,Grande Lisboa,311,2025-03-20T01:55:00Z,25113480,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:55:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.34564,38.69702
+25113498,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:58:00Z,25113498,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:58:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18074,38.58747
+25113512,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:59:00Z,25113512,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40005,38.71162
+25113513,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:59:00Z,25113513,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T01:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.38034,38.70228
 25113545,Loures,Grande Lisboa,311,2025-03-20T02:02:00Z,25113545,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.19531,38.81873
 25113548,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:03:00Z,25113548,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:03:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16587,38.58978
-25113563,Redinha,Região de Leiria,310,2025-03-20T02:00:00Z,25113563,Em despacho,3301,Queda de árvore,0,3,0,4,2025-03-20T02:00:00Z,Pombal,Leiria,Centro,-8.589806,39.998788
 25113579,Alfragide,Grande Lisboa,311,2025-03-20T02:05:00Z,25113579,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T02:05:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
-25113645,Rio de Mouro,Grande Lisboa,311,2025-03-20T02:13:00Z,25113645,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:13:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.31947,38.78611
-25113664,Alpiarça,Lezíria do Tejo,311,2025-03-20T02:14:00Z,25113664,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T02:14:00Z,Alpiarça,Santarém,Alentejo,-8.578037,39.247197
-25113679,Cascais e Estoril,Grande Lisboa,311,2025-03-20T02:16:00Z,25113679,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:16:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.39155,38.70828
-25113680,Baleizão,Baixo Alentejo,312,2025-03-20T02:02:00Z,25113680,Em curso,3301,Queda de árvore,0,1,0,1,2025-03-20T02:02:00Z,Beja,Beja,Alentejo,-7.753497,38.025243
-25113746,Falagueira-Venda Nova,Grande Lisboa,311,2025-03-20T02:23:00Z,25113746,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:23:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.22883,38.76062
-25113762,Miragaia e Marteleira,Oeste,311,2025-03-20T02:00:00Z,25113762,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:00:00Z,Lourinhã,Lisboa,Centro,-9.262811,39.23688
-25114000,Aguiar da Beira e Coruche,Viseu Dão Lafões,310,2025-03-20T02:42:00Z,25114000,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T02:42:00Z,Aguiar Da Beira,Guarda,Centro,-7.565847,40.766682
-25114095,Pinhal Novo,Península de Setúbal,311,2025-03-20T02:30:00Z,25114095,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-20T02:30:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
-25114136,Azambuja,Lezíria do Tejo,311,2025-03-20T02:57:00Z,25114136,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T02:57:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
-25114159,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T03:00:00Z,25114159,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:00:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.29439,38.70243
-25114184,Ramada e Caneças,Grande Lisboa,311,2025-03-20T03:03:00Z,25114184,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:03:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.18865,38.81316
-25114234,Carvalhal,Oeste,311,2025-03-20T03:08:00Z,25114234,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:08:00Z,Bombarral,Leiria,Centro,-9.12731,39.28677
-25114236,Ronfe,Ave,309,2025-03-20T03:08:00Z,25114236,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T03:08:00Z,Guimarães,Braga,Norte,-8.38642,41.44113
-25114284,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-03-20T03:05:00Z,25114284,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:05:00Z,Serpa,Beja,Alentejo,-7.497192,37.804577
-25114293,Lousa,Grande Lisboa,311,2025-03-20T03:13:00Z,25114293,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:13:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.20461,38.88559
 25113437,Covões e Camarneira,Região de Coimbra,310,2025-03-20T01:48:00Z,25113437,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:48:00Z,Cantanhede,Coimbra,Centro,-8.602074,40.443399
 25113455,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:53:00Z,25113455,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:53:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17021,38.57797
 25113470,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:54:00Z,25113470,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:54:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.434008,38.71018
@@ -312,25 +217,26 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113606,"N. S. da Vila, N. S. do Bispo e Silveiras",Alentejo Central,312,2025-03-20T01:45:00Z,25113606,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T01:45:00Z,Montemor-o-Novo,Évora,Alentejo,-8.21652,38.662575
 25113640,Alenquer (Santo Estêvão e Triana),Oeste,311,2025-03-20T02:00:00Z,25113640,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T02:00:00Z,Alenquer,Lisboa,Centro,-8.984619,39.063465
 25113653,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T02:12:00Z,25113653,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:12:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
-25114345,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:17:00Z,25114345,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:17:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17936,38.61397
-25114370,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:20:00Z,25114370,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:20:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17923,38.60275
-25114377,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-03-20T03:21:00Z,25114377,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T03:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.62524,41.13787
-25114395,Corroios,Península de Setúbal,311,2025-03-20T03:23:00Z,25114395,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:23:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.156315,38.57963
-25114429,Almoster,Lezíria do Tejo,311,2025-03-20T03:25:00Z,25114429,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:25:00Z,Santarém,Santarém,Alentejo,-8.795515,39.226827
-25114443,Ericeira,Grande Lisboa,311,2025-03-20T03:27:00Z,25114443,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:27:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.41106,38.95243
-25114511,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-03-20T03:15:00Z,25114511,Em curso,3301,Queda de árvore,0,2,0,9,2025-03-20T03:15:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.080109,38.86006
-25114645,Colmeal e Vilar Torpim,Beiras e Serra da Estrela,310,2025-03-20T03:48:00Z,25114645,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T03:48:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.0016,40.84742
-25114668,Moimenta de Maceira Dão e Lobelhe do Mato,Viseu Dão Lafões,310,2025-03-20T02:34:00Z,25114668,Em resolução,3301,Queda de árvore,0,1,0,3,2025-03-20T02:34:00Z,Mangualde,Viseu,Centro,-7.835496,40.578377
-25113765,Queluz e Belas,Grande Lisboa,311,2025-03-20T02:25:00Z,25113765,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.27879,38.77766
-25113781,Ramada e Caneças,Grande Lisboa,311,2025-03-20T02:26:00Z,25113781,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:26:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194441,38.801427
-25113862,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T01:15:00Z,25113862,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-03-20T01:15:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
-25113879,Vila Nova de Tazem,Beiras e Serra da Estrela,310,2025-03-20T02:33:00Z,25113879,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T02:33:00Z,Gouveia,Guarda,Centro,-7.716662,40.505068
-25113896,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-03-20T02:36:00Z,25113896,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:36:00Z,Torres Novas,Santarém,Centro,-8.567173,39.46688
-25113913,Mértola,Baixo Alentejo,312,2025-03-20T02:35:00Z,25113913,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T02:35:00Z,Mértola,Beja,Alentejo,-7.675714,37.658296
-25113963,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:42:00Z,25113963,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:42:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19674,38.63034
-25113998,Cascais e Estoril,Grande Lisboa,311,2025-03-20T02:44:00Z,25113998,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:44:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
-25114015,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-03-20T02:47:00Z,25114015,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T02:47:00Z,Torres Vedras,Lisboa,Centro,-9.25368,39.0773
-25114030,Benavente,Lezíria do Tejo,311,2025-03-20T02:41:00Z,25114030,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:41:00Z,Benavente,Santarém,Alentejo,-8.787727,38.953978
+25115573,Vimeiro,Oeste,311,2025-03-20T05:21:00Z,25115573,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:21:00Z,Lourinhã,Lisboa,Centro,-9.32046,39.17942
+25115582,São Pedro de France,Viseu Dão Lafões,310,2025-03-20T05:43:00Z,25115582,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:43:00Z,Viseu,Viseu,Centro,-7.78239,40.71977
+25115607,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T05:47:00Z,25115607,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:47:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16378,38.58647
+25115623,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-03-20T05:48:00Z,25115623,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:48:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.257597,38.706696
+25115630,Asseiceira,Médio Tejo,311,2025-03-20T05:48:00Z,25115630,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T05:48:00Z,Tomar,Santarém,Centro,-8.40641,39.540923
+25115664,Vimeiro,Oeste,311,2025-03-20T05:43:00Z,25115664,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-20T05:43:00Z,Alcobaça,Leiria,Centro,-9.022205,39.478409
+25115673,Alguber,Oeste,311,2025-03-20T05:41:00Z,25115673,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:41:00Z,Cadaval,Lisboa,Centro,-9.020804,39.276666
+25115680,Paialvo,Médio Tejo,311,2025-03-20T05:55:00Z,25115680,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T05:55:00Z,Tomar,Santarém,Centro,-8.440148,39.524562
+25115689,Vermelha,Oeste,311,2025-03-20T05:41:00Z,25115689,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T05:41:00Z,Cadaval,Lisboa,Centro,-9.113389,39.267816
+25115696,Parreira e Chouto,Lezíria do Tejo,311,2025-03-20T05:58:00Z,25115696,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T05:58:00Z,Chamusca,Santarém,Alentejo,-8.327738,39.256475
+25115707,Monforte,Alto Alentejo,312,2025-03-20T06:00:00Z,25115707,Em resolução,3301,Queda de árvore,0,2,0,4,2025-03-20T06:00:00Z,Monforte,Portalegre,Alentejo,-7.500513,39.033597
+25113527,Fernão Ferro,Península de Setúbal,311,2025-03-20T02:01:00Z,25113527,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:01:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.09935,38.56798
+25113616,"Enxara do Bispo, Gradil e Vila Franca do Rosário",Grande Lisboa,311,2025-03-20T01:30:00Z,25113616,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T01:30:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.260847,38.962848
+25113650,Carcavelos e Parede,Grande Lisboa,311,2025-03-20T02:12:00Z,25113650,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:12:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.325114,38.69928
+25113686,Alpiarça,Lezíria do Tejo,311,2025-03-20T02:17:00Z,25113686,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-20T02:17:00Z,Alpiarça,Santarém,Alentejo,-8.57695,39.25462
+25113700,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:19:00Z,25113700,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T02:19:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.39833,38.92588
+25113741,Carregal do Sal,Viseu Dão Lafões,310,2025-03-20T02:17:00Z,25113741,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-03-20T02:17:00Z,Carregal Do Sal,Viseu,Centro,-7.999939,40.437298
+25113768,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:26:00Z,25113768,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:26:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.41128,38.85702
+25113866,Bensafrim e Barão de São João,Algarve,313,2025-03-20T01:30:00Z,25113866,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T01:30:00Z,Lagos,Faro,Algarve,-8.733104,37.158743
+25113875,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:35:00Z,25113875,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T02:35:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17345,38.58643
 25113722,Carcavelos e Parede,Grande Lisboa,311,2025-03-20T02:21:00Z,25113722,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:21:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.367864,38.69675
 25113737,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:22:00Z,25113737,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:22:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17331,38.58715
 25113740,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T02:22:00Z,25113740,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:22:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
@@ -340,17 +246,27 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113874,Ramada e Caneças,Grande Lisboa,311,2025-03-20T02:35:00Z,25113874,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T02:35:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.21026,38.82131
 25113888,Odivelas,Grande Lisboa,311,2025-03-20T02:36:00Z,25113888,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:36:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.19047,38.79637
 25114056,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T02:51:00Z,25114056,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T02:51:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.024796,38.53981
-25114688,Casal de Cinza,Beiras e Serra da Estrela,310,2025-03-20T03:39:00Z,25114688,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T03:39:00Z,Guarda,Guarda,Centro,-7.216219,40.521998
-25114729,Aveiras de Baixo,Lezíria do Tejo,311,2025-03-20T03:57:00Z,25114729,Em curso,3301,Queda de árvore,0,3,0,5,2025-03-20T03:57:00Z,Azambuja,Lisboa,Alentejo,-8.835422,39.084762
-25114736,Águas Livres,Grande Lisboa,311,2025-03-20T03:58:00Z,25114736,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:58:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.23008,38.74993
-25114838,Arranhó,Oeste,311,2025-03-20T03:40:00Z,25114838,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T03:40:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.145871,38.947781
-25114863,Arazede,Região de Coimbra,310,2025-03-20T04:09:00Z,25114863,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:09:00Z,Montemor-o-Velho,Coimbra,Centro,-8.631626,40.273294
-25114881,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T04:05:00Z,25114881,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:05:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.126293,38.535393
-25114895,Fazendas de Almeirim,Lezíria do Tejo,311,2025-03-20T03:35:00Z,25114895,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T03:35:00Z,Alpiarça,Santarém,Alentejo,-8.564325,39.191508
-25114913,Barcarena,Grande Lisboa,311,2025-03-20T04:15:00Z,25114913,Em curso,3329,Queda de estruturas temporárias ou móveis,0,3,0,9,2025-03-20T04:15:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.27601,38.72112
-25114929,Lagoaça e Fornos,Douro,309,2025-03-20T04:17:00Z,25114929,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:17:00Z,Freixo De Espada à Cinta,Bragança,Norte,-6.74571,41.20621
-25114963,"Coz, Alpedriz e Montes",Oeste,311,2025-03-20T04:11:00Z,25114963,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T04:11:00Z,Alcobaça,Leiria,Centro,-8.981807,39.596698
-25114995,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-03-20T04:24:00Z,25114995,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,4,2025-03-20T04:24:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.961869,40.897
+25115714,Cesar,Area M. Porto,309,2025-03-20T06:01:00Z,25115714,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:01:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.45053,40.92867
+25115730,Loivos e Póvoa de Agrações,Alto Tâmega e Barroso,309,2025-03-20T06:03:00Z,25115730,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:03:00Z,Chaves,Vila Real,Norte,-7.514424,41.62522
+25115766,Paderne,Alto Minho,309,2025-03-20T06:07:00Z,25115766,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Melgaço,Viana Do Castelo,Norte,-8.282994,42.076029
+25115782,Alcabideche,Grande Lisboa,311,2025-03-20T05:57:00Z,25115782,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:57:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.430066,38.718879
+25115789,Touro,Viseu Dão Lafões,310,2025-03-20T06:07:00Z,25115789,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Vila Nova De Paiva,Viseu,Centro,-7.748647,40.895095
+25115798,Alvorninha,Oeste,311,2025-03-20T06:10:00Z,25115798,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:10:00Z,Caldas Da Rainha,Leiria,Centro,-9.044306,39.390872
+25115800,Alcabideche,Grande Lisboa,311,2025-03-20T06:01:00Z,25115800,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.402781,38.736294
+25115805,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-03-20T05:52:00Z,25115805,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:52:00Z,Matosinhos,Porto,Norte,-8.630369,41.188957
+25115816,Martim Longo,Algarve,313,2025-03-20T05:25:00Z,25115816,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:25:00Z,Alcoutim,Faro,Algarve,-7.774862,37.44085
+25115839,Antas e Abade de Vermoim,Ave,309,2025-03-20T06:04:00Z,25115839,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-03-20T06:04:00Z,Vila Nova De Famalicão,Braga,Norte,-8.514445,41.41628
+25115841,Carnaxide e Queijas,Grande Lisboa,311,2025-03-20T06:05:00Z,25115841,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:05:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.25881,38.722457
+25113645,Rio de Mouro,Grande Lisboa,311,2025-03-20T02:13:00Z,25113645,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:13:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.31947,38.78611
+25113664,Alpiarça,Lezíria do Tejo,311,2025-03-20T02:14:00Z,25113664,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T02:14:00Z,Alpiarça,Santarém,Alentejo,-8.578037,39.247197
+25113679,Cascais e Estoril,Grande Lisboa,311,2025-03-20T02:16:00Z,25113679,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:16:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.39155,38.70828
+25113680,Baleizão,Baixo Alentejo,312,2025-03-20T02:02:00Z,25113680,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:02:00Z,Beja,Beja,Alentejo,-7.753497,38.025243
+25113746,Falagueira-Venda Nova,Grande Lisboa,311,2025-03-20T02:23:00Z,25113746,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:23:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.22883,38.76062
+25113762,Miragaia e Marteleira,Oeste,311,2025-03-20T02:00:00Z,25113762,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T02:00:00Z,Lourinhã,Lisboa,Centro,-9.262811,39.23688
+25113765,Queluz e Belas,Grande Lisboa,311,2025-03-20T02:25:00Z,25113765,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.27879,38.77766
+25113781,Ramada e Caneças,Grande Lisboa,311,2025-03-20T02:26:00Z,25113781,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:26:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194441,38.801427
+25113862,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T01:15:00Z,25113862,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-03-20T01:15:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
+25113879,Vila Nova de Tazem,Beiras e Serra da Estrela,310,2025-03-20T02:33:00Z,25113879,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T02:33:00Z,Gouveia,Guarda,Centro,-7.716662,40.505068
 25114073,Pontével,Lezíria do Tejo,311,2025-03-20T02:52:00Z,25114073,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T02:52:00Z,Cartaxo,Santarém,Alentejo,-8.819585,39.125572
 25114074,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:52:00Z,25114074,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:52:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18666,38.59386
 25114173,Benavente,Lezíria do Tejo,311,2025-03-20T03:00:00Z,25114173,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T03:00:00Z,Benavente,Santarém,Alentejo,-8.804753,38.980872
@@ -360,88 +276,217 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25114389,Palhais e Coina,Península de Setúbal,311,2025-03-20T01:50:00Z,25114389,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:50:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.043332,38.595522
 25114390,São Martinho Das Amoreiras,Alentejo Litoral,312,2025-03-20T03:20:00Z,25114390,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T03:20:00Z,Odemira,Beja,Alentejo,-8.423175,37.653664
 25114405,Mujães,Alto Minho,309,2025-03-20T03:24:00Z,25114405,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T03:24:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.708787,41.67049
+25113911,Sapataria,Oeste,311,2025-03-20T02:15:00Z,25113911,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T02:15:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.198053,38.966232
+25113927,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T02:38:00Z,25113927,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:38:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16689,38.67327
+25113968,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T01:55:00Z,25113968,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T01:55:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
+25113970,Pontinha e Famões,Grande Lisboa,311,2025-03-20T02:43:00Z,25113970,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-20T02:43:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.19871,38.76359
+25113993,Corroios,Península de Setúbal,311,2025-03-20T02:45:00Z,25113993,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.1512,38.58007
+25113995,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T02:45:00Z,25113995,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:45:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.272,38.70125
+25114000,Aguiar da Beira e Coruche,Viseu Dão Lafões,310,2025-03-20T02:42:00Z,25114000,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T02:42:00Z,Aguiar Da Beira,Guarda,Centro,-7.565847,40.766682
+25114095,Pinhal Novo,Península de Setúbal,311,2025-03-20T02:30:00Z,25114095,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-20T02:30:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
+25114136,Azambuja,Lezíria do Tejo,311,2025-03-20T02:57:00Z,25114136,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T02:57:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
+25115864,Venteira,Grande Lisboa,311,2025-03-20T06:20:00Z,25115864,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:20:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.23751,38.74258
+25115873,Sertã,Beira Baixa,310,2025-03-20T06:13:00Z,25115873,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T06:13:00Z,Sertã,Castelo Branco,Centro,-8.079347,39.865488
+25115880,Portela do Fojo-Machio,Região de Coimbra,310,2025-03-20T06:21:00Z,25115880,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:21:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.99429,40.00474
+25115882,Palmeira de Faro e Curvos,Cávado,309,2025-03-20T06:21:00Z,25115882,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:21:00Z,Esposende,Braga,Norte,-8.738948,41.549993
+25115889,Roliça,Oeste,311,2025-03-20T06:11:00Z,25115889,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:11:00Z,Bombarral,Leiria,Centro,-9.176338,39.293388
+25115891,"Britelo, Gémeos e Ourilhe",Tâmega e Sousa,309,2025-03-20T06:00:00Z,25115891,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:00:00Z,Celorico De Basto,Braga,Norte,-8.015594,41.393423
+25115900,Falagueira-Venda Nova,Grande Lisboa,311,2025-03-20T06:24:00Z,25115900,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:24:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.22461,38.75611
+25115907,"Seia, São Romão e Lapa Dos Dinheiros",Beiras e Serra da Estrela,310,2025-03-20T05:50:00Z,25115907,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:50:00Z,Seia,Guarda,Centro,-7.683032,40.41759
+25115914,Lavos,Região de Coimbra,310,2025-03-20T06:26:00Z,25115914,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-03-20T06:26:00Z,Figueira Da Foz,Coimbra,Centro,-8.874025,40.09146
+25115930,Travanca,Tâmega e Sousa,309,2025-03-20T06:25:00Z,25115930,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:25:00Z,Amarante,Porto,Norte,-8.191621,41.278404
+25113896,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-03-20T02:36:00Z,25113896,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-20T02:36:00Z,Torres Novas,Santarém,Centro,-8.567173,39.46688
+25113913,Mértola,Baixo Alentejo,312,2025-03-20T02:35:00Z,25113913,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T02:35:00Z,Mértola,Beja,Alentejo,-7.675714,37.658296
+25113963,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:42:00Z,25113963,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:42:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19674,38.63034
+25113998,Cascais e Estoril,Grande Lisboa,311,2025-03-20T02:44:00Z,25113998,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:44:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
+25114015,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-03-20T02:47:00Z,25114015,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T02:47:00Z,Torres Vedras,Lisboa,Centro,-9.25368,39.0773
+25114030,Benavente,Lezíria do Tejo,311,2025-03-20T02:41:00Z,25114030,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:41:00Z,Benavente,Santarém,Alentejo,-8.787727,38.953978
 25114146,Brito,Ave,309,2025-03-20T02:59:00Z,25114146,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-03-20T02:59:00Z,Guimarães,Braga,Norte,-8.35944,41.45358
 25114199,Mafra,Grande Lisboa,311,2025-03-20T03:04:00Z,25114199,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:04:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.351689,38.95828
 25114213,Campo,Viseu Dão Lafões,310,2025-03-20T02:57:00Z,25114213,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T02:57:00Z,Viseu,Viseu,Centro,-7.924696,40.705094
 25114283,Sernancelhe e Sarzeda,Douro,309,2025-03-20T03:09:00Z,25114283,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T03:09:00Z,Sernancelhe,Viseu,Norte,-7.511299,40.896763
-25114364,Rio de Mouro,Grande Lisboa,311,2025-03-20T03:18:00Z,25114364,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T03:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.344466,38.753258
+25114424,Vila Nova de Tazem,Beiras e Serra da Estrela,310,2025-03-20T03:25:00Z,25114424,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:25:00Z,Gouveia,Guarda,Centro,-7.716662,40.505068
+25114509,Avanca,Região de Aveiro,310,2025-03-20T03:27:00Z,25114509,Em curso,3311,Queda de elementos de estruturas edificados,0,2,0,3,2025-03-20T03:27:00Z,Estarreja,Aveiro,Centro,-8.575154,40.804832
+25114525,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-03-20T03:36:00Z,25114525,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T03:36:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.279616,38.92011
+25114573,Quinta do Conde,Península de Setúbal,311,2025-03-20T03:41:00Z,25114573,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:41:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.041492,38.55076
+25114656,Guarda,Beiras e Serra da Estrela,310,2025-03-20T03:39:00Z,25114656,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-20T03:39:00Z,Guarda,Guarda,Centro,-7.260869,40.536751
+25114673,Vilarinho Dos Freires,Douro,309,2025-03-20T03:44:00Z,25114673,Em despacho,3301,Queda de árvore,0,3,0,6,2025-03-20T03:44:00Z,Peso Da Régua,Vila Real,Norte,-7.748211,41.175132
+25114691,Mafra,Grande Lisboa,311,2025-03-20T03:53:00Z,25114691,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T03:53:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.34026,38.9585
+25114708,Cascais e Estoril,Grande Lisboa,311,2025-03-20T03:55:00Z,25114708,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:55:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.43077,38.70064
+25114740,Vila Verde e Barbudo,Cávado,309,2025-03-20T03:58:00Z,25114740,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:58:00Z,Vila Verde,Braga,Norte,-8.42563,41.64321
+25114756,Alverca da Beira/Bouça Cova,Beiras e Serra da Estrela,310,2025-03-20T03:59:00Z,25114756,Em conclusão,3311,Queda de elementos de estruturas edificados,0,2,0,5,2025-03-20T03:59:00Z,Pinhel,Guarda,Centro,-7.21422,40.70339
+25115939,Benfica do Ribatejo,Lezíria do Tejo,311,2025-03-20T06:28:00Z,25115939,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:28:00Z,Almeirim,Santarém,Alentejo,-8.688346,39.147223
+25115948,Cascais e Estoril,Grande Lisboa,311,2025-03-20T02:20:00Z,25115948,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:20:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.431354,38.711316
+25115950,Bárrio e Cepões,Alto Minho,309,2025-03-20T06:30:00Z,25115950,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:30:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.58407,41.83382
+25115955,Ermidas-Sado,Alentejo Litoral,312,2025-03-20T06:30:00Z,25115955,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T06:30:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.381269,37.997922
+25115959,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T06:31:00Z,25115959,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:31:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17287,38.57701
+25115975,Rio de Loba,Viseu Dão Lafões,310,2025-03-20T06:32:00Z,25115975,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:32:00Z,Viseu,Viseu,Centro,-7.877682,40.665827
+25115982,Carapito,Viseu Dão Lafões,310,2025-03-20T06:31:00Z,25115982,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:31:00Z,Aguiar Da Beira,Guarda,Centro,-7.472258,40.765078
+25115989,Arcozelo,Area M. Porto,309,2025-03-20T06:19:00Z,25115989,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T06:19:00Z,Vila Nova De Gaia,Porto,Norte,-8.640388,41.056331
+25115998,Alvarelhos e Guidões,Area M. Porto,309,2025-03-20T06:25:00Z,25115998,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:25:00Z,Trofa,Porto,Norte,-8.614107,41.315583
+25116000,Avelãs de Cima,Região de Aveiro,310,2025-03-20T06:37:00Z,25116000,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T06:37:00Z,Anadia,Aveiro,Centro,-8.433545,40.46848
+25116014,Bornes de Aguiar,Alto Tâmega e Barroso,309,2025-03-20T06:31:00Z,25116014,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T06:31:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.586007,41.525942
+25114159,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T03:00:00Z,25114159,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:00:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.29439,38.70243
+25114184,Ramada e Caneças,Grande Lisboa,311,2025-03-20T03:03:00Z,25114184,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:03:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.18865,38.81316
+25114234,Carvalhal,Oeste,311,2025-03-20T03:08:00Z,25114234,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:08:00Z,Bombarral,Leiria,Centro,-9.12731,39.28677
+25114236,Ronfe,Ave,309,2025-03-20T03:08:00Z,25114236,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T03:08:00Z,Guimarães,Braga,Norte,-8.38642,41.44113
+25114284,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-03-20T03:05:00Z,25114284,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:05:00Z,Serpa,Beja,Alentejo,-7.497192,37.804577
+25114293,Lousa,Grande Lisboa,311,2025-03-20T03:13:00Z,25114293,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:13:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.20461,38.88559
+25114345,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:17:00Z,25114345,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:17:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17936,38.61397
+25114370,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:20:00Z,25114370,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:20:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17923,38.60275
 25114381,Carvalhal Redondo e Aguieira,Viseu Dão Lafões,310,2025-03-20T03:19:00Z,25114381,Em curso,3301,Queda de árvore,0,3,0,5,2025-03-20T03:19:00Z,Nelas,Viseu,Centro,-7.900593,40.538002
 25114414,Cela,Oeste,311,2025-03-20T03:20:00Z,25114414,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T03:20:00Z,Alcobaça,Leiria,Centro,-9.051565,39.501598
 25114548,Queluz e Belas,Grande Lisboa,311,2025-03-20T03:20:00Z,25114548,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:20:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.271667,38.786881
 25114565,Vila Franca Das Naves e Feital,Beiras e Serra da Estrela,310,2025-03-20T03:33:00Z,25114565,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-20T03:33:00Z,Trancoso,Guarda,Centro,-7.258443,40.723136
 25114598,Alhos Vedros,Península de Setúbal,311,2025-03-20T00:30:00Z,25114598,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T00:30:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.026889,38.657804
 25114617,Lousa,Grande Lisboa,311,2025-03-20T03:45:00Z,25114617,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:45:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.209783,38.88899
+25114701,Fornos de Algodres,Beiras e Serra da Estrela,310,2025-03-20T03:53:00Z,25114701,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-20T03:53:00Z,Fornos De Algodres,Guarda,Centro,-7.525771,40.610486
+25114715,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T03:10:00Z,25114715,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:10:00Z,Beja,Beja,Alentejo,-7.902989,38.011769
+25114781,Lago,Cávado,309,2025-03-20T04:02:00Z,25114781,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:02:00Z,Amares,Braga,Norte,-8.42077,41.61692
+25114815,Buarcos,Região de Coimbra,310,2025-03-20T04:05:00Z,25114815,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T04:05:00Z,Figueira Da Foz,Coimbra,Centro,-8.874837,40.17654
+25114835,Cacém e São Marcos,Grande Lisboa,311,2025-03-20T04:07:00Z,25114835,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.30124,38.75068
+25116016,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-03-20T05:21:00Z,25116016,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T05:21:00Z,Matosinhos,Porto,Norte,-8.643123,41.208539
+25116023,Beijós,Viseu Dão Lafões,310,2025-03-20T06:37:00Z,25116023,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:37:00Z,Carregal Do Sal,Viseu,Centro,-7.963221,40.510194
+25116064,Pombal,Região de Leiria,310,2025-03-20T06:35:00Z,25116064,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:35:00Z,Pombal,Leiria,Centro,-8.64792,39.940905
+25116075,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-03-20T06:40:00Z,25116075,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-03-20T06:40:00Z,Póvoa De Lanhoso,Braga,Norte,-8.26784,41.577971
+25116082,Viseu,Viseu Dão Lafões,310,2025-03-20T06:23:00Z,25116082,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:23:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
+25116084,Fornelo do Monte,Viseu Dão Lafões,310,2025-03-20T06:36:00Z,25116084,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:36:00Z,Vouzela,Viseu,Centro,-8.108297,40.643592
+25116089,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-03-20T06:48:00Z,25116089,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:48:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.15094,38.80473
+25116109,Lagoa e Carvoeiro,Algarve,313,2025-03-20T06:27:00Z,25116109,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:27:00Z,Lagoa,Faro,Algarve,-8.476192,37.106606
+25114759,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:33:00Z,25114759,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:33:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.394403,38.872548
+25114809,Vilas Boas e Vilarinho Das Azenhas,Terras de Trás-os-Montes,309,2025-03-20T04:05:00Z,25114809,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T04:05:00Z,Vila Flor,Bragança,Norte,-7.17078,41.3535
+25114924,Roliça,Oeste,311,2025-03-20T04:16:00Z,25114924,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:16:00Z,Bombarral,Leiria,Centro,-9.18013,39.28817
+25114927,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-03-20T04:15:00Z,25114927,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T04:15:00Z,Penela,Coimbra,Centro,-8.373242,40.019255
+25114957,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-03-20T04:19:00Z,25114957,Em curso,3301,Queda de árvore,0,4,0,9,2025-03-20T04:19:00Z,Mangualde,Viseu,Centro,-7.614291,40.623523
+25114960,Castelo Novo,Beiras e Serra da Estrela,310,2025-03-20T04:01:00Z,25114960,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T04:01:00Z,Fundão,Castelo Branco,Centro,-7.475218,40.126525
+25114990,Alcanede,Lezíria do Tejo,311,2025-03-20T04:24:00Z,25114990,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T04:24:00Z,Santarém,Santarém,Alentejo,-8.769388,39.400825
+25115060,São Paio,Beiras e Serra da Estrela,310,2025-03-20T04:03:00Z,25115060,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T04:03:00Z,Gouveia,Guarda,Centro,-7.578576,40.511694
+25115076,Biscainho,Lezíria do Tejo,311,2025-03-20T04:36:00Z,25115076,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T04:36:00Z,Coruche,Santarém,Alentejo,-8.535927,38.953887
+25115090,Castêlo da Maia,Area M. Porto,309,2025-03-20T04:38:00Z,25115090,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T04:38:00Z,Maia,Porto,Norte,-8.60997,41.26863
+25114377,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-03-20T03:21:00Z,25114377,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T03:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.62524,41.13787
+25114395,Corroios,Península de Setúbal,311,2025-03-20T03:23:00Z,25114395,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:23:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.156315,38.57963
+25114429,Almoster,Lezíria do Tejo,311,2025-03-20T03:25:00Z,25114429,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:25:00Z,Santarém,Santarém,Alentejo,-8.795515,39.226827
+25114443,Ericeira,Grande Lisboa,311,2025-03-20T03:27:00Z,25114443,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:27:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.41106,38.95243
+25114511,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-03-20T03:15:00Z,25114511,Em curso,3301,Queda de árvore,0,2,0,9,2025-03-20T03:15:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.080109,38.86006
+25114688,Casal de Cinza,Beiras e Serra da Estrela,310,2025-03-20T03:39:00Z,25114688,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T03:39:00Z,Guarda,Guarda,Centro,-7.216219,40.521998
+25114729,Aveiras de Baixo,Lezíria do Tejo,311,2025-03-20T03:57:00Z,25114729,Em curso,3301,Queda de árvore,0,3,0,5,2025-03-20T03:57:00Z,Azambuja,Lisboa,Alentejo,-8.835422,39.084762
+25114736,Águas Livres,Grande Lisboa,311,2025-03-20T03:58:00Z,25114736,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:58:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.23008,38.74993
+25114863,Arazede,Região de Coimbra,310,2025-03-20T04:09:00Z,25114863,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:09:00Z,Montemor-o-Velho,Coimbra,Centro,-8.631626,40.273294
+25114881,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T04:05:00Z,25114881,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:05:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.126293,38.535393
+25114867,Casal de Cambra,Grande Lisboa,311,2025-03-20T04:00:00Z,25114867,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.232552,38.801888
+25114985,Moita,Península de Setúbal,311,2025-03-20T04:05:00Z,25114985,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-20T04:05:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.985364,38.643702
+25115099,Covas e Vila Nova de Oliveirinha,Região de Coimbra,310,2025-03-20T04:39:00Z,25115099,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:39:00Z,Tábua,Coimbra,Centro,-7.909423,40.366016
+25115150,Torrão,Alentejo Litoral,312,2025-03-20T04:45:00Z,25115150,Em despacho,3301,Queda de árvore,0,5,0,10,2025-03-20T04:45:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.367086,38.190745
+25115169,Alcaria Ruiva,Baixo Alentejo,312,2025-03-20T04:45:00Z,25115169,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T04:45:00Z,Mértola,Beja,Alentejo,-7.754772,37.713133
+25115219,Arca e Varzielas,Viseu Dão Lafões,310,2025-03-20T04:57:00Z,25115219,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T04:57:00Z,Oliveira De Frades,Viseu,Centro,-8.180254,40.59843
+25115235,Poiares,Douro,309,2025-03-20T04:45:00Z,25115235,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:45:00Z,Freixo De Espada à Cinta,Bragança,Norte,-6.847067,41.065058
+25115249,Alcaria Ruiva,Baixo Alentejo,312,2025-03-20T05:01:00Z,25115249,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-20T05:01:00Z,Mértola,Beja,Alentejo,-7.8655,37.71755
+25115268,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-03-20T05:03:00Z,25115268,Em curso,3301,Queda de árvore,0,3,0,8,2025-03-20T05:03:00Z,Matosinhos,Porto,Norte,-8.696853,41.233351999999996
+25115269,Chacim,Terras de Trás-os-Montes,309,2025-03-20T05:00:00Z,25115269,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T05:00:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.903879,41.462748
+25115157,Nelas,Viseu Dão Lafões,310,2025-03-20T04:46:00Z,25115157,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:46:00Z,Nelas,Viseu,Centro,-7.855738,40.520916
+25115159,Vila Franca de Xira,Grande Lisboa,311,2025-03-20T03:56:00Z,25115159,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T03:56:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.011273,38.953274
+25115175,Teixoso e Sarzedo,Beiras e Serra da Estrela,310,2025-03-20T04:35:00Z,25115175,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:35:00Z,Covilhã,Castelo Branco,Centro,-7.455476,40.315622
+25115191,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-03-20T04:35:00Z,25115191,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:35:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.448673,41.011004
+25115209,"Esposende, Marinhas e Gandra",Cávado,309,2025-03-20T04:25:00Z,25115209,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:25:00Z,Esposende,Braga,Norte,-8.77323,41.541808
+25115260,Casével e Vaqueiros,Lezíria do Tejo,311,2025-03-20T05:01:00Z,25115260,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T05:01:00Z,Santarém,Santarém,Alentejo,-8.613992,39.370617
+25115277,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-03-20T05:05:00Z,25115277,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T05:05:00Z,Vila Nova De Gaia,Porto,Norte,-8.60908,41.12638
+25115292,Corujeira e Trinta,Beiras e Serra da Estrela,310,2025-03-20T05:05:00Z,25115292,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:05:00Z,Guarda,Guarda,Centro,-7.354479,40.505
+25115326,Eixo e Eirol,Região de Aveiro,310,2025-03-20T05:10:00Z,25115326,Em curso,3301,Queda de árvore,0,2,0,6,2025-03-20T05:10:00Z,Aveiro,Aveiro,Centro,-8.539589,40.608655
+25115361,Ota,Oeste,311,2025-03-20T05:05:00Z,25115361,Em despacho,3301,Queda de árvore,0,4,0,11,2025-03-20T05:05:00Z,Alenquer,Lisboa,Centro,-8.990371,39.111378
+25115376,Penedono e Granja,Douro,309,2025-03-20T05:15:00Z,25115376,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:15:00Z,Penedono,Viseu,Norte,-7.392822,40.98611
+25114895,Fazendas de Almeirim,Lezíria do Tejo,311,2025-03-20T03:35:00Z,25114895,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T03:35:00Z,Alpiarça,Santarém,Alentejo,-8.564325,39.191508
+25114913,Barcarena,Grande Lisboa,311,2025-03-20T04:15:00Z,25114913,Em curso,3329,Queda de estruturas temporárias ou móveis,0,3,0,9,2025-03-20T04:15:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.27601,38.72112
+25114929,Lagoaça e Fornos,Douro,309,2025-03-20T04:17:00Z,25114929,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:17:00Z,Freixo De Espada à Cinta,Bragança,Norte,-6.74571,41.20621
+25114963,"Coz, Alpedriz e Montes",Oeste,311,2025-03-20T04:11:00Z,25114963,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T04:11:00Z,Alcobaça,Leiria,Centro,-8.981807,39.596698
 25115011,Cascais e Estoril,Grande Lisboa,311,2025-03-20T04:27:00Z,25115011,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:27:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.4475,38.73306
 25115111,Louredo e Fornelos,Douro,309,2025-03-20T04:40:00Z,25115111,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:40:00Z,Santa Marta De Penaguião,Vila Real,Norte,-7.827533,41.228123
-25115113,Panoias de Cima,Beiras e Serra da Estrela,310,2025-03-20T04:41:00Z,25115113,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T04:41:00Z,Guarda,Guarda,Centro,-7.236421,40.51135
+25115113,Panoias de Cima,Beiras e Serra da Estrela,310,2025-03-20T04:41:00Z,25115113,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T04:41:00Z,Guarda,Guarda,Centro,-7.236421,40.51135
 25115115,Castro Daire,Viseu Dão Lafões,310,2025-03-20T04:41:00Z,25115115,Em despacho,3301,Queda de árvore,0,2,0,2,2025-03-20T04:41:00Z,Castro Daire,Viseu,Centro,-7.90543,40.89685
 25115129,Barroselas e Carvoeiro,Alto Minho,309,2025-03-20T04:32:00Z,25115129,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T04:32:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.649453,41.6389
+25115284,Tornada e Salir do Porto,Oeste,311,2025-03-20T05:02:00Z,25115284,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-20T05:02:00Z,Caldas Da Rainha,Leiria,Centro,-9.151736,39.435014
+25115302,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-20T05:07:00Z,25115302,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.30988,38.83504
+25115350,São Martinho de Árvore e Lamarosa,Região de Coimbra,310,2025-03-20T05:13:00Z,25115350,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:13:00Z,Coimbra,Coimbra,Centro,-8.551362,40.22228
+25115351,Carapeços,Cávado,309,2025-03-20T05:14:00Z,25115351,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:14:00Z,Barcelos,Braga,Norte,-8.63294,41.58514
+25115402,Silgueiros,Viseu Dão Lafões,310,2025-03-20T05:21:00Z,25115402,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:21:00Z,Viseu,Viseu,Centro,-7.97615,40.55187
+25115416,Pataias e Martingança,Oeste,311,2025-03-20T05:20:00Z,25115416,Em despacho,3301,Queda de árvore,0,2,0,10,2025-03-20T05:20:00Z,Alcobaça,Leiria,Centro,-8.958497,39.692336
+25115433,Rocas do Vouga,Região de Aveiro,310,2025-03-20T05:14:00Z,25115433,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-03-20T05:14:00Z,Sever Do Vouga,Aveiro,Centro,-8.353407,40.762248
+25115450,Fontes,Douro,309,2025-03-20T05:24:00Z,25115450,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T05:24:00Z,Santa Marta De Penaguião,Vila Real,Norte,-7.823046,41.226681
+25115484,Santo Isidoro,Grande Lisboa,311,2025-03-20T05:31:00Z,25115484,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.35978,38.99009
+25115517,"Boa Aldeia, Farminhão e Torredeita",Viseu Dão Lafões,310,2025-03-20T05:11:00Z,25115517,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:11:00Z,Viseu,Viseu,Centro,-8.010225,40.615614
+25115394,Branca,Lezíria do Tejo,311,2025-03-20T05:19:00Z,25115394,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:19:00Z,Coruche,Santarém,Alentejo,-8.586492,38.879952
+25115475,Povolide,Viseu Dão Lafões,310,2025-03-20T05:26:00Z,25115475,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:26:00Z,Viseu,Viseu,Centro,-7.775885,40.683568
+25115477,Usseira,Oeste,311,2025-03-20T05:20:00Z,25115477,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T05:20:00Z,Óbidos,Leiria,Centro,-9.162999,39.332237
+25115626,Aboim Das Choças,Alto Minho,309,2025-03-20T05:49:00Z,25115626,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:49:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.45524,41.92142
+25115628,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T04:30:00Z,25115628,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:30:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
+25115644,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-03-20T05:37:00Z,25115644,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T05:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.624714,41.132843
+25115662,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-03-20T05:52:00Z,25115662,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:52:00Z,Vila Nova De Gaia,Porto,Norte,-8.520862,41.04757
+25115675,Baraçal,Beiras e Serra da Estrela,310,2025-03-20T05:55:00Z,25115675,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:55:00Z,Sabugal,Guarda,Centro,-7.064427,40.39398
+25115679,Turquel,Oeste,311,2025-03-20T05:25:00Z,25115679,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T05:25:00Z,Alcobaça,Leiria,Centro,-8.9558700000000009,39.470792
+25115693,Caparica e Trafaria,Península de Setúbal,311,2025-03-20T05:44:00Z,25115693,Em curso,3301,Queda de árvore,0,2,0,8,2025-03-20T05:44:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.218537,38.64447
 25115156,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T04:46:00Z,25115156,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:46:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.199091,38.62959
 25115240,a Dos Francos,Oeste,311,2025-03-20T04:54:00Z,25115240,Em despacho,3301,Queda de árvore,0,3,0,7,2025-03-20T04:54:00Z,Caldas Da Rainha,Leiria,Centro,-9.074649,39.316774
-25115247,Vreia de Jales,Alto Tâmega e Barroso,309,2025-03-20T05:00:00Z,25115247,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T05:00:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.598153,41.481207
 25115288,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-20T05:05:00Z,25115288,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:05:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.340934,38.801232
 25115313,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T05:09:00Z,25115313,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:09:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.006082,38.51156
 25115320,Travancinha,Beiras e Serra da Estrela,310,2025-03-20T03:51:00Z,25115320,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:51:00Z,Seia,Guarda,Centro,-7.824191,40.423279
 25115331,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-03-20T04:59:00Z,25115331,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:59:00Z,Vila Nova De Gaia,Porto,Norte,-8.502382,41.048753
 25115340,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-03-20T02:38:00Z,25115340,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-20T02:38:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.168395,38.671949
 25115347,Santos Evos,Viseu Dão Lafões,310,2025-03-20T05:00:00Z,25115347,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T05:00:00Z,Viseu,Viseu,Centro,-7.820935,40.662086
-25115363,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-03-20T05:13:00Z,25115363,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:13:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.448673,41.011004
 25115365,São Cosmado,Douro,309,2025-03-20T05:15:00Z,25115365,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-20T05:15:00Z,Armamar,Viseu,Norte,-7.645154,41.06243
 25115372,Sobral de Monte Agraço,Oeste,311,2025-03-20T05:10:00Z,25115372,Em curso,3301,Queda de árvore,0,3,0,4,2025-03-20T05:10:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.191789,39.010425
+25115519,Palhais e Coina,Península de Setúbal,311,2025-03-20T05:35:00Z,25115519,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:35:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.04503,38.59544
+25115534,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-03-20T05:36:00Z,25115534,Em curso,3301,Queda de árvore,0,2,0,4,2025-03-20T05:36:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.132069,39.94651
+25115551,São João de Lourosa,Viseu Dão Lafões,310,2025-03-20T05:39:00Z,25115551,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:39:00Z,Viseu,Viseu,Centro,-7.92026,40.59978
+25115553,Cascais e Estoril,Grande Lisboa,311,2025-03-20T05:40:00Z,25115553,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:40:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.387946,38.71141
+25115567,Carvalhal Benfeito,Oeste,311,2025-03-20T05:40:00Z,25115567,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:40:00Z,Caldas Da Rainha,Leiria,Centro,-9.038958,39.42604
+25115601,Carvalhal,Oeste,311,2025-03-20T05:24:00Z,25115601,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:24:00Z,Bombarral,Leiria,Centro,-9.114338,39.316976
+25115620,Parada de Ester e Ester,Viseu Dão Lafões,310,2025-03-20T05:32:00Z,25115620,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:32:00Z,Castro Daire,Viseu,Centro,-8.071387,40.932635
+25115637,Espinho,Região de Coimbra,310,2025-03-20T05:50:00Z,25115637,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T05:50:00Z,Mortágua,Viseu,Centro,-8.309869,40.422828
+25115651,Santiago de Piães,Tâmega e Sousa,309,2025-03-20T05:47:00Z,25115651,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T05:47:00Z,Cinfães,Viseu,Norte,-8.154546,41.065916
+25115685,Fanhões,Grande Lisboa,311,2025-03-20T05:55:00Z,25115685,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:55:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.189041,38.903262
+25115709,"Cernache do Bonjardim, Nesperal e Palhais",Beira Baixa,310,2025-03-20T06:01:00Z,25115709,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-03-20T06:01:00Z,Sertã,Castelo Branco,Centro,-8.191225,39.79861
+25115727,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T06:03:00Z,25115727,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:03:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.08172,38.47355
+25115743,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T06:01:00Z,25115743,Em despacho,3301,Queda de árvore,0,2,0,10,2025-03-20T06:01:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25115744,Campeã,Douro,309,2025-03-20T05:59:00Z,25115744,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:59:00Z,Vila Real,Vila Real,Norte,-7.889597,41.29077
+25115762,"Santa Maria, São Pedro e Sobral da Lagoa",Oeste,311,2025-03-20T05:55:00Z,25115762,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T05:55:00Z,Óbidos,Leiria,Centro,-9.142891,39.385554
+25115794,Pinhal Novo,Península de Setúbal,311,2025-03-20T05:45:00Z,25115794,Em curso,3301,Queda de árvore,0,2,0,5,2025-03-20T05:45:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
+25115795,Covide,Cávado,309,2025-03-20T06:07:00Z,25115795,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Terras De Bouro,Braga,Norte,-8.210911,41.72393
+25115796,Asseiceira,Médio Tejo,311,2025-03-20T06:06:00Z,25115796,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T06:06:00Z,Tomar,Santarém,Centro,-8.408643,39.53995
+25115810,Barroças e Taias,Alto Minho,309,2025-03-20T06:13:00Z,25115810,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:13:00Z,Monção,Viana Do Castelo,Norte,-8.502289,41.999427
+25115812,Galegos (Santa Maria),Cávado,309,2025-03-20T06:13:00Z,25115812,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:13:00Z,Barcelos,Braga,Norte,-8.57675,41.56503
+25115827,Quinta do Anjo,Península de Setúbal,311,2025-03-20T06:15:00Z,25115827,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:15:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.99287,38.58382
 25115438,Ladoeiro,Beira Baixa,310,2025-03-20T05:25:00Z,25115438,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T05:25:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.31475,39.85914
 25115506,Corroios,Península de Setúbal,311,2025-03-20T05:33:00Z,25115506,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:33:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.159299,38.58192
-25114424,Vila Nova de Tazem,Beiras e Serra da Estrela,310,2025-03-20T03:25:00Z,25114424,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T03:25:00Z,Gouveia,Guarda,Centro,-7.716662,40.505068
-25114509,Avanca,Região de Aveiro,310,2025-03-20T03:27:00Z,25114509,Em curso,3311,Queda de elementos de estruturas edificados,0,2,0,3,2025-03-20T03:27:00Z,Estarreja,Aveiro,Centro,-8.575154,40.804832
-25114525,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-03-20T03:36:00Z,25114525,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T03:36:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.279616,38.92011
-25114573,Quinta do Conde,Península de Setúbal,311,2025-03-20T03:41:00Z,25114573,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:41:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.041492,38.55076
-25114606,Albergaria-a-Velha e Valmaior,Região de Aveiro,310,2025-03-20T03:24:00Z,25114606,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-20T03:24:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.510534,40.694302
-25114656,Guarda,Beiras e Serra da Estrela,310,2025-03-20T03:39:00Z,25114656,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-20T03:39:00Z,Guarda,Guarda,Centro,-7.260869,40.536751
-25114673,Vilarinho Dos Freires,Douro,309,2025-03-20T03:44:00Z,25114673,Em despacho,3301,Queda de árvore,0,3,0,6,2025-03-20T03:44:00Z,Peso Da Régua,Vila Real,Norte,-7.748211,41.175132
-25114691,Mafra,Grande Lisboa,311,2025-03-20T03:53:00Z,25114691,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T03:53:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.34026,38.9585
-25114708,Cascais e Estoril,Grande Lisboa,311,2025-03-20T03:55:00Z,25114708,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T03:55:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.43077,38.70064
-25114740,Vila Verde e Barbudo,Cávado,309,2025-03-20T03:58:00Z,25114740,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T03:58:00Z,Vila Verde,Braga,Norte,-8.42563,41.64321
-25114701,Fornos de Algodres,Beiras e Serra da Estrela,310,2025-03-20T03:53:00Z,25114701,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-20T03:53:00Z,Fornos De Algodres,Guarda,Centro,-7.525771,40.610486
-25114715,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T03:10:00Z,25114715,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T03:10:00Z,Beja,Beja,Alentejo,-7.902989,38.011769
-25114781,Lago,Cávado,309,2025-03-20T04:02:00Z,25114781,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:02:00Z,Amares,Braga,Norte,-8.42077,41.61692
-25114815,Buarcos,Região de Coimbra,310,2025-03-20T04:05:00Z,25114815,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T04:05:00Z,Figueira Da Foz,Coimbra,Centro,-8.874837,40.17654
-25114835,Cacém e São Marcos,Grande Lisboa,311,2025-03-20T04:07:00Z,25114835,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.30124,38.75068
-25114867,Casal de Cambra,Grande Lisboa,311,2025-03-20T04:00:00Z,25114867,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.232552,38.801888
-25114882,a Dos Negros,Oeste,311,2025-03-20T04:04:00Z,25114882,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-20T04:04:00Z,Óbidos,Leiria,Centro,-9.108747,39.350719
-25114985,Moita,Península de Setúbal,311,2025-03-20T04:05:00Z,25114985,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-20T04:05:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.985364,38.643702
-25115099,Covas e Vila Nova de Oliveirinha,Região de Coimbra,310,2025-03-20T04:39:00Z,25115099,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:39:00Z,Tábua,Coimbra,Centro,-7.909423,40.366016
-25115150,Torrão,Alentejo Litoral,312,2025-03-20T04:45:00Z,25115150,Em despacho,3301,Queda de árvore,0,5,0,12,2025-03-20T04:45:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.367086,38.190745
 25115515,Sampaio,Terras de Trás-os-Montes,309,2025-03-20T05:35:00Z,25115515,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:35:00Z,Vila Flor,Bragança,Norte,-7.12012,41.29623
 25115538,Alfeizerão,Oeste,311,2025-03-20T05:35:00Z,25115538,Em curso,3301,Queda de árvore,0,2,0,4,2025-03-20T05:35:00Z,Alcobaça,Leiria,Centro,-9.076635,39.505098
-25115547,Mascarenhas,Terras de Trás-os-Montes,309,2025-03-20T05:38:00Z,25115547,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-20T05:38:00Z,Mirandela,Bragança,Norte,-7.13833,41.56222
+25115547,Mascarenhas,Terras de Trás-os-Montes,309,2025-03-20T05:38:00Z,25115547,Em curso,3301,Queda de árvore,0,2,0,5,2025-03-20T05:38:00Z,Mirandela,Bragança,Norte,-7.13833,41.56222
 25115574,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T05:42:00Z,25115574,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:42:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.049025,38.49842
-25115581,São Mamede,Região de Leiria,310,2025-03-20T05:39:00Z,25115581,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:39:00Z,Batalha,Leiria,Centro,-8.703633,39.604705
 25115588,Moreira,Area M. Porto,309,2025-03-20T05:12:00Z,25115588,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-03-20T05:12:00Z,Maia,Porto,Norte,-8.651156,41.243233
 25115597,Santa Eulália,Ave,309,2025-03-20T05:46:00Z,25115597,Em curso,3301,Queda de árvore,0,2,0,4,2025-03-20T05:46:00Z,Vizela,Braga,Norte,-8.300582,41.345555
-25115606,Palmeira,Cávado,309,2025-03-20T05:47:00Z,25115606,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:47:00Z,Braga,Braga,Norte,-8.43697,41.59431
+25115606,Palmeira,Cávado,309,2025-03-20T05:47:00Z,25115606,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:47:00Z,Braga,Braga,Norte,-8.43697,41.59431
 25115613,Cascais e Estoril,Grande Lisboa,311,2025-03-20T05:47:00Z,25115613,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:47:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.390639,38.70786
 25115624,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-03-20T05:26:00Z,25115624,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:26:00Z,Vila Nova De Gaia,Porto,Norte,-8.502382,41.048753
-25115656,Senhorim,Viseu Dão Lafões,310,2025-03-20T05:50:00Z,25115656,Em curso,3301,Queda de árvore,0,2,0,6,2025-03-20T05:50:00Z,Nelas,Viseu,Centro,-7.801588,40.530413
-25114756,Alverca da Beira/Bouça Cova,Beiras e Serra da Estrela,310,2025-03-20T03:59:00Z,25114756,Em conclusão,3311,Queda de elementos de estruturas edificados,0,2,0,5,2025-03-20T03:59:00Z,Pinhel,Guarda,Centro,-7.21422,40.70339
-25114759,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T02:33:00Z,25114759,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T02:33:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.394403,38.872548
-25114809,Vilas Boas e Vilarinho Das Azenhas,Terras de Trás-os-Montes,309,2025-03-20T04:05:00Z,25114809,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T04:05:00Z,Vila Flor,Bragança,Norte,-7.17078,41.3535
-25114874,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-03-20T03:15:00Z,25114874,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-03-20T03:15:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
-25114876,Paranhos,Area M. Porto,309,2025-03-20T04:11:00Z,25114876,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T04:11:00Z,Porto,Porto,Norte,-8.61155,41.16627
-25114924,Roliça,Oeste,311,2025-03-20T04:16:00Z,25114924,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T04:16:00Z,Bombarral,Leiria,Centro,-9.18013,39.28817
-25114927,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-03-20T04:15:00Z,25114927,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-20T04:15:00Z,Penela,Coimbra,Centro,-8.373242,40.019255
-25114957,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-03-20T04:19:00Z,25114957,Em curso,3301,Queda de árvore,0,4,0,9,2025-03-20T04:19:00Z,Mangualde,Viseu,Centro,-7.614291,40.623523
-25114960,Castelo Novo,Beiras e Serra da Estrela,310,2025-03-20T04:01:00Z,25114960,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T04:01:00Z,Fundão,Castelo Branco,Centro,-7.475218,40.126525
-25114990,Alcanede,Lezíria do Tejo,311,2025-03-20T04:24:00Z,25114990,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T04:24:00Z,Santarém,Santarém,Alentejo,-8.769388,39.400825
-25115169,Alcaria Ruiva,Baixo Alentejo,312,2025-03-20T04:45:00Z,25115169,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T04:45:00Z,Mértola,Beja,Alentejo,-7.754772,37.713133
-25115219,Arca e Varzielas,Viseu Dão Lafões,310,2025-03-20T04:57:00Z,25115219,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T04:57:00Z,Oliveira De Frades,Viseu,Centro,-8.180254,40.59843
-25115235,Poiares,Douro,309,2025-03-20T04:45:00Z,25115235,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:45:00Z,Freixo De Espada à Cinta,Bragança,Norte,-6.847067,41.065058
-25115249,Alcaria Ruiva,Baixo Alentejo,312,2025-03-20T05:01:00Z,25115249,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-20T05:01:00Z,Mértola,Beja,Alentejo,-7.8655,37.71755
-25115268,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-03-20T05:03:00Z,25115268,Em curso,3301,Queda de árvore,0,3,0,8,2025-03-20T05:03:00Z,Matosinhos,Porto,Norte,-8.696853,41.233351999999996
-25115269,Chacim,Terras de Trás-os-Montes,309,2025-03-20T05:00:00Z,25115269,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,4,2025-03-20T05:00:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.903879,41.462748
-25115284,Tornada e Salir do Porto,Oeste,311,2025-03-20T05:02:00Z,25115284,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-20T05:02:00Z,Caldas Da Rainha,Leiria,Centro,-9.151736,39.435014
-25115302,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-20T05:07:00Z,25115302,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.30988,38.83504
-25115350,São Martinho de Árvore e Lamarosa,Região de Coimbra,310,2025-03-20T05:13:00Z,25115350,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:13:00Z,Coimbra,Coimbra,Centro,-8.551362,40.22228
-25115351,Carapeços,Cávado,309,2025-03-20T05:14:00Z,25115351,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:14:00Z,Barcelos,Braga,Norte,-8.63294,41.58514
-25115663,São Pedro D'Arcos,Alto Minho,309,2025-03-20T05:53:00Z,25115663,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:53:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.679994,41.75871
+25115702,Cascais e Estoril,Grande Lisboa,311,2025-03-20T05:59:00Z,25115702,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40372,38.7131
+25115718,Reguengo Grande,Oeste,311,2025-03-20T05:56:00Z,25115718,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:56:00Z,Lourinhã,Lisboa,Centro,-9.223631,39.278543
+25115734,Rebordões,Area M. Porto,309,2025-03-20T06:00:00Z,25115734,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:00:00Z,Santo Tirso,Porto,Norte,-8.430409,41.351615
+25115735,Palmela,Península de Setúbal,311,2025-03-20T06:03:00Z,25115735,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:03:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.92673,38.57614
+25115752,Forno Telheiro,Beiras e Serra da Estrela,310,2025-03-20T06:06:00Z,25115752,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T06:06:00Z,Celorico Da Beira,Guarda,Centro,-7.389122,40.677411
+25115754,Muxagata,Beiras e Serra da Estrela,310,2025-03-20T06:07:00Z,25115754,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Fornos De Algodres,Guarda,Centro,-7.471552,40.647
+25115770,Aldeia Galega da Merceana e Aldeia Gavinha,Oeste,311,2025-03-20T05:39:00Z,25115770,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T05:39:00Z,Alenquer,Lisboa,Centro,-9.123435,39.075879
+25115771,Mafra,Grande Lisboa,311,2025-03-20T06:09:00Z,25115771,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:09:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.33189,38.9307
+25115786,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão",Tâmega e Sousa,309,2025-03-20T06:05:00Z,25115786,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:05:00Z,Amarante,Porto,Norte,-8.085395,41.273908
+25115803,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T06:07:00Z,25115803,Em curso,3329,Queda de estruturas temporárias ou móveis,0,1,0,1,2025-03-20T06:07:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25115828,Girabolhos,Beiras e Serra da Estrela,310,2025-03-20T05:00:00Z,25115828,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:00:00Z,Seia,Guarda,Centro,-7.738184,40.507902
+25115829,Mata de Lobos,Beiras e Serra da Estrela,310,2025-03-20T06:14:00Z,25115829,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-20T06:14:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.913027,40.9073
+25115843,Rio de Mouro,Grande Lisboa,311,2025-03-20T06:17:00Z,25115843,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:17:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35274,38.75745
+25115859,Beire,Area M. Porto,309,2025-03-20T06:17:00Z,25115859,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:17:00Z,Paredes,Porto,Norte,-8.321493,41.244712
+25115860,Santiago,Beiras e Serra da Estrela,310,2025-03-20T06:05:00Z,25115860,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:05:00Z,Seia,Guarda,Centro,-7.744237,40.428618
+25115876,São João da Boa Vista,Região de Coimbra,310,2025-03-20T06:18:00Z,25115876,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T06:18:00Z,Tábua,Coimbra,Centro,-8.008366,40.340948
+25115877,Ericeira,Grande Lisboa,311,2025-03-20T06:21:00Z,25115877,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:21:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.37994,38.97266
+25115879,Arcos,Alentejo Central,312,2025-03-20T05:58:00Z,25115879,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T05:58:00Z,Estremoz,Évora,Alentejo,-7.509278,38.83415
+25115895,Cesar,Area M. Porto,309,2025-03-20T06:21:00Z,25115895,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:21:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.442769,40.917185
+25115896,Anhões e Luzio,Alto Minho,309,2025-03-20T06:24:00Z,25115896,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:24:00Z,Monção,Viana Do Castelo,Norte,-8.447783,41.99057
+25115926,Couto de Esteves,Região de Aveiro,310,2025-03-20T06:20:00Z,25115926,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:20:00Z,Sever Do Vouga,Aveiro,Centro,-8.327384,40.773101
+25115656,Senhorim,Viseu Dão Lafões,310,2025-03-20T05:50:00Z,25115656,Em resolução,3301,Queda de árvore,0,1,0,4,2025-03-20T05:50:00Z,Nelas,Viseu,Centro,-7.801588,40.530413
 25115674,Amonde,Alto Minho,309,2025-03-20T05:46:00Z,25115674,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:46:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.760887,41.783277
 25115683,Campeã,Douro,309,2025-03-20T05:45:00Z,25115683,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:45:00Z,Vila Real,Vila Real,Norte,-7.886237,41.295876
 25115713,Fráguas,Lezíria do Tejo,311,2025-03-20T06:00:00Z,25115713,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-20T06:00:00Z,Rio Maior,Santarém,Alentejo,-8.853799,39.376898
@@ -450,133 +495,103 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25115738,Chafé,Alto Minho,309,2025-03-20T05:58:00Z,25115738,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-20T05:58:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.799022,41.645926
 25115740,Alfragide,Grande Lisboa,311,2025-03-20T06:05:00Z,25115740,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T06:05:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.2185,38.73116
 25115763,Nogueira do Cravo,Região de Coimbra,310,2025-03-20T06:00:00Z,25115763,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:00:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.894279,40.320057
-25115765,"Belazaima do Chão, Castanheira do Vouga e Agadão",Região de Aveiro,310,2025-03-20T06:00:00Z,25115765,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:00:00Z,Águeda,Aveiro,Centro,-8.368115,40.567709
-25115060,São Paio,Beiras e Serra da Estrela,310,2025-03-20T04:03:00Z,25115060,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T04:03:00Z,Gouveia,Guarda,Centro,-7.578576,40.511694
-25115076,Biscainho,Lezíria do Tejo,311,2025-03-20T04:36:00Z,25115076,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T04:36:00Z,Coruche,Santarém,Alentejo,-8.535927,38.953887
-25115090,Castêlo da Maia,Area M. Porto,309,2025-03-20T04:38:00Z,25115090,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T04:38:00Z,Maia,Porto,Norte,-8.60997,41.26863
-25115125,Cárquere,Tâmega e Sousa,309,2025-03-20T04:39:00Z,25115125,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:39:00Z,Resende,Viseu,Norte,-7.956988,41.089197
-25115157,Nelas,Viseu Dão Lafões,310,2025-03-20T04:46:00Z,25115157,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:46:00Z,Nelas,Viseu,Centro,-7.855738,40.520916
-25115159,Vila Franca de Xira,Grande Lisboa,311,2025-03-20T03:56:00Z,25115159,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T03:56:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.011273,38.953274
-25115175,Teixoso e Sarzedo,Beiras e Serra da Estrela,310,2025-03-20T04:35:00Z,25115175,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:35:00Z,Covilhã,Castelo Branco,Centro,-7.455476,40.315622
-25115191,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-03-20T04:35:00Z,25115191,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T04:35:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.448673,41.011004
-25115209,"Esposende, Marinhas e Gandra",Cávado,309,2025-03-20T04:25:00Z,25115209,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T04:25:00Z,Esposende,Braga,Norte,-8.77323,41.541808
-25115260,Casével e Vaqueiros,Lezíria do Tejo,311,2025-03-20T05:01:00Z,25115260,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T05:01:00Z,Santarém,Santarém,Alentejo,-8.613992,39.370617
-25115277,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-03-20T05:05:00Z,25115277,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T05:05:00Z,Vila Nova De Gaia,Porto,Norte,-8.60908,41.12638
-25115402,Silgueiros,Viseu Dão Lafões,310,2025-03-20T05:21:00Z,25115402,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:21:00Z,Viseu,Viseu,Centro,-7.97615,40.55187
-25115416,Pataias e Martingança,Oeste,311,2025-03-20T05:20:00Z,25115416,Em despacho,3301,Queda de árvore,0,2,0,10,2025-03-20T05:20:00Z,Alcobaça,Leiria,Centro,-8.958497,39.692336
-25115433,Rocas do Vouga,Região de Aveiro,310,2025-03-20T05:14:00Z,25115433,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-03-20T05:14:00Z,Sever Do Vouga,Aveiro,Centro,-8.353407,40.762248
-25115450,Fontes,Douro,309,2025-03-20T05:24:00Z,25115450,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T05:24:00Z,Santa Marta De Penaguião,Vila Real,Norte,-7.823046,41.226681
-25115484,Santo Isidoro,Grande Lisboa,311,2025-03-20T05:31:00Z,25115484,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.35978,38.99009
-25115486,Maceira,Região de Leiria,310,2025-03-20T05:25:00Z,25115486,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T05:25:00Z,Leiria,Leiria,Centro,-8.929179,39.67723
-25115517,"Boa Aldeia, Farminhão e Torredeita",Viseu Dão Lafões,310,2025-03-20T05:11:00Z,25115517,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:11:00Z,Viseu,Viseu,Centro,-8.010225,40.615614
-25115519,Palhais e Coina,Península de Setúbal,311,2025-03-20T05:35:00Z,25115519,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:35:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.04503,38.59544
-25115534,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-03-20T05:36:00Z,25115534,Em curso,3301,Queda de árvore,0,2,0,4,2025-03-20T05:36:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.132069,39.94651
-25115551,São João de Lourosa,Viseu Dão Lafões,310,2025-03-20T05:39:00Z,25115551,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:39:00Z,Viseu,Viseu,Centro,-7.92026,40.59978
-25115553,Cascais e Estoril,Grande Lisboa,311,2025-03-20T05:40:00Z,25115553,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:40:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.387946,38.71141
+25115765,"Belazaima do Chão, Castanheira do Vouga e Agadão",Região de Aveiro,310,2025-03-20T06:00:00Z,25115765,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T06:00:00Z,Águeda,Aveiro,Centro,-8.368115,40.567709
+25115818,Santiago Dos Velhos,Oeste,311,2025-03-20T06:13:00Z,25115818,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:13:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.118066,38.939012
+25115819,Águas Santas,Area M. Porto,309,2025-03-20T06:14:00Z,25115819,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T06:14:00Z,Maia,Porto,Norte,-8.57619,41.20257
+25115836,Beduído e Veiros,Região de Aveiro,310,2025-03-20T06:06:00Z,25115836,Em curso,3301,Queda de árvore,0,2,0,5,2025-03-20T06:06:00Z,Estarreja,Aveiro,Centro,-8.616237,40.750638
+25115837,Vila Nova da Barquinha,Médio Tejo,311,2025-03-20T06:15:00Z,25115837,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-03-20T06:15:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.441053,39.468797
+25115853,Moimenta da Serra e Vinhó,Beiras e Serra da Estrela,310,2025-03-20T06:10:00Z,25115853,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:10:00Z,Gouveia,Guarda,Centro,-7.635836,40.485517
+25115869,"Abrunheira, Verride e Vila Nova da Barca",Região de Coimbra,310,2025-03-20T06:20:00Z,25115869,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:20:00Z,Montemor-o-Velho,Coimbra,Centro,-8.703398,40.139677
+25115886,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2025-03-20T06:20:00Z,25115886,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:20:00Z,Porto,Porto,Norte,-8.672426,41.161999
+25115901,Glória e Vera Cruz,Região de Aveiro,310,2025-03-20T06:21:00Z,25115901,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T06:21:00Z,Aveiro,Aveiro,Centro,-8.659223,40.645992
+25115902,Chave,Area M. Porto,309,2025-03-20T06:21:00Z,25115902,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:21:00Z,Arouca,Aveiro,Norte,-8.350782,40.904985
+25115903,Caparica e Trafaria,Península de Setúbal,311,2025-03-20T06:24:00Z,25115903,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T06:24:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.255474,38.66401
+25115927,Eiriz,Tâmega e Sousa,309,2025-03-20T06:24:00Z,25115927,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:24:00Z,Paços De Ferreira,Porto,Norte,-8.380309,41.305164
+25115928,Carlão e Amieiro,Douro,309,2025-03-20T05:55:00Z,25115928,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:55:00Z,Alijó,Vila Real,Norte,-7.406984,41.319356
+25115929,Lorvão,Região de Coimbra,310,2025-03-20T06:25:00Z,25115929,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:25:00Z,Penacova,Coimbra,Centro,-8.288272,40.255355
+25115945,Pontével,Lezíria do Tejo,311,2025-03-20T06:30:00Z,25115945,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T06:30:00Z,Cartaxo,Santarém,Alentejo,-8.86564,39.13914
+25115961,Pinhal Novo,Península de Setúbal,311,2025-03-20T06:20:00Z,25115961,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T06:20:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.85817,38.673386
+25115963,Pombeiro da Beira,Região de Coimbra,310,2025-03-20T06:26:00Z,25115963,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:26:00Z,Arganil,Coimbra,Centro,-8.106092,40.229341
+25115976,Setúbal (São Sebastião),Península de Setúbal,311,2025-03-20T06:33:00Z,25115976,Em curso,3301,Queda de árvore,0,1,0,1,2025-03-20T06:33:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.85357,38.51031
+25115977,Fornelos,Tâmega e Sousa,309,2025-03-20T06:20:00Z,25115977,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:20:00Z,Cinfães,Viseu,Norte,-8.212805,41.034374
+25115979,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-03-20T06:05:00Z,25115979,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:05:00Z,Matosinhos,Porto,Norte,-8.699522,41.236271
+25115993,Rio de Mel,Beiras e Serra da Estrela,310,2025-03-20T06:30:00Z,25115993,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-20T06:30:00Z,Trancoso,Guarda,Centro,-7.400689,40.811471
+25115995,Malpica do Tejo,Beira Baixa,310,2025-03-20T06:33:00Z,25115995,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.422987,39.739071
 25115774,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-03-20T06:07:00Z,25115774,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:07:00Z,Mangualde,Viseu,Centro,-7.62744,40.60377
 25115799,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-20T06:12:00Z,25115799,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:12:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.88988,38.53046
 25115808,São Miguel do Outeiro e Sabugosa,Viseu Dão Lafões,310,2025-03-20T06:10:00Z,25115808,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:10:00Z,Tondela,Viseu,Centro,-8.044527,40.590431
 25115813,Tropeço,Area M. Porto,309,2025-03-20T06:10:00Z,25115813,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:10:00Z,Arouca,Aveiro,Norte,-8.323144,40.946341
 25115822,Castelejo,Beiras e Serra da Estrela,310,2025-03-20T06:15:00Z,25115822,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:15:00Z,Fundão,Castelo Branco,Centro,-7.61121,40.11168
-25115824,Almagreira,Região de Leiria,310,2025-03-20T05:45:00Z,25115824,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:45:00Z,Pombal,Leiria,Centro,-8.690032,39.939809
 25115831,Sarzedo,Douro,309,2025-03-20T06:04:00Z,25115831,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:04:00Z,Moimenta Da Beira,Viseu,Norte,-7.644609,41.003658
-25115833,Santo António Dos Olivais,Região de Coimbra,310,2025-03-20T06:16:00Z,25115833,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:16:00Z,Coimbra,Coimbra,Centro,-8.39713,40.20394
+25115838,Colmeias e Memória,Região de Leiria,310,2025-03-20T06:16:00Z,25115838,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:16:00Z,Leiria,Leiria,Centro,-8.711537,39.82474
 25115847,Silgueiros,Viseu Dão Lafões,310,2025-03-20T06:15:00Z,25115847,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:15:00Z,Viseu,Viseu,Centro,-7.964273,40.561525
 25115849,Pontinha e Famões,Grande Lisboa,311,2025-03-20T06:18:00Z,25115849,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:18:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.20379,38.801
-25115292,Corujeira e Trinta,Beiras e Serra da Estrela,310,2025-03-20T05:05:00Z,25115292,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:05:00Z,Guarda,Guarda,Centro,-7.354479,40.505
-25115326,Eixo e Eirol,Região de Aveiro,310,2025-03-20T05:10:00Z,25115326,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:10:00Z,Aveiro,Aveiro,Centro,-8.539589,40.608655
-25115361,Ota,Oeste,311,2025-03-20T05:05:00Z,25115361,Em despacho,3301,Queda de árvore,0,4,0,11,2025-03-20T05:05:00Z,Alenquer,Lisboa,Centro,-8.990371,39.111378
-25115376,Penedono e Granja,Douro,309,2025-03-20T05:15:00Z,25115376,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:15:00Z,Penedono,Viseu,Norte,-7.392822,40.98611
-25115394,Branca,Lezíria do Tejo,311,2025-03-20T05:19:00Z,25115394,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:19:00Z,Coruche,Santarém,Alentejo,-8.586492,38.879952
-25115475,Povolide,Viseu Dão Lafões,310,2025-03-20T05:26:00Z,25115475,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:26:00Z,Viseu,Viseu,Centro,-7.775885,40.683568
-25115477,Usseira,Oeste,311,2025-03-20T05:20:00Z,25115477,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T05:20:00Z,Óbidos,Leiria,Centro,-9.162999,39.332237
-25115626,Aboim Das Choças,Alto Minho,309,2025-03-20T05:49:00Z,25115626,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:49:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.45524,41.92142
-25115644,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-03-20T05:37:00Z,25115644,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T05:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.624714,41.132843
-25115662,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-03-20T05:52:00Z,25115662,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:52:00Z,Vila Nova De Gaia,Porto,Norte,-8.520862,41.04757
 25115858,Cacém e São Marcos,Grande Lisboa,311,2025-03-20T06:19:00Z,25115858,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:19:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.29443,38.74753
-25115867,Cabana Maior,Alto Minho,309,2025-03-20T04:50:00Z,25115867,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T04:50:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.333739,41.886321
+25115904,Bouro (Santa Maria),Cávado,309,2025-03-20T06:19:00Z,25115904,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:19:00Z,Amares,Braga,Norte,-8.263628,41.665478
+25115935,São João de Tarouca,Douro,309,2025-03-20T06:24:00Z,25115935,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:24:00Z,Tarouca,Viseu,Norte,-7.745676,40.997737
+25115951,Freixieiro de Soutelo,Alto Minho,309,2025-03-20T06:30:00Z,25115951,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:30:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.791324,41.79232
+25115952,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-03-20T06:29:00Z,25115952,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T06:29:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.799927,39.01723
+25115968,"Valença, Cristelo Covo e Arão",Alto Minho,309,2025-03-20T06:30:00Z,25115968,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:30:00Z,Valença,Viana Do Castelo,Norte,-8.644383,42.018188
+25115969,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-03-20T06:32:00Z,25115969,Em resolução,3301,Queda de árvore,0,2,0,9,2025-03-20T06:32:00Z,Cartaxo,Santarém,Alentejo,-8.830043,39.181272
+25115970,Comenda,Alto Alentejo,312,2025-03-20T06:33:00Z,25115970,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:33:00Z,Gavião,Portalegre,Alentejo,-7.842802,39.40187
+25115971,Carvalhal Benfeito,Oeste,311,2025-03-20T06:32:00Z,25115971,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:32:00Z,Caldas Da Rainha,Leiria,Centro,-9.044987,39.443106
+25115986,Trancoso (São Pedro e Santa Maria) e Souto Maior,Beiras e Serra da Estrela,310,2025-03-20T06:35:00Z,25115986,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:35:00Z,Trancoso,Guarda,Centro,-7.379003,40.77071
+25116003,Adaúfe,Cávado,309,2025-03-20T05:42:00Z,25116003,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:42:00Z,Braga,Braga,Norte,-8.398076,41.589984
+25116019,Escapães,Area M. Porto,309,2025-03-20T06:30:00Z,25116019,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-20T06:30:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.506286,40.928673
+25116010,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-03-20T06:38:00Z,25116010,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:38:00Z,Torres Vedras,Lisboa,Centro,-9.21202,39.08951
+25116013,Santo António da Charneca,Península de Setúbal,311,2025-03-20T06:38:00Z,25116013,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:38:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.04262,38.63396
+25116028,Vila de Cucujães,Area M. Porto,309,2025-03-20T06:00:00Z,25116028,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.507006,40.873108
+25116029,Quiaios,Região de Coimbra,310,2025-03-20T06:40:00Z,25116029,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:40:00Z,Figueira Da Foz,Coimbra,Centro,-8.830466,40.19139
+25116043,Pala,Região de Coimbra,310,2025-03-20T06:30:00Z,25116043,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:30:00Z,Mortágua,Viseu,Centro,-8.270972,40.416577
+25116044,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-20T06:40:00Z,25116044,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:40:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
+25116045,Areosa,Alto Minho,309,2025-03-20T06:42:00Z,25116045,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T06:42:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.861323,41.714588
+25116046,Valadares,Tâmega e Sousa,309,2025-03-20T06:37:00Z,25116046,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:37:00Z,Baião,Porto,Norte,-7.959225,41.144127
+25116061,Santo António Dos Olivais,Região de Coimbra,310,2025-03-20T06:41:00Z,25116061,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:41:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
+25116062,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-03-20T06:20:00Z,25116062,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:20:00Z,Ovar,Aveiro,Centro,-8.632482,40.864029
+25116077,Canelas,Tâmega e Sousa,309,2025-03-20T06:30:00Z,25116077,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:30:00Z,Penafiel,Porto,Norte,-8.32233,41.076566
+25115867,Cabana Maior,Alto Minho,309,2025-03-20T04:50:00Z,25115867,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T04:50:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.333739,41.886321
 25115874,Torre e Vila Mou,Alto Minho,309,2025-03-20T06:21:00Z,25115874,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:21:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.70118,41.73196
-25115888,Peniche,Oeste,311,2025-03-20T06:18:00Z,25115888,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-20T06:18:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 25115890,Setúbal (São Sebastião),Península de Setúbal,311,2025-03-20T06:23:00Z,25115890,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:23:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.87776,38.5403
-25115899,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-03-20T06:20:00Z,25115899,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:20:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.267637,38.115227
+25115899,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-03-20T06:20:00Z,25115899,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:20:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.267637,38.115227
 25115924,Macieira de Cambra,Area M. Porto,309,2025-03-20T06:07:00Z,25115924,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-03-20T06:07:00Z,Vale De Cambra,Aveiro,Norte,-8.367205,40.870286
 25115942,Azambuja,Lezíria do Tejo,311,2025-03-20T06:29:00Z,25115942,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:29:00Z,Azambuja,Lisboa,Alentejo,-8.902594,39.064036
 25115947,Braga (São Vicente),Cávado,309,2025-03-20T05:47:00Z,25115947,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-03-20T05:47:00Z,Braga,Braga,Norte,-8.419631,41.563364
 25115965,Atei,Ave,309,2025-03-20T06:31:00Z,25115965,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T06:31:00Z,Mondim De Basto,Vila Real,Norte,-7.917657,41.451786
-25115567,Carvalhal Benfeito,Oeste,311,2025-03-20T05:40:00Z,25115567,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:40:00Z,Caldas Da Rainha,Leiria,Centro,-9.038958,39.42604
-25115569,Canelas,Tâmega e Sousa,309,2025-03-20T05:41:00Z,25115569,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:41:00Z,Penafiel,Porto,Norte,-8.315262,41.0616
-25115601,Carvalhal,Oeste,311,2025-03-20T05:24:00Z,25115601,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:24:00Z,Bombarral,Leiria,Centro,-9.114338,39.316976
-25115617,Cabanelas,Cávado,309,2025-03-20T05:39:00Z,25115617,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-20T05:39:00Z,Vila Verde,Braga,Norte,-8.493397,41.588839
-25115620,Parada de Ester e Ester,Viseu Dão Lafões,310,2025-03-20T05:32:00Z,25115620,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:32:00Z,Castro Daire,Viseu,Centro,-8.071387,40.932635
-25115636,Trancoso (São Pedro e Santa Maria) e Souto Maior,Beiras e Serra da Estrela,310,2025-03-20T05:45:00Z,25115636,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-20T05:45:00Z,Trancoso,Guarda,Centro,-7.349001,40.772412
-25115637,Espinho,Região de Coimbra,310,2025-03-20T05:50:00Z,25115637,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T05:50:00Z,Mortágua,Viseu,Centro,-8.309869,40.422828
-25115651,Santiago de Piães,Tâmega e Sousa,309,2025-03-20T05:47:00Z,25115651,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T05:47:00Z,Cinfães,Viseu,Norte,-8.154546,41.065916
-25115685,Fanhões,Grande Lisboa,311,2025-03-20T05:55:00Z,25115685,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:55:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.189041,38.903262
-25115702,Cascais e Estoril,Grande Lisboa,311,2025-03-20T05:59:00Z,25115702,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40372,38.7131
-25115718,Reguengo Grande,Oeste,311,2025-03-20T05:56:00Z,25115718,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T05:56:00Z,Lourinhã,Lisboa,Centro,-9.223631,39.278543
-25115675,Baraçal,Beiras e Serra da Estrela,310,2025-03-20T05:55:00Z,25115675,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T05:55:00Z,Sabugal,Guarda,Centro,-7.064427,40.39398
-25115679,Turquel,Oeste,311,2025-03-20T05:25:00Z,25115679,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T05:25:00Z,Alcobaça,Leiria,Centro,-8.9558700000000009,39.470792
-25115693,Caparica e Trafaria,Península de Setúbal,311,2025-03-20T05:44:00Z,25115693,Em curso,3301,Queda de árvore,0,2,0,8,2025-03-20T05:44:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.218537,38.64447
-25115709,"Cernache do Bonjardim, Nesperal e Palhais",Beira Baixa,310,2025-03-20T06:01:00Z,25115709,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:01:00Z,Sertã,Castelo Branco,Centro,-8.18703,39.81675
-25115727,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T06:03:00Z,25115727,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:03:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.08172,38.47355
-25115728,Nelas,Viseu Dão Lafões,310,2025-03-20T06:03:00Z,25115728,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:03:00Z,Nelas,Viseu,Centro,-7.83982,40.54856
-25115742,Leomil,Douro,309,2025-03-20T05:52:00Z,25115742,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T05:52:00Z,Moimenta Da Beira,Viseu,Norte,-7.6295,40.95857
-25115743,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T06:01:00Z,25115743,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:01:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25115744,Campeã,Douro,309,2025-03-20T05:59:00Z,25115744,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:59:00Z,Vila Real,Vila Real,Norte,-7.889597,41.29077
-25115762,"Santa Maria, São Pedro e Sobral da Lagoa",Oeste,311,2025-03-20T05:55:00Z,25115762,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T05:55:00Z,Óbidos,Leiria,Centro,-9.142891,39.385554
-25115776,Eirado,Viseu Dão Lafões,310,2025-03-20T06:00:00Z,25115776,Em curso,3301,Queda de árvore,0,1,0,1,2025-03-20T06:00:00Z,Aguiar Da Beira,Guarda,Centro,-7.480372,40.783133
-25115734,Rebordões,Area M. Porto,309,2025-03-20T06:00:00Z,25115734,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:00:00Z,Santo Tirso,Porto,Norte,-8.430409,41.351615
-25115735,Palmela,Península de Setúbal,311,2025-03-20T06:03:00Z,25115735,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:03:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.92673,38.57614
-25115752,Forno Telheiro,Beiras e Serra da Estrela,310,2025-03-20T06:06:00Z,25115752,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T06:06:00Z,Celorico Da Beira,Guarda,Centro,-7.389122,40.677411
-25115754,Muxagata,Beiras e Serra da Estrela,310,2025-03-20T06:07:00Z,25115754,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Fornos De Algodres,Guarda,Centro,-7.471552,40.647
-25115770,Aldeia Galega da Merceana e Aldeia Gavinha,Oeste,311,2025-03-20T05:39:00Z,25115770,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T05:39:00Z,Alenquer,Lisboa,Centro,-9.123435,39.075879
-25115771,Mafra,Grande Lisboa,311,2025-03-20T06:09:00Z,25115771,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:09:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.33189,38.9307
-25115785,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-03-20T06:01:00Z,25115785,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-20T06:01:00Z,Ovar,Aveiro,Centro,-8.632482,40.864029
-25115786,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão",Tâmega e Sousa,309,2025-03-20T06:05:00Z,25115786,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:05:00Z,Amarante,Porto,Norte,-8.085395,41.273908
-25115803,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T06:07:00Z,25115803,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,6,2025-03-20T06:07:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25115778,Alpiarça,Lezíria do Tejo,311,2025-03-20T06:08:00Z,25115778,Em conclusão,3301,Queda de árvore,0,2,0,7,2025-03-20T06:08:00Z,Alpiarça,Santarém,Alentejo,-8.546603,39.27596
-25115779,"Cernache do Bonjardim, Nesperal e Palhais",Beira Baixa,310,2025-03-20T06:06:00Z,25115779,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:06:00Z,Sertã,Castelo Branco,Centro,-8.203185,39.817744
-25115794,Pinhal Novo,Península de Setúbal,311,2025-03-20T05:45:00Z,25115794,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-20T05:45:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
-25115795,Covide,Cávado,309,2025-03-20T06:07:00Z,25115795,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Terras De Bouro,Braga,Norte,-8.210911,41.72393
-25115796,Asseiceira,Médio Tejo,311,2025-03-20T06:06:00Z,25115796,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T06:06:00Z,Tomar,Santarém,Centro,-8.408643,39.53995
-25115809,Cruz,Ave,309,2025-03-20T06:08:00Z,25115809,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:08:00Z,Vila Nova De Famalicão,Braga,Norte,-8.495552,41.440794
-25115810,Barroças e Taias,Alto Minho,309,2025-03-20T06:13:00Z,25115810,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:13:00Z,Monção,Viana Do Castelo,Norte,-8.502289,41.999427
-25115812,Galegos (Santa Maria),Cávado,309,2025-03-20T06:13:00Z,25115812,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:13:00Z,Barcelos,Braga,Norte,-8.57675,41.56503
-25115827,Quinta do Anjo,Península de Setúbal,311,2025-03-20T06:15:00Z,25115827,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:15:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.99287,38.58382
-25115828,Girabolhos,Beiras e Serra da Estrela,310,2025-03-20T05:00:00Z,25115828,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T05:00:00Z,Seia,Guarda,Centro,-7.738184,40.507902
-25115829,Mata de Lobos,Beiras e Serra da Estrela,310,2025-03-20T06:14:00Z,25115829,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-20T06:14:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.913027,40.9073
-25115818,Santiago Dos Velhos,Oeste,311,2025-03-20T06:13:00Z,25115818,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:13:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.118066,38.939012
-25115819,Águas Santas,Area M. Porto,309,2025-03-20T06:14:00Z,25115819,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T06:14:00Z,Maia,Porto,Norte,-8.57619,41.20257
-25115836,Beduído e Veiros,Região de Aveiro,310,2025-03-20T06:06:00Z,25115836,Em curso,3301,Queda de árvore,0,2,0,5,2025-03-20T06:06:00Z,Estarreja,Aveiro,Centro,-8.616237,40.750638
-25115837,Vila Nova da Barquinha,Médio Tejo,311,2025-03-20T06:15:00Z,25115837,Em resolução,3301,Queda de árvore,0,1,0,4,2025-03-20T06:15:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.441053,39.468797
-25115853,Moimenta da Serra e Vinhó,Beiras e Serra da Estrela,310,2025-03-20T06:10:00Z,25115853,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:10:00Z,Gouveia,Guarda,Centro,-7.635836,40.485517
-25115869,"Abrunheira, Verride e Vila Nova da Barca",Região de Coimbra,310,2025-03-20T06:20:00Z,25115869,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:20:00Z,Montemor-o-Velho,Coimbra,Centro,-8.703398,40.139677
-25115870,Pontével,Lezíria do Tejo,311,2025-03-20T06:19:00Z,25115870,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:19:00Z,Cartaxo,Santarém,Alentejo,-8.834097,39.147337
-25115886,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2025-03-20T06:20:00Z,25115886,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:20:00Z,Porto,Porto,Norte,-8.672426,41.161999
-25115901,Glória e Vera Cruz,Região de Aveiro,310,2025-03-20T06:21:00Z,25115901,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-20T06:21:00Z,Aveiro,Aveiro,Centro,-8.659223,40.645992
-25115902,Chave,Area M. Porto,309,2025-03-20T06:21:00Z,25115902,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:21:00Z,Arouca,Aveiro,Norte,-8.350782,40.904985
-25115903,Caparica e Trafaria,Península de Setúbal,311,2025-03-20T06:24:00Z,25115903,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-20T06:24:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.255474,38.66401
-25115843,Rio de Mouro,Grande Lisboa,311,2025-03-20T06:17:00Z,25115843,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:17:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35274,38.75745
-25115859,Beire,Area M. Porto,309,2025-03-20T06:17:00Z,25115859,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:17:00Z,Paredes,Porto,Norte,-8.321493,41.244712
-25115860,Santiago,Beiras e Serra da Estrela,310,2025-03-20T06:05:00Z,25115860,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:05:00Z,Seia,Guarda,Centro,-7.744237,40.428618
-25115876,São João da Boa Vista,Região de Coimbra,310,2025-03-20T06:18:00Z,25115876,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:18:00Z,Tábua,Coimbra,Centro,-8.008366,40.340948
-25115877,Ericeira,Grande Lisboa,311,2025-03-20T06:21:00Z,25115877,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:21:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.37994,38.97266
-25115879,Arcos,Alentejo Central,312,2025-03-20T05:58:00Z,25115879,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:58:00Z,Estremoz,Évora,Alentejo,-7.509278,38.83415
-25115894,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-03-20T06:23:00Z,25115894,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:23:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.09966,38.62829
-25115895,Cesar,Area M. Porto,309,2025-03-20T06:21:00Z,25115895,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:21:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.442769,40.917185
-25115896,Anhões e Luzio,Alto Minho,309,2025-03-20T06:24:00Z,25115896,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:24:00Z,Monção,Viana Do Castelo,Norte,-8.447783,41.99057
-25115926,Couto de Esteves,Região de Aveiro,310,2025-03-20T06:20:00Z,25115926,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:20:00Z,Sever Do Vouga,Aveiro,Centro,-8.327384,40.773101
-25115904,Bouro (Santa Maria),Cávado,309,2025-03-20T06:19:00Z,25115904,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:19:00Z,Amares,Braga,Norte,-8.263628,41.665478
-25115935,São João de Tarouca,Douro,309,2025-03-20T06:24:00Z,25115935,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:24:00Z,Tarouca,Viseu,Norte,-7.745676,40.997737
-25115936,Galegos (Santa Maria),Cávado,309,2025-03-20T06:15:00Z,25115936,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:15:00Z,Barcelos,Braga,Norte,-8.582296,41.564645
-25115937,Quinta do Conde,Península de Setúbal,311,2025-03-20T06:16:00Z,25115937,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-20T06:16:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.03613,38.570355
-25115952,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-03-20T06:29:00Z,25115952,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T06:29:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.791365,39.03049
-25115968,"Valença, Cristelo Covo e Arão",Alto Minho,309,2025-03-20T06:30:00Z,25115968,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:30:00Z,Valença,Viana Do Castelo,Norte,-8.644383,42.018188
-25115969,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-03-20T06:32:00Z,25115969,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:32:00Z,Cartaxo,Santarém,Alentejo,-8.822751,39.169923
-25115927,Eiriz,Tâmega e Sousa,309,2025-03-20T06:24:00Z,25115927,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:24:00Z,Paços De Ferreira,Porto,Norte,-8.380309,41.305164
-25115928,Carlão e Amieiro,Douro,309,2025-03-20T05:55:00Z,25115928,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:55:00Z,Alijó,Vila Real,Norte,-7.406984,41.319356
-25115929,Lorvão,Região de Coimbra,310,2025-03-20T06:25:00Z,25115929,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:25:00Z,Penacova,Coimbra,Centro,-8.288272,40.255355
-25115944,Alte,Algarve,313,2025-03-20T05:55:00Z,25115944,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T05:55:00Z,Loulé,Faro,Algarve,-8.183793,37.256669
-25115960,Moita Dos Ferreiros,Oeste,311,2025-03-20T06:13:00Z,25115960,Em despacho,3301,Queda de árvore,0,2,0,2,2025-03-20T06:13:00Z,Lourinhã,Lisboa,Centro,-9.227775,39.24698
-25115961,Pinhal Novo,Península de Setúbal,311,2025-03-20T06:20:00Z,25115961,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-20T06:20:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.85817,38.673386
-25115963,Pombeiro da Beira,Região de Coimbra,310,2025-03-20T06:26:00Z,25115963,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:26:00Z,Arganil,Coimbra,Centro,-8.106092,40.229341
+25115972,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-03-20T06:07:00Z,25115972,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:07:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.555837,40.9255
+25115981,Sesimbra (Castelo),Península de Setúbal,311,2025-03-20T06:34:00Z,25115981,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:34:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.08571,38.46993
+25116020,São José da Lamarosa,Lezíria do Tejo,311,2025-03-20T06:38:00Z,25116020,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:38:00Z,Coruche,Santarém,Alentejo,-8.464709,39.066108
+25116021,Atouguia da Baleia,Oeste,311,2025-03-20T06:35:00Z,25116021,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-03-20T06:35:00Z,Peniche,Leiria,Centro,-9.32433,39.339703
+25116036,"Santa Maria, São Pedro e Sobral da Lagoa",Oeste,311,2025-03-20T06:20:00Z,25116036,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-20T06:20:00Z,Óbidos,Leiria,Centro,-9.154509,39.386353
+25116038,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-03-20T06:40:00Z,25116038,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T06:40:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.013253,40.946134
+25116053,Areias e Pias,Médio Tejo,311,2025-03-20T06:42:00Z,25116053,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:42:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.324419,39.734747
+25116054,Gamil e Midões,Cávado,309,2025-03-20T06:40:00Z,25116054,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:40:00Z,Barcelos,Braga,Norte,-8.592743,41.508583
+25116055,Quinta do Conde,Península de Setúbal,311,2025-03-20T06:36:00Z,25116055,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-20T06:36:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.03613,38.570355
+25116068,Oliveirinha,Região de Aveiro,310,2025-03-20T06:44:00Z,25116068,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:44:00Z,Aveiro,Aveiro,Centro,-8.6056,40.60578
+25116069,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-20T06:44:00Z,25116069,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:44:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.412176,38.875807
+25116071,Cascais e Estoril,Grande Lisboa,311,2025-03-20T01:02:00Z,25116071,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:02:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.431354,38.711316
+25116078,São João da Madeira,Area M. Porto,309,2025-03-20T06:40:00Z,25116078,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-03-20T06:40:00Z,São João Da Madeira,Aveiro,Norte,-8.490365,40.895632
+25116079,Pechão,Algarve,313,2025-03-20T06:40:00Z,25116079,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-20T06:40:00Z,Olhão,Faro,Algarve,-7.868861,37.056355
+25116094,Enxames,Beiras e Serra da Estrela,310,2025-03-20T06:23:00Z,25116094,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:23:00Z,Fundão,Castelo Branco,Centro,-7.39128,40.161233
+25116111,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T02:50:00Z,25116111,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T02:50:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.008871,38.513402
+25115983,Bárrio,Oeste,311,2025-03-20T06:30:00Z,25115983,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:30:00Z,Alcobaça,Leiria,Centro,-8.999691,39.537123
+25115992,Arrifana,Beiras e Serra da Estrela,310,2025-03-20T06:35:00Z,25115992,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:35:00Z,Guarda,Guarda,Centro,-7.20714,40.57137
+25115997,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-03-20T06:34:00Z,25115997,Em curso,3301,Queda de árvore,0,3,0,8,2025-03-20T06:34:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
+25116006,Paialvo,Médio Tejo,311,2025-03-20T06:35:00Z,25116006,Em resolução,3301,Queda de árvore,0,1,0,4,2025-03-20T06:35:00Z,Tomar,Santarém,Centro,-8.461555,39.53585
+25116015,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-03-20T06:20:00Z,25116015,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:20:00Z,Trofa,Porto,Norte,-8.558796,41.329536
+25116031,São Cristóvão de Nogueira,Tâmega e Sousa,309,2025-03-20T06:30:00Z,25116031,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:30:00Z,Cinfães,Viseu,Norte,-8.133131,41.075823
+25116033,Alpiarça,Lezíria do Tejo,311,2025-03-20T06:40:00Z,25116033,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T06:40:00Z,Alpiarça,Santarém,Alentejo,-8.595402,39.262022
+25116042,"Lemenhe, Mouquim e Jesufrei",Ave,309,2025-03-20T06:37:00Z,25116042,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:37:00Z,Vila Nova De Famalicão,Braga,Norte,-8.519555,41.447557
+25116049,Carvalhal,Oeste,311,2025-03-20T06:36:00Z,25116049,Em despacho,3301,Queda de árvore,0,1,0,53,2025-03-20T06:36:00Z,Bombarral,Leiria,Centro,-9.103347,39.295822
+25116058,Fátima,Médio Tejo,311,2025-03-20T06:42:00Z,25116058,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:42:00Z,Ourém,Santarém,Centro,-8.670851,39.581444
+25116065,a Dos Cunhados e Maceira,Oeste,311,2025-03-20T06:44:00Z,25116065,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-20T06:44:00Z,Torres Vedras,Lisboa,Centro,-9.376405,39.13558
+25116085,Canaviais,Alentejo Central,312,2025-03-20T06:45:00Z,25116085,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-20T06:45:00Z,Évora,Évora,Alentejo,-7.899381,38.616252
+25116104,Corroios,Península de Setúbal,311,2025-03-20T06:50:00Z,25116104,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:50:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15159,38.58357
+25116105,Santo António Dos Olivais,Região de Coimbra,310,2025-03-20T06:39:00Z,25116105,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:39:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
+25116067,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-03-20T06:21:00Z,25116067,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-20T06:21:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.555837,40.9255
+25116072,Cela,Oeste,311,2025-03-20T06:43:00Z,25116072,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:43:00Z,Alcobaça,Leiria,Centro,-9.062135,39.50962
+25116081,Almoster,Lezíria do Tejo,311,2025-03-20T06:44:00Z,25116081,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:44:00Z,Santarém,Santarém,Alentejo,-8.795515,39.226827
+25116083,Maxial e Monte Redondo,Oeste,311,2025-03-20T05:45:00Z,25116083,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-20T05:45:00Z,Torres Vedras,Lisboa,Centro,-9.194754,39.13242
+25116090,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T06:43:00Z,25116090,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:43:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.190193,38.591584
+25116097,Coronado (São Romão e São Mamede),Area M. Porto,309,2025-03-20T06:48:00Z,25116097,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T06:48:00Z,Trofa,Porto,Norte,-8.57466,41.26169
+25116101,Ferreiros de Tendais,Tâmega e Sousa,309,2025-03-20T06:36:00Z,25116101,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-20T06:36:00Z,Cinfães,Viseu,Norte,-8.034096,41.043087
+25116108,Anta e Guetim,Area M. Porto,309,2025-03-20T06:44:00Z,25116108,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-20T06:44:00Z,Espinho,Aveiro,Norte,-8.614155,41.008103
