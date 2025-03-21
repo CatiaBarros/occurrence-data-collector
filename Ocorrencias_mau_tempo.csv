@@ -6,20 +6,19 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25117921,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T09:28:00Z,25117921,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T09:28:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.204146,38.62766
 25122574,Quarteira,Algarve,313,2025-03-20T16:38:00Z,25122574,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T16:38:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
 25124873,Campo de Ourique,Grande Lisboa,311,2025-03-21T00:08:00Z,25124873,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-21T00:08:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.169863,38.718496
-25124955,São Teotónio,Alentejo Litoral,312,2025-03-21T01:01:00Z,25124955,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-21T01:01:00Z,Odemira,Beja,Alentejo,-8.775833,37.717333000000004
-25125248,Luz,Algarve,313,2025-03-21T04:15:00Z,25125248,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-21T04:15:00Z,Lagos,Faro,Algarve,-8.745239,37.097115
+25125248,Luz,Algarve,313,2025-03-21T04:15:00Z,25125248,Em curso,3301,Queda de árvore,0,2,0,4,2025-03-21T04:15:00Z,Lagos,Faro,Algarve,-8.745239,37.097115
 25125300,Marmeleira,Região de Coimbra,310,2025-03-21T06:15:00Z,25125300,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-21T06:15:00Z,Mortágua,Viseu,Centro,-8.236737,40.374287
+25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
+25113270,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:34:00Z,25113270,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:34:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17811,38.58586
+25114074,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:52:00Z,25114074,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:52:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18666,38.59386
+25118969,Igrejinha,Alentejo Central,312,2025-03-20T10:31:00Z,25118969,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-20T10:31:00Z,Arraiolos,Évora,Alentejo,-7.889471,38.693718
+25124868,Campolide,Grande Lisboa,311,2025-03-21T00:01:00Z,25124868,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-21T00:01:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.165804,38.731424
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25116323,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T07:13:00Z,25116323,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T07:13:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.174973,38.58474
 25116409,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T07:22:00Z,25116409,Em curso,3329,Queda de estruturas temporárias ou móveis,0,0,0,0,2025-03-20T07:22:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19513,38.61485
 25116525,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T07:34:00Z,25116525,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T07:34:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18385,38.59055
 25125315,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-21T06:08:00Z,25125315,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-03-21T06:08:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
 25125317,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-21T06:14:00Z,25125317,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-21T06:14:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.411079,38.814569
-25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
-25113270,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:34:00Z,25113270,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:34:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17811,38.58586
-25114074,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:52:00Z,25114074,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:52:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18666,38.59386
-25118969,Igrejinha,Alentejo Central,312,2025-03-20T10:31:00Z,25118969,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-20T10:31:00Z,Arraiolos,Évora,Alentejo,-7.889471,38.693718
-25124868,Campolide,Grande Lisboa,311,2025-03-21T00:01:00Z,25124868,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-21T00:01:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.165804,38.731424
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em conclusão,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
