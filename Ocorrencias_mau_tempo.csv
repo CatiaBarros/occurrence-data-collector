@@ -1,4 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25114370,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:20:00Z,25114370,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:20:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17923,38.60275
+25115156,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T04:46:00Z,25115156,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:46:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.199091,38.62959
+25116192,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T06:59:00Z,25116192,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:59:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.179431,38.58817
+25117921,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T09:28:00Z,25117921,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T09:28:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.204146,38.62766
+25120554,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T13:07:00Z,25120554,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T13:07:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19039,38.60811
+25120847,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T13:38:00Z,25120847,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T13:38:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.99698,38.52598
+25122574,Quarteira,Algarve,313,2025-03-20T16:38:00Z,25122574,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T16:38:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
+25124873,Campo de Ourique,Grande Lisboa,311,2025-03-21T00:08:00Z,25124873,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-21T00:08:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.169863,38.718496
+25124955,São Teotónio,Alentejo Litoral,312,2025-03-21T01:01:00Z,25124955,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-21T01:01:00Z,Odemira,Beja,Alentejo,-8.775833,37.717333000000004
+25125123,Barbacena e Vila Fernando,Alto Alentejo,312,2025-03-21T03:06:00Z,25125123,Em curso,3301,Queda de árvore,0,2,0,4,2025-03-21T03:06:00Z,Elvas,Portalegre,Alentejo,-7.314847,38.926318
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em conclusão,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
@@ -14,18 +25,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25116525,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T07:34:00Z,25116525,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T07:34:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18385,38.59055
 25118440,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-20T10:00:00Z,25118440,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T10:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.393304,38.794377
 25121028,Quinta do Anjo,Península de Setúbal,311,2025-03-20T13:56:00Z,25121028,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T13:56:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.94361,38.60282
-25116673,Costa da Caparica,Península de Setúbal,311,2025-03-20T07:49:00Z,25116673,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T07:49:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.239889,38.65802
-25121520,Alcabideche,Grande Lisboa,311,2025-03-20T14:41:00Z,25121520,Em curso,3301,Queda de árvore,0,2,0,6,2025-03-20T14:41:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.421479,38.742081
-25122971,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T17:32:00Z,25122971,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T17:32:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.178593,38.60318
-25125126,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T10:30:00Z,25125126,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-20T10:30:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25113332,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:41:00Z,25113332,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:41:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18218,38.59689
-25114370,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T03:20:00Z,25114370,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T03:20:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17923,38.60275
-25115156,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T04:46:00Z,25115156,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T04:46:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.199091,38.62959
-25116192,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T06:59:00Z,25116192,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T06:59:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.179431,38.58817
-25117921,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T09:28:00Z,25117921,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T09:28:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.204146,38.62766
-25120554,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T13:07:00Z,25120554,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T13:07:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19039,38.60811
-25120847,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T13:38:00Z,25120847,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T13:38:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.99698,38.52598
+25125142,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T08:00:00Z,25125142,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T08:00:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25113270,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T01:34:00Z,25113270,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T01:34:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17811,38.58586
 25114074,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T02:52:00Z,25114074,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T02:52:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18666,38.59386
@@ -34,8 +34,8 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25117549,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T08:59:00Z,25117549,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T08:59:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18454,38.58157
 25118969,Igrejinha,Alentejo Central,312,2025-03-20T10:31:00Z,25118969,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-20T10:31:00Z,Arraiolos,Évora,Alentejo,-7.889471,38.693718
 25124868,Campolide,Grande Lisboa,311,2025-03-21T00:01:00Z,25124868,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-21T00:01:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.165804,38.731424
-25125037,Massamá e Monte Abraão,Grande Lisboa,311,2025-03-21T02:06:00Z,25125037,Em curso,3329,Queda de estruturas temporárias ou móveis,0,3,0,10,2025-03-21T02:06:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.264556,38.7599
-25122574,Quarteira,Algarve,313,2025-03-20T16:38:00Z,25122574,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-20T16:38:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
-25124873,Campo de Ourique,Grande Lisboa,311,2025-03-21T00:08:00Z,25124873,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-21T00:08:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.169863,38.718496
-25124955,São Teotónio,Alentejo Litoral,312,2025-03-21T01:01:00Z,25124955,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-21T01:01:00Z,Odemira,Beja,Alentejo,-8.775833,37.717333000000004
-25125123,Barbacena e Vila Fernando,Alto Alentejo,312,2025-03-21T03:06:00Z,25125123,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-21T03:06:00Z,Elvas,Portalegre,Alentejo,-7.321198,38.927909
+25125037,Massamá e Monte Abraão,Grande Lisboa,311,2025-03-21T02:06:00Z,25125037,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,3,0,10,2025-03-21T02:06:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.264556,38.7599
+25116673,Costa da Caparica,Península de Setúbal,311,2025-03-20T07:49:00Z,25116673,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T07:49:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.239889,38.65802
+25121520,Alcabideche,Grande Lisboa,311,2025-03-20T14:41:00Z,25121520,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-20T14:41:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.421479,38.742081
+25122971,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-20T17:32:00Z,25122971,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-20T17:32:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.178593,38.60318
+25125126,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-20T10:30:00Z,25125126,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-20T10:30:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
