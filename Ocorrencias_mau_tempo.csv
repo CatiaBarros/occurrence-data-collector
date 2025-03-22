@@ -16,9 +16,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25130358,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-03-21T22:53:00Z,25130358,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-21T22:53:00Z,Grândola,Setúbal,Alentejo,-8.621172,38.121494
-25131211,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-03-22T07:57:00Z,25131211,Em curso,3315,Inundação de estruturas por precipitação intensa,0,11,0,20,2025-03-22T07:57:00Z,Matosinhos,Porto,Norte,-8.629265,41.200591
+25131211,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-03-22T07:57:00Z,25131211,Em curso,3315,Inundação de estruturas por precipitação intensa,0,6,0,13,2025-03-22T07:57:00Z,Matosinhos,Porto,Norte,-8.629265,41.200591
 25133533,Parreira e Chouto,Lezíria do Tejo,311,2025-03-22T15:23:00Z,25133533,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-22T15:23:00Z,Chamusca,Santarém,Alentejo,-8.35511,39.25229
 25134219,Almalaguês,Região de Coimbra,310,2025-03-22T17:45:00Z,25134219,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-03-22T17:45:00Z,Coimbra,Coimbra,Centro,-8.393658,40.150697
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25134964,Fajões,Area M. Porto,309,2025-03-22T21:00:00Z,25134964,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-22T21:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.432306,40.908178
+25135331,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-22T23:18:00Z,25135331,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-03-22T23:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.320818,38.856056
 25135325,Queluz e Belas,Grande Lisboa,311,2025-03-22T22:02:00Z,25135325,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-22T22:02:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.253541,38.753134
