@@ -2,8 +2,14 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
 25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
 25129578,Brotas,Alentejo Central,312,2025-03-21T19:13:00Z,25129578,Em curso,3301,Queda de árvore,0,2,0,4,2025-03-21T19:13:00Z,Mora,Évora,Alentejo,-8.176946,38.899781
-25130055,Marinha Grande,Região de Leiria,310,2025-03-21T21:06:00Z,25130055,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-21T21:06:00Z,Marinha Grande,Leiria,Centro,-8.934212,39.755371
-25130557,Marinhais,Lezíria do Tejo,311,2025-03-22T00:48:00Z,25130557,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-22T00:48:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.704894,39.048061
+25130557,Muge,Lezíria do Tejo,311,2025-03-22T00:48:00Z,25130557,Em resolução,3301,Queda de árvore,0,2,0,7,2025-03-22T00:48:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.712095,39.06748
+25130612,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-22T01:05:00Z,25130612,Em despacho,3301,Queda de árvore,0,2,0,10,2025-03-22T01:05:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.008871,38.513402
+25130632,Vila de Cucujães,Area M. Porto,309,2025-03-22T01:09:00Z,25130632,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-03-22T01:09:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.510356,40.871699
+25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
+25127944,Colares,Grande Lisboa,311,2025-03-21T14:29:00Z,25127944,Em curso,3301,Queda de árvore,0,1,0,6,2025-03-21T14:29:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.432326,38.780106
+25130033,Ericeira,Grande Lisboa,311,2025-03-21T21:04:00Z,25130033,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-21T21:04:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.417289,38.967626
+25130567,Manteigas (Santa Maria),Beiras e Serra da Estrela,310,2025-03-22T00:50:00Z,25130567,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-22T00:50:00Z,Manteigas,Guarda,Centro,-7.537826,40.403513
+25130652,São Domingos de Rana,Grande Lisboa,311,2025-03-22T01:19:00Z,25130652,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,1,2025-03-22T01:19:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340539,38.727946
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
 25129636,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-21T19:25:00Z,25129636,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-21T19:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.366763,38.781718
@@ -14,12 +20,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25129104,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-21T17:34:00Z,25129104,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-21T17:34:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 25129824,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-21T20:18:00Z,25129824,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-21T20:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.329357,38.79544
-25130476,Lajeosa do Dão,Viseu Dão Lafões,310,2025-03-22T00:02:00Z,25130476,Em curso,3313,Deslizamento de terras,0,2,0,4,2025-03-22T00:02:00Z,Tondela,Viseu,Centro,-7.991663,40.52775
-25130560,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-22T00:49:00Z,25130560,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-22T00:49:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.002401,38.532777
 25130561,Igreja Nova e Cheleiros,Grande Lisboa,311,2025-03-22T00:41:00Z,25130561,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-22T00:41:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.348491,38.925128
-25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
-25127944,Colares,Grande Lisboa,311,2025-03-21T14:29:00Z,25127944,Em curso,3301,Queda de árvore,0,1,0,6,2025-03-21T14:29:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.432326,38.780106
-25130033,Ericeira,Grande Lisboa,311,2025-03-21T21:04:00Z,25130033,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-21T21:04:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.417289,38.967626
-25130419,Santo António Dos Olivais,Região de Coimbra,310,2025-03-21T23:29:00Z,25130419,Em conclusão,3301,Queda de árvore,0,1,0,1,2025-03-21T23:29:00Z,Coimbra,Coimbra,Centro,-8.392808,40.235354
-25130566,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-22T00:50:00Z,25130566,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-22T00:50:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.002401,38.532777
-25130567,Manteigas (Santa Maria),Beiras e Serra da Estrela,310,2025-03-22T00:50:00Z,25130567,Em despacho,3313,Deslizamento de terras,0,2,0,3,2025-03-22T00:50:00Z,Manteigas,Guarda,Centro,-7.537826,40.403513
