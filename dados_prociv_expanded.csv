@@ -1,18 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
-25127944,"Colares","Grande Lisboa",311,"2025-03-21T14:29:00",25127944,"Em curso","3301","Queda de árvore",0,1,0,6,"2025-03-21T14:29:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.432326,38.780106
-25130567,"Manteigas (Santa Maria)","Beiras e Serra da Estrela",310,"2025-03-22T00:50:00",25130567,"Em curso","3313","Deslizamento de terras",0,1,0,2,"2025-03-22T00:50:00","Manteigas","Guarda","Centro",-7.537826,40.403513
-25130752,"Vendas Novas","Alentejo Central",312,"2025-03-22T03:00:00",25130752,"Em despacho","3301","Queda de árvore",0,2,0,4,"2025-03-22T03:00:00","Vendas Novas","Évora","Alentejo",-8.44928,38.67854
-25130867,"Roliça","Oeste",311,"2025-03-22T04:47:00",25130867,"Em resolução","3301","Queda de árvore",0,3,0,8,"2025-03-22T04:47:00","Bombarral","Leiria","Centro",-9.181897,39.315603
-25130885,"Mogege","Ave",309,"2025-03-22T05:13:00",25130885,"Em conclusão","3301","Queda de árvore",0,1,0,2,"2025-03-22T05:13:00","Vila Nova De Famalicão","Braga","Norte",-8.411237,41.422789
-25130954,"Pechão","Algarve",313,"2025-03-22T05:59:00",25130954,"Em despacho","2407","Despiste",0,2,0,4,"2025-03-22T05:59:00","Olhão","Faro","Algarve",-7.864392,37.048235
-25130967,"Viatodos, Grimancelos, Minhotães e Monte de Fralães","Cávado",309,"2025-03-22T06:21:00",25130967,"Em resolução","2407","Despiste",0,2,0,5,"2025-03-22T06:21:00","Barcelos","Braga","Norte",-8.570142,41.442252
-25130968,"Alcabideche","Grande Lisboa",311,"2025-03-22T06:17:00",25130968,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-03-22T06:17:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.471803,38.734028
-25130986,"Cascais e Estoril","Grande Lisboa",311,"2025-03-22T06:33:00",25130986,"Em despacho","4339","Corte ou remoção de elementos",0,1,0,2,"2025-03-22T06:33:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.371363,38.715013
 25059714,"Torrão","Alentejo Litoral",312,"2025-03-08T22:10:00",25059714,"Em curso","1101","Cheia",0,1,0,2,"2025-03-08T22:10:00","Alcácer Do Sal","Setúbal","Alentejo",-8.359133,38.252053
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em curso","1101","Cheia",0,2,0,4,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25130977,"Branca","Lezíria do Tejo",311,"2025-03-22T06:35:00",25130977,"Em curso","2407","Despiste",0,4,0,11,"2025-03-22T06:35:00","Coruche","Santarém","Alentejo",-8.599754,38.869277
 25130978,"Olhão","Algarve",313,"2025-03-22T06:31:00",25130978,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-03-22T06:31:00","Olhão","Faro","Algarve",-7.843133,37.022054
+25131009,"Sandim, Olival, Lever e Crestuma","Area M. Porto",309,"2025-03-22T06:48:00",25131009,"Em despacho","3329","Queda de estruturas temporárias ou móveis",0,1,0,2,"2025-03-22T06:48:00","Vila Nova De Gaia","Porto","Norte",-8.545846,41.046266
+25131012,"Bougado (São Martinho e Santiago)","Area M. Porto",309,"2025-03-22T06:45:00",25131012,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,3,"2025-03-22T06:45:00","Trofa","Porto","Norte",-8.547678,41.330541
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
 25108671,"Salvaterra de Magos e Foros de Salvaterra","Lezíria do Tejo",311,"2025-03-19T11:46:00",25108671,"Em curso","4339","Corte ou remoção de elementos",0,1,0,1,"2025-03-19T11:46:00","Salvaterra De Magos","Santarém","Alentejo",-8.753557,39.064926
 25121298,"Gafanhoeira (São Pedro) e Sabugueiro","Alentejo Central",312,"2025-03-20T14:26:00",25121298,"Em resolução","3301","Queda de árvore",0,0,0,0,"2025-03-20T14:26:00","Arraiolos","Évora","Alentejo",-8.088754,38.754507
@@ -20,8 +13,8 @@
 25129636,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim","Grande Lisboa",311,"2025-03-21T19:25:00",25129636,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-03-21T19:25:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.366763,38.781718
 25130479,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim","Grande Lisboa",311,"2025-03-21T23:50:00",25130479,"Em despacho","3301","Queda de árvore",0,1,0,1,"2025-03-21T23:50:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.366763,38.781718
 25130856,"Arruda Dos Vinhos","Oeste",311,"2025-03-22T04:40:00",25130856,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-03-22T04:40:00","Arruda Dos Vinhos","Lisboa","Centro",-9.074841,38.984407
-25130931,"Porto de Mós - São João Baptista e São Pedro","Região de Leiria",310,"2025-03-22T05:55:00",25130931,"Em despacho","3313","Deslizamento de terras",0,1,0,3,"2025-03-22T05:55:00","Porto De Mós","Leiria","Centro",-8.808595,39.58359
-25130947,"Sabacheira","Médio Tejo",311,"2025-03-22T06:10:00",25130947,"Em resolução","3301","Queda de árvore",0,2,0,6,"2025-03-22T06:10:00","Tomar","Santarém","Centro",-8.500067,39.67232
+25130931,"Porto de Mós - São João Baptista e São Pedro","Região de Leiria",310,"2025-03-22T05:55:00",25130931,"Em resolução","3313","Deslizamento de terras",0,1,0,3,"2025-03-22T05:55:00","Porto De Mós","Leiria","Centro",-8.808595,39.58359
+25130947,"Sabacheira","Médio Tejo",311,"2025-03-22T06:10:00",25130947,"Em conclusão","3301","Queda de árvore",0,2,0,6,"2025-03-22T06:10:00","Tomar","Santarém","Centro",-8.500067,39.67232
 25130974,"Silvalde","Area M. Porto",309,"2025-03-22T06:30:00",25130974,"Em despacho","3301","Queda de árvore",0,1,0,3,"2025-03-22T06:30:00","Espinho","Aveiro","Norte",-8.630075,40.992078
 25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
 25128056,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-21T14:41:00",25128056,"Em curso","1101","Cheia",0,0,0,0,"2025-03-21T14:41:00","Alcácer Do Sal","Setúbal","Alentejo",-8.434671,38.401157
@@ -29,5 +22,14 @@
 25130882,"Praia de Mira","Região de Coimbra",310,"2025-03-22T05:11:00",25130882,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-03-22T05:11:00","Mira","Coimbra","Centro",-8.788778,40.475131
 25130923,"Carcavelos e Parede","Grande Lisboa",311,"2025-03-22T05:50:00",25130923,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-22T05:50:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.35906,38.68988
 25130941,"Pernes","Lezíria do Tejo",311,"2025-03-22T06:06:00",25130941,"Em resolução","3311","Queda de elementos de estruturas edificados",0,2,0,7,"2025-03-22T06:06:00","Santarém","Santarém","Alentejo",-8.658865,39.381547
-25130948,"Queluz e Belas","Grande Lisboa",311,"2025-03-22T06:11:00",25130948,"Em conclusão","3321","Dano na rede de fornecimento de eletricidade ",0,1,0,2,"2025-03-22T06:11:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.2802,38.78094
-25130989,"Barcelinhos","Cávado",309,"2025-03-22T06:42:00",25130989,"Em despacho","2407","Despiste",0,1,0,2,"2025-03-22T06:42:00","Barcelos","Braga","Norte",-8.622467,41.521119
+25063232,"Santa Maria do Castelo e Santiago e Santa Susana","Alentejo Litoral",312,"2025-03-09T19:02:00",25063232,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-09T19:02:00","Alcácer Do Sal","Setúbal","Alentejo",-8.48167,38.29806
+25127944,"Colares","Grande Lisboa",311,"2025-03-21T14:29:00",25127944,"Em curso","3301","Queda de árvore",0,1,0,6,"2025-03-21T14:29:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.432326,38.780106
+25130567,"Manteigas (Santa Maria)","Beiras e Serra da Estrela",310,"2025-03-22T00:50:00",25130567,"Em curso","3313","Deslizamento de terras",0,1,0,2,"2025-03-22T00:50:00","Manteigas","Guarda","Centro",-7.537826,40.403513
+25130867,"Roliça","Oeste",311,"2025-03-22T04:47:00",25130867,"Em resolução","3301","Queda de árvore",0,3,0,8,"2025-03-22T04:47:00","Bombarral","Leiria","Centro",-9.181897,39.315603
+25130885,"Mogege","Ave",309,"2025-03-22T05:13:00",25130885,"Em conclusão","3301","Queda de árvore",0,1,0,2,"2025-03-22T05:13:00","Vila Nova De Famalicão","Braga","Norte",-8.40157,41.420227
+25130954,"Pechão","Algarve",313,"2025-03-22T05:59:00",25130954,"Em despacho","2407","Despiste",0,2,0,4,"2025-03-22T05:59:00","Olhão","Faro","Algarve",-7.864392,37.048235
+25130967,"Viatodos, Grimancelos, Minhotães e Monte de Fralães","Cávado",309,"2025-03-22T06:21:00",25130967,"Em resolução","2407","Despiste",0,2,0,5,"2025-03-22T06:21:00","Barcelos","Braga","Norte",-8.570142,41.442252
+25130968,"Alcabideche","Grande Lisboa",311,"2025-03-22T06:17:00",25130968,"Em curso","3301","Queda de árvore",0,2,0,7,"2025-03-22T06:17:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.471803,38.734028
+25131002,"Aldoar, Foz do Douro e Nevogilde","Area M. Porto",309,"2025-03-22T06:53:00",25131002,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-03-22T06:53:00","Porto","Porto","Norte",-8.676494,41.168181
+25131013,"Cortes do Meio","Beiras e Serra da Estrela",310,"2025-03-22T06:57:00",25131013,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,1,0,1,"2025-03-22T06:57:00","Covilhã","Castelo Branco","Centro",-7.547289,40.309819
+25131015,"Campanhã","Area M. Porto",309,"2025-03-22T07:03:00",25131015,"Em despacho","4339","Corte ou remoção de elementos",0,0,0,0,"2025-03-22T07:03:00","Porto","Porto","Norte",-8.59373,41.1579
