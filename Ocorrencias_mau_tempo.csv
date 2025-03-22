@@ -1,4 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
+25133437,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-22T14:45:00Z,25133437,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-22T14:45:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
+25133932,Lousã e Vilarinho,Região de Coimbra,310,2025-03-22T16:36:00Z,25133932,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-22T16:36:00Z,Lousã,Coimbra,Centro,-8.243385,40.12032
+25134350,Nogueira do Cravo,Região de Coimbra,310,2025-03-22T18:22:00Z,25134350,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-22T18:22:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.888405,40.333686
+25134707,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-03-22T19:40:00Z,25134707,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-22T19:40:00Z,Coimbra,Coimbra,Centro,-8.483143,40.207197
+25134943,Felgueiras e Feirão,Tâmega e Sousa,309,2025-03-22T20:56:00Z,25134943,Em curso,1107,Nevão,0,3,0,6,2025-03-22T20:56:00Z,Resende,Viseu,Norte,-7.935641,41.06395
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
 25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
 25132043,Miranda do Corvo,Região de Coimbra,310,2025-03-22T10:30:00Z,25132043,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T10:30:00Z,Miranda Do Corvo,Coimbra,Centro,-8.339499,40.09407
@@ -15,15 +22,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25134201,Azueira e Sobral da Abelheira,Grande Lisboa,311,2025-03-22T17:31:00Z,25134201,Em resolução,3301,Queda de árvore,0,1,0,1,2025-03-22T17:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.264294,38.996233
 25134219,Almalaguês,Região de Coimbra,310,2025-03-22T17:45:00Z,25134219,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-03-22T17:45:00Z,Coimbra,Coimbra,Centro,-8.393658,40.150697
 25134704,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-22T19:09:00Z,25134704,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-22T19:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.385912,38.758094
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
-25133437,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-22T14:45:00Z,25133437,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-22T14:45:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
-25133932,Lousã e Vilarinho,Região de Coimbra,310,2025-03-22T16:36:00Z,25133932,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-22T16:36:00Z,Lousã,Coimbra,Centro,-8.243385,40.12032
-25134350,Nogueira do Cravo,Região de Coimbra,310,2025-03-22T18:22:00Z,25134350,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-22T18:22:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.888405,40.333686
-25134707,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-03-22T19:40:00Z,25134707,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-22T19:40:00Z,Coimbra,Coimbra,Centro,-8.483143,40.207197
-25134943,Felgueiras e Feirão,Tâmega e Sousa,309,2025-03-22T20:56:00Z,25134943,Em curso,1107,Nevão,0,3,0,6,2025-03-22T20:56:00Z,Resende,Viseu,Norte,-7.935641,41.06395
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
-25127944,Colares,Grande Lisboa,311,2025-03-21T14:29:00Z,25127944,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-21T14:29:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.432326,38.780106
-25134915,Nelas,Viseu Dão Lafões,310,2025-03-22T20:48:00Z,25134915,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-03-22T20:48:00Z,Nelas,Viseu,Centro,-7.848666,40.536085
 25134964,Fajões,Area M. Porto,309,2025-03-22T21:00:00Z,25134964,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-22T21:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.432306,40.908178
+25135108,Pataias e Martingança,Oeste,311,2025-03-22T21:54:00Z,25135108,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-03-22T21:54:00Z,Alcobaça,Leiria,Centro,-8.984297,39.704758
 25135055,Arruda Dos Vinhos,Oeste,311,2025-03-22T10:49:00Z,25135055,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-22T10:49:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.074841,38.984407
