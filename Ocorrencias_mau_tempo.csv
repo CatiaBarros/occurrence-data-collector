@@ -1,7 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
 25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
-25138536,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2025-03-23T17:35:00Z,25138536,Em resolução,3301,Queda de árvore,0,3,0,5,2025-03-23T17:35:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.484932,40.099122
+25138536,Condeixa-a-Velha e Condeixa-a-Nova,Região de Coimbra,310,2025-03-23T17:35:00Z,25138536,Em conclusão,3301,Queda de árvore,0,3,0,5,2025-03-23T17:35:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.484932,40.099122
 25138586,Alcabideche,Grande Lisboa,311,2025-03-23T17:43:00Z,25138586,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-23T17:43:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.442137,38.750271
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25137954,Envendos,Médio Tejo,311,2025-03-23T15:17:00Z,25137954,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-03-23T15:17:00Z,Mação,Santarém,Centro,-7.877454,39.572071
@@ -15,7 +15,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25136077,Carvalhal,Alentejo Litoral,312,2025-03-23T08:03:00Z,25136077,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-23T08:03:00Z,Grândola,Setúbal,Alentejo,-8.859443,38.458082
 25137815,Almeirim,Lezíria do Tejo,311,2025-03-23T14:43:00Z,25137815,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-03-23T14:43:00Z,Almeirim,Santarém,Alentejo,-8.588832,39.142251
 25138194,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-23T14:25:00Z,25138194,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-23T14:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.389956,38.923794
-25138319,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2025-03-23T16:27:00Z,25138319,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-23T16:27:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.065968,38.6593
 25138437,Lourinhã e Atalaia,Oeste,311,2025-03-23T17:09:00Z,25138437,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-23T17:09:00Z,Lourinhã,Lisboa,Centro,-9.311131,39.244365
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
@@ -23,4 +22,3 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25131211,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-03-22T07:57:00Z,25131211,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-22T07:57:00Z,Matosinhos,Porto,Norte,-8.629265,41.200591
 25138612,Santo André de Vagos,Região de Aveiro,310,2025-03-23T17:53:00Z,25138612,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-23T17:53:00Z,Vagos,Aveiro,Centro,-8.672314,40.509954
 25138621,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-03-23T17:51:00Z,25138621,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-23T17:51:00Z,Lagos,Faro,Algarve,-8.668524,37.100485
-25138398,São Pedro de Tomar,Médio Tejo,311,2025-03-23T17:03:00Z,25138398,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,7,2025-03-23T17:03:00Z,Tomar,Santarém,Centro,-8.362773,39.571857
