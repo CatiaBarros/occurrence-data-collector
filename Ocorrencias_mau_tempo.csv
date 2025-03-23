@@ -1,16 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
+25135245,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-03-22T22:40:00Z,25135245,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-22T22:40:00Z,Grândola,Setúbal,Alentejo,-8.486669,38.134589
+25135504,Santa Eulália,Ave,309,2025-03-23T01:13:00Z,25135504,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-03-23T01:13:00Z,Vizela,Braga,Norte,-8.30755,41.35561
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25130358,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-03-21T22:53:00Z,25130358,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-21T22:53:00Z,Grândola,Setúbal,Alentejo,-8.621172,38.121494
-25131211,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-03-22T07:57:00Z,25131211,Em curso,3315,Inundação de estruturas por precipitação intensa,0,3,0,5,2025-03-22T07:57:00Z,Matosinhos,Porto,Norte,-8.629265,41.200591
+25131211,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-03-22T07:57:00Z,25131211,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,3,0,5,2025-03-22T07:57:00Z,Matosinhos,Porto,Norte,-8.629265,41.200591
 25133533,Parreira e Chouto,Lezíria do Tejo,311,2025-03-22T15:23:00Z,25133533,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-22T15:23:00Z,Chamusca,Santarém,Alentejo,-8.35511,39.25229
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
 25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
 25132043,Miranda do Corvo,Região de Coimbra,310,2025-03-22T10:30:00Z,25132043,Em curso,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T10:30:00Z,Miranda Do Corvo,Coimbra,Centro,-8.339499,40.09407
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25134964,Fajões,Area M. Porto,309,2025-03-22T21:00:00Z,25134964,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-22T21:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.432306,40.908178
-25135415,Nossa Senhora da Piedade,Médio Tejo,311,2025-03-23T00:20:00Z,25135415,Em resolução,3301,Queda de árvore,0,2,0,6,2025-03-23T00:20:00Z,Ourém,Santarém,Centro,-8.619144,39.677143
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
-25135245,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-03-22T22:40:00Z,25135245,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-22T22:40:00Z,Grândola,Setúbal,Alentejo,-8.486669,38.134589
+25135415,Nossa Senhora da Piedade,Médio Tejo,311,2025-03-23T00:20:00Z,25135415,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-03-23T00:20:00Z,Ourém,Santarém,Centro,-8.616522,39.673515
