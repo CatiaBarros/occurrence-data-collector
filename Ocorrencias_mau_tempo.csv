@@ -3,6 +3,11 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25131211,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-03-22T07:57:00Z,25131211,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-22T07:57:00Z,Matosinhos,Porto,Norte,-8.629265,41.200591
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
+25136821,Budens,Algarve,313,2025-03-23T10:37:00Z,25136821,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-03-23T10:37:00Z,Vila Do Bispo,Faro,Algarve,-8.813082,37.074005
+25137959,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-23T15:09:00Z,25137959,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-23T15:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.259177,38.818835
+25138166,Turcifal,Oeste,311,2025-03-23T15:37:00Z,25138166,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-03-23T15:37:00Z,Torres Vedras,Lisboa,Centro,-9.255618,39.031445
 25063232,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-09T19:02:00Z,25063232,Em conclusão,1101,Cheia,0,0,0,0,2025-03-09T19:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.48167,38.29806
 25137855,Serzedo e Perosinho,Area M. Porto,309,2025-03-23T14:53:00Z,25137855,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-23T14:53:00Z,Vila Nova De Gaia,Porto,Norte,-8.60991,41.06352
 25137872,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-03-23T14:51:00Z,25137872,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-23T14:51:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.22967,38.696612
@@ -12,13 +17,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
 25135245,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-03-22T22:40:00Z,25135245,Em conclusão,3313,Deslizamento de terras,0,1,0,2,2025-03-22T22:40:00Z,Grândola,Setúbal,Alentejo,-8.486669,38.134589
 25136077,Carvalhal,Alentejo Litoral,312,2025-03-23T08:03:00Z,25136077,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-23T08:03:00Z,Grândola,Setúbal,Alentejo,-8.859443,38.458082
-25137283,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-23T12:35:00Z,25137283,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-23T12:35:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.40542,38.820035
 25137815,Almeirim,Lezíria do Tejo,311,2025-03-23T14:43:00Z,25137815,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-03-23T14:43:00Z,Almeirim,Santarém,Alentejo,-8.588832,39.142251
 25138067,Bonfim,Area M. Porto,309,2025-03-23T15:22:00Z,25138067,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-23T15:22:00Z,Porto,Porto,Norte,-8.591769,41.150542
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
-25136821,Budens,Algarve,313,2025-03-23T10:37:00Z,25136821,Em conclusão,3301,Queda de árvore,0,3,0,8,2025-03-23T10:37:00Z,Vila Do Bispo,Faro,Algarve,-8.813082,37.074005
-25137959,"Almargem do Bispo, Pêro Pinheiro e Montelavar",Grande Lisboa,311,2025-03-23T15:09:00Z,25137959,Em curso,3301,Queda de árvore,0,1,0,2,2025-03-23T15:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.259177,38.818835
+25138119,a Dos Cunhados e Maceira,Oeste,311,2025-03-23T15:46:00Z,25138119,Em curso,3301,Queda de árvore,0,0,0,0,2025-03-23T15:46:00Z,Torres Vedras,Lisboa,Centro,-9.301649,39.161596
+25138194,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-23T14:25:00Z,25138194,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-23T14:25:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.389956,38.923794
 25138038,São João do Campo,Região de Coimbra,310,2025-03-23T15:32:00Z,25138038,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-23T15:32:00Z,Coimbra,Coimbra,Centro,-8.517374,40.236807
 25138088,Tavira (Santa Maria e Santiago),Algarve,313,2025-03-23T15:03:00Z,25138088,Em curso,3301,Queda de árvore,0,1,0,3,2025-03-23T15:03:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
-25138119,a Dos Cunhados e Maceira,Oeste,311,2025-03-23T15:46:00Z,25138119,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-23T15:46:00Z,Torres Vedras,Lisboa,Centro,-9.301649,39.161596
+25138154,Lousa,Grande Lisboa,311,2025-03-23T16:05:00Z,25138154,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-23T16:05:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.21801,38.91339
