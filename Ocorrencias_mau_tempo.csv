@@ -1,7 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
-25138586,Alcabideche,Grande Lisboa,311,2025-03-23T17:43:00Z,25138586,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-23T17:43:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.442137,38.750271
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,1,0,2,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
 25135245,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-03-22T22:40:00Z,25135245,Em conclusão,3313,Deslizamento de terras,0,1,0,2,2025-03-22T22:40:00Z,Grândola,Setúbal,Alentejo,-8.486669,38.134589
@@ -12,6 +9,9 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25138589,Queluz e Belas,Grande Lisboa,311,2025-03-23T17:50:00Z,25138589,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-23T17:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.253541,38.753134
 25138608,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2025-03-23T18:02:00Z,25138608,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-23T18:02:00Z,Porto,Porto,Norte,-8.66317,41.17043
 25138759,Rogil,Algarve,313,2025-03-23T18:46:00Z,25138759,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-23T18:46:00Z,Aljezur,Faro,Algarve,-8.808383,37.394404
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25128056,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-03-21T14:41:00Z,25128056,Em curso,1101,Cheia,0,0,0,0,2025-03-21T14:41:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.434671,38.401157
+25138586,Alcabideche,Grande Lisboa,311,2025-03-23T17:43:00Z,25138586,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-23T17:43:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.442137,38.750271
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
