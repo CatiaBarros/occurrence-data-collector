@@ -9,5 +9,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25144511,Grijó e Sermonde,Area M. Porto,309,2025-03-24T23:06:00Z,25144511,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-03-24T23:06:00Z,Vila Nova De Gaia,Porto,Norte,-8.580221,41.029028
 25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
-25144338,Souselas e Botão,Região de Coimbra,310,2025-03-24T21:55:00Z,25144338,Em conclusão,3309,Desabamento de estruturas edificadas,0,8,0,22,2025-03-24T21:55:00Z,Coimbra,Coimbra,Centro,-8.433096,40.310904
+25144338,Souselas e Botão,Região de Coimbra,310,2025-03-24T21:55:00Z,25144338,Em conclusão,3309,Desabamento de estruturas edificadas,0,5,0,16,2025-03-24T21:55:00Z,Coimbra,Coimbra,Centro,-8.433096,40.310904
