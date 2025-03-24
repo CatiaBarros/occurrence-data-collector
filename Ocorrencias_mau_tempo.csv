@@ -1,18 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
-25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
-25140039,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T07:30:00Z,25140039,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-24T07:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.366763,38.781718
-25140300,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T08:10:00Z,25140300,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T08:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.414924,38.772191
-25140423,Sazes da Beira,Beiras e Serra da Estrela,310,2025-03-24T08:55:00Z,25140423,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T08:55:00Z,Seia,Guarda,Centro,-7.7305720000000004,40.348423
-25140825,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-03-24T09:45:00Z,25140825,Em despacho,3301,Queda de árvore,0,3,0,8,2025-03-24T09:45:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.029303,38.94243
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25139997,Colares,Grande Lisboa,311,2025-03-24T07:10:00Z,25139997,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-24T07:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.432326,38.780106
-25141017,Poceirão e Marateca,Península de Setúbal,311,2025-03-24T10:28:00Z,25141017,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-24T10:28:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.747517,38.633484
-25141124,Costa da Caparica,Península de Setúbal,311,2025-03-24T10:30:00Z,25141124,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-24T10:30:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.227696,38.642583
-25141435,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T11:18:00Z,25141435,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-24T11:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.429169,38.796354
-25141869,Vale de Anta,Alto Tâmega e Barroso,309,2025-03-24T12:50:00Z,25141869,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-24T12:50:00Z,Chaves,Vila Real,Norte,-7.509219,41.744027
-25141686,Cascais e Estoril,Grande Lisboa,311,2025-03-24T12:25:00Z,25141686,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-24T12:25:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
@@ -20,12 +6,29 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25132931,Sapataria,Oeste,311,2025-03-22T13:14:00Z,25132931,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.196712,38.967998
 25137028,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137028,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.141897,38.992853
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25140636,Setúbal (São Sebastião),Península de Setúbal,311,2025-03-24T09:23:00Z,25140636,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-24T09:23:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.87514,38.536356
+25140636,Setúbal (São Sebastião),Península de Setúbal,311,2025-03-24T09:23:00Z,25140636,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-24T09:23:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.87514,38.536356
 25141103,Sernancelhe e Sarzeda,Douro,309,2025-03-24T10:49:00Z,25141103,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-24T10:49:00Z,Sernancelhe,Viseu,Norte,-7.470413,40.896741
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25139997,Colares,Grande Lisboa,311,2025-03-24T07:10:00Z,25139997,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-24T07:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.432326,38.780106
+25141435,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T11:18:00Z,25141435,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-24T11:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.429169,38.796354
+25141869,Vale de Anta,Alto Tâmega e Barroso,309,2025-03-24T12:50:00Z,25141869,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-24T12:50:00Z,Chaves,Vila Real,Norte,-7.509219,41.744027
+25141876,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-03-24T13:05:00Z,25141876,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-24T13:05:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.7677600000000009,39.00842
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
+25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
+25140039,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T07:30:00Z,25140039,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-24T07:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.366763,38.781718
+25140300,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T08:10:00Z,25140300,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T08:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.414924,38.772191
+25140423,Sazes da Beira,Beiras e Serra da Estrela,310,2025-03-24T08:55:00Z,25140423,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T08:55:00Z,Seia,Guarda,Centro,-7.7305720000000004,40.348423
+25140825,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-03-24T09:45:00Z,25140825,Em despacho,3301,Queda de árvore,0,3,0,8,2025-03-24T09:45:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.029303,38.94243
+25141906,Queluz e Belas,Grande Lisboa,311,2025-03-24T13:00:00Z,25141906,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-24T13:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.280687,38.796107
+25141973,Chave,Area M. Porto,309,2025-03-24T13:17:00Z,25141973,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T13:17:00Z,Arouca,Aveiro,Norte,-8.350782,40.904985
+25141974,Granjal,Douro,309,2025-03-24T13:19:00Z,25141974,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T13:19:00Z,Sernancelhe,Viseu,Norte,-7.536283,40.889691
+25141971,Rio de Mouro,Grande Lisboa,311,2025-03-24T13:20:00Z,25141971,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-24T13:20:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.32223,38.79519
 25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
 25140010,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T07:15:00Z,25140010,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-24T07:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.362223,38.785369
 25140560,Vimeiro,Oeste,311,2025-03-24T09:17:00Z,25140560,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-24T09:17:00Z,Alcobaça,Leiria,Centro,-9.016349,39.474851
 25140595,Colares,Grande Lisboa,311,2025-03-24T09:09:00Z,25140595,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T09:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.486381,38.778591
-25141632,Viseu,Viseu Dão Lafões,310,2025-03-24T12:11:00Z,25141632,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-24T12:11:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
 25141733,Guarda,Beiras e Serra da Estrela,310,2025-03-24T12:35:00Z,25141733,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T12:35:00Z,Guarda,Guarda,Centro,-7.261152,40.54086
-25141372,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-03-24T11:25:00Z,25141372,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-03-24T11:25:00Z,Torres Vedras,Lisboa,Centro,-9.229035,39.104657
+25141686,Cascais e Estoril,Grande Lisboa,311,2025-03-24T12:25:00Z,25141686,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-24T12:25:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
+25141852,Urqueira,Médio Tejo,311,2025-03-24T13:00:00Z,25141852,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,3,0,3,2025-03-24T13:00:00Z,Ourém,Santarém,Centro,-8.591506,39.727692
+25141902,Atouguia da Baleia,Oeste,311,2025-03-24T13:05:00Z,25141902,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-24T13:05:00Z,Peniche,Leiria,Centro,-9.312128,39.3038
