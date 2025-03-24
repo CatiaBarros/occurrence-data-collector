@@ -1,22 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
-25140010,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T07:15:00Z,25140010,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-24T07:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.362223,38.785369
-25140560,Vimeiro,Oeste,311,2025-03-24T09:17:00Z,25140560,Em curso,3301,Queda de árvore,0,2,0,3,2025-03-24T09:17:00Z,Alcobaça,Leiria,Centro,-9.016349,39.474851
-25140595,Colares,Grande Lisboa,311,2025-03-24T09:09:00Z,25140595,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T09:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.486381,38.778591
-25142015,Pontinha e Famões,Grande Lisboa,311,2025-03-24T13:20:00Z,25142015,Em conclusão,3301,Queda de árvore,0,3,0,8,2025-03-24T13:20:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.214967,38.788628
-25142302,Aguiar da Beira e Coruche,Viseu Dão Lafões,310,2025-03-24T14:10:00Z,25142302,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-24T14:10:00Z,Aguiar Da Beira,Guarda,Centro,-7.532088,40.840342
 25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
 25139997,Colares,Grande Lisboa,311,2025-03-24T07:10:00Z,25139997,Em despacho,3301,Queda de árvore,0,2,0,7,2025-03-24T07:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.432326,38.780106
 25141435,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T11:18:00Z,25141435,Em curso,3313,Deslizamento de terras,0,1,0,2,2025-03-24T11:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.429169,38.796354
 25141869,Vale de Anta,Alto Tâmega e Barroso,309,2025-03-24T12:50:00Z,25141869,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-03-24T12:50:00Z,Chaves,Vila Real,Norte,-7.509219,41.744027
 25142278,Aljezur,Algarve,313,2025-03-24T13:53:00Z,25142278,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-24T13:53:00Z,Aljezur,Faro,Algarve,-8.768404,37.340566
 25142348,Cascais e Estoril,Grande Lisboa,311,2025-03-24T14:20:00Z,25142348,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-03-24T14:20:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.419397,38.700982
-25142350,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-03-24T14:22:00Z,25142350,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-24T14:22:00Z,Leiria,Leiria,Centro,-8.802832,39.749179
-25142415,Torreira,Região de Aveiro,310,2025-03-24T14:25:00Z,25142415,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-24T14:25:00Z,Murtosa,Aveiro,Centro,-8.699212,40.761066
-25142450,Santo António Dos Olivais,Região de Coimbra,310,2025-03-24T14:31:00Z,25142450,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T14:31:00Z,Coimbra,Coimbra,Centro,-8.390328,40.201138
-25142468,Atães e Rendufe,Ave,309,2025-03-24T14:38:00Z,25142468,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T14:38:00Z,Guimarães,Braga,Norte,-8.232731,41.479029
-25142500,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-24T14:45:00Z,25142500,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-24T14:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.442718,38.844843
-25142536,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-24T14:33:00Z,25142536,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T14:33:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.290593,38.696925
+25142548,Arez e Amieira do Tejo,Alto Alentejo,312,2025-03-24T14:54:00Z,25142548,Em curso,3313,Deslizamento de terras,0,3,0,6,2025-03-24T14:54:00Z,Nisa,Portalegre,Alentejo,-7.83338,39.519765
+25142639,Calvão,Região de Aveiro,310,2025-03-24T15:10:00Z,25142639,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T15:10:00Z,Vagos,Aveiro,Centro,-8.683949,40.490087
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25121298,Gafanhoeira (São Pedro) e Sabugueiro,Alentejo Central,312,2025-03-20T14:26:00Z,25121298,Em resolução,3301,Queda de árvore,0,0,0,0,2025-03-20T14:26:00Z,Arraiolos,Évora,Alentejo,-8.088754,38.754507
 25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
@@ -24,6 +14,12 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25140300,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T08:10:00Z,25140300,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T08:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.414924,38.772191
 25140423,Sazes da Beira,Beiras e Serra da Estrela,310,2025-03-24T08:55:00Z,25140423,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T08:55:00Z,Seia,Guarda,Centro,-7.7305720000000004,40.348423
 25141902,Atouguia da Baleia,Oeste,311,2025-03-24T13:05:00Z,25141902,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-03-24T13:05:00Z,Peniche,Leiria,Centro,-9.312128,39.3038
+25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
+25140010,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-24T07:15:00Z,25140010,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-24T07:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.362223,38.785369
+25140595,Colares,Grande Lisboa,311,2025-03-24T09:09:00Z,25140595,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T09:09:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.486381,38.778591
+25142015,Pontinha e Famões,Grande Lisboa,311,2025-03-24T13:20:00Z,25142015,Em conclusão,3301,Queda de árvore,0,3,0,8,2025-03-24T13:20:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.214967,38.788628
+25142302,Aguiar da Beira e Coruche,Viseu Dão Lafões,310,2025-03-24T14:10:00Z,25142302,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-24T14:10:00Z,Aguiar Da Beira,Guarda,Centro,-7.532088,40.840342
+25142350,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-03-24T14:22:00Z,25142350,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-03-24T14:22:00Z,Leiria,Leiria,Centro,-8.802832,39.749179
 25059714,Torrão,Alentejo Litoral,312,2025-03-08T22:10:00Z,25059714,Em curso,1101,Cheia,0,1,0,2,2025-03-08T22:10:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.359133,38.252053
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em curso,1101,Cheia,0,2,0,4,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
@@ -33,12 +29,16 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em curso,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25140636,Setúbal (São Sebastião),Península de Setúbal,311,2025-03-24T09:23:00Z,25140636,Em despacho,3301,Queda de árvore,0,2,0,6,2025-03-24T09:23:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.87514,38.536356
 25141973,Chave,Area M. Porto,309,2025-03-24T13:17:00Z,25141973,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T13:17:00Z,Arouca,Aveiro,Norte,-8.350782,40.904985
-25141974,Granjal,Douro,309,2025-03-24T13:19:00Z,25141974,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T13:19:00Z,Sernancelhe,Viseu,Norte,-7.536283,40.889691
-25142229,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-03-24T14:00:00Z,25142229,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-24T14:00:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
-25142345,Laranjeiro e Feijó,Península de Setúbal,311,2025-03-24T13:04:00Z,25142345,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-24T13:04:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.156624,38.652235
-25142361,Aldeia Galega da Merceana e Aldeia Gavinha,Oeste,311,2025-03-24T14:20:00Z,25142361,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-24T14:20:00Z,Alenquer,Lisboa,Centro,-9.078871,39.086575
-25142540,Riachos,Médio Tejo,311,2025-03-24T14:54:00Z,25142540,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-24T14:54:00Z,Torres Novas,Santarém,Centro,-8.511802,39.443368
 25142008,Alcabideche,Grande Lisboa,311,2025-03-24T13:14:00Z,25142008,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-03-24T13:14:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.387991,38.745461
-25142108,Peniche,Oeste,311,2025-03-24T13:38:00Z,25142108,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-03-24T13:38:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
+25142415,Torreira,Região de Aveiro,310,2025-03-24T14:25:00Z,25142415,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-03-24T14:25:00Z,Murtosa,Aveiro,Centro,-8.699212,40.761066
+25142468,Atães e Rendufe,Ave,309,2025-03-24T14:38:00Z,25142468,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-24T14:38:00Z,Guimarães,Braga,Norte,-8.232731,41.479029
+25142500,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-24T14:45:00Z,25142500,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-24T14:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.442718,38.844843
+25142536,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-24T14:33:00Z,25142536,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T14:33:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.290593,38.696925
+25142229,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-03-24T14:00:00Z,25142229,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T14:00:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
+25142345,Laranjeiro e Feijó,Península de Setúbal,311,2025-03-24T13:04:00Z,25142345,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-03-24T13:04:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.156624,38.652235
+25142361,Aldeia Galega da Merceana e Aldeia Gavinha,Oeste,311,2025-03-24T14:20:00Z,25142361,Em curso,3301,Queda de árvore,0,3,0,10,2025-03-24T14:20:00Z,Alenquer,Lisboa,Centro,-9.078871,39.086575
+25142613,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-03-24T15:08:00Z,25142613,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-24T15:08:00Z,Torres Vedras,Lisboa,Centro,-9.251952,39.091829
+25142647,Vila do Bispo e Raposeira,Algarve,313,2025-03-24T15:06:00Z,25142647,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T15:06:00Z,Vila Do Bispo,Faro,Algarve,-8.90908,37.083835
 25142494,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-03-24T14:35:00Z,25142494,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-24T14:35:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.194473,38.648295
 25142542,Branca,Região de Aveiro,310,2025-03-24T14:50:00Z,25142542,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T14:50:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.522664,40.74559
+25142609,Santo António Dos Olivais,Região de Coimbra,310,2025-03-24T15:06:00Z,25142609,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-24T15:06:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
