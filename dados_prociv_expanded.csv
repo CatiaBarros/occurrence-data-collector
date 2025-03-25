@@ -1,9 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
 25132921,"Santo Quintino","Oeste",311,"2025-03-22T13:14:00",25132921,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-03-22T13:14:00","Sobral De Monte Agraço","Lisboa","Centro",-9.177632,38.989836
-25144896,"Escalos de Cima e Lousa","Beira Baixa",310,"2025-03-25T05:08:00",25144896,"Em conclusão","2407","Despiste",0,4,0,11,"2025-03-25T05:08:00","Castelo Branco","Castelo Branco","Centro",-7.394885,39.933862
+25144896,"Escalos de Cima e Lousa","Beira Baixa",310,"2025-03-25T05:08:00",25144896,"Em conclusão","2407","Despiste",0,3,0,6,"2025-03-25T05:08:00","Castelo Branco","Castelo Branco","Centro",-7.394885,39.933862
 25137004,"Santo Quintino","Oeste",311,"2025-03-23T11:30:00",25137004,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-03-23T11:30:00","Sobral De Monte Agraço","Lisboa","Centro",-9.108516,38.999442
-25144941,"St.tirso, Couto (S.cristina e S.miguel) e Burgães","Area M. Porto",309,"2025-03-25T05:43:00",25144941,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2025-03-25T05:43:00","Santo Tirso","Porto","Norte",-8.480323,41.337478
+25144941,"St.tirso, Couto (S.cristina e S.miguel) e Burgães","Area M. Porto",309,"2025-03-25T05:43:00",25144941,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2025-03-25T05:43:00","Santo Tirso","Porto","Norte",-8.480323,41.337478
+25144992,"Gafanhoeira (São Pedro) e Sabugueiro","Alentejo Central",312,"2025-03-25T06:25:00",25144992,"Em despacho","3301","Queda de árvore",0,1,0,3,"2025-03-25T06:25:00","Arraiolos","Évora","Alentejo",-8.088754,38.754507
 25087162,"Pedrógão","Baixo Alentejo",312,"2025-03-14T17:00:00",25087162,"Em curso","1101","Cheia",0,0,0,0,"2025-03-14T17:00:00","Vidigueira","Beja","Alentejo",-7.630327,38.110775
 25144704,"São Julião e Silva","Alto Minho",309,"2025-03-25T01:20:00",25144704,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,4,0,9,"2025-03-25T01:20:00","Valença","Viana Do Castelo","Norte",-8.662627,41.966848
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
@@ -12,4 +13,4 @@
 25132931,"Sapataria","Oeste",311,"2025-03-22T13:14:00",25132931,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-03-22T13:14:00","Sobral De Monte Agraço","Lisboa","Centro",-9.196712,38.967998
 25137028,"Santo Quintino","Oeste",311,"2025-03-23T11:30:00",25137028,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-03-23T11:30:00","Sobral De Monte Agraço","Lisboa","Centro",-9.141897,38.992853
 25137544,"Dois Portos e Runa","Oeste",311,"2025-03-23T13:41:00",25137544,"Em curso","3313","Deslizamento de terras",0,0,0,0,"2025-03-23T13:41:00","Torres Vedras","Lisboa","Centro",-9.178343,39.036686
-25144916,"Campo de Ourique","Grande Lisboa",311,"2025-03-25T05:30:00",25144916,"Em despacho","2407","Despiste",0,2,0,6,"2025-03-25T05:30:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.169863,38.718496
+25144916,"Campo de Ourique","Grande Lisboa",311,"2025-03-25T05:30:00",25144916,"Em curso","2407","Despiste",0,1,0,4,"2025-03-25T05:30:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.169863,38.718496
