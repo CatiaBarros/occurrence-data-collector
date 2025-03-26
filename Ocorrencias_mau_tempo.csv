@@ -10,11 +10,12 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
 25147648,Trevões e Espinhosa,Douro,309,2025-03-25T15:07:00Z,25147648,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-25T15:07:00Z,São João Da Pesqueira,Viseu,Norte,-7.438161,41.081839
 25150465,Lousã e Vilarinho,Região de Coimbra,310,2025-03-26T09:08:00Z,25150465,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-26T09:08:00Z,Lousã,Coimbra,Centro,-8.180017,40.090644
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25150166,Carcavelos e Parede,Grande Lisboa,311,2025-03-26T08:05:00Z,25150166,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,3,0,4,2025-03-26T08:05:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340039,38.698226
+25150402,Colares,Grande Lisboa,311,2025-03-26T08:57:00Z,25150402,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-26T08:57:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.455717,38.771099
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
 25150226,Cela,Oeste,311,2025-03-26T08:18:00Z,25150226,Em despacho,3301,Queda de árvore,0,2,0,3,2025-03-26T08:18:00Z,Alcobaça,Leiria,Centro,-9.035757,39.537749
 25150458,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-26T09:02:00Z,25150458,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-26T09:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.196585,38.868064
 25150533,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-03-26T09:26:00Z,25150533,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-26T09:26:00Z,Coruche,Santarém,Alentejo,-8.473735,39.021044
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25150166,Carcavelos e Parede,Grande Lisboa,311,2025-03-26T08:05:00Z,25150166,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,3,0,4,2025-03-26T08:05:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340039,38.698226
-25150402,Colares,Grande Lisboa,311,2025-03-26T08:57:00Z,25150402,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-26T08:57:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.455717,38.771099
+25150827,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-26T10:15:00Z,25150827,Em despacho,3301,Queda de árvore,0,3,0,8,2025-03-26T10:15:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
