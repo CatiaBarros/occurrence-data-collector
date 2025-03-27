@@ -4,7 +4,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25154997,Colares,Grande Lisboa,311,2025-03-27T08:32:00Z,25154997,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-27T08:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.462038,38.768962
 25155049,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-27T08:43:00Z,25155049,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-27T08:43:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 25155960,Viseu,Viseu Dão Lafões,310,2025-03-27T11:26:00Z,25155960,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-27T11:26:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
-25156299,Águas Livres,Grande Lisboa,311,2025-03-27T12:43:00Z,25156299,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-27T12:43:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.21038,38.74073
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25132882,Sapataria,Oeste,311,2025-03-22T13:14:00Z,25132882,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.19889,38.96778
@@ -17,5 +16,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25121892,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-20T14:00:00Z,25121892,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T14:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.393304,38.794377
 25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
 25156471,Eixo e Eirol,Região de Aveiro,310,2025-03-27T13:14:00Z,25156471,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-27T13:14:00Z,Aveiro,Aveiro,Centro,-8.594152,40.639067
+25156825,Aldeia Galega da Merceana e Aldeia Gavinha,Oeste,311,2025-03-27T14:20:00Z,25156825,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-27T14:20:00Z,Alenquer,Lisboa,Centro,-9.062269,39.081787
 25155877,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-27T10:53:00Z,25155877,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-27T10:53:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35772,38.858377
 25156365,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-27T12:53:00Z,25156365,Em despacho,3301,Queda de árvore,0,2,0,4,2025-03-27T12:53:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
