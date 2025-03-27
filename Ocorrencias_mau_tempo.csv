@@ -1,22 +1,20 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25150166,Carcavelos e Parede,Grande Lisboa,311,2025-03-26T08:05:00Z,25150166,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-26T08:05:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340039,38.698226
-25155884,Santo António da Charneca,Península de Setúbal,311,2025-03-27T11:16:00Z,25155884,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-27T11:16:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.022,38.62731
+25121892,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-20T14:00:00Z,25121892,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T14:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.393304,38.794377
+25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
+25156106,Aljezur,Algarve,313,2025-03-27T11:56:00Z,25156106,Em despacho,3301,Queda de árvore,0,3,0,6,2025-03-27T11:56:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
 25154997,Colares,Grande Lisboa,311,2025-03-27T08:32:00Z,25154997,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-27T08:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.462038,38.768962
 25155049,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-27T08:43:00Z,25155049,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-27T08:43:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 25155960,Viseu,Viseu Dão Lafões,310,2025-03-27T11:26:00Z,25155960,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-27T11:26:00Z,Viseu,Viseu,Centro,-7.908451,40.659587
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25150166,Carcavelos e Parede,Grande Lisboa,311,2025-03-26T08:05:00Z,25150166,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-26T08:05:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340039,38.698226
+25155884,Santo António da Charneca,Península de Setúbal,311,2025-03-27T11:16:00Z,25155884,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-27T11:16:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.022,38.62731
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25132882,Sapataria,Oeste,311,2025-03-22T13:14:00Z,25132882,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.19889,38.96778
 25132931,Sapataria,Oeste,311,2025-03-22T13:14:00Z,25132931,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.196712,38.967998
 25137028,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137028,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.141897,38.992853
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25121892,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-20T14:00:00Z,25121892,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T14:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.393304,38.794377
-25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
-25155902,São João de Lourosa,Viseu Dão Lafões,310,2025-03-27T11:21:00Z,25155902,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-27T11:21:00Z,Viseu,Viseu,Centro,-7.92022,40.59409
-25156106,Aljezur,Algarve,313,2025-03-27T11:56:00Z,25156106,Em despacho,3301,Queda de árvore,0,3,0,6,2025-03-27T11:56:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
 25155877,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-03-27T10:53:00Z,25155877,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-03-27T10:53:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35772,38.858377
-25155947,São Miguel do Rio Torto e Rossio Ao Sul do Tejo,Médio Tejo,311,2025-03-27T11:30:00Z,25155947,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-27T11:30:00Z,Abrantes,Santarém,Centro,-8.167938,39.416061
 25155996,Colares,Grande Lisboa,311,2025-03-27T11:35:00Z,25155996,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-27T11:35:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.486381,38.778591
