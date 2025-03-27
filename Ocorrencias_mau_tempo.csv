@@ -5,14 +5,15 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25132931,Sapataria,Oeste,311,2025-03-22T13:14:00Z,25132931,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.196712,38.967998
 25137028,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137028,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.141897,38.992853
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
+25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
+25150166,Carcavelos e Parede,Grande Lisboa,311,2025-03-26T08:05:00Z,25150166,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-26T08:05:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340039,38.698226
+25155559,Aljezur,Algarve,313,2025-03-27T10:09:00Z,25155559,Em despacho,3301,Queda de árvore,0,3,0,6,2025-03-27T10:09:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
+25155723,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-03-27T10:38:00Z,25155723,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-27T10:38:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
 25154997,Colares,Grande Lisboa,311,2025-03-27T08:32:00Z,25154997,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-27T08:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.462038,38.768962
 25155049,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-27T08:43:00Z,25155049,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-27T08:43:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 25121892,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-20T14:00:00Z,25121892,Em curso,3301,Queda de árvore,0,2,0,7,2025-03-20T14:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.393304,38.794377
 25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
-25155586,Sousel,Alto Alentejo,312,2025-03-27T10:14:00Z,25155586,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-27T10:14:00Z,Sousel,Portalegre,Alentejo,-7.688949,38.954047
-25087162,Pedrógão,Baixo Alentejo,312,2025-03-14T17:00:00Z,25087162,Em curso,1101,Cheia,0,0,0,0,2025-03-14T17:00:00Z,Vidigueira,Beja,Alentejo,-7.630327,38.110775
-25150166,Carcavelos e Parede,Grande Lisboa,311,2025-03-26T08:05:00Z,25150166,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-03-26T08:05:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340039,38.698226
-25155559,Aljezur,Algarve,313,2025-03-27T10:09:00Z,25155559,Em despacho,3301,Queda de árvore,0,3,0,6,2025-03-27T10:09:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
+25155586,Sousel,Alto Alentejo,312,2025-03-27T10:14:00Z,25155586,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-03-27T10:14:00Z,Sousel,Portalegre,Alentejo,-7.674552,38.961713
 25155347,Pedrógão,Médio Tejo,311,2025-03-27T09:43:00Z,25155347,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-03-27T09:43:00Z,Torres Novas,Santarém,Centro,-8.629587,39.507773
