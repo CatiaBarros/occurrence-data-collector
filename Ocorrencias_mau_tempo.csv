@@ -1,4 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
 25121892,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-20T14:00:00Z,25121892,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-20T14:00:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.393304,38.794377
 25137004,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137004,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.108516,38.999442
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
@@ -8,6 +10,3 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25137028,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137028,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.141897,38.992853
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25157618,Carcavelos e Parede,Grande Lisboa,311,2025-03-27T16:53:00Z,25157618,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-27T16:53:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.337574,38.688343
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25132921,Santo Quintino,Oeste,311,2025-03-22T13:14:00Z,25132921,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-22T13:14:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.177632,38.989836
-25159023,Milharado,Grande Lisboa,311,2025-03-27T23:21:00Z,25159023,Em curso,3301,Queda de árvore,0,3,0,7,2025-03-27T23:21:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.177819,38.92408
