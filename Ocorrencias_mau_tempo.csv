@@ -2,6 +2,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25162886,Sesimbra (Castelo),Península de Setúbal,311,2025-03-28T18:25:00Z,25162886,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-28T18:25:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.106828,38.452682
 25163120,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-03-28T19:00:00Z,25163120,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-28T19:00:00Z,Trofa,Porto,Norte,-8.558796,41.329536
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
