@@ -5,9 +5,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25157618,Carcavelos e Parede,Grande Lisboa,311,2025-03-27T16:53:00Z,25157618,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-27T16:53:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.337574,38.688343
 25159771,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-03-28T08:23:00Z,25159771,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-28T08:23:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.171619,38.815144
 25160140,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-03-28T09:26:00Z,25160140,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-28T09:26:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25160763,Palmela,Península de Setúbal,311,2025-03-28T11:32:00Z,25160763,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-28T11:32:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.938416,38.553954
-25160827,"Freixianda, Ribeira do Fárrio e Formigais",Médio Tejo,311,2025-03-28T11:47:00Z,25160827,Em curso,3301,Queda de árvore,0,2,0,6,2025-03-28T11:47:00Z,Ourém,Santarém,Centro,-8.45738,39.729947
+25160827,"Freixianda, Ribeira do Fárrio e Formigais",Médio Tejo,311,2025-03-28T11:47:00Z,25160827,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-03-28T11:47:00Z,Ourém,Santarém,Centro,-8.45913,39.723185
 25160723,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-28T11:03:00Z,25160723,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-28T11:03:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.354481,38.796776
 25160846,São Domingos de Rana,Grande Lisboa,311,2025-03-28T11:28:00Z,25160846,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-28T11:28:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
 25160887,Igreja Nova e Cheleiros,Grande Lisboa,311,2025-03-28T11:43:00Z,25160887,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-28T11:43:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.321884,38.919998
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25160763,Palmela,Península de Setúbal,311,2025-03-28T11:32:00Z,25160763,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-28T11:32:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.938416,38.553954
+25160965,São Domingos de Rana,Grande Lisboa,311,2025-03-28T11:49:00Z,25160965,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-03-28T11:49:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729
