@@ -1,9 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25162503,Mozelos,Area M. Porto,309,2025-03-28T17:03:00Z,25162503,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-03-28T17:03:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56526,40.997101
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25161894,Góis,Região de Coimbra,310,2025-03-28T15:10:00Z,25161894,Em despacho,3301,Queda de árvore,0,1,0,4,2025-03-28T15:10:00Z,Góis,Coimbra,Centro,-8.095557,40.15459
 25162095,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-03-28T11:08:00Z,25162095,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-28T11:08:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.440971,38.822419
 25162106,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-03-28T15:49:00Z,25162106,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-28T15:49:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.037475,38.494676
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25162340,Pontinha e Famões,Grande Lisboa,311,2025-03-28T16:10:00Z,25162340,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-03-28T16:10:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.200241,38.764933
+25162475,São João Baptista,Alto Alentejo,312,2025-03-28T16:57:00Z,25162475,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-03-28T16:57:00Z,Castelo De Vide,Portalegre,Alentejo,-7.54088,39.416847
