@@ -10,3 +10,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25137028,Santo Quintino,Oeste,311,2025-03-23T11:30:00Z,25137028,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-03-23T11:30:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.141897,38.992853
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25157618,Carcavelos e Parede,Grande Lisboa,311,2025-03-27T16:53:00Z,25157618,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-03-27T16:53:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.337574,38.688343
+25159474,Aljubarrota,Oeste,311,2025-03-28T06:42:00Z,25159474,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-03-28T06:42:00Z,Alcobaça,Leiria,Centro,-8.91349,39.54436
