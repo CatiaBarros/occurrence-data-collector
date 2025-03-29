@@ -1,11 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
+25165287,Quarteira,Algarve,313,2025-03-29T10:19:00Z,25165287,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-03-29T10:19:00Z,Loulé,Faro,Algarve,-8.12969,37.102601
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25164605,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-03-29T07:49:00Z,25164605,Em despacho,3301,Queda de árvore,0,2,0,2,2025-03-29T07:49:00Z,Santo Tirso,Porto,Norte,-8.474679,41.335886
 25164900,"Vale (São Cosme), Telhado e Portela",Ave,309,2025-03-29T09:02:00Z,25164900,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-29T09:02:00Z,Vila Nova De Famalicão,Braga,Norte,-8.460822,41.4515
 25164982,Rio de Moinhos,Alentejo Central,312,2025-03-29T09:18:00Z,25164982,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-29T09:18:00Z,Borba,Évora,Alentejo,-7.489763,38.782875
 25165232,Golpilheira,Região de Leiria,310,2025-03-29T10:07:00Z,25165232,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-29T10:07:00Z,Batalha,Leiria,Centro,-8.825543,39.686901
-25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25165054,Alfeizerão,Oeste,311,2025-03-29T09:24:00Z,25165054,Em despacho,3301,Queda de árvore,0,1,0,2,2025-03-29T09:24:00Z,Alcobaça,Leiria,Centro,-9.110786,39.496611
-25165287,Quarteira,Algarve,313,2025-03-29T10:19:00Z,25165287,Em curso,3301,Queda de árvore,0,1,0,5,2025-03-29T10:19:00Z,Loulé,Faro,Algarve,-8.12969,37.102601
