@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25168216,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-03-29T21:16:00Z,25168216,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-29T21:16:00Z,Leiria,Leiria,Centro,-8.802832,39.749179
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25169739,Pataias e Martingança,Oeste,311,2025-03-30T09:50:00Z,25169739,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-30T09:50:00Z,Alcobaça,Leiria,Centro,-8.958497,39.692336
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25169739,Pataias e Martingança,Oeste,311,2025-03-30T09:50:00Z,25169739,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-03-30T09:50:00Z,Alcobaça,Leiria,Centro,-8.958497,39.692336
+25169851,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-03-30T10:00:00Z,25169851,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-03-30T10:00:00Z,Vila Nova De Gaia,Porto,Norte,-8.611105,41.107184
+25168216,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-03-29T21:16:00Z,25168216,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-03-29T21:16:00Z,Leiria,Leiria,Centro,-8.802832,39.749179
 25115378,Encarnação,Grande Lisboa,311,2025-03-20T01:15:00Z,25115378,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-20T01:15:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.382674,39.035843
 25169508,Sesimbra (Castelo),Península de Setúbal,311,2025-03-30T09:05:00Z,25169508,Em curso,3301,Queda de árvore,0,1,0,4,2025-03-30T09:05:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.106828,38.452682
