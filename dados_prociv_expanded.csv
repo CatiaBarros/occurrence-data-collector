@@ -1,13 +1,13 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25170600,"Santa Marinha e São Pedro da Afurada","Area M. Porto",309,"2025-03-30T13:39:00",25170600,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-03-30T13:39:00","Vila Nova De Gaia","Porto","Norte",-8.624714,41.132843
-25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,0,0,0,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
-25172936,"Urrô","Area M. Porto",309,"2025-03-31T00:28:00",25172936,"Em curso","3103","Incêndio rural",0,1,0,3,"2025-03-31T00:28:00","Arouca","Aveiro","Norte",-8.278408,40.879884
-25173249,"Rossas","Area M. Porto",309,"2025-03-31T05:20:00",25173249,"Em conclusão","2407","Despiste",0,3,0,6,"2025-03-31T05:20:00","Arouca","Aveiro","Norte",-8.31542,40.903464
-25173014,"Cerva e Limões","Alto Tâmega e Barroso",309,"2025-03-31T01:27:00",25173014,"Em curso","3103","Incêndio rural",0,10,0,31,"2025-03-31T01:27:00","Ribeira De Pena","Vila Real","Norte",-7.884425,41.442893
-25115378,"Encarnação","Grande Lisboa",311,"2025-03-20T01:15:00",25115378,"Em despacho","3321","Dano na rede de fornecimento de eletricidade ",0,1,0,5,"2025-03-20T01:15:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.382674,39.035843
-25173166,"Ribafeita","Viseu Dão Lafões",310,"2025-03-31T03:43:00",25173166,"Em curso","2407","Despiste",0,2,0,4,"2025-03-31T03:43:00","Viseu","Viseu","Centro",-8.001699,40.746178
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25137544,"Dois Portos e Runa","Oeste",311,"2025-03-23T13:41:00",25137544,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-03-23T13:41:00","Torres Vedras","Lisboa","Centro",-9.178343,39.036686
 25172857,"Anjos e Vilar do Chão","Ave",309,"2025-03-30T23:51:00",25172857,"Em curso","3103","Incêndio rural",0,7,0,22,"2025-03-30T23:51:00","Vieira Do Minho","Braga","Norte",-8.069715,41.615943
+25115378,"Encarnação","Grande Lisboa",311,"2025-03-20T01:15:00",25115378,"Em despacho","3321","Dano na rede de fornecimento de eletricidade ",0,1,0,5,"2025-03-20T01:15:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.382674,39.035843
+25173166,"Ribafeita","Viseu Dão Lafões",310,"2025-03-31T03:43:00",25173166,"Em curso","2407","Despiste",0,2,0,4,"2025-03-31T03:43:00","Viseu","Viseu","Centro",-8.001699,40.746178
+25173014,"Cerva e Limões","Alto Tâmega e Barroso",309,"2025-03-31T01:27:00",25173014,"Em curso","3103","Incêndio rural",0,10,0,31,"2025-03-31T01:27:00","Ribeira De Pena","Vila Real","Norte",-7.884425,41.442893
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25170600,"Santa Marinha e São Pedro da Afurada","Area M. Porto",309,"2025-03-30T13:39:00",25170600,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-03-30T13:39:00","Vila Nova De Gaia","Porto","Norte",-8.624714,41.132843
+25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,0,0,0,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
+25172936,"Urrô","Area M. Porto",309,"2025-03-31T00:28:00",25172936,"Em curso","3103","Incêndio rural",0,1,0,3,"2025-03-31T00:28:00","Arouca","Aveiro","Norte",-8.278408,40.879884
+25173249,"Rossas","Area M. Porto",309,"2025-03-31T05:20:00",25173249,"Em conclusão","2407","Despiste",0,2,0,4,"2025-03-31T05:20:00","Arouca","Aveiro","Norte",-8.31542,40.903464
