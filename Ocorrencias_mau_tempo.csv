@@ -1,11 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25115378,Encarnação,Grande Lisboa,311,2025-03-20T01:15:00Z,25115378,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-20T01:15:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.382674,39.035843
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25175680,Alcantarilha e Pêra,Algarve,313,2025-03-31T14:20:00Z,25175680,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-31T14:20:00Z,Silves,Faro,Algarve,-8.325536,37.143891000000004
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25175061,Colmeias e Memória,Região de Leiria,310,2025-03-31T12:28:00Z,25175061,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-31T12:28:00Z,Leiria,Leiria,Centro,-8.671536,39.819213
-25176379,Benedita,Oeste,311,2025-03-31T15:54:00Z,25176379,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-03-31T15:54:00Z,Alcobaça,Leiria,Centro,-8.966793,39.417538
 25175882,Ramada e Caneças,Grande Lisboa,311,2025-03-31T14:54:00Z,25175882,Em despacho,3301,Queda de árvore,0,1,0,3,2025-03-31T14:54:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
-25175966,Vila Boa do Bispo,Tâmega e Sousa,309,2025-03-31T14:55:00Z,25175966,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-03-31T14:55:00Z,Marco De Canaveses,Porto,Norte,-8.212735,41.13464
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25175680,Alcantarilha e Pêra,Algarve,313,2025-03-31T14:20:00Z,25175680,Em despacho,3301,Queda de árvore,0,1,0,5,2025-03-31T14:20:00Z,Silves,Faro,Algarve,-8.325536,37.143891000000004
