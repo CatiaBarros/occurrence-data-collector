@@ -1,12 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25174007,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-31T09:14:00Z,25174007,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,3,2025-03-31T09:14:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.348199,38.803113
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25173799,Póvoa de Santo Adrião e Olival Basto,Grande Lisboa,311,2025-03-31T08:49:00Z,25173799,Em curso,3301,Queda de árvore,0,2,0,6,2025-03-31T08:49:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.159939,38.803537
-25115378,Encarnação,Grande Lisboa,311,2025-03-20T01:15:00Z,25115378,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-20T01:15:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.382674,39.035843
-25174186,Sátão,Viseu Dão Lafões,310,2025-03-31T10:00:00Z,25174186,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-31T10:00:00Z,Sátão,Viseu,Centro,-7.74005,40.742885
-25174189,Gâmbia-Pontes-Alto da Guerra,Península de Setúbal,311,2025-03-31T10:03:00Z,25174189,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-31T10:03:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.82151,38.53853
+25173799,Póvoa de Santo Adrião e Olival Basto,Grande Lisboa,311,2025-03-31T08:49:00Z,25173799,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-03-31T08:49:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.159939,38.803537
+25174042,Melides,Alentejo Litoral,312,2025-03-31T09:20:00Z,25174042,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-31T09:20:00Z,Grândola,Setúbal,Alentejo,-8.726303,38.148035
+25174135,Santo António Dos Olivais,Região de Coimbra,310,2025-03-31T09:52:00Z,25174135,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-31T09:52:00Z,Coimbra,Coimbra,Centro,-8.392808,40.235354
+25174283,Lamas e Cercal,Oeste,311,2025-03-31T10:15:00Z,25174283,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-03-31T10:15:00Z,Cadaval,Lisboa,Centro,-9.07656,39.22682
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25174042,Melides,Alentejo Litoral,312,2025-03-31T09:20:00Z,25174042,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-31T09:20:00Z,Grândola,Setúbal,Alentejo,-8.726303,38.148035
-25174135,Santo António Dos Olivais,Região de Coimbra,310,2025-03-31T09:52:00Z,25174135,Em despacho,3301,Queda de árvore,0,2,0,5,2025-03-31T09:52:00Z,Coimbra,Coimbra,Centro,-8.392808,40.235354
+25174007,Algueirão-Mem Martins,Grande Lisboa,311,2025-03-31T09:14:00Z,25174007,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,3,2025-03-31T09:14:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.348199,38.803113
+25115378,Encarnação,Grande Lisboa,311,2025-03-20T01:15:00Z,25115378,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-20T01:15:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.382674,39.035843
+25174186,Sátão,Viseu Dão Lafões,310,2025-03-31T10:00:00Z,25174186,Em despacho,3301,Queda de árvore,0,1,0,1,2025-03-31T10:00:00Z,Sátão,Viseu,Centro,-7.74005,40.742885
+25174189,Gâmbia-Pontes-Alto da Guerra,Península de Setúbal,311,2025-03-31T10:03:00Z,25174189,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-31T10:03:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.82151,38.53853
