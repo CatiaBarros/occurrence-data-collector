@@ -6,4 +6,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25181186,Peniche,Oeste,311,2025-04-01T15:49:00Z,25181186,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-04-01T15:49:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25115378,Encarnação,Grande Lisboa,311,2025-03-20T01:15:00Z,25115378,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-03-20T01:15:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.382674,39.035843
-25181188,Azoia de Cima e Tremês,Lezíria do Tejo,311,2025-04-01T15:54:00Z,25181188,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-04-01T15:54:00Z,Santarém,Santarém,Alentejo,-8.742159,39.350516
+25181285,Maceira,Região de Leiria,310,2025-04-01T15:53:00Z,25181285,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-04-01T15:53:00Z,Leiria,Leiria,Centro,-8.889652,39.686501
