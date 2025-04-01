@@ -1,10 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,0,0,0,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
-25178227,"Abadim","Ave",309,"2025-04-01T00:35:00",25178227,"Em conclusão","3101","Incêndio rural",0,1,0,3,"2025-04-01T00:35:00","Cabeceiras De Basto","Braga","Norte",-7.983198,41.563206
-25178563,"Cinfães","Tâmega e Sousa",309,"2025-04-01T06:17:00",25178563,"Em despacho","2403","Colisão rodoviária",0,3,0,6,"2025-04-01T06:17:00","Cinfães","Viseu","Norte",-8.086727,41.072213
 25178010,"Picão e Ermida","Viseu Dão Lafões",310,"2025-03-31T22:23:00",25178010,"Em curso","4327","Busca e resgate terrestre de pessoas",0,1,0,2,"2025-03-31T22:23:00","Castro Daire","Viseu","Centro",-7.954991,40.946022
 25178303,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim","Grande Lisboa",311,"2025-04-01T01:45:00",25178303,"Em conclusão","2407","Despiste",0,0,0,0,"2025-04-01T01:45:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.37981,38.79688
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,0,0,0,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
+25178227,"Abadim","Ave",309,"2025-04-01T00:35:00",25178227,"Em conclusão","3101","Incêndio rural",0,0,0,0,"2025-04-01T00:35:00","Cabeceiras De Basto","Braga","Norte",-7.983198,41.563206
+25178563,"Cinfães","Tâmega e Sousa",309,"2025-04-01T06:17:00",25178563,"Em despacho","2403","Colisão rodoviária",0,3,0,6,"2025-04-01T06:17:00","Cinfães","Viseu","Norte",-8.086727,41.072213
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25137544,"Dois Portos e Runa","Oeste",311,"2025-03-23T13:41:00",25137544,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-03-23T13:41:00","Torres Vedras","Lisboa","Centro",-9.178343,39.036686
@@ -14,4 +14,4 @@
 25176178,"Alcântara","Grande Lisboa",311,"2025-03-31T15:49:00",25176178,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,18,"2025-03-31T15:49:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.18505,38.70469
 25177564,"Reigoso","Alto Tâmega e Barroso",309,"2025-03-31T20:30:00",25177564,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-03-31T20:30:00","Montalegre","Vila Real","Norte",-7.940955,41.731635
 25178334,"Freixieiro de Soutelo","Alto Minho",309,"2025-04-01T02:18:00",25178334,"Em curso","3103","Incêndio rural",0,3,0,13,"2025-04-01T02:18:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.824173,41.785393
-25178568,"Felgueiras e Maçores","Douro",309,"2025-04-01T06:26:00",25178568,"Em despacho","2101","Incêndio em edifícios habitacionais",0,0,0,0,"2025-04-01T06:26:00","Torre De Moncorvo","Bragança","Norte",-6.9632,41.16307
+25178568,"Felgueiras e Maçores","Douro",309,"2025-04-01T06:26:00",25178568,"Em despacho","2101","Incêndio em edifícios habitacionais",0,7,0,20,"2025-04-01T06:26:00","Torre De Moncorvo","Bragança","Norte",-6.9632,41.16307
