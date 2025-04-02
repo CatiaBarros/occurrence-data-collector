@@ -1,4 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25184229,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-04-02T10:27:00Z,25184229,Em conclusão,3311,Queda de elementos de estruturas edificados,0,2,0,5,2025-04-02T10:27:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.300875,38.69138
+25184488,Monchique,Algarve,313,2025-04-02T10:51:00Z,25184488,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-02T10:51:00Z,Monchique,Faro,Algarve,-8.567422,37.320753
 25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
@@ -6,6 +9,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25183604,Odeceixe,Algarve,313,2025-04-02T08:20:00Z,25183604,Em despacho,3301,Queda de árvore,0,3,0,4,2025-04-02T08:20:00Z,Aljezur,Faro,Algarve,-8.76009,37.426205
 25183706,Moscavide e Portela,Grande Lisboa,311,2025-04-02T08:45:00Z,25183706,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T08:45:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.114803,38.78591
 25184223,Quarteira,Algarve,313,2025-04-02T10:19:00Z,25184223,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-02T10:19:00Z,Loulé,Faro,Algarve,-8.12969,37.102601
-25184322,Alcantarilha e Pêra,Algarve,313,2025-04-02T10:33:00Z,25184322,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-02T10:33:00Z,Silves,Faro,Algarve,-8.3357,37.156489
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25184229,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-04-02T10:27:00Z,25184229,Em conclusão,3311,Queda de elementos de estruturas edificados,0,2,0,5,2025-04-02T10:27:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.300875,38.69138
+25184322,Alcantarilha e Pêra,Algarve,313,2025-04-02T10:33:00Z,25184322,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-04-02T10:33:00Z,Silves,Faro,Algarve,-8.3357,37.156489
