@@ -2,17 +2,16 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25183706,Moscavide e Portela,Grande Lisboa,311,2025-04-02T08:45:00Z,25183706,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T08:45:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.114803,38.78591
 25185161,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-04-02T13:20:00Z,25185161,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-02T13:20:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 25185241,Santo António Dos Olivais,Região de Coimbra,310,2025-04-02T13:35:00Z,25185241,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-02T13:35:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
+25185433,Carcavelos e Parede,Grande Lisboa,311,2025-04-02T14:24:00Z,25185433,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-04-02T14:24:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.343741,38.692982
+25185728,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-04-02T15:01:00Z,25185728,Em curso,3301,Queda de árvore,0,1,0,6,2025-04-02T15:01:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.244903,38.715384
 25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25184671,Alvalade,Alentejo Litoral,312,2025-04-02T11:35:00Z,25184671,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T11:35:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390153,37.933937
 25185287,Febres,Região de Coimbra,310,2025-04-02T13:57:00Z,25185287,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-02T13:57:00Z,Cantanhede,Coimbra,Centro,-8.658435,40.394749
 25185441,Rogil,Algarve,313,2025-04-02T14:22:00Z,25185441,Em despacho,3301,Queda de árvore,0,2,0,7,2025-04-02T14:22:00Z,Aljezur,Faro,Algarve,-8.79915,37.371931
 25185573,"Alhandra, São João Dos Montes e Calhandriz",Grande Lisboa,311,2025-04-02T14:32:00Z,25185573,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-04-02T14:32:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.006082,38.929996
 25185648,Odeceixe,Algarve,313,2025-04-02T14:59:00Z,25185648,Em despacho,3301,Queda de árvore,0,2,0,4,2025-04-02T14:59:00Z,Aljezur,Faro,Algarve,-8.797282,37.416091
-25185544,Laranjeiro e Feijó,Península de Setúbal,311,2025-04-02T14:39:00Z,25185544,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-04-02T14:39:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.156624,38.652235
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25185220,Amoreira,Oeste,311,2025-04-02T13:30:00Z,25185220,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-02T13:30:00Z,Óbidos,Leiria,Centro,-9.213027,39.342591
 25185506,Luz de Tavira e Santo Estêvão,Algarve,313,2025-04-02T14:26:00Z,25185506,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-02T14:26:00Z,Tavira,Faro,Algarve,-7.714632,37.093757
-25185433,Carcavelos e Parede,Grande Lisboa,311,2025-04-02T14:24:00Z,25185433,Em conclusão,3311,Queda de elementos de estruturas edificados,0,2,0,3,2025-04-02T14:24:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.343741,38.692982
