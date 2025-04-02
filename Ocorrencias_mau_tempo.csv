@@ -1,11 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25184671,Alvalade,Alentejo Litoral,312,2025-04-02T11:35:00Z,25184671,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T11:35:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390153,37.933937
-25184830,Ramada e Caneças,Grande Lisboa,311,2025-04-02T12:02:00Z,25184830,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-04-02T12:02:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.203784,38.810349
-25185098,Bordeira,Algarve,313,2025-04-02T12:09:00Z,25185098,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T12:09:00Z,Aljezur,Faro,Algarve,-8.868554,37.195822
-25184999,Repeses e São Salvador,Viseu Dão Lafões,310,2025-04-02T12:47:00Z,25184999,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T12:47:00Z,Viseu,Viseu,Centro,-7.92389,40.638004
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25183706,Moscavide e Portela,Grande Lisboa,311,2025-04-02T08:45:00Z,25183706,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T08:45:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.114803,38.78591
+25185161,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-04-02T13:20:00Z,25185161,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-02T13:20:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
+25184999,Repeses e São Salvador,Viseu Dão Lafões,310,2025-04-02T12:47:00Z,25184999,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T12:47:00Z,Viseu,Viseu,Centro,-7.939206,40.65604
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25184671,Alvalade,Alentejo Litoral,312,2025-04-02T11:35:00Z,25184671,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T11:35:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390153,37.933937
+25185098,Bordeira,Algarve,313,2025-04-02T12:09:00Z,25185098,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-02T12:09:00Z,Aljezur,Faro,Algarve,-8.868554,37.195822
+25185232,Mora,Alentejo Central,312,2025-04-02T13:38:00Z,25185232,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-02T13:38:00Z,Mora,Évora,Alentejo,-8.182087,38.953268
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25185188,Pegões,Península de Setúbal,311,2025-04-02T13:28:00Z,25185188,Em despacho,3301,Queda de árvore,0,0,0,0,2025-04-02T13:28:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.757197,38.690184
+25185220,Amoreira,Oeste,311,2025-04-02T13:30:00Z,25185220,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-02T13:30:00Z,Óbidos,Leiria,Centro,-9.213027,39.342591
+25185201,Buarcos,Região de Coimbra,310,2025-04-02T11:30:00Z,25185201,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-02T11:30:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
