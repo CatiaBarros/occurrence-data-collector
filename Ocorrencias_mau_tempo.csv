@@ -1,12 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25186257,Cascais e Estoril,Grande Lisboa,311,2025-04-02T17:10:00Z,25186257,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-02T17:10:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.374686,38.707771
-25186293,Rocas do Vouga,Região de Aveiro,310,2025-04-02T17:10:00Z,25186293,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-04-02T17:10:00Z,Sever Do Vouga,Aveiro,Centro,-8.335576,40.740669
-25186359,Vila Pouca de Aguiar,Alto Tâmega e Barroso,309,2025-04-02T17:43:00Z,25186359,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-02T17:43:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.637322,41.50336
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25186144,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-04-02T16:46:00Z,25186144,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,7,2025-04-02T16:46:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.926392,38.520139
-25186244,Faro (Sé e São Pedro),Algarve,313,2025-04-02T17:16:00Z,25186244,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-04-02T17:16:00Z,Faro,Faro,Algarve,-7.930848,37.02764
+25186244,Faro (Sé e São Pedro),Algarve,313,2025-04-02T17:16:00Z,25186244,Em resolução,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-04-02T17:16:00Z,Faro,Faro,Algarve,-7.930848,37.02764
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25186265,Barrô e Aguada de Baixo,Região de Aveiro,310,2025-04-02T17:15:00Z,25186265,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-02T17:15:00Z,Águeda,Aveiro,Centro,-8.458783,40.514357
+25186426,Sousel,Alto Alentejo,312,2025-04-02T17:54:00Z,25186426,Em despacho,3301,Queda de árvore,0,2,0,7,2025-04-02T17:54:00Z,Sousel,Portalegre,Alentejo,-7.688949,38.954047
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25186293,Rocas do Vouga,Região de Aveiro,310,2025-04-02T17:10:00Z,25186293,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-04-02T17:10:00Z,Sever Do Vouga,Aveiro,Centro,-8.335576,40.740669
+25186359,Vila Pouca de Aguiar,Alto Tâmega e Barroso,309,2025-04-02T17:43:00Z,25186359,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-02T17:43:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.637322,41.50336
