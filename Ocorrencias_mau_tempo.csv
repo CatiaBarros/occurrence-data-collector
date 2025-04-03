@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25190403,Juncal,Região de Leiria,310,2025-04-03T15:42:00Z,25190403,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-03T15:42:00Z,Porto De Mós,Leiria,Centro,-8.896898,39.603593
+25190460,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-04-03T15:53:00Z,25190460,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-03T15:53:00Z,Matosinhos,Porto,Norte,-8.630369,41.188957
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25190395,"Aboim, Felgueiras, Gontim e Pedraído",Ave,309,2025-04-03T15:44:00Z,25190395,Em curso,3301,Queda de árvore,0,3,0,8,2025-04-03T15:44:00Z,Fafe,Braga,Norte,-8.121073,41.519108
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25189721,São Salvador e Santa Maria,Alentejo Litoral,312,2025-04-03T13:31:00Z,25189721,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-03T13:31:00Z,Odemira,Beja,Alentejo,-8.650536,37.594321
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25190403,Juncal,Região de Leiria,310,2025-04-03T15:42:00Z,25190403,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-03T15:42:00Z,Porto De Mós,Leiria,Centro,-8.896898,39.603593
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25190395,"Aboim, Felgueiras, Gontim e Pedraído",Ave,309,2025-04-03T15:44:00Z,25190395,Em despacho,3301,Queda de árvore,0,0,0,0,2025-04-03T15:44:00Z,Fafe,Braga,Norte,-8.12018,41.51761
