@@ -1,13 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25190771,Ramalde,Area M. Porto,309,2025-04-03T17:06:00Z,25190771,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,5,2025-04-03T17:06:00Z,Porto,Porto,Norte,-8.642922,41.17139
+25190953,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-04-03T17:53:00Z,25190953,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-03T17:53:00Z,Coruche,Santarém,Alentejo,-8.531156,38.965014
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25190577,Paderne,Algarve,313,2025-04-03T16:24:00Z,25190577,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-03T16:24:00Z,Albufeira,Faro,Algarve,-8.210322,37.15903
+25190938,Boivães,Alto Minho,309,2025-04-03T17:50:00Z,25190938,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-04-03T17:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.44344,41.757358
+25190956,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-04-03T17:00:00Z,25190956,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-03T17:00:00Z,Vila Nova De Gaia,Porto,Norte,-8.485122,41.033861
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25189721,São Salvador e Santa Maria,Alentejo Litoral,312,2025-04-03T13:31:00Z,25189721,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-03T13:31:00Z,Odemira,Beja,Alentejo,-8.650536,37.594321
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25190577,Paderne,Algarve,313,2025-04-03T16:24:00Z,25190577,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-03T16:24:00Z,Albufeira,Faro,Algarve,-8.210322,37.15903
-25190938,Boivães,Alto Minho,309,2025-04-03T17:50:00Z,25190938,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-03T17:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.458108,41.757711
-25190956,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-04-03T17:00:00Z,25190956,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-03T17:00:00Z,Vila Nova De Gaia,Porto,Norte,-8.485122,41.033861
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25190460,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-04-03T15:53:00Z,25190460,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-03T15:53:00Z,Matosinhos,Porto,Norte,-8.630369,41.188957
-25190771,Ramalde,Area M. Porto,309,2025-04-03T17:06:00Z,25190771,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,5,2025-04-03T17:06:00Z,Porto,Porto,Norte,-8.642922,41.17139
-25190953,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-04-03T17:53:00Z,25190953,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-03T17:53:00Z,Coruche,Santarém,Alentejo,-8.531156,38.965014
+25191068,Usseira,Oeste,311,2025-04-03T18:22:00Z,25191068,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-04-03T18:22:00Z,Óbidos,Leiria,Centro,-9.162999,39.332237
