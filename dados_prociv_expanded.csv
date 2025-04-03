@@ -1,12 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
-25191566,"Bougado (São Martinho e Santiago)","Area M. Porto",309,"2025-04-03T20:21:00",25191566,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-03T20:21:00","Trofa","Porto","Norte",-8.558796,41.329536
-25191630,"Aboim Das Choças","Alto Minho",309,"2025-04-03T20:40:00",25191630,"Em conclusão","3105","Incêndio rural",0,2,0,6,"2025-04-03T20:40:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.454947,41.93011
-25191698,"Marrancos e Arcozelo","Cávado",309,"2025-04-03T20:59:00",25191698,"Em curso","2407","Despiste",0,1,0,2,"2025-04-03T20:59:00","Vila Verde","Braga","Norte",-8.52013,41.662927
-25191232,"Bucelas","Grande Lisboa",311,"2025-04-03T18:43:00",25191232,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-04-03T18:43:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.121038,38.903857
 25191520,"Ericeira","Grande Lisboa",311,"2025-04-03T20:12:00",25191520,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-03T20:12:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.412511,38.97755
 25191704,"Merelim (São Pedro) e Frossos","Cávado",309,"2025-04-03T21:13:00",25191704,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-04-03T21:13:00","Braga","Braga","Norte",-8.449124,41.56215
-25191736,"Malveira e São Miguel de Alcainça","Grande Lisboa",311,"2025-04-03T21:14:00",25191736,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-04-03T21:14:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.255135,38.927865
+25191736,"Malveira e São Miguel de Alcainça","Grande Lisboa",311,"2025-04-03T21:14:00",25191736,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-04-03T21:14:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.251378,38.93924
+25191786,"Rio de Mouro","Grande Lisboa",311,"2025-04-03T21:33:00",25191786,"Em curso","2407","Despiste",0,2,0,7,"2025-04-03T21:33:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.321906,38.783084
+25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
+25191566,"Bougado (São Martinho e Santiago)","Area M. Porto",309,"2025-04-03T20:21:00",25191566,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-03T20:21:00","Trofa","Porto","Norte",-8.558796,41.329536
+25191698,"Marrancos e Arcozelo","Cávado",309,"2025-04-03T20:59:00",25191698,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-03T20:59:00","Vila Verde","Braga","Norte",-8.52013,41.662927
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25137544,"Dois Portos e Runa","Oeste",311,"2025-03-23T13:41:00",25137544,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-03-23T13:41:00","Torres Vedras","Lisboa","Centro",-9.178343,39.036686
@@ -15,7 +14,7 @@
 25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,1,0,2,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
 25191263,"Nespereira","Tâmega e Sousa",309,"2025-04-03T19:04:00",25191263,"Em curso","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-04-03T19:04:00","Cinfães","Viseu","Norte",-8.162845,41.002883
 25191388,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2025-04-03T19:37:00",25191388,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-03T19:37:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.149586,38.79797
-25191540,"Esmeriz e Cabeçudos","Ave",309,"2025-04-03T20:22:00",25191540,"Em curso","3103","Incêndio rural",0,3,0,7,"2025-04-03T20:22:00","Vila Nova De Famalicão","Braga","Norte",-8.519302,41.37313
+25191540,"Esmeriz e Cabeçudos","Ave",309,"2025-04-03T20:22:00",25191540,"Em resolução","3103","Incêndio rural",0,3,0,7,"2025-04-03T20:22:00","Vila Nova De Famalicão","Braga","Norte",-8.519302,41.37313
 25191549,"Oliveira (São Mateus)","Ave",309,"2025-04-03T20:21:00",25191549,"Em despacho","2407","Despiste",0,2,0,4,"2025-04-03T20:21:00","Vila Nova De Famalicão","Braga","Norte",-8.408561,41.393162
 25191738,"Vila de Ala","Terras de Trás-os-Montes",309,"2025-04-03T21:22:00",25191738,"Em despacho","3203","Detritos confinados",0,1,0,2,"2025-04-03T21:22:00","Mogadouro","Bragança","Norte",-6.65424,41.334663
-25191758,"Gavião","Ave",309,"2025-04-03T21:24:00",25191758,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-03T21:24:00","Vila Nova De Famalicão","Braga","Norte",-8.50734,41.423944
+25191758,"Gavião","Ave",309,"2025-04-03T21:24:00",25191758,"Em curso","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-03T21:24:00","Vila Nova De Famalicão","Braga","Norte",-8.50734,41.423944
