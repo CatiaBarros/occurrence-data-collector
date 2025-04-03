@@ -3,6 +3,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25188169,Miranda do Corvo,Região de Coimbra,310,2025-04-03T08:30:00Z,25188169,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-03T08:30:00Z,Miranda Do Corvo,Coimbra,Centro,-8.328159,40.098029
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25188335,Moscavide e Portela,Grande Lisboa,311,2025-04-03T08:45:00Z,25188335,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-03T08:45:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.099341,38.780698
+25188368,Vila Pouca de Aguiar,Alto Tâmega e Barroso,309,2025-04-03T09:11:00Z,25188368,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-03T09:11:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.645977,41.499519
+25188384,Aljezur,Algarve,313,2025-04-03T08:51:00Z,25188384,Em despacho,3301,Queda de árvore,0,2,0,4,2025-04-03T08:51:00Z,Aljezur,Faro,Algarve,-8.854007,37.323856
 25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25188256,Ericeira,Grande Lisboa,311,2025-04-03T08:39:00Z,25188256,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-04-03T08:39:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.417289,38.967626
+25188370,Aljezur,Algarve,313,2025-04-03T08:50:00Z,25188370,Em despacho,3301,Queda de árvore,0,2,0,6,2025-04-03T08:50:00Z,Aljezur,Faro,Algarve,-8.84852,37.340107
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
