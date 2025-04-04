@@ -2,15 +2,13 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25195268,Santa Catarina da Serra e Chainça,Região de Leiria,310,2025-04-04T16:33:00Z,25195268,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-04-04T16:33:00Z,Leiria,Leiria,Centro,-8.698627,39.704702
 25195793,Santo António da Charneca,Península de Setúbal,311,2025-04-04T18:30:00Z,25195793,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-04T18:30:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.029919,38.624451
-25195825,Fiães,Area M. Porto,309,2025-04-04T18:43:00Z,25195825,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-04-04T18:43:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.522206,40.985785
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25194095,Arruda Dos Vinhos,Oeste,311,2025-04-04T08:14:00Z,25194095,Em despacho,1101,Cheia,0,1,0,2,2025-04-04T08:14:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.062301,38.996217
+25195835,Santo Estêvão,Lezíria do Tejo,311,2025-04-04T18:50:00Z,25195835,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,6,2025-04-04T18:50:00Z,Benavente,Santarém,Alentejo,-8.715183,38.88547
+25195901,Buarcos,Região de Coimbra,310,2025-04-04T18:57:00Z,25195901,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-04T18:57:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25195737,Caranguejeira,Região de Leiria,310,2025-04-04T18:23:00Z,25195737,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T18:23:00Z,Leiria,Leiria,Centro,-8.721125,39.745119
 25195163,Cardosas,Oeste,311,2025-04-04T15:00:00Z,25195163,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-04-04T15:00:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.035584,38.982916
 25195612,Vinhós,Ave,309,2025-04-04T17:48:00Z,25195612,Em curso,3301,Queda de árvore,0,1,0,2,2025-04-04T17:48:00Z,Fafe,Braga,Norte,-8.176231,41.48282
-25195913,Nogueira da Regedoura,Area M. Porto,309,2025-04-04T19:09:00Z,25195913,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-04-04T19:09:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.59082,41.00988
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25194095,Arruda Dos Vinhos,Oeste,311,2025-04-04T08:14:00Z,25194095,Em despacho,1101,Cheia,0,1,0,2,2025-04-04T08:14:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.062301,38.996217
-25195835,Santo Estêvão,Lezíria do Tejo,311,2025-04-04T18:50:00Z,25195835,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,6,2025-04-04T18:50:00Z,Benavente,Santarém,Alentejo,-8.741412,38.861418
-25195901,Buarcos,Região de Coimbra,310,2025-04-04T18:57:00Z,25195901,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-04T18:57:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
+25195913,Nogueira da Regedoura,Area M. Porto,309,2025-04-04T19:09:00Z,25195913,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-04-04T19:09:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.59082,41.00988
