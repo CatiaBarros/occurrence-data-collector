@@ -3,18 +3,20 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25192619,Manteigas (Santa Maria),Beiras e Serra da Estrela,310,2025-04-04T07:40:00Z,25192619,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:40:00Z,Manteigas,Guarda,Centro,-7.526729,40.422462
 25192633,Sazes da Beira,Beiras e Serra da Estrela,310,2025-04-04T07:55:00Z,25192633,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-04-04T07:55:00Z,Seia,Guarda,Centro,-7.7305720000000004,40.348423
 25192635,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-04-04T07:50:00Z,25192635,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-04T07:50:00Z,Aljustrel,Beja,Alentejo,-8.166212,37.875347
-25192658,Benavente,Lezíria do Tejo,311,2025-04-04T08:04:00Z,25192658,Em despacho,3301,Queda de árvore,0,2,0,4,2025-04-04T08:04:00Z,Benavente,Santarém,Alentejo,-8.804753,38.980872
+25192658,Benavente,Lezíria do Tejo,311,2025-04-04T08:04:00Z,25192658,Em resolução,3301,Queda de árvore,0,2,0,4,2025-04-04T08:04:00Z,Benavente,Santarém,Alentejo,-8.792342,38.951457
 25192588,Monchique,Algarve,313,2025-04-04T07:30:00Z,25192588,Em curso,3301,Queda de árvore,0,1,0,3,2025-04-04T07:30:00Z,Monchique,Faro,Algarve,-8.576824,37.328951000000004
 25192654,Castanheira de Pêra e Coentral,Região de Leiria,310,2025-04-04T07:56:00Z,25192654,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:56:00Z,Castanheira De Pêra,Leiria,Centro,-8.219785,40.013168
-25192671,Loriga,Beiras e Serra da Estrela,310,2025-04-04T08:06:00Z,25192671,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-04-04T08:06:00Z,Seia,Guarda,Centro,-7.717106,40.339454
+25192671,Loriga,Beiras e Serra da Estrela,310,2025-04-04T08:06:00Z,25192671,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-04-04T08:06:00Z,Seia,Guarda,Centro,-7.717106,40.339454
+25192755,Tavira (Santa Maria e Santiago),Algarve,313,2025-04-04T07:34:00Z,25192755,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:34:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
 25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25192577,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-04-04T07:28:00Z,25192577,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-04T07:28:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.139208,38.802817
-25192691,Vialonga,Grande Lisboa,311,2025-04-04T08:00:00Z,25192691,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-04T08:00:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.106591,38.858941
+25192691,Vialonga,Grande Lisboa,311,2025-04-04T08:00:00Z,25192691,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-04T08:00:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.106591,38.858941
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25192495,Fajão-Vidual,Região de Coimbra,310,2025-04-04T06:51:00Z,25192495,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T06:51:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.94076,40.15468
-25192546,Landal,Oeste,311,2025-04-04T07:18:00Z,25192546,Em curso,3301,Queda de árvore,0,2,0,6,2025-04-04T07:18:00Z,Caldas Da Rainha,Leiria,Centro,-9.024795,39.317167
+25192546,Landal,Oeste,311,2025-04-04T07:18:00Z,25192546,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-04-04T07:18:00Z,Caldas Da Rainha,Leiria,Centro,-9.024795,39.317167
 25192611,Lousã e Vilarinho,Região de Coimbra,310,2025-04-04T07:45:00Z,25192611,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:45:00Z,Lousã,Coimbra,Centro,-8.201113,40.080726
 25192614,Albufeira e Olhos de Água,Algarve,313,2025-04-04T07:40:00Z,25192614,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:40:00Z,Albufeira,Faro,Algarve,-8.252292,37.091727
 25192665,Arganil,Região de Coimbra,310,2025-04-04T07:52:00Z,25192665,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:52:00Z,Arganil,Coimbra,Centro,-8.05207,40.205901
+25192697,Salir,Algarve,313,2025-04-04T08:12:00Z,25192697,Em despacho,3301,Queda de árvore,0,0,0,0,2025-04-04T08:12:00Z,Loulé,Faro,Algarve,-7.962852,37.25746
