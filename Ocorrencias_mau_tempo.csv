@@ -2,8 +2,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25192493,Alqueidão,Região de Coimbra,310,2025-04-04T06:40:00Z,25192493,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-04T06:40:00Z,Figueira Da Foz,Coimbra,Centro,-8.772228,40.096989
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25192424,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-04-04T05:52:00Z,25192424,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-04-04T05:52:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.13313,38.81845
-25192451,Fernão Ferro,Península de Setúbal,311,2025-04-04T06:13:00Z,25192451,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-04-04T06:13:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.10556,38.60333
+25192451,Fernão Ferro,Península de Setúbal,311,2025-04-04T06:13:00Z,25192451,Em curso,3315,Inundação de estruturas por precipitação intensa,0,3,0,5,2025-04-04T06:13:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.10556,38.60333
 25192472,"Querença, Tôr e Benafim",Algarve,313,2025-04-04T06:14:00Z,25192472,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-04-04T06:14:00Z,Loulé,Faro,Algarve,-7.960655,37.232228
 25192521,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-04-04T07:03:00Z,25192521,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-04T07:03:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
 25192523,Manteigas (Santa Maria),Beiras e Serra da Estrela,310,2025-04-04T07:00:00Z,25192523,Em despacho,3301,Queda de árvore,0,2,0,4,2025-04-04T07:00:00Z,Manteigas,Guarda,Centro,-7.537826,40.403513
@@ -11,5 +10,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25192431,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-04-04T05:56:00Z,25192431,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-04-04T05:56:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.086294,38.83133
 25192495,Fajão-Vidual,Região de Coimbra,310,2025-04-04T06:51:00Z,25192495,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T06:51:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.94076,40.15468
+25192546,Landal,Oeste,311,2025-04-04T07:18:00Z,25192546,Em despacho,3301,Queda de árvore,0,2,0,6,2025-04-04T07:18:00Z,Caldas Da Rainha,Leiria,Centro,-9.024795,39.317167
