@@ -1,19 +1,20 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25192633,Sazes da Beira,Beiras e Serra da Estrela,310,2025-04-04T07:55:00Z,25192633,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-04-04T07:55:00Z,Seia,Guarda,Centro,-7.7305720000000004,40.348423
-25192635,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-04-04T07:50:00Z,25192635,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-04T07:50:00Z,Aljustrel,Beja,Alentejo,-8.166212,37.875347
+25192635,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-04-04T07:50:00Z,25192635,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-04T07:50:00Z,Aljustrel,Beja,Alentejo,-8.166212,37.875347
 25192826,Rogil,Algarve,313,2025-04-04T08:30:00Z,25192826,Em despacho,3301,Queda de árvore,0,2,0,5,2025-04-04T08:30:00Z,Aljezur,Faro,Algarve,-8.802866,37.408851
-25192853,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-04-04T08:40:00Z,25192853,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,6,2025-04-04T08:40:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.046012,38.896362
 25192901,Baixa da Banheira e Vale da Amoreira,Península de Setúbal,311,2025-04-04T08:52:00Z,25192901,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-04T08:52:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.043028,38.662183
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25192836,Almeirim,Lezíria do Tejo,311,2025-04-04T08:45:00Z,25192836,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-04-04T08:45:00Z,Almeirim,Santarém,Alentejo,-8.61865,39.206648
-25192654,Castanheira de Pêra e Coentral,Região de Leiria,310,2025-04-04T07:56:00Z,25192654,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:56:00Z,Castanheira De Pêra,Leiria,Centro,-8.219785,40.013168
-25192671,Loriga,Beiras e Serra da Estrela,310,2025-04-04T08:06:00Z,25192671,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-04-04T08:06:00Z,Seia,Guarda,Centro,-7.717106,40.339454
-25192755,Tavira (Santa Maria e Santiago),Algarve,313,2025-04-04T07:34:00Z,25192755,Em curso,3301,Queda de árvore,0,1,0,2,2025-04-04T07:34:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25192495,Fajão-Vidual,Região de Coimbra,310,2025-04-04T06:51:00Z,25192495,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T06:51:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.94076,40.15468
 25192546,Landal,Oeste,311,2025-04-04T07:18:00Z,25192546,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-04-04T07:18:00Z,Caldas Da Rainha,Leiria,Centro,-9.024795,39.317167
 25192611,Lousã e Vilarinho,Região de Coimbra,310,2025-04-04T07:45:00Z,25192611,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:45:00Z,Lousã,Coimbra,Centro,-8.201113,40.080726
-25192697,Salir,Algarve,313,2025-04-04T08:12:00Z,25192697,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-04T08:12:00Z,Loulé,Faro,Algarve,-7.962852,37.25746
+25192697,Salir,Algarve,313,2025-04-04T08:12:00Z,25192697,Em resolução,3301,Queda de árvore,0,1,0,5,2025-04-04T08:12:00Z,Loulé,Faro,Algarve,-7.962852,37.25746
+25192654,Castanheira de Pêra e Coentral,Região de Leiria,310,2025-04-04T07:56:00Z,25192654,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T07:56:00Z,Castanheira De Pêra,Leiria,Centro,-8.219785,40.013168
+25192671,Loriga,Beiras e Serra da Estrela,310,2025-04-04T08:06:00Z,25192671,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,4,2025-04-04T08:06:00Z,Seia,Guarda,Centro,-7.717106,40.339454
+25192755,Tavira (Santa Maria e Santiago),Algarve,313,2025-04-04T07:34:00Z,25192755,Em curso,3301,Queda de árvore,0,2,0,3,2025-04-04T07:34:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
+25192954,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-04-04T09:03:00Z,25192954,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-04T09:03:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
+25192971,São Brás de Alportel,Algarve,313,2025-04-04T09:06:00Z,25192971,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-04T09:06:00Z,São Brás De Alportel,Faro,Algarve,-7.892178,37.149213
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25192836,Almeirim,Lezíria do Tejo,311,2025-04-04T08:45:00Z,25192836,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-04-04T08:45:00Z,Almeirim,Santarém,Alentejo,-8.61865,39.206648
