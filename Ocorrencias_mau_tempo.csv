@@ -1,12 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25194095,Arruda Dos Vinhos,Oeste,311,2025-04-04T08:14:00Z,25194095,Em despacho,1101,Cheia,0,1,0,2,2025-04-04T08:14:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.062301,38.996217
+25196108,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-04-04T19:50:00Z,25196108,Em despacho,3301,Queda de árvore,0,2,0,7,2025-04-04T19:50:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
+25196269,Alte,Algarve,313,2025-04-04T19:24:00Z,25196269,Em conclusão,3313,Deslizamento de terras,0,1,0,3,2025-04-04T19:24:00Z,Loulé,Faro,Algarve,-8.209733,37.27017
+25196401,"Pinheiro da Bemposta, Travanca e Palmaz",Area M. Porto,309,2025-04-04T19:29:00Z,25196401,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T19:29:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.458958,40.792613
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25195268,Santa Catarina da Serra e Chainça,Região de Leiria,310,2025-04-04T16:33:00Z,25195268,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-04-04T16:33:00Z,Leiria,Leiria,Centro,-8.698627,39.704702
+25195163,Cardosas,Oeste,311,2025-04-04T15:00:00Z,25195163,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-04-04T15:00:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.035584,38.982916
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25196073,Alvor,Algarve,313,2025-04-04T19:33:00Z,25196073,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T19:33:00Z,Portimão,Faro,Algarve,-8.5944680000000009,37.131433
-25195163,Cardosas,Oeste,311,2025-04-04T15:00:00Z,25195163,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-04-04T15:00:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.035584,38.982916
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25194095,Arruda Dos Vinhos,Oeste,311,2025-04-04T08:14:00Z,25194095,Em despacho,1101,Cheia,0,1,0,2,2025-04-04T08:14:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.062301,38.996217
-25196108,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-04-04T19:50:00Z,25196108,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-04T19:50:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
-25196269,Alte,Algarve,313,2025-04-04T19:24:00Z,25196269,Em despacho,3313,Deslizamento de terras,0,1,0,3,2025-04-04T19:24:00Z,Loulé,Faro,Algarve,-8.209733,37.27017
