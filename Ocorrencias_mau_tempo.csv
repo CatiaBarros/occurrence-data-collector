@@ -1,18 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25195268,Santa Catarina da Serra e Chainça,Região de Leiria,310,2025-04-04T16:33:00Z,25195268,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-04-04T16:33:00Z,Leiria,Leiria,Centro,-8.698627,39.704702
+25195273,Pinhal Novo,Península de Setúbal,311,2025-04-04T16:15:00Z,25195273,Em despacho,3301,Queda de árvore,0,2,0,6,2025-04-04T16:15:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.933451,38.62335
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25194095,Arruda Dos Vinhos,Oeste,311,2025-04-04T08:14:00Z,25194095,Em despacho,1101,Cheia,0,1,0,2,2025-04-04T08:14:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.062301,38.996217
+25195349,"Oliveira de Frades, Souto de Lafões e Sejães",Viseu Dão Lafões,310,2025-04-04T16:38:00Z,25195349,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-04T16:38:00Z,Oliveira De Frades,Viseu,Centro,-8.185214,40.736334
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25194369,Alcobaça e Vestiaria,Oeste,311,2025-04-04T13:20:00Z,25194369,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-04T13:20:00Z,Alcobaça,Leiria,Centro,-8.991927,39.567803
-25194751,São Bartolomeu de Messines,Algarve,313,2025-04-04T14:46:00Z,25194751,Em curso,3311,Queda de elementos de estruturas edificados,0,5,0,13,2025-04-04T14:46:00Z,Silves,Faro,Algarve,-8.276722,37.201297
-25195388,"Assunção, Ajuda, Salvador e Santo Ildefonso",Alto Alentejo,312,2025-04-04T16:48:00Z,25195388,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-04-04T16:48:00Z,Elvas,Portalegre,Alentejo,-7.164235,38.87847
 25195452,Ramada e Caneças,Grande Lisboa,311,2025-04-04T17:12:00Z,25195452,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T17:12:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194441,38.801427
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
-25194095,Arruda Dos Vinhos,Oeste,311,2025-04-04T08:14:00Z,25194095,Em despacho,1101,Cheia,0,1,0,2,2025-04-04T08:14:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.062301,38.996217
-25194765,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-04-04T14:40:00Z,25194765,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-04-04T14:40:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
-25195349,"Oliveira de Frades, Souto de Lafões e Sejães",Viseu Dão Lafões,310,2025-04-04T16:38:00Z,25195349,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-04T16:38:00Z,Oliveira De Frades,Viseu,Centro,-8.185214,40.736334
+25195638,Ferreira-a-Nova,Região de Coimbra,310,2025-04-04T17:59:00Z,25195638,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,4,2025-04-04T17:59:00Z,Figueira Da Foz,Coimbra,Centro,-8.759607,40.254659
 25195163,Cardosas,Oeste,311,2025-04-04T15:00:00Z,25195163,Em despacho,3313,Deslizamento de terras,0,1,0,1,2025-04-04T15:00:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.035584,38.982916
-25195346,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-04-04T16:51:00Z,25195346,Em despacho,3301,Queda de árvore,0,2,0,3,2025-04-04T16:51:00Z,Cartaxo,Santarém,Alentejo,-8.799802,39.166418
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25195268,Santa Catarina da Serra e Chainça,Região de Leiria,310,2025-04-04T16:33:00Z,25195268,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-04-04T16:33:00Z,Leiria,Leiria,Centro,-8.698627,39.704702
-25195273,Pinhal Novo,Península de Setúbal,311,2025-04-04T16:15:00Z,25195273,Em despacho,3301,Queda de árvore,0,2,0,6,2025-04-04T16:15:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.933451,38.62335
-25195500,Parceiros e Azoia,Região de Leiria,310,2025-04-04T17:16:00Z,25195500,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-04T17:16:00Z,Leiria,Leiria,Centro,-8.834141,39.730081
+25195597,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-04-04T17:43:00Z,25195597,Em resolução,3311,Queda de elementos de estruturas edificados,0,2,0,7,2025-04-04T17:43:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25195612,Vinhós,Ave,309,2025-04-04T17:48:00Z,25195612,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-04T17:48:00Z,Fafe,Braga,Norte,-8.176231,41.48282
+25195647,Vila Verde,Região de Coimbra,310,2025-04-04T18:02:00Z,25195647,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-04T18:02:00Z,Figueira Da Foz,Coimbra,Centro,-8.832558,40.147973
