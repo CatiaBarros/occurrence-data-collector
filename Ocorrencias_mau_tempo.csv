@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25198286,Casével e Vaqueiros,Lezíria do Tejo,311,2025-04-05T10:57:00Z,25198286,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-04-05T10:57:00Z,Santarém,Santarém,Alentejo,-8.56972,39.37944
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
-25198360,Gâmbia-Pontes-Alto da Guerra,Península de Setúbal,311,2025-04-05T11:08:00Z,25198360,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-05T11:08:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.764047,38.554124
 25198481,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-04-05T11:47:00Z,25198481,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-04-05T11:47:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
 25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25198534,Vilar de Andorinho,Area M. Porto,309,2025-04-05T11:06:00Z,25198534,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-05T11:06:00Z,Vila Nova De Gaia,Porto,Norte,-8.57418,41.09994
+25198569,Castelo Branco,Beira Baixa,310,2025-04-05T11:27:00Z,25198569,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-05T11:27:00Z,Castelo Branco,Castelo Branco,Centro,-7.490756,39.816895
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
