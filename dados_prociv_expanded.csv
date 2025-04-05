@@ -1,4 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
+25196669,"Apúlia e Fão","Cávado",309,"2025-04-04T22:36:00",25196669,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-04T22:36:00","Esposende","Braga","Norte",-8.753928,41.510955
+25197030,"Soure","Região de Coimbra",310,"2025-04-05T02:06:00",25197030,"Em resolução","2407","Despiste",0,2,0,4,"2025-04-05T02:06:00","Soure","Coimbra","Centro",-8.60097,40.03573
+25197089,"Bárrio e Cepões","Alto Minho",309,"2025-04-05T02:37:00",25197089,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-04-05T02:37:00","Ponte De Lima","Viana Do Castelo","Norte",-8.57676,41.84196
+25197173,"Parceiros e Azoia","Região de Leiria",310,"2025-04-05T03:59:00",25197173,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-05T03:59:00","Leiria","Leiria","Centro",-8.834141,39.730081
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
 25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,1,0,2,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
 25197211,"Póvoa de Varzim, Beiriz e Argivai","Area M. Porto",309,"2025-04-05T04:39:00",25197211,"Em despacho","2403","Colisão rodoviária",0,2,0,6,"2025-04-05T04:39:00","Póvoa De Varzim","Porto","Norte",-8.751207,41.383
@@ -8,8 +13,3 @@
 25196956,"Gualtar","Cávado",309,"2025-04-05T01:04:00",25196956,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-05T01:04:00","Braga","Braga","Norte",-8.382871,41.570233
 25197077,"Bico","Cávado",309,"2025-04-05T02:19:00",25197077,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,8,"2025-04-05T02:19:00","Amares","Braga","Norte",-8.403508,41.641125
 25197193,"São Mamede de Infesta e Senhora da Hora","Area M. Porto",309,"2025-04-05T04:12:00",25197193,"Em despacho","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,4,"2025-04-05T04:12:00","Matosinhos","Porto","Norte",-8.630369,41.188957
-25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
-25196669,"Apúlia e Fão","Cávado",309,"2025-04-04T22:36:00",25196669,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-04T22:36:00","Esposende","Braga","Norte",-8.753928,41.510955
-25197030,"Soure","Região de Coimbra",310,"2025-04-05T02:06:00",25197030,"Em resolução","2407","Despiste",0,2,0,4,"2025-04-05T02:06:00","Soure","Coimbra","Centro",-8.60097,40.03573
-25197089,"Bárrio e Cepões","Alto Minho",309,"2025-04-05T02:37:00",25197089,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-04-05T02:37:00","Ponte De Lima","Viana Do Castelo","Norte",-8.57676,41.84196
-25197173,"Parceiros e Azoia","Região de Leiria",310,"2025-04-05T03:59:00",25197173,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-05T03:59:00","Leiria","Leiria","Centro",-8.834141,39.730081
