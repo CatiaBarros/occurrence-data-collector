@@ -1,16 +1,15 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,1,0,2,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
-25197211,"Póvoa de Varzim, Beiriz e Argivai","Area M. Porto",309,"2025-04-05T04:39:00",25197211,"Em conclusão","2403","Colisão rodoviária",0,2,0,6,"2025-04-05T04:39:00","Póvoa De Varzim","Porto","Norte",-8.77157,41.391552
-25197256,"Casais e Alviobeira","Médio Tejo",311,"2025-04-05T05:26:00",25197256,"Em despacho","3301","Queda de árvore",0,2,0,6,"2025-04-05T05:26:00","Tomar","Santarém","Centro",-8.342844,39.656357
-25197261,"Guia, Ilha e Mata Mourisca","Região de Leiria",310,"2025-04-05T05:32:00",25197261,"Em despacho","2115","Incêndio em edifícios hoteleiros e de restauração",0,2,0,7,"2025-04-05T05:32:00","Pombal","Leiria","Centro",-8.789484,39.91595
-25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25137544,"Dois Portos e Runa","Oeste",311,"2025-03-23T13:41:00",25137544,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-03-23T13:41:00","Torres Vedras","Lisboa","Centro",-9.178343,39.036686
-25196956,"Gualtar","Cávado",309,"2025-04-05T01:04:00",25196956,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-05T01:04:00","Braga","Braga","Norte",-8.382871,41.570233
 25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
 25196669,"Apúlia e Fão","Cávado",309,"2025-04-04T22:36:00",25196669,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-04T22:36:00","Esposende","Braga","Norte",-8.753928,41.510955
 25197030,"Soure","Região de Coimbra",310,"2025-04-05T02:06:00",25197030,"Em conclusão","2407","Despiste",0,0,0,0,"2025-04-05T02:06:00","Soure","Coimbra","Centro",-8.60097,40.03573
 25197089,"Bárrio e Cepões","Alto Minho",309,"2025-04-05T02:37:00",25197089,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-04-05T02:37:00","Ponte De Lima","Viana Do Castelo","Norte",-8.57676,41.84196
-25197173,"Parceiros e Azoia","Região de Leiria",310,"2025-04-05T03:59:00",25197173,"Em curso","2401","Atropelamento rodoviário",0,0,0,0,"2025-04-05T03:59:00","Leiria","Leiria","Centro",-8.834141,39.730081
-25197246,"Braga (São Vítor)","Cávado",309,"2025-04-05T05:14:00",25197246,"Em curso","2407","Despiste",0,3,0,11,"2025-04-05T05:14:00","Braga","Braga","Norte",-8.4037,41.5427
+25197246,"Nogueira, Fraião e Lamaçães","Cávado",309,"2025-04-05T05:14:00",25197246,"Em conclusão","2407","Despiste",0,3,0,10,"2025-04-05T05:14:00","Braga","Braga","Norte",-8.40041,41.542632
+25197298,"Ovar, São João, Arada e São Vicente de Pereira Jusã","Região de Aveiro",310,"2025-04-05T06:10:00",25197298,"Em despacho","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-04-05T06:10:00","Ovar","Aveiro","Centro",-8.55679,40.86052
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,1,0,2,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
+25197256,"Casais e Alviobeira","Médio Tejo",311,"2025-04-05T05:26:00",25197256,"Em conclusão","3301","Queda de árvore",0,1,0,4,"2025-04-05T05:26:00","Tomar","Santarém","Centro",-8.352209,39.66985
+25197261,"Guia, Ilha e Mata Mourisca","Região de Leiria",310,"2025-04-05T05:32:00",25197261,"Em curso","2115","Incêndio em edifícios hoteleiros e de restauração",0,4,0,13,"2025-04-05T05:32:00","Pombal","Leiria","Centro",-8.789484,39.91595
+25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25137544,"Dois Portos e Runa","Oeste",311,"2025-03-23T13:41:00",25137544,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-03-23T13:41:00","Torres Vedras","Lisboa","Centro",-9.178343,39.036686
+25196956,"Gualtar","Cávado",309,"2025-04-05T01:04:00",25196956,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-05T01:04:00","Braga","Braga","Norte",-8.382871,41.570233
