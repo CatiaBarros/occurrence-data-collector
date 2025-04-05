@@ -1,10 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25198286,Casével e Vaqueiros,Lezíria do Tejo,311,2025-04-05T10:57:00Z,25198286,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-05T10:57:00Z,Santarém,Santarém,Alentejo,-8.568333,39.381021
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25198283,Peniche,Oeste,311,2025-04-05T10:45:00Z,25198283,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-04-05T10:45:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25198146,Vila Maior,Viseu Dão Lafões,310,2025-04-05T10:23:00Z,25198146,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-05T10:23:00Z,São Pedro Do Sul,Viseu,Centro,-8.038349,40.784935
 25198279,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-04-05T10:20:00Z,25198279,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-05T10:20:00Z,Porto,Porto,Norte,-8.615939,41.15359
-25198286,Casével e Vaqueiros,Lezíria do Tejo,311,2025-04-05T10:57:00Z,25198286,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-05T10:57:00Z,Santarém,Santarém,Alentejo,-8.568333,39.381021
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25198283,Peniche,Oeste,311,2025-04-05T10:45:00Z,25198283,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,5,2025-04-05T10:45:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25198360,Gâmbia-Pontes-Alto da Guerra,Península de Setúbal,311,2025-04-05T11:08:00Z,25198360,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-05T11:08:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.764047,38.554124
