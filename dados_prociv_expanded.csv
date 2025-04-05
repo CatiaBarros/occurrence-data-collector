@@ -1,12 +1,1 @@
-"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25137544,"Dois Portos e Runa","Oeste",311,"2025-03-23T13:41:00",25137544,"Em conclusão","3313","Deslizamento de terras",0,0,0,0,"2025-03-23T13:41:00","Torres Vedras","Lisboa","Centro",-9.178343,39.036686
-25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
-25197612,"Bemposta","Médio Tejo",311,"2025-04-05T08:24:00",25197612,"Em despacho","2407","Despiste",0,2,0,7,"2025-04-05T08:24:00","Abrantes","Santarém","Centro",-8.150503,39.352114
-25197569,"Santo António da Charneca","Península de Setúbal",311,"2025-04-05T08:12:00",25197569,"Em curso","2407","Despiste",0,4,0,10,"2025-04-05T08:12:00","Barreiro","Setúbal","Área Metropolitana De Lisboa",-9.016979,38.599327
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,1,0,2,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
-25197261,"Guia, Ilha e Mata Mourisca","Região de Leiria",310,"2025-04-05T05:32:00",25197261,"Em conclusão","2115","Incêndio em edifícios hoteleiros e de restauração",0,4,0,13,"2025-04-05T05:32:00","Pombal","Leiria","Centro",-8.791573,39.914059
-25197404,"Nossa Senhora da Piedade","Médio Tejo",311,"2025-04-05T07:17:00",25197404,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-05T07:17:00","Ourém","Santarém","Centro",-8.57865,39.671408
-25197556,"Arruda Dos Vinhos","Oeste",311,"2025-04-05T08:02:00",25197556,"Em curso","2115","Incêndio em edifícios hoteleiros e de restauração",0,3,0,10,"2025-04-05T08:02:00","Arruda Dos Vinhos","Lisboa","Centro",-9.075983,38.983497
+""
