@@ -4,3 +4,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25197704,Portimão,Algarve,313,2025-04-05T08:35:00Z,25197704,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-05T08:35:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
