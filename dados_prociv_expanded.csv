@@ -1,7 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
-25200627,"Santa Maria Maior","Grande Lisboa",311,"2025-04-05T20:29:00",25200627,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-04-05T20:29:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.130557,38.707598
-25201714,"Póvoa de Lanhoso (Nossa Senhora do Amparo)","Ave",309,"2025-04-06T06:45:00",25201714,"Em despacho","2407","Despiste",0,4,0,10,"2025-04-06T06:45:00","Póvoa De Lanhoso","Braga","Norte",-8.26784,41.577971
+25201785,"Campo e Sobrado","Area M. Porto",309,"2025-04-06T07:29:00",25201785,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-06T07:29:00","Valongo","Porto","Norte",-8.467145,41.204483
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
 25171536,"Vila do Bispo e Raposeira","Algarve",313,"2025-03-30T17:20:00",25171536,"Em curso","2409","Acidente aéreo",0,0,0,0,"2025-03-30T17:20:00","Vila Do Bispo","Faro","Algarve",-8.865283,37.043507
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
