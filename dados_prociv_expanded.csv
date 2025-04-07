@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25205642,"Avanca","Região de Aveiro",310,"2025-04-07T06:41:00",25205642,"Em resolução","2411","Atropelamento ferroviário",0,2,0,4,"2025-04-07T06:41:00","Estarreja","Aveiro","Centro",-8.58462,40.80718
+25205642,"Avanca","Região de Aveiro",310,"2025-04-07T06:41:00",25205642,"Em resolução","2411","Atropelamento ferroviário",0,1,0,2,"2025-04-07T06:41:00","Estarreja","Aveiro","Centro",-8.58462,40.80718
 25205705,"Escapães","Area M. Porto",309,"2025-04-07T07:19:00",25205705,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-04-07T07:19:00","Santa Maria Da Feira","Aveiro","Norte",-8.51182,40.920319
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
@@ -7,7 +7,8 @@
 25113184,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-03-20T01:20:00",25113184,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-03-20T01:20:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.979234,38.999552
 25205679,"Almada, Cova da Piedade, Pragal e Cacilhas","Península de Setúbal",311,"2025-04-07T07:06:00",25205679,"Em conclusão","2403","Colisão rodoviária",0,4,0,10,"2025-04-07T07:06:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.173069,38.677312
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25205710,"Carregado e Cadafais","Oeste",311,"2025-04-07T07:21:00",25205710,"Em conclusão","3317","Inundação de estruturas por água canalizada",0,1,0,1,"2025-04-07T07:21:00","Alenquer","Lisboa","Centro",-8.985297,39.023828
-25205712,"Alquerubim","Região de Aveiro",310,"2025-04-07T07:17:00",25205712,"Em curso","2407","Despiste",0,1,0,2,"2025-04-07T07:17:00","Albergaria-a-Velha","Aveiro","Centro",-8.507758,40.62137
-25205730,"Canha","Península de Setúbal",311,"2025-04-07T07:30:00",25205730,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,5,"2025-04-07T07:30:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.699073,38.752636
-25205751,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias","Grande Lisboa",311,"2025-04-07T07:33:00",25205751,"Em despacho","2407","Despiste",0,2,0,7,"2025-04-07T07:33:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.275682,38.698873
+25205712,"Alquerubim","Região de Aveiro",310,"2025-04-07T07:17:00",25205712,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-07T07:17:00","Albergaria-a-Velha","Aveiro","Centro",-8.507758,40.62137
+25205730,"Pegões","Península de Setúbal",311,"2025-04-07T07:30:00",25205730,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,5,"2025-04-07T07:30:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.616798,38.663826
+25205751,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias","Grande Lisboa",311,"2025-04-07T07:33:00",25205751,"Em curso","2407","Despiste",0,5,0,14,"2025-04-07T07:33:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.275682,38.698873
+25205805,"Cótimos","Beiras e Serra da Estrela",310,"2025-04-07T07:55:00",25205805,"Em despacho","3301","Queda de árvore",0,2,0,6,"2025-04-07T07:55:00","Trancoso","Guarda","Centro",-7.215638,40.823657
+25205819,"Ílhavo (São Salvador)","Região de Aveiro",310,"2025-04-07T07:57:00",25205819,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2025-04-07T07:57:00","Ílhavo","Aveiro","Centro",-8.675299,40.587385
