@@ -5,10 +5,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25212278,Aldeia do Bispo,Beiras e Serra da Estrela,310,2025-04-08T13:35:00Z,25212278,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-08T13:35:00Z,Sabugal,Guarda,Centro,-6.861242,40.323229
 25212412,"Mogadouro, Valverde, Vale de Porco e Vilar de Rei",Terras de Trás-os-Montes,309,2025-04-08T14:01:00Z,25212412,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-04-08T14:01:00Z,Mogadouro,Bragança,Norte,-6.706687,41.339826
 25212480,Faro (Sé e São Pedro),Algarve,313,2025-04-08T14:15:00Z,25212480,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-08T14:15:00Z,Faro,Faro,Algarve,-7.908261,37.006372
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25212699,Monte Real e Carvide,Região de Leiria,310,2025-04-08T14:58:00Z,25212699,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-08T14:58:00Z,Leiria,Leiria,Centro,-8.895036,39.857586
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25137544,Dois Portos e Runa,Oeste,311,2025-03-23T13:41:00Z,25137544,Em conclusão,3313,Deslizamento de terras,0,0,0,0,2025-03-23T13:41:00Z,Torres Vedras,Lisboa,Centro,-9.178343,39.036686
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25211164,Colmeias e Memória,Região de Leiria,310,2025-04-08T10:09:00Z,25211164,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-08T10:09:00Z,Leiria,Leiria,Centro,-8.671536,39.819213
 25212215,Alvor,Algarve,313,2025-04-08T13:09:00Z,25212215,Em curso,3301,Queda de árvore,0,1,0,4,2025-04-08T13:09:00Z,Portimão,Faro,Algarve,-8.5944680000000009,37.131433
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
