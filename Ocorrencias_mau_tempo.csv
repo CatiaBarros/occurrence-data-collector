@@ -8,4 +8,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25210808,Quiaios,Região de Coimbra,310,2025-04-08T09:00:00Z,25210808,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-08T09:00:00Z,Figueira Da Foz,Coimbra,Centro,-8.853222,40.215389
 25211494,Sobral,Região de Coimbra,310,2025-04-08T11:04:00Z,25211494,Em curso,3301,Queda de árvore,0,1,0,3,2025-04-08T11:04:00Z,Mortágua,Viseu,Centro,-8.205408,40.447245
-25211542,Buarcos,Região de Coimbra,310,2025-04-08T11:06:00Z,25211542,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-08T11:06:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
+25211751,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-04-08T11:40:00Z,25211751,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-08T11:40:00Z,Vila Nova De Gaia,Porto,Norte,-8.624714,41.132843
