@@ -1,10 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25218241,Faro (Sé e São Pedro),Algarve,313,2025-04-09T17:25:00Z,25218241,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-09T17:25:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
+25218756,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-04-09T19:04:00Z,25218756,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-09T19:04:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.258323,38.91072
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25215441,Cela,Oeste,311,2025-04-09T08:15:00Z,25215441,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-09T08:15:00Z,Alcobaça,Leiria,Centro,-9.035757,39.537749
-25215794,"Mogadouro, Valverde, Vale de Porco e Vilar de Rei",Terras de Trás-os-Montes,309,2025-04-09T09:36:00Z,25215794,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,1,2025-04-09T09:36:00Z,Mogadouro,Bragança,Norte,-6.706687,41.339826
-25216193,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-04-09T10:49:00Z,25216193,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-09T10:49:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
-25113184,Castanheira do Ribatejo e Cachoeiras,Grande Lisboa,311,2025-03-20T01:20:00Z,25113184,Em despacho,3301,Queda de árvore,0,0,0,0,2025-03-20T01:20:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.979234,38.999552
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
