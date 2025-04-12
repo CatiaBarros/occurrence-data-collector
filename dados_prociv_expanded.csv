@@ -1,8 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25229233,"Tocha","Região de Coimbra",310,"2025-04-12T02:08:00",25229233,"Em resolução","2403","Colisão rodoviária",0,1,0,2,"2025-04-12T02:08:00","Cantanhede","Coimbra","Centro",-8.756653,40.316813
-25229283,"Jugueiros","Tâmega e Sousa",309,"2025-04-12T02:57:00",25229283,"Em curso","2407","Despiste",0,3,0,7,"2025-04-12T02:57:00","Felgueiras","Porto","Norte",-8.204165,41.406422
-25229317,"Marvila","Grande Lisboa",311,"2025-04-12T03:23:00",25229317,"Em despacho","2115","Incêndio em edifícios hoteleiros e de restauração",0,0,0,0,"2025-04-12T03:23:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.10294,38.74007
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
+25229393,"Braga (Maximinos, Sé e Cividade)","Cávado",309,"2025-04-12T04:42:00",25229393,"Em despacho","3317","Inundação de estruturas por água canalizada",0,0,0,0,"2025-04-12T04:42:00","Braga","Braga","Norte",-8.430548,41.5495
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25229233,"Tocha","Região de Coimbra",310,"2025-04-12T02:08:00",25229233,"Em resolução","2403","Colisão rodoviária",0,1,0,2,"2025-04-12T02:08:00","Cantanhede","Coimbra","Centro",-8.756653,40.316813
+25229317,"Marvila","Grande Lisboa",311,"2025-04-12T03:23:00",25229317,"Em despacho","2115","Incêndio em edifícios hoteleiros e de restauração",0,0,0,0,"2025-04-12T03:23:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.10294,38.74007
