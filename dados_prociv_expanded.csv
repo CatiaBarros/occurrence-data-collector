@@ -1,11 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25229233,"Tocha","Região de Coimbra",310,"2025-04-12T02:08:00",25229233,"Em resolução","2403","Colisão rodoviária",0,1,0,2,"2025-04-12T02:08:00","Cantanhede","Coimbra","Centro",-8.756653,40.316813
-25229528,"Formariz e Ferreira","Alto Minho",309,"2025-04-12T06:48:00",25229528,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-12T06:48:00","Paredes De Coura","Viana Do Castelo","Norte",-8.581197,41.938586
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25229528,"Formariz e Ferreira","Alto Minho",309,"2025-04-12T06:48:00",25229528,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-12T06:48:00","Paredes De Coura","Viana Do Castelo","Norte",-8.581197,41.938586
+25229066,"Cacia","Região de Aveiro",310,"2025-04-12T00:20:00",25229066,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,7,"2025-04-12T00:20:00","Aveiro","Aveiro","Centro",-8.590939,40.687707
 25229443,"St.tirso, Couto (S.cristina e S.miguel) e Burgães","Area M. Porto",309,"2025-04-12T05:24:00",25229443,"Em curso","2407","Despiste",0,3,0,6,"2025-04-12T05:24:00","Santo Tirso","Porto","Norte",-8.450167,41.352417
 25229491,"Ermesinde","Area M. Porto",309,"2025-04-12T06:25:00",25229491,"Em conclusão","2403","Colisão rodoviária",0,6,0,15,"2025-04-12T06:25:00","Valongo","Porto","Norte",-8.54552,41.2149
-25229493,"Cascais e Estoril","Grande Lisboa",311,"2025-04-12T06:19:00",25229493,"Em conclusão","2407","Despiste",0,2,0,7,"2025-04-12T06:19:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.419397,38.700982
 25229536,"Nazaré","Oeste",311,"2025-04-12T07:00:00",25229536,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,8,"2025-04-12T07:00:00","Nazaré","Leiria","Centro",-9.062127,39.596083
