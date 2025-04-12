@@ -1,15 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25231194,Palhais e Coina,Península de Setúbal,311,2025-04-12T13:24:00Z,25231194,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-12T13:24:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.046005,38.625227
-25231195,Trigaches e São Brissos,Baixo Alentejo,312,2025-04-12T13:41:00Z,25231195,Em despacho,3301,Queda de árvore,0,2,0,5,2025-04-12T13:41:00Z,Beja,Beja,Alentejo,-7.9346,38.0431
-25231090,Angeja,Região de Aveiro,310,2025-04-12T13:00:00Z,25231090,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-04-12T13:00:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.56369,40.681509
-25231097,Valongo do Vouga,Região de Aveiro,310,2025-04-12T13:16:00Z,25231097,Em curso,3301,Queda de árvore,0,1,0,5,2025-04-12T13:16:00Z,Águeda,Aveiro,Centro,-8.44815,40.62115
-25231140,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-04-12T13:16:00Z,25231140,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-12T13:16:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.081788,38.615401
+25231195,Trigaches e São Brissos,Baixo Alentejo,312,2025-04-12T13:41:00Z,25231195,Em resolução,3301,Queda de árvore,0,2,0,6,2025-04-12T13:41:00Z,Beja,Beja,Alentejo,-7.94143,38.044942
+25231292,Odivelas,Grande Lisboa,311,2025-04-12T14:01:00Z,25231292,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-12T14:01:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.176325,38.78835
+25231312,Pinhal Novo,Península de Setúbal,311,2025-04-12T14:05:00Z,25231312,Em despacho,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-04-12T14:05:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.92025,38.63133
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25231032,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-04-12T12:59:00Z,25231032,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-12T12:59:00Z,Coimbra,Coimbra,Centro,-8.423418,40.248789
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25230685,São Martinho Das Amoreiras,Alentejo Litoral,312,2025-04-12T11:30:00Z,25230685,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-12T11:30:00Z,Odemira,Beja,Alentejo,-8.423175,37.653664
 25231102,São João de Loure e Frossos,Região de Aveiro,310,2025-04-12T13:10:00Z,25231102,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-04-12T13:10:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.542278,40.661776
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25231032,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-04-12T12:59:00Z,25231032,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-12T12:59:00Z,Coimbra,Coimbra,Centro,-8.423418,40.248789
+25231090,Angeja,Região de Aveiro,310,2025-04-12T13:00:00Z,25231090,Em despacho,3313,Deslizamento de terras,0,1,0,2,2025-04-12T13:00:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.56369,40.681509
+25231097,Valongo do Vouga,Região de Aveiro,310,2025-04-12T13:16:00Z,25231097,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-04-12T13:16:00Z,Águeda,Aveiro,Centro,-8.44815,40.62115
 25231238,Albergaria-a-Velha e Valmaior,Região de Aveiro,310,2025-04-12T13:48:00Z,25231238,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-04-12T13:48:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.438386,40.699019
 25231258,Odivelas,Grande Lisboa,311,2025-04-12T13:53:00Z,25231258,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-12T13:53:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.19536,38.79472
+25231299,Pinhal Novo,Península de Setúbal,311,2025-04-12T14:03:00Z,25231299,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-12T14:03:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91518,38.63708
+25231315,Palhais e Coina,Península de Setúbal,311,2025-04-12T13:28:00Z,25231315,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-04-12T13:28:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.038707,38.60355
