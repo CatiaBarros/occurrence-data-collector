@@ -1,7 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25233485,Sines,Alentejo Litoral,312,2025-04-12T23:40:00Z,25233485,Em resolução,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-04-12T23:40:00Z,Sines,Setúbal,Alentejo,-8.87329,37.9584
+25234021,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-04-13T05:59:00Z,25234021,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-04-13T05:59:00Z,Coruche,Santarém,Alentejo,-8.451197,38.996782
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25234021,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-04-13T05:59:00Z,25234021,Em resolução,3301,Queda de árvore,0,2,0,5,2025-04-13T05:59:00Z,Coruche,Santarém,Alentejo,-8.451197,38.996782
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
