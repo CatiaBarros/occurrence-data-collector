@@ -1,17 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25234217,"Pedroso e Seixezelo","Area M. Porto",309,"2025-04-13T07:52:00",25234217,"Em resolução","2407","Despiste",0,3,0,8,"2025-04-13T07:52:00","Vila Nova De Gaia","Porto","Norte",-8.552713,41.089667
-25234337,"Bugalhos","Médio Tejo",311,"2025-04-13T08:24:00",25234337,"Em conclusão","2407","Despiste",0,5,0,13,"2025-04-13T08:24:00","Alcanena","Santarém","Centro",-8.63106,39.454097
-25233119,"Mexilhoeira Grande","Algarve",313,"2025-04-12T21:08:00",25233119,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-04-12T21:08:00","Portimão","Faro","Algarve",-8.628448,37.173943
 25234516,"Ericeira","Grande Lisboa",311,"2025-04-13T08:00:00",25234516,"Em despacho","3315","Inundação de estruturas por precipitação intensa",0,1,0,4,"2025-04-13T08:00:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.417289,38.967626
-25234573,"Boliqueime","Algarve",313,"2025-04-13T09:03:00",25234573,"Em despacho","2407","Despiste",0,1,0,5,"2025-04-13T09:03:00","Loulé","Faro","Algarve",-8.121813,37.120621
+25234573,"Boliqueime","Algarve",313,"2025-04-13T09:03:00",25234573,"Em conclusão","2407","Despiste",0,2,0,7,"2025-04-13T09:03:00","Loulé","Faro","Algarve",-8.121813,37.120621
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25233897,"Castro Marim","Algarve",313,"2025-04-13T04:15:00",25233897,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,0,0,0,"2025-04-13T04:15:00","Castro Marim","Faro","Algarve",-7.45249,37.23569
-25234492,"Amora","Península de Setúbal",311,"2025-04-13T08:57:00",25234492,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,6,"2025-04-13T08:57:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.11201,38.61519
-25234547,"Pêro Viseu","Beiras e Serra da Estrela",310,"2025-04-13T09:07:00",25234547,"Em curso","2403","Colisão rodoviária",0,4,0,10,"2025-04-13T09:07:00","Fundão","Castelo Branco","Centro",-7.442494,40.203876
+25234492,"Amora","Península de Setúbal",311,"2025-04-13T08:57:00",25234492,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,8,"2025-04-13T08:57:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.11201,38.61519
+25234547,"Pêro Viseu","Beiras e Serra da Estrela",310,"2025-04-13T09:07:00",25234547,"Em resolução","2403","Colisão rodoviária",0,4,0,10,"2025-04-13T09:07:00","Fundão","Castelo Branco","Centro",-7.464198,40.198173
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25234228,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2025-04-13T07:58:00",25234228,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-13T07:58:00","Leiria","Leiria","Centro",-8.802832,39.749179
-25234279,"Guia","Algarve",313,"2025-04-13T08:05:00",25234279,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2025-04-13T08:05:00","Albufeira","Faro","Algarve",-8.287199,37.110608
-25234379,"Fonte Arcada e Oliveira","Ave",309,"2025-04-13T08:30:00",25234379,"Em despacho","3301","Queda de árvore",0,2,0,4,"2025-04-13T08:30:00","Póvoa De Lanhoso","Braga","Norte",-8.232754,41.581712
-25234396,"São João Baptista e Santa Maria Dos Olivais","Médio Tejo",311,"2025-04-13T08:37:00",25234396,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-04-13T08:37:00","Tomar","Santarém","Centro",-8.405552,39.602187
+25234379,"Fonte Arcada e Oliveira","Ave",309,"2025-04-13T08:30:00",25234379,"Em resolução","3301","Queda de árvore",0,2,0,4,"2025-04-13T08:30:00","Póvoa De Lanhoso","Braga","Norte",-8.232754,41.581712
