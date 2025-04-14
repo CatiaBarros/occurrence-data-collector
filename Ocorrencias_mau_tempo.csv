@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25240490,São Gregório e Santa Justa,Alentejo Central,312,2025-04-14T15:15:00Z,25240490,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-14T15:15:00Z,Arraiolos,Évora,Alentejo,-7.903175,38.787527
-25240924,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-04-14T17:06:00Z,25240924,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-14T17:06:00Z,Coimbra,Coimbra,Centro,-8.437288,40.221746
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25240490,São Gregório e Santa Justa,Alentejo Central,312,2025-04-14T15:15:00Z,25240490,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-14T15:15:00Z,Arraiolos,Évora,Alentejo,-7.903175,38.787527
 25240841,Montaria,Alto Minho,309,2025-04-14T16:49:00Z,25240841,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-14T16:49:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.7415,41.78207
+25241125,Vieira de Leiria,Região de Leiria,310,2025-04-14T18:01:00Z,25241125,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,2,2025-04-14T18:01:00Z,Marinha Grande,Leiria,Centro,-8.929016,39.865463
 25238581,Alcobaça e Vestiaria,Oeste,311,2025-04-14T08:50:00Z,25238581,Em curso,3301,Queda de árvore,0,1,0,2,2025-04-14T08:50:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
