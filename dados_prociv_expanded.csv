@@ -1,10 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25238077,"Moreira","Area M. Porto",309,"2025-04-14T04:32:00",25238077,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-14T04:32:00","Maia","Porto","Norte",-8.644928,41.245762
 25236810,"Sagres","Algarve",313,"2025-04-13T18:30:00",25236810,"Em curso","4329","Busca e resgate aquático de pessoas",0,0,0,0,"2025-04-13T18:30:00","Vila Do Bispo","Faro","Algarve",-8.986047,37.027441
-25238031,"Fátima","Médio Tejo",311,"2025-04-14T03:53:00",25238031,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-14T03:53:00","Ourém","Santarém","Centro",-8.648612,39.588055
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25238188,"Caparica e Trafaria","Península de Setúbal",311,"2025-04-14T06:23:00",25238188,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,11,"2025-04-14T06:23:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.253241,38.660357
 25238223,"Olhão","Algarve",313,"2025-04-14T06:50:00",25238223,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2025-04-14T06:50:00","Olhão","Faro","Algarve",-7.83989,37.02508
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25238277,"Barreiro e Lavradio","Península de Setúbal",311,"2025-04-14T07:17:00",25238277,"Em conclusão","2407","Despiste",0,3,0,9,"2025-04-14T07:17:00","Barreiro","Setúbal","Área Metropolitana De Lisboa",-9.060271,38.662949
+25238366,"Caria","Douro",309,"2025-04-14T07:50:00",25238366,"Em despacho","2401","Atropelamento rodoviário",0,2,0,7,"2025-04-14T07:50:00","Moimenta Da Beira","Viseu","Norte",-7.604765,40.932346
