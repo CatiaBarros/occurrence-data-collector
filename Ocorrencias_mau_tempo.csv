@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25244077,Oliveira do Douro,Area M. Porto,309,2025-04-15T12:59:00Z,25244077,Em despacho,3301,Queda de árvore,0,2,0,5,2025-04-15T12:59:00Z,Vila Nova De Gaia,Porto,Norte,-8.58327,41.127164
 25244378,Brinches,Baixo Alentejo,312,2025-04-15T14:03:00Z,25244378,Em despacho,3301,Queda de árvore,0,2,0,6,2025-04-15T14:03:00Z,Serpa,Beja,Alentejo,-7.604525,38.039347
+25244446,"Vila Chã, Codal e Vila Cova de Perrinho",Area M. Porto,309,2025-04-15T14:15:00Z,25244446,Em despacho,3311,Queda de elementos de estruturas edificados,0,2,0,3,2025-04-15T14:15:00Z,Vale De Cambra,Aveiro,Norte,-8.399593,40.868575
 25242956,Alcobaça e Vestiaria,Oeste,311,2025-04-15T08:49:00Z,25242956,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-15T08:49:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
