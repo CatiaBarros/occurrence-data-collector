@@ -1,10 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25246181,"Baleizão","Baixo Alentejo",312,"2025-04-15T22:34:00",25246181,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,6,"2025-04-15T22:34:00","Beja","Beja","Alentejo",-7.724137,38.024917
+25246337,"Poiares e Canelas","Douro",309,"2025-04-15T23:56:00",25246337,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,3,"2025-04-15T23:56:00","Peso Da Régua","Vila Real","Norte",-7.72804,41.16583
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
 25244822,"Évora de Alcobaça","Oeste",311,"2025-04-15T15:42:00",25244822,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-15T15:42:00","Alcobaça","Leiria","Centro",-8.92353,39.509773
-25246337,"Poiares e Canelas","Douro",309,"2025-04-15T23:56:00",25246337,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,3,"2025-04-15T23:56:00","Peso Da Régua","Vila Real","Norte",-7.72804,41.16583
+25246378,"Braga (São Vítor)","Cávado",309,"2025-04-16T00:20:00",25246378,"Em curso","2115","Incêndio em edifícios hoteleiros e de restauração",0,4,0,16,"2025-04-16T00:20:00","Braga","Braga","Norte",-8.40976,41.55335
 25246221,"Santa Clara e Castelo Viegas","Região de Coimbra",310,"2025-04-15T22:41:00",25246221,"Em despacho","2407","Despiste",0,1,0,2,"2025-04-15T22:41:00","Coimbra","Coimbra","Centro",-8.398433,40.1714
 25246289,"Campanhã","Area M. Porto",309,"2025-04-15T23:26:00",25246289,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-04-15T23:26:00","Porto","Porto","Norte",-8.58861,41.165318
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25246181,"Baleizão","Baixo Alentejo",312,"2025-04-15T22:34:00",25246181,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,6,"2025-04-15T22:34:00","Beja","Beja","Alentejo",-7.724137,38.024917
