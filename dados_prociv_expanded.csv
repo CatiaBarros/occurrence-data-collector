@@ -1,14 +1,15 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25242660,"Sebal e Belide","Região de Coimbra",310,"2025-04-15T07:18:00",25242660,"Em conclusão","3111","Queima",0,1,0,3,"2025-04-15T07:18:00","Condeixa-a-Nova","Coimbra","Centro",-8.529074,40.128863
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
 25242734,"Santa Maria da Feira, Travanca, Sanfins e Espargo","Area M. Porto",309,"2025-04-15T07:53:00",25242734,"Em despacho","3329","Queda de estruturas temporárias ou móveis",0,1,0,2,"2025-04-15T07:53:00","Santa Maria Da Feira","Aveiro","Norte",-8.53175,40.94384
-25242620,"Silvalde","Area M. Porto",309,"2025-04-15T07:06:00",25242620,"Em curso","2403","Colisão rodoviária",0,5,0,12,"2025-04-15T07:06:00","Espinho","Aveiro","Norte",-8.61713,40.98567
+25242660,"Sebal e Belide","Região de Coimbra",310,"2025-04-15T07:18:00",25242660,"Em conclusão","3111","Queima",0,1,0,3,"2025-04-15T07:18:00","Condeixa-a-Nova","Coimbra","Centro",-8.529074,40.128863
+25242824,"Quarteira","Algarve",313,"2025-04-15T08:12:00",25242824,"Em despacho","2407","Despiste",0,1,0,5,"2025-04-15T08:12:00","Loulé","Faro","Algarve",-8.12969,37.102601
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25242605,"Parceiros e Azoia","Região de Leiria",310,"2025-04-15T06:47:00",25242605,"Em curso","2407","Despiste",0,1,0,2,"2025-04-15T06:47:00","Leiria","Leiria","Centro",-8.833776,39.694057
+25242762,"Bucelas","Grande Lisboa",311,"2025-04-15T07:52:00",25242762,"Em conclusão","3301","Queda de árvore",0,1,0,3,"2025-04-15T07:52:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.156833,38.908052
+25242778,"Sertã","Beira Baixa",310,"2025-04-15T08:04:00",25242778,"Em curso","2403","Colisão rodoviária",0,3,0,9,"2025-04-15T08:04:00","Sertã","Castelo Branco","Centro",-8.084891,39.824425
+25242620,"Silvalde","Area M. Porto",309,"2025-04-15T07:06:00",25242620,"Em resolução","2403","Colisão rodoviária",0,5,0,12,"2025-04-15T07:06:00","Espinho","Aveiro","Norte",-8.61713,40.98567
 25242656,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim","Grande Lisboa",311,"2025-04-15T07:19:00",25242656,"Em curso","2201","Incêndio em equipamentos ou produtos",0,1,0,2,"2025-04-15T07:19:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.37255,38.79247
 25242679,"Vieira de Leiria","Região de Leiria",310,"2025-04-15T07:31:00",25242679,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,3,0,8,"2025-04-15T07:31:00","Marinha Grande","Leiria","Centro",-8.914658,39.86955
-25242697,"Livração","Tâmega e Sousa",309,"2025-04-15T07:36:00",25242697,"Em despacho","2407","Despiste",0,2,0,7,"2025-04-15T07:36:00","Marco De Canaveses","Porto","Norte",-8.151141,41.21955
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25242553,"Ferreiros e Gondizalves","Cávado",309,"2025-04-15T05:53:00",25242553,"Em curso","3317","Inundação de estruturas por água canalizada",0,3,0,6,"2025-04-15T05:53:00","Braga","Braga","Norte",-8.446438,41.534824
-25242605,"Parceiros e Azoia","Região de Leiria",310,"2025-04-15T06:47:00",25242605,"Em curso","2407","Despiste",0,1,0,2,"2025-04-15T06:47:00","Leiria","Leiria","Centro",-8.833776,39.694057
-25242762,"Bucelas","Grande Lisboa",311,"2025-04-15T07:52:00",25242762,"Em resolução","3301","Queda de árvore",0,1,0,3,"2025-04-15T07:52:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.156833,38.908052
+25242697,"Livração","Tâmega e Sousa",309,"2025-04-15T07:36:00",25242697,"Em despacho","2407","Despiste",0,2,0,7,"2025-04-15T07:36:00","Marco De Canaveses","Porto","Norte",-8.150955,41.220117
