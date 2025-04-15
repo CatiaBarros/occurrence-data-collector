@@ -1,8 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25242208,"Alvares","Região de Coimbra",310,"2025-04-14T23:00:00",25242208,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-04-14T23:00:00","Góis","Coimbra","Centro",-8.103841,39.988882
-25242374,"Alhos Vedros","Península de Setúbal",311,"2025-04-15T02:15:00",25242374,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2025-04-15T02:15:00","Moita","Setúbal","Área Metropolitana De Lisboa",-9.01026,38.6561
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25242433,"Santo António Dos Olivais","Região de Coimbra",310,"2025-04-15T03:16:00",25242433,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,10,"2025-04-15T03:16:00","Coimbra","Coimbra","Centro",-8.426807,40.217261
+25242433,"Santo António Dos Olivais","Região de Coimbra",310,"2025-04-15T03:16:00",25242433,"Em conclusão","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-04-15T03:16:00","Coimbra","Coimbra","Centro",-8.426807,40.217261
+25242208,"Alvares","Região de Coimbra",310,"2025-04-14T23:00:00",25242208,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-04-14T23:00:00","Góis","Coimbra","Centro",-8.103841,39.988882
+25242374,"Alhos Vedros","Península de Setúbal",311,"2025-04-15T02:15:00",25242374,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,4,"2025-04-15T02:15:00","Moita","Setúbal","Área Metropolitana De Lisboa",-9.01026,38.6561
