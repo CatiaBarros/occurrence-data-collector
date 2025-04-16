@@ -1,9 +1,16 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25246870,"Fátima","Médio Tejo",311,"2025-04-16T08:03:00",25246870,"Em despacho","4339","Corte ou remoção de elementos",0,1,0,1,"2025-04-16T08:03:00","Ourém","Santarém","Centro",-8.650169,39.617565
+25247237,"Custóias, Leça do Balio e Guifões","Area M. Porto",309,"2025-04-16T09:14:00",25247237,"Em despacho","3315","Inundação de estruturas por precipitação intensa",0,2,0,4,"2025-04-16T09:14:00","Matosinhos","Porto","Norte",-8.643123,41.208539
+25247256,"Espinho","Area M. Porto",309,"2025-04-16T09:35:00",25247256,"Em curso","4327","Busca e resgate terrestre de pessoas",0,4,0,9,"2025-04-16T09:35:00","Espinho","Aveiro","Norte",-8.636933,41.00772
+25247321,"Estrela","Grande Lisboa",311,"2025-04-16T09:46:00",25247321,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-16T09:46:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.160959,38.714352
+25247553,"Vilarinho","Area M. Porto",309,"2025-04-16T10:27:00",25247553,"Em despacho","2407","Despiste",0,2,0,4,"2025-04-16T10:27:00","Santo Tirso","Porto","Norte",-8.331512,41.357482
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
 25246774,"Carnaxide e Queijas","Grande Lisboa",311,"2025-04-16T07:17:00",25246774,"Em curso","4331","Busca e resgate terrestre de animais",0,3,0,5,"2025-04-16T07:17:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.233587,38.727201
-25247301,"Lagoa e Carvoeiro","Algarve",313,"2025-04-16T09:46:00",25247301,"Em conclusão","3201","Detritos não confinados",0,2,0,7,"2025-04-16T09:46:00","Lagoa","Faro","Algarve",-8.44475,37.1303
+25247240,"Nogueira, Meixedo e Vilar de Murteda","Alto Minho",309,"2025-04-16T09:30:00",25247240,"Em despacho","2407","Despiste",0,1,0,2,"2025-04-16T09:30:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.725476,41.756916
 25247344,"Freigil e Miomães","Tâmega e Sousa",309,"2025-04-16T09:47:00",25247344,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-04-16T09:47:00","Resende","Viseu","Norte",-8.010537,41.093768
-25246809,"Carregado e Cadafais","Oeste",311,"2025-04-16T07:37:00",25246809,"Em resolução","2403","Colisão rodoviária",0,7,0,12,"2025-04-16T07:37:00","Alenquer","Lisboa","Centro",-8.9575,39.03222
+25247544,"Faro (Sé e São Pedro)","Algarve",313,"2025-04-16T10:32:00",25247544,"Em curso","3203","Detritos confinados",0,3,0,8,"2025-04-16T10:32:00","Faro","Faro","Algarve",-7.942032,37.01865
+25247601,"Atouguia da Baleia","Oeste",311,"2025-04-16T10:42:00",25247601,"Em despacho","4339","Corte ou remoção de elementos",0,1,0,2,"2025-04-16T10:42:00","Peniche","Leiria","Centro",-9.32433,39.339703
+25246809,"Carregado e Cadafais","Oeste",311,"2025-04-16T07:37:00",25246809,"Em resolução","2403","Colisão rodoviária",0,6,0,10,"2025-04-16T07:37:00","Alenquer","Lisboa","Centro",-8.9575,39.03222
 25247109,"Carnaxide e Queijas","Grande Lisboa",311,"2025-04-16T08:54:00",25247109,"Em conclusão","2407","Despiste",0,3,0,8,"2025-04-16T08:54:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.25881,38.722457
 25247168,"Merelim (São Pedro) e Frossos","Cávado",309,"2025-04-16T09:14:00",25247168,"Em conclusão","2403","Colisão rodoviária",0,5,0,13,"2025-04-16T09:14:00","Braga","Braga","Norte",-8.453448,41.580052
 25247268,"Carregado e Cadafais","Oeste",311,"2025-04-16T09:30:00",25247268,"Em conclusão","2403","Colisão rodoviária",0,3,0,8,"2025-04-16T09:30:00","Alenquer","Lisboa","Centro",-8.985297,39.023828
@@ -15,12 +22,5 @@
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
 25247027,"Peva e Segões","Douro",309,"2025-04-16T08:39:00",25247027,"Em conclusão","2407","Despiste",0,3,0,9,"2025-04-16T08:39:00","Moimenta Da Beira","Viseu","Norte",-7.657132,40.892608
 25247044,"Bucelas","Grande Lisboa",311,"2025-04-16T08:33:00",25247044,"Em despacho","3301","Queda de árvore",0,1,0,1,"2025-04-16T08:33:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.121038,38.903857
-25247497,"Garfe","Ave",309,"2025-04-16T10:19:00",25247497,"Em despacho","2407","Despiste",0,1,0,2,"2025-04-16T10:19:00","Póvoa De Lanhoso","Braga","Norte",-8.24488,41.534461
-25247512,"Lagos (São Sebastião e Santa Maria)","Algarve",313,"2025-04-16T10:27:00",25247512,"Em despacho","3203","Detritos confinados",0,0,0,0,"2025-04-16T10:27:00","Lagos","Faro","Algarve",-8.686965,37.112811
-25247532,"Silves","Algarve",313,"2025-04-16T10:20:00",25247532,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,4,"2025-04-16T10:20:00","Silves","Faro","Algarve",-8.443919,37.192295
-25246768,"São Bartolomeu Dos Galegos e Moledo","Oeste",311,"2025-04-16T07:10:00",25246768,"Em conclusão","2403","Colisão rodoviária",0,3,0,7,"2025-04-16T07:10:00","Lourinhã","Lisboa","Centro",-9.280406,39.277997
-25246870,"Fátima","Médio Tejo",311,"2025-04-16T08:03:00",25246870,"Em despacho","4339","Corte ou remoção de elementos",0,1,0,1,"2025-04-16T08:03:00","Ourém","Santarém","Centro",-8.650169,39.617565
-25247237,"Custóias, Leça do Balio e Guifões","Area M. Porto",309,"2025-04-16T09:14:00",25247237,"Em despacho","3315","Inundação de estruturas por precipitação intensa",0,2,0,4,"2025-04-16T09:14:00","Matosinhos","Porto","Norte",-8.643123,41.208539
-25247256,"Espinho","Area M. Porto",309,"2025-04-16T09:35:00",25247256,"Em curso","4327","Busca e resgate terrestre de pessoas",0,4,0,9,"2025-04-16T09:35:00","Espinho","Aveiro","Norte",-8.636933,41.00772
-25247286,"Sousel","Alto Alentejo",312,"2025-04-16T09:35:00",25247286,"Em conclusão","3315","Inundação de estruturas por precipitação intensa",0,1,0,4,"2025-04-16T09:35:00","Sousel","Portalegre","Alentejo",-7.674592,38.951228
-25247321,"Estrela","Grande Lisboa",311,"2025-04-16T09:46:00",25247321,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-16T09:46:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.160959,38.714352
+25247497,"Garfe","Ave",309,"2025-04-16T10:19:00",25247497,"Em despacho","2407","Despiste",0,2,0,4,"2025-04-16T10:19:00","Póvoa De Lanhoso","Braga","Norte",-8.247762,41.528338
+25247532,"Silves","Algarve",313,"2025-04-16T10:20:00",25247532,"Em curso","4331","Busca e resgate terrestre de animais",0,1,0,4,"2025-04-16T10:20:00","Silves","Faro","Algarve",-8.443919,37.192295
