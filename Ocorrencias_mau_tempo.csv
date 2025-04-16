@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25247237,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-04-16T09:14:00Z,25247237,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-04-16T09:14:00Z,Matosinhos,Porto,Norte,-8.643123,41.208539
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25247318,Travassós,Ave,309,2025-04-16T09:49:00Z,25247318,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-16T09:49:00Z,Fafe,Braga,Norte,-8.19884,41.50086
-25247484,Meia Via,Médio Tejo,311,2025-04-16T10:22:00Z,25247484,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-16T10:22:00Z,Torres Novas,Santarém,Centro,-8.49687,39.47584
+25247652,Cano,Alto Alentejo,312,2025-04-16T10:46:00Z,25247652,Em resolução,3301,Queda de árvore,0,2,0,6,2025-04-16T10:46:00Z,Sousel,Portalegre,Alentejo,-7.789932,38.970903
+25247237,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-04-16T09:14:00Z,25247237,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-04-16T09:14:00Z,Matosinhos,Porto,Norte,-8.643123,41.208539
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25247044,Bucelas,Grande Lisboa,311,2025-04-16T08:33:00Z,25247044,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-16T08:33:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.121038,38.903857
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25247733,Juncal,Região de Leiria,310,2025-04-16T11:03:00Z,25247733,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-16T11:03:00Z,Porto De Mós,Leiria,Centro,-8.891382,39.63155
