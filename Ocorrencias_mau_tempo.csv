@@ -5,4 +5,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25247044,Bucelas,Grande Lisboa,311,2025-04-16T08:33:00Z,25247044,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-16T08:33:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.121038,38.903857
 25248283,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-04-16T13:12:00Z,25248283,Em conclusão,3301,Queda de árvore,0,1,0,1,2025-04-16T13:12:00Z,Beja,Beja,Alentejo,-7.87003,38.014111
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25248419,Águas Livres,Grande Lisboa,311,2025-04-16T13:46:00Z,25248419,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-16T13:46:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.21461,38.74658
+25248419,Águas Livres,Grande Lisboa,311,2025-04-16T13:46:00Z,25248419,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-16T13:46:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.21461,38.74658
+25248564,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-04-16T14:03:00Z,25248564,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-16T14:03:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.448673,41.011004
+25248483,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-04-16T14:02:00Z,25248483,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-16T14:02:00Z,Porto,Porto,Norte,-8.62157,41.163
