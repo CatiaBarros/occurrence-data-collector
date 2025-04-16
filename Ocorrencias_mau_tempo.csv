@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25249138,Gâmbia-Pontes-Alto da Guerra,Península de Setúbal,311,2025-04-16T16:22:00Z,25249138,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-16T16:22:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.764047,38.554124
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25249009,Bonfim,Area M. Porto,309,2025-04-16T15:56:00Z,25249009,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-16T15:56:00Z,Porto,Porto,Norte,-8.60056,41.15478
-25249128,Espariz e Sinde,Região de Coimbra,310,2025-04-16T16:20:00Z,25249128,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-16T16:20:00Z,Tábua,Coimbra,Centro,-8.023716,40.309444
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25248564,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-04-16T14:03:00Z,25248564,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-16T14:03:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.448673,41.011004
+25249330,Albufeira e Olhos de Água,Algarve,313,2025-04-16T17:05:00Z,25249330,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-04-16T17:05:00Z,Albufeira,Faro,Algarve,-8.252292,37.091727
+25249009,Bonfim,Area M. Porto,309,2025-04-16T15:56:00Z,25249009,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-16T15:56:00Z,Porto,Porto,Norte,-8.60056,41.15478
+25249138,Gâmbia-Pontes-Alto da Guerra,Península de Setúbal,311,2025-04-16T16:22:00Z,25249138,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-16T16:22:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.764047,38.554124
+25249324,Silvalde,Area M. Porto,309,2025-04-16T17:17:00Z,25249324,Em curso,3313,Deslizamento de terras,0,1,0,3,2025-04-16T17:17:00Z,Espinho,Aveiro,Norte,-8.64294,40.990048
