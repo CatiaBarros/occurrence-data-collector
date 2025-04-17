@@ -2,9 +2,8 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25253414,Anha,Alto Minho,309,2025-04-17T17:14:00Z,25253414,Em curso,3309,Desabamento de estruturas edificadas,0,1,0,3,2025-04-17T17:14:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.785543,41.66224
-25253023,Santo António Dos Olivais,Região de Coimbra,310,2025-04-17T16:01:00Z,25253023,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-17T16:01:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
-25253493,Aldeia Galega da Merceana e Aldeia Gavinha,Oeste,311,2025-04-17T17:47:00Z,25253493,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-04-17T17:47:00Z,Alenquer,Lisboa,Centro,-9.105085,39.085941
-25253591,Quarteira,Algarve,313,2025-04-17T18:17:00Z,25253591,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-17T18:17:00Z,Loulé,Faro,Algarve,-8.12969,37.102601
+25253414,Anha,Alto Minho,309,2025-04-17T17:14:00Z,25253414,Em conclusão,3309,Desabamento de estruturas edificadas,0,1,0,3,2025-04-17T17:14:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.785543,41.66224
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25253563,Alcanena e Vila Moreira,Médio Tejo,311,2025-04-17T18:15:00Z,25253563,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-04-17T18:15:00Z,Alcanena,Santarém,Centro,-8.648795,39.471035
+25253023,Santo António Dos Olivais,Região de Coimbra,310,2025-04-17T16:01:00Z,25253023,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-17T16:01:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
+25253591,Quarteira,Algarve,313,2025-04-17T18:17:00Z,25253591,Em curso,3301,Queda de árvore,0,1,0,5,2025-04-17T18:17:00Z,Loulé,Faro,Algarve,-8.12969,37.102601
+25253629,Gafanha da Nazaré,Região de Aveiro,310,2025-04-17T18:18:00Z,25253629,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-04-17T18:18:00Z,Ílhavo,Aveiro,Centro,-8.719411,40.633995
