@@ -1,28 +1,27 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25253591,"Quarteira","Algarve",313,"2025-04-17T18:17:00",25253591,"Em curso","3301","Queda de árvore",0,1,0,5,"2025-04-17T18:17:00","Loulé","Faro","Algarve",-8.12969,37.102601
+25253786,"Rebordosa","Area M. Porto",309,"2025-04-17T19:19:00",25253786,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-04-17T19:19:00","Paredes","Porto","Norte",-8.40796,41.22734
+25253909,"Paranhos","Area M. Porto",309,"2025-04-17T19:43:00",25253909,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-17T19:43:00","Porto","Porto","Norte",-8.604254,41.174248
+25253927,"São Cristóvão de Nogueira","Tâmega e Sousa",309,"2025-04-17T19:57:00",25253927,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-17T19:57:00","Cinfães","Viseu","Norte",-8.123139,41.063025
 25253403,"Alcanena e Vila Moreira","Médio Tejo",311,"2025-04-17T17:29:00",25253403,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2025-04-17T17:29:00","Alcanena","Santarém","Centro",-8.668112,39.458358
 25253522,"Cidade da Maia","Area M. Porto",309,"2025-04-17T17:53:00",25253522,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-17T17:53:00","Maia","Porto","Norte",-8.614095,41.229822
 25253589,"Marco","Tâmega e Sousa",309,"2025-04-17T18:13:00",25253589,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-17T18:13:00","Marco De Canaveses","Porto","Norte",-8.145668,41.162658
 25253606,"Cacém e São Marcos","Grande Lisboa",311,"2025-04-17T18:25:00",25253606,"Em despacho","2401","Atropelamento rodoviário",0,1,0,2,"2025-04-17T18:25:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.296125,38.754519
 25253654,"Campanhã","Area M. Porto",309,"2025-04-17T18:38:00",25253654,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-04-17T18:38:00","Porto","Porto","Norte",-8.585735,41.166607
-25253771,"Talhadas","Região de Aveiro",310,"2025-04-17T19:07:00",25253771,"Em curso","2407","Despiste",0,3,0,5,"2025-04-17T19:07:00","Sever Do Vouga","Aveiro","Centro",-8.325522,40.66611
+25253771,"Talhadas","Região de Aveiro",310,"2025-04-17T19:07:00",25253771,"Em resolução","2407","Despiste",0,3,0,5,"2025-04-17T19:07:00","Sever Do Vouga","Aveiro","Centro",-8.325522,40.66611
 25253789,"Mourão","Alentejo Central",312,"2025-04-17T19:13:00",25253789,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2025-04-17T19:13:00","Mourão","Évora","Alentejo",-7.350227,38.385667
 25253824,"Nogueira do Cravo e Pindelo","Area M. Porto",309,"2025-04-17T19:25:00",25253824,"Em curso","2403","Colisão rodoviária",0,3,0,7,"2025-04-17T19:25:00","Oliveira De Azeméis","Aveiro","Norte",-8.45434,40.884948
-25253443,"Mina de Água","Grande Lisboa",311,"2025-04-17T17:32:00",25253443,"Em conclusão","3325","Dano na rede de abastecimento de gás",0,2,0,8,"2025-04-17T17:32:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.248043,38.768536
-25253591,"Quarteira","Algarve",313,"2025-04-17T18:17:00",25253591,"Em curso","3301","Queda de árvore",0,1,0,5,"2025-04-17T18:17:00","Loulé","Faro","Algarve",-8.12969,37.102601
-25253786,"Rebordosa","Area M. Porto",309,"2025-04-17T19:19:00",25253786,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-04-17T19:19:00","Paredes","Porto","Norte",-8.40796,41.22734
-25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25253163,"Larinho","Douro",309,"2025-04-17T16:30:00",25253163,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-04-17T16:30:00","Torre De Moncorvo","Bragança","Norte",-7.015782,41.189087
-25253344,"Santana do Mato","Lezíria do Tejo",311,"2025-04-17T17:20:00",25253344,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-17T17:20:00","Coruche","Santarém","Alentejo",-8.450955,38.836413
-25253497,"Rebordões (Souto)","Alto Minho",309,"2025-04-17T17:59:00",25253497,"Em resolução","2407","Despiste",0,2,0,7,"2025-04-17T17:59:00","Ponte De Lima","Viana Do Castelo","Norte",-8.55284,41.73132
-25253629,"Gafanha da Nazaré","Região de Aveiro",310,"2025-04-17T18:18:00",25253629,"Em conclusão","3311","Queda de elementos de estruturas edificados",0,1,0,2,"2025-04-17T18:18:00","Ílhavo","Aveiro","Centro",-8.719411,40.633995
-25253829,"Bonfim","Area M. Porto",309,"2025-04-17T19:35:00",25253829,"Em despacho","2101","Incêndio em edifícios habitacionais",0,5,0,20,"2025-04-17T19:35:00","Porto","Porto","Norte",-8.60109,41.152
-25253832,"Santo Antão e São Julião do Tojal","Grande Lisboa",311,"2025-04-17T19:35:00",25253832,"Em despacho","3201","Detritos não confinados",0,2,0,6,"2025-04-17T19:35:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.11152,38.8655
 25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
 25253399,"Vilares e Carnicães","Beiras e Serra da Estrela",310,"2025-04-17T17:32:00",25253399,"Em resolução","2403","Colisão rodoviária",0,5,0,10,"2025-04-17T17:32:00","Trancoso","Guarda","Centro",-7.31649,40.712912
-25253685,"Fonte Boa e Rio Tinto","Cávado",309,"2025-04-17T18:49:00",25253685,"Em conclusão","2407","Despiste",0,4,0,10,"2025-04-17T18:49:00","Esposende","Braga","Norte",-8.709902,41.493148
 25253694,"Vila Cova à Coelheira","Beiras e Serra da Estrela",310,"2025-04-17T18:44:00",25253694,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-17T18:44:00","Seia","Guarda","Centro",-7.714488,40.386172
 25253728,"São Lourenço do Bairro","Região de Aveiro",310,"2025-04-17T18:58:00",25253728,"Em resolução","2407","Despiste",0,3,0,7,"2025-04-17T18:58:00","Anadia","Aveiro","Centro",-8.524453,40.444812
 25253778,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2025-04-17T19:20:00",25253778,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2025-04-17T19:20:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.128836,38.809705
 25253858,"Creixomil","Ave",309,"2025-04-17T19:36:00",25253858,"Em despacho","2401","Atropelamento rodoviário",0,3,0,7,"2025-04-17T19:36:00","Guimarães","Braga","Norte",-8.312208,41.438348
+25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
+25253344,"Santana do Mato","Lezíria do Tejo",311,"2025-04-17T17:20:00",25253344,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-17T17:20:00","Coruche","Santarém","Alentejo",-8.450955,38.836413
+25253497,"Rebordões (Souto)","Alto Minho",309,"2025-04-17T17:59:00",25253497,"Em conclusão","2407","Despiste",0,3,0,9,"2025-04-17T17:59:00","Ponte De Lima","Viana Do Castelo","Norte",-8.55284,41.73132
+25253629,"Gafanha da Nazaré","Região de Aveiro",310,"2025-04-17T18:18:00",25253629,"Em conclusão","3311","Queda de elementos de estruturas edificados",0,1,0,2,"2025-04-17T18:18:00","Ílhavo","Aveiro","Centro",-8.719411,40.633995
+25253829,"Bonfim","Area M. Porto",309,"2025-04-17T19:35:00",25253829,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,20,"2025-04-17T19:35:00","Porto","Porto","Norte",-8.60109,41.152
+25253832,"Santo Antão e São Julião do Tojal","Grande Lisboa",311,"2025-04-17T19:35:00",25253832,"Em resolução","3201","Detritos não confinados",0,2,0,6,"2025-04-17T19:35:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.11152,38.8655
