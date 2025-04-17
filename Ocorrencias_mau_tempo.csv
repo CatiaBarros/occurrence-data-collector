@@ -1,7 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25252226,Faro (Sé e São Pedro),Algarve,313,2025-04-17T12:44:00Z,25252226,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-04-17T12:44:00Z,Faro,Faro,Algarve,-7.936757,37.02008
+25252494,Vila Nova de Tazem,Beiras e Serra da Estrela,310,2025-04-17T13:51:00Z,25252494,Em despacho,3301,Queda de árvore,0,2,0,5,2025-04-17T13:51:00Z,Gouveia,Guarda,Centro,-7.716662,40.505068
 25252082,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-04-17T12:06:00Z,25252082,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-04-17T12:06:00Z,Porto,Porto,Norte,-8.60794,41.14514
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25252472,Monte Redondo e Carreira,Região de Leiria,310,2025-04-17T13:41:00Z,25252472,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,4,0,6,2025-04-17T13:41:00Z,Leiria,Leiria,Centro,-8.823423,39.868052
