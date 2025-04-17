@@ -1,9 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25250626,"São João Baptista","Alto Alentejo",312,"2025-04-17T02:25:00",25250626,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-17T02:25:00","Campo Maior","Portalegre","Alentejo",-7.018827,39.079713
-25250631,"Fânzeres e São Pedro da Cova","Area M. Porto",309,"2025-04-17T02:35:00",25250631,"Em resolução","2115","Incêndio em edifícios hoteleiros e de restauração",0,4,0,12,"2025-04-17T02:35:00","Gondomar","Porto","Norte",-8.527658,41.16645
-25250682,"Braga (Maximinos, Sé e Cividade)","Cávado",309,"2025-04-17T03:35:00",25250682,"Em curso","2513","Fuga de gás em conduta",0,1,0,6,"2025-04-17T03:35:00","Braga","Braga","Norte",-8.43382,41.55346
-25250697,"Alvor","Algarve",313,"2025-04-17T03:49:00",25250697,"Em despacho","2407","Despiste",0,2,0,7,"2025-04-17T03:49:00","Portimão","Faro","Algarve",-8.594468,37.131433
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25250626,"São João Baptista","Alto Alentejo",312,"2025-04-17T02:25:00",25250626,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-17T02:25:00","Campo Maior","Portalegre","Alentejo",-7.018827,39.079713
+25250697,"Alvor","Algarve",313,"2025-04-17T03:49:00",25250697,"Em conclusão","2407","Despiste",0,3,0,9,"2025-04-17T03:49:00","Portimão","Faro","Algarve",-8.594468,37.131433
