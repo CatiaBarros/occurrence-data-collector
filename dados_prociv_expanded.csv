@@ -1,10 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25254742,"Vagos e Santo António","Região de Aveiro",310,"2025-04-18T02:20:00",25254742,"Em resolução","2407","Despiste",0,2,0,4,"2025-04-18T02:20:00","Vagos","Aveiro","Centro",-8.68094,40.554939
-25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
-25254462,"Guiães","Douro",309,"2025-04-17T23:25:00",25254462,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,6,0,13,"2025-04-17T23:25:00","Vila Real","Vila Real","Norte",-7.672868,41.20901
+25254797,"Cascais e Estoril","Grande Lisboa",311,"2025-04-18T03:32:00",25254797,"Em resolução","3203","Detritos confinados",0,2,0,7,"2025-04-18T03:32:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.38346,38.70376
 25070044,"Praia do Ribatejo","Médio Tejo",311,"2025-03-10T19:30:00",25070044,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T19:30:00","Vila Nova Da Barquinha","Santarém","Centro",-8.357309,39.485638
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
 25254583,"Peso da Régua e Godim","Douro",309,"2025-04-18T00:14:00",25254583,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-18T00:14:00","Peso Da Régua","Vila Real","Norte",-7.782856,41.159035
 25254631,"Ervidel","Baixo Alentejo",312,"2025-04-18T00:57:00",25254631,"Em conclusão","2407","Despiste",0,3,0,6,"2025-04-18T00:57:00","Aljustrel","Beja","Alentejo",-8.084783,37.9618
-25254766,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail","Area M. Porto",309,"2025-04-18T02:50:00",25254766,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-18T02:50:00","Oliveira De Azeméis","Aveiro","Norte",-8.482939,40.836334
+25068300,"Almeirim","Lezíria do Tejo",311,"2025-03-10T20:52:00",25068300,"Em curso","1101","Cheia",0,0,0,0,"2025-03-10T20:52:00","Almeirim","Santarém","Alentejo",-8.635002,39.187436
+25254462,"Guiães","Douro",309,"2025-04-17T23:25:00",25254462,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,6,0,13,"2025-04-17T23:25:00","Vila Real","Vila Real","Norte",-7.672868,41.20901
