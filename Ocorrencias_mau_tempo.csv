@@ -1,11 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25256428,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-04-18T14:22:00Z,25256428,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-18T14:22:00Z,Matosinhos,Porto,Norte,-8.632716,41.208899
-25256335,Ramada e Caneças,Grande Lisboa,311,2025-04-18T14:16:00Z,25256335,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-04-18T14:16:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194441,38.801427
-25256410,Soure,Região de Coimbra,310,2025-04-18T14:13:00Z,25256410,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-18T14:13:00Z,Soure,Coimbra,Centro,-8.647637,40.058885
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25256382,Oliveira do Conde,Viseu Dão Lafões,310,2025-04-18T14:16:00Z,25256382,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-04-18T14:16:00Z,Carregal Do Sal,Viseu,Centro,-7.956666,40.445142
+25256428,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-04-18T14:22:00Z,25256428,Em resolução,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-18T14:22:00Z,Matosinhos,Porto,Norte,-8.632716,41.208899
+25256335,Ramada e Caneças,Grande Lisboa,311,2025-04-18T14:16:00Z,25256335,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,8,2025-04-18T14:16:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194441,38.801427
+25256492,Margem,Alto Alentejo,312,2025-04-18T14:30:00Z,25256492,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-18T14:30:00Z,Gavião,Portalegre,Alentejo,-7.91839,39.379842
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25256004,Alcabideche,Grande Lisboa,311,2025-04-18T12:32:00Z,25256004,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-04-18T12:32:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.418781,38.730714
+25256004,Alcabideche,Grande Lisboa,311,2025-04-18T12:32:00Z,25256004,Em resolução,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-04-18T12:32:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.418781,38.730714
 25256153,Alfeizerão,Oeste,311,2025-04-18T13:27:00Z,25256153,Em despacho,3301,Queda de árvore,0,4,0,12,2025-04-18T13:27:00Z,Alcobaça,Leiria,Centro,-9.090668,39.470659
