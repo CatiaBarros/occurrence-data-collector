@@ -1,11 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25255342,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-04-18T09:30:00Z,25255342,Em conclusão,3301,Queda de árvore,0,3,0,8,2025-04-18T09:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25255235,Paranhos,Area M. Porto,309,2025-04-18T08:55:00Z,25255235,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-18T08:55:00Z,Porto,Porto,Norte,-8.607437,41.17569
 25255336,Ramalde,Area M. Porto,309,2025-04-18T09:25:00Z,25255336,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-18T09:25:00Z,Porto,Porto,Norte,-8.642922,41.17139
-25255417,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-04-18T09:52:00Z,25255417,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,7,2025-04-18T09:52:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.098065,38.824783
-25255342,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-04-18T09:30:00Z,25255342,Em conclusão,3301,Queda de árvore,0,3,0,8,2025-04-18T09:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.387899,38.805813
-25255476,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-04-18T10:18:00Z,25255476,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-18T10:18:00Z,Porto,Porto,Norte,-8.60273,41.14277
+25255417,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-04-18T09:52:00Z,25255417,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-18T09:52:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.098065,38.824783
+25255570,Serzedo e Perosinho,Area M. Porto,309,2025-04-18T10:25:00Z,25255570,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-18T10:25:00Z,Vila Nova De Gaia,Porto,Norte,-8.600642,41.053381
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25255391,Albufeira e Olhos de Água,Algarve,313,2025-04-18T09:35:00Z,25255391,Em despacho,3301,Queda de árvore,0,2,0,4,2025-04-18T09:35:00Z,Albufeira,Faro,Algarve,-8.229652,37.095927
