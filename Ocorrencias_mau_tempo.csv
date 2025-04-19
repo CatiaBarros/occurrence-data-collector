@@ -1,13 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25261106,Tábua,Região de Coimbra,310,2025-04-19T18:53:00Z,25261106,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T18:53:00Z,Tábua,Coimbra,Centro,-8.022455,40.361675
-25261156,Valongo,Area M. Porto,309,2025-04-19T19:09:00Z,25261156,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-19T19:09:00Z,Valongo,Porto,Norte,-8.48714,41.18783
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25260964,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-04-19T18:05:00Z,25260964,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-04-19T18:05:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.271132,38.918703
-25261048,Reguenga,Area M. Porto,309,2025-04-19T18:19:00Z,25261048,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-19T18:19:00Z,Santo Tirso,Porto,Norte,-8.453978,41.274415
-25261076,Aljubarrota,Oeste,311,2025-04-19T18:40:00Z,25261076,Em curso,3301,Queda de árvore,0,1,0,3,2025-04-19T18:40:00Z,Alcobaça,Leiria,Centro,-8.928887,39.550239
+25261156,Valongo,Area M. Porto,309,2025-04-19T19:09:00Z,25261156,Em despacho,3301,Queda de árvore,0,2,0,3,2025-04-19T19:09:00Z,Valongo,Porto,Norte,-8.511103,41.206727
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25260999,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-04-19T18:23:00Z,25260999,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-19T18:23:00Z,Póvoa De Lanhoso,Braga,Norte,-8.26784,41.577971
 25261134,Albufeira e Olhos de Água,Algarve,313,2025-04-19T18:53:00Z,25261134,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T18:53:00Z,Albufeira,Faro,Algarve,-8.252292,37.091727
-25261150,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-04-19T19:03:00Z,25261150,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-19T19:03:00Z,Vila Nova De Gaia,Porto,Norte,-8.611105,41.107184
+25261185,Arcos de Valdevez (São Paio) e Giela,Alto Minho,309,2025-04-19T19:18:00Z,25261185,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T19:18:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.407297,41.847054
+25261202,Sobrado e Bairros,Tâmega e Sousa,309,2025-04-19T19:25:00Z,25261202,Em curso,3313,Deslizamento de terras,0,3,0,7,2025-04-19T19:25:00Z,Castelo De Paiva,Aveiro,Norte,-8.275825,41.037563
+25261217,Castelo do Neiva,Alto Minho,309,2025-04-19T19:19:00Z,25261217,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T19:19:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.799707,41.621645
+25261269,Gondar,Tâmega e Sousa,309,2025-04-19T19:44:00Z,25261269,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-19T19:44:00Z,Amarante,Porto,Norte,-8.03769,41.249568
+25261076,Aljubarrota,Oeste,311,2025-04-19T18:40:00Z,25261076,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-04-19T18:40:00Z,Alcobaça,Leiria,Centro,-8.932715,39.550593
+25261210,Bico e Cristelo,Alto Minho,309,2025-04-19T19:27:00Z,25261210,Em curso,3301,Queda de árvore,0,1,0,2,2025-04-19T19:27:00Z,Paredes De Coura,Viana Do Castelo,Norte,-8.5401,41.908103
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25261224,Moreira,Area M. Porto,309,2025-04-19T19:08:00Z,25261224,Em curso,3301,Queda de árvore,0,1,0,3,2025-04-19T19:08:00Z,Maia,Porto,Norte,-8.648947,41.254488
