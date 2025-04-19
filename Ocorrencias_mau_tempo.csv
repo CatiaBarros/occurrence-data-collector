@@ -4,10 +4,13 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25261185,Arcos de Valdevez (São Paio) e Giela,Alto Minho,309,2025-04-19T19:18:00Z,25261185,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-04-19T19:18:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.407297,41.847054
 25261301,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-04-19T19:57:00Z,25261301,Em despacho,3301,Queda de árvore,0,2,0,4,2025-04-19T19:57:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.673868,41.703392
+25261552,Espinho,Area M. Porto,309,2025-04-19T21:13:00Z,25261552,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-04-19T21:13:00Z,Espinho,Aveiro,Norte,-8.64078,41.007665
+25261492,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-04-19T20:55:00Z,25261492,Em curso,3311,Queda de elementos de estruturas edificados,0,3,0,8,2025-04-19T20:55:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.389956,38.923794
+25261526,"Crasto, Ruivos e Grovelas",Alto Minho,309,2025-04-19T21:05:00Z,25261526,Em curso,3301,Queda de árvore,0,1,0,2,2025-04-19T21:05:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.443267,41.7532
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25261337,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-04-19T19:41:00Z,25261337,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-04-19T19:41:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
 25261432,Préstimo e Macieira de Alcoba,Região de Aveiro,310,2025-04-19T20:35:00Z,25261432,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-04-19T20:35:00Z,Águeda,Aveiro,Centro,-8.354136,40.62537
-25261492,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-04-19T20:55:00Z,25261492,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-19T20:55:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.389956,38.923794
-25261526,"Crasto, Ruivos e Grovelas",Alto Minho,309,2025-04-19T21:05:00Z,25261526,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T21:05:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.449357,41.752478
-25261372,Canidelo,Area M. Porto,309,2025-04-19T19:34:00Z,25261372,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-19T19:34:00Z,Vila Nova De Gaia,Porto,Norte,-8.652723,41.127681
+25261589,Valongo,Area M. Porto,309,2025-04-19T21:12:00Z,25261589,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T21:12:00Z,Valongo,Porto,Norte,-8.48714,41.18783
+25261596,Buarcos,Região de Coimbra,310,2025-04-19T21:16:00Z,25261596,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-04-19T21:16:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
 25261399,Vila do Conde,Area M. Porto,309,2025-04-19T20:18:00Z,25261399,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-04-19T20:18:00Z,Vila Do Conde,Porto,Norte,-8.735384,41.352471
+25261574,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-04-19T21:18:00Z,25261574,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-19T21:18:00Z,Matosinhos,Porto,Norte,-8.697254,41.226608
