@@ -1,10 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25259036,Caldas da Rainha - Santo Onofre e Serra do Bouro,Oeste,311,2025-04-19T09:29:00Z,25259036,Em resolução,3311,Queda de elementos de estruturas edificados,0,2,0,4,2025-04-19T09:29:00Z,Caldas Da Rainha,Leiria,Centro,-9.148929,39.401713
-25259241,Vila de Cucujães,Area M. Porto,309,2025-04-19T10:17:00Z,25259241,Em curso,3301,Queda de árvore,0,2,0,4,2025-04-19T10:17:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.514927,40.874382
-25259309,"Nossa Senhora do Pópulo, Coto e São Gregório",Oeste,311,2025-04-19T10:41:00Z,25259309,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-04-19T10:41:00Z,Caldas Da Rainha,Leiria,Centro,-9.13621,39.40688
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
+25259412,Vialonga,Grande Lisboa,311,2025-04-19T11:00:00Z,25259412,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-19T11:00:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.087262,38.878017
+25259036,Caldas da Rainha - Santo Onofre e Serra do Bouro,Oeste,311,2025-04-19T09:29:00Z,25259036,Em conclusão,3311,Queda de elementos de estruturas edificados,0,2,0,4,2025-04-19T09:29:00Z,Caldas Da Rainha,Leiria,Centro,-9.148929,39.401713
+25259421,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-04-19T11:20:00Z,25259421,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-04-19T11:20:00Z,Porto,Porto,Norte,-8.615939,41.15359
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25259033,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-04-19T09:27:00Z,25259033,Em despacho,3313,Deslizamento de terras,0,1,0,5,2025-04-19T09:27:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
 25259049,Alcobaça e Vestiaria,Oeste,311,2025-04-19T09:35:00Z,25259049,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T09:35:00Z,Alcobaça,Leiria,Centro,-8.993086,39.555432
+25259241,Vila de Cucujães,Area M. Porto,309,2025-04-19T10:17:00Z,25259241,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-04-19T10:17:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.514927,40.874382
+25259309,"Nossa Senhora do Pópulo, Coto e São Gregório",Oeste,311,2025-04-19T10:41:00Z,25259309,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-04-19T10:41:00Z,Caldas Da Rainha,Leiria,Centro,-9.13621,39.40688
