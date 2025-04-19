@@ -4,17 +4,17 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25259864,Ferrel,Oeste,311,2025-04-19T13:11:00Z,25259864,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-19T13:11:00Z,Peniche,Leiria,Centro,-9.328617,39.370417
 25260113,Sangalhos,Região de Aveiro,310,2025-04-19T14:22:00Z,25260113,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-04-19T14:22:00Z,Anadia,Aveiro,Centro,-8.490482,40.484546
-25260281,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-04-19T14:49:00Z,25260281,Em curso,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-19T14:49:00Z,Porto,Porto,Norte,-8.615939,41.15359
-25259820,Vila Nova de Famalicão e Calendário,Ave,309,2025-04-19T13:00:00Z,25259820,Em curso,3301,Queda de árvore,0,4,0,7,2025-04-19T13:00:00Z,Vila Nova De Famalicão,Braga,Norte,-8.524961,41.40026
-25259939,Meinedo,Tâmega e Sousa,309,2025-04-19T13:39:00Z,25259939,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T13:39:00Z,Lousada,Porto,Norte,-8.25233,41.25132
-25260090,Paradela,Cávado,309,2025-04-19T14:17:00Z,25260090,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T14:17:00Z,Barcelos,Braga,Norte,-8.68006,41.4621
-25260222,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-04-19T14:42:00Z,25260222,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-04-19T14:42:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.385912,38.758094
-25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25260185,Arca e Ponte de Lima,Alto Minho,309,2025-04-19T14:30:00Z,25260185,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-04-19T14:30:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.588368,41.764412
-25260319,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-04-19T15:01:00Z,25260319,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-04-19T15:01:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
-25259925,Carreira e Bente,Ave,309,2025-04-19T13:25:00Z,25259925,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-04-19T13:25:00Z,Vila Nova De Famalicão,Braga,Norte,-8.443161,41.381063
-25260093,Caparica e Trafaria,Península de Setúbal,311,2025-04-19T14:05:00Z,25260093,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-19T14:05:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.253241,38.660357
+25260349,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-04-19T15:20:00Z,25260349,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-04-19T15:20:00Z,Vila Nova De Gaia,Porto,Norte,-8.52413,41.06763
 25260161,Vermoim,Ave,309,2025-04-19T14:35:00Z,25260161,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-19T14:35:00Z,Vila Nova De Famalicão,Braga,Norte,-8.451027,41.421602
 25260252,Palmeira de Faro e Curvos,Cávado,309,2025-04-19T14:51:00Z,25260252,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T14:51:00Z,Esposende,Braga,Norte,-8.744296,41.548008
 25260270,Venteira,Grande Lisboa,311,2025-04-19T14:50:00Z,25260270,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-19T14:50:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.240965,38.755077
+25259820,Vila Nova de Famalicão e Calendário,Ave,309,2025-04-19T13:00:00Z,25259820,Em curso,3301,Queda de árvore,0,4,0,7,2025-04-19T13:00:00Z,Vila Nova De Famalicão,Braga,Norte,-8.524961,41.40026
+25259939,Meinedo,Tâmega e Sousa,309,2025-04-19T13:39:00Z,25259939,Em resolução,3301,Queda de árvore,0,3,0,5,2025-04-19T13:39:00Z,Lousada,Porto,Norte,-8.247743,41.254192
+25260090,Paradela,Cávado,309,2025-04-19T14:17:00Z,25260090,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T14:17:00Z,Barcelos,Braga,Norte,-8.68006,41.4621
 25260305,Ronfe,Ave,309,2025-04-19T15:08:00Z,25260305,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-19T15:08:00Z,Guimarães,Braga,Norte,-8.386088,41.435752
+25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
+25260185,Arca e Ponte de Lima,Alto Minho,309,2025-04-19T14:30:00Z,25260185,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-04-19T14:30:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.588368,41.764412
+25260319,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-04-19T15:01:00Z,25260319,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-04-19T15:01:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
+25260339,São Gens,Ave,309,2025-04-19T15:19:00Z,25260339,Em despacho,3301,Queda de árvore,0,0,0,0,2025-04-19T15:19:00Z,Fafe,Braga,Norte,-8.13402,41.44804
+25260357,Escariz (São Mamede) e Escariz (São Martinho),Cávado,309,2025-04-19T15:15:00Z,25260357,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T15:15:00Z,Vila Verde,Braga,Norte,-8.529169,41.639393
+25260372,Penacova,Região de Coimbra,310,2025-04-19T15:26:00Z,25260372,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-04-19T15:26:00Z,Penacova,Coimbra,Centro,-8.273219,40.280919
