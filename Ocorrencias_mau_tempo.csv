@@ -3,9 +3,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25260467,São Jorge e Ermelo,Alto Minho,309,2025-04-19T15:58:00Z,25260467,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-04-19T15:58:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.28989,41.854730000000004
-25259820,Vila Nova de Famalicão e Calendário,Ave,309,2025-04-19T13:00:00Z,25259820,Em conclusão,3301,Queda de árvore,0,4,0,7,2025-04-19T13:00:00Z,Vila Nova De Famalicão,Braga,Norte,-8.524961,41.40026
-25260339,São Gens,Ave,309,2025-04-19T15:19:00Z,25260339,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T15:19:00Z,Fafe,Braga,Norte,-8.13402,41.44804
-25260372,Penacova,Região de Coimbra,310,2025-04-19T15:26:00Z,25260372,Em resolução,3313,Deslizamento de terras,0,3,0,6,2025-04-19T15:26:00Z,Penacova,Coimbra,Centro,-8.273219,40.280919
 25260161,Vermoim,Ave,309,2025-04-19T14:35:00Z,25260161,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-19T14:35:00Z,Vila Nova De Famalicão,Braga,Norte,-8.451027,41.421602
+25259820,Vila Nova de Famalicão e Calendário,Ave,309,2025-04-19T13:00:00Z,25259820,Em conclusão,3301,Queda de árvore,0,4,0,7,2025-04-19T13:00:00Z,Vila Nova De Famalicão,Braga,Norte,-8.524961,41.40026
+25260372,Penacova,Região de Coimbra,310,2025-04-19T15:26:00Z,25260372,Em conclusão,3313,Deslizamento de terras,0,2,0,4,2025-04-19T15:26:00Z,Penacova,Coimbra,Centro,-8.273219,40.280919
+25260573,Atouguia da Baleia,Oeste,311,2025-04-19T16:21:00Z,25260573,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-19T16:21:00Z,Peniche,Leiria,Centro,-9.32433,39.339703
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
 25260496,Palmeira,Cávado,309,2025-04-19T16:04:00Z,25260496,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T16:04:00Z,Braga,Braga,Norte,-8.429586,41.589533
+25260528,São Martinho,Alentejo Litoral,312,2025-04-19T16:12:00Z,25260528,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T16:12:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.497656,38.51598
