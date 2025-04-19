@@ -1,16 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25068300,Almeirim,Lezíria do Tejo,311,2025-03-10T20:52:00Z,25068300,Em curso,1101,Cheia,0,0,0,0,2025-03-10T20:52:00Z,Almeirim,Santarém,Alentejo,-8.635002,39.187436
-25260528,São Martinho,Alentejo Litoral,312,2025-04-19T16:12:00Z,25260528,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-04-19T16:12:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.50036,38.498477
 25260671,Santiago de Montalegre,Médio Tejo,311,2025-04-19T16:48:00Z,25260671,Em resolução,3301,Queda de árvore,0,3,0,6,2025-04-19T16:48:00Z,Sardoal,Santarém,Centro,-8.151925,39.589922
+25260372,Penacova,Região de Coimbra,310,2025-04-19T15:26:00Z,25260372,Em conclusão,3313,Deslizamento de terras,0,2,0,4,2025-04-19T15:26:00Z,Penacova,Coimbra,Centro,-8.273219,40.280919
+25260573,Atouguia da Baleia,Oeste,311,2025-04-19T16:21:00Z,25260573,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-19T16:21:00Z,Peniche,Leiria,Centro,-9.32433,39.339703
+25260790,"São Miguel, Santa Eufémia e Rabaçal",Região de Coimbra,310,2025-04-19T17:15:00Z,25260790,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T17:15:00Z,Penela,Coimbra,Centro,-8.395341,39.978679
+25260806,Torreira,Região de Aveiro,310,2025-04-19T17:23:00Z,25260806,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-19T17:23:00Z,Murtosa,Aveiro,Centro,-8.699212,40.761066
+25260808,Bajouca,Região de Leiria,310,2025-04-19T17:24:00Z,25260808,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T17:24:00Z,Leiria,Leiria,Centro,-8.793774,39.899636
 25070044,Praia do Ribatejo,Médio Tejo,311,2025-03-10T19:30:00Z,25070044,Em curso,1101,Cheia,0,0,0,0,2025-03-10T19:30:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.357309,39.485638
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25260467,São Jorge e Ermelo,Alto Minho,309,2025-04-19T15:58:00Z,25260467,Em despacho,3313,Deslizamento de terras,0,0,0,0,2025-04-19T15:58:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.28989,41.854730000000004
 25260683,Lousã e Vilarinho,Região de Coimbra,310,2025-04-19T16:47:00Z,25260683,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T16:47:00Z,Lousã,Coimbra,Centro,-8.252806,40.141024
 25260734,Santa Cruz da Trapa e São Cristóvão de Lafões,Viseu Dão Lafões,310,2025-04-19T17:04:00Z,25260734,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-19T17:04:00Z,São Pedro Do Sul,Viseu,Centro,-8.150894,40.775966
-25260613,Alcochete,Península de Setúbal,311,2025-04-19T16:24:00Z,25260613,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-19T16:24:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.90895,38.693778
 25260761,Vila da Ponte,Douro,309,2025-04-19T17:10:00Z,25260761,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-19T17:10:00Z,Sernancelhe,Viseu,Norte,-7.51704,40.917505
-25260372,Penacova,Região de Coimbra,310,2025-04-19T15:26:00Z,25260372,Em conclusão,3313,Deslizamento de terras,0,2,0,4,2025-04-19T15:26:00Z,Penacova,Coimbra,Centro,-8.273219,40.280919
-25260573,Atouguia da Baleia,Oeste,311,2025-04-19T16:21:00Z,25260573,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-19T16:21:00Z,Peniche,Leiria,Centro,-9.32433,39.339703
-25260608,Penafiel,Tâmega e Sousa,309,2025-04-19T16:31:00Z,25260608,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-04-19T16:31:00Z,Penafiel,Porto,Norte,-8.27171,41.21069
-25260726,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-04-19T17:03:00Z,25260726,Em resolução,3301,Queda de árvore,0,2,0,7,2025-04-19T17:03:00Z,Santarém,Santarém,Alentejo,-8.674076,39.247271
