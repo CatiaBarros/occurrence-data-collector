@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25262510,Abiul,Região de Leiria,310,2025-04-20T07:50:00Z,25262510,Em curso,1101,Cheia,0,1,0,4,2025-04-20T07:50:00Z,Pombal,Leiria,Centro,-8.520112,39.891869
-25262395,Sobral de Monte Agraço,Oeste,311,2025-04-20T06:01:00Z,25262395,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-20T06:01:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.152431,39.019738
-25261966,Souselas e Botão,Região de Coimbra,310,2025-04-19T23:58:00Z,25261966,Em curso,3313,Deslizamento de terras,0,2,0,4,2025-04-19T23:58:00Z,Coimbra,Coimbra,Centro,-8.446077,40.291836000000004
+25262835,Vila Franca de Xira,Grande Lisboa,311,2025-04-20T09:51:00Z,25262835,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-20T09:51:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.957642,38.918296
 25262668,Gondemaria e Olival,Médio Tejo,311,2025-04-20T09:03:00Z,25262668,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-04-20T09:03:00Z,Ourém,Santarém,Centro,-8.645202,39.680225
-25262734,São João da Madeira,Area M. Porto,309,2025-04-20T09:13:00Z,25262734,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-20T09:13:00Z,São João Da Madeira,Aveiro,Norte,-8.490365,40.895632
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25262703,Arnoso (Santa Maria e Santa Eulália) e Sezures,Ave,309,2025-04-20T09:17:00Z,25262703,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-20T09:17:00Z,Vila Nova De Famalicão,Braga,Norte,-8.48493,41.47468
+25262703,Arnoso (Santa Maria e Santa Eulália) e Sezures,Ave,309,2025-04-20T09:17:00Z,25262703,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-20T09:17:00Z,Vila Nova De Famalicão,Braga,Norte,-8.48493,41.47468
+25262789,Reguengo do Fetal,Região de Leiria,310,2025-04-20T09:44:00Z,25262789,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-20T09:44:00Z,Batalha,Leiria,Centro,-8.746878,39.623398
+25262395,Sobral de Monte Agraço,Oeste,311,2025-04-20T06:01:00Z,25262395,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-20T06:01:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.152431,39.019738
+25262813,Alvor,Algarve,313,2025-04-20T09:16:00Z,25262813,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-20T09:16:00Z,Portimão,Faro,Algarve,-8.568741,37.158562
