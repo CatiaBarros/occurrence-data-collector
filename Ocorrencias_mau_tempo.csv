@@ -3,5 +3,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25263590,Arazede,Região de Coimbra,310,2025-04-20T13:48:00Z,25263590,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-20T13:48:00Z,Montemor-o-Velho,Coimbra,Centro,-8.737742,40.307008
-25263793,Bucelas,Grande Lisboa,311,2025-04-20T14:47:00Z,25263793,Em curso,3301,Queda de árvore,0,4,0,7,2025-04-20T14:47:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.13589,38.90324
+25263793,Bucelas,Grande Lisboa,311,2025-04-20T14:47:00Z,25263793,Em curso,3301,Queda de árvore,0,4,0,9,2025-04-20T14:47:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.13589,38.90324
 25263379,Águeda e Borralha,Região de Aveiro,310,2025-04-20T09:30:00Z,25263379,Em despacho,1101,Cheia,0,0,0,0,2025-04-20T09:30:00Z,Águeda,Aveiro,Centro,-8.416662,40.574294
