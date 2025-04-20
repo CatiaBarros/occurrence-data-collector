@@ -1,22 +1,22 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25262941,"Portimão","Algarve",313,"2025-04-20T10:29:00",25262941,"Em resolução","2407","Despiste",0,3,0,6,"2025-04-20T10:29:00","Portimão","Faro","Algarve",-8.54339,37.231613
+25263204,"Mosteiros","Alto Alentejo",312,"2025-04-20T11:54:00",25263204,"Em curso","2407","Despiste",1,11,0,31,"2025-04-20T11:54:00","Arronches","Portalegre","Alentejo",-7.3394,39.17589
+25263318,"Oliveira do Douro","Area M. Porto",309,"2025-04-20T12:25:00",25263318,"Em despacho","2407","Despiste",0,2,0,5,"2025-04-20T12:25:00","Vila Nova De Gaia","Porto","Norte",-8.585272,41.125484
+25263343,"Guia, Ilha e Mata Mourisca","Região de Leiria",310,"2025-04-20T12:20:00",25263343,"Em despacho","3301","Queda de árvore",0,2,0,5,"2025-04-20T12:20:00","Pombal","Leiria","Centro",-8.753282,39.947593
+25263361,"Monchique","Algarve",313,"2025-04-20T12:29:00",25263361,"Em curso","3301","Queda de árvore",0,1,0,4,"2025-04-20T12:29:00","Monchique","Faro","Algarve",-8.532382,37.308262
+25263379,"Águeda e Borralha","Região de Aveiro",310,"2025-04-20T09:30:00",25263379,"Em despacho","1101","Cheia",0,0,0,0,"2025-04-20T09:30:00","Águeda","Aveiro","Centro",-8.416662,40.574294
+25263386,"Buarcos","Região de Coimbra",310,"2025-04-20T12:45:00",25263386,"Em despacho","3329","Queda de estruturas temporárias ou móveis",0,1,0,5,"2025-04-20T12:45:00","Figueira Da Foz","Coimbra","Centro",-8.880897,40.168384
 25263148,"Valongo","Area M. Porto",309,"2025-04-20T11:40:00",25263148,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,6,"2025-04-20T11:40:00","Valongo","Porto","Norte",-8.495313,41.19497
-25263232,"Paranhos","Area M. Porto",309,"2025-04-20T12:05:00",25263232,"Em despacho","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,5,0,19,"2025-04-20T12:05:00","Porto","Porto","Norte",-8.60347,41.16724
+25263232,"Paranhos","Area M. Porto",309,"2025-04-20T12:05:00",25263232,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,"2025-04-20T12:05:00","Porto","Porto","Norte",-8.60347,41.16724
 25263297,"Marrazes e Barosa","Região de Leiria",310,"2025-04-20T12:18:00",25263297,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-04-20T12:18:00","Leiria","Leiria","Centro",-8.813484,39.764428
-25263316,"Olhão","Algarve",313,"2025-04-20T12:29:00",25263316,"Em curso","2129","Incêndio em edifícios degradados ou devolutos",0,5,0,11,"2025-04-20T12:29:00","Olhão","Faro","Algarve",-7.84691,37.02552
-25262985,"Águas Livres","Grande Lisboa",311,"2025-04-20T10:42:00",25262985,"Em conclusão","2401","Atropelamento rodoviário",0,2,0,4,"2025-04-20T10:42:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.219508,38.745534
+25263316,"Olhão","Algarve",313,"2025-04-20T12:29:00",25263316,"Em conclusão","2129","Incêndio em edifícios degradados ou devolutos",0,5,0,11,"2025-04-20T12:29:00","Olhão","Faro","Algarve",-7.84691,37.02552
 25263212,"Pedroso e Seixezelo","Area M. Porto",309,"2025-04-20T11:54:00",25263212,"Em resolução","2403","Colisão rodoviária",0,3,0,7,"2025-04-20T11:54:00","Vila Nova De Gaia","Porto","Norte",-8.563165,41.042838
 25263219,"Santa Catarina da Serra e Chainça","Região de Leiria",310,"2025-04-20T11:57:00",25263219,"Em conclusão","2407","Despiste",0,2,0,7,"2025-04-20T11:57:00","Leiria","Leiria","Centro",-8.683358,39.679323
 25263253,"Arruda Dos Vinhos","Oeste",311,"2025-04-20T11:58:00",25263253,"Em conclusão","2407","Despiste",0,4,0,9,"2025-04-20T11:58:00","Arruda Dos Vinhos","Lisboa","Centro",-9.062827,38.962275
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25263089,"Casais e Alviobeira","Médio Tejo",311,"2025-04-20T11:21:00",25263089,"Em resolução","2407","Despiste",0,6,0,13,"2025-04-20T11:21:00","Tomar","Santarém","Centro",-8.372915,39.663373
+25263089,"Casais e Alviobeira","Médio Tejo",311,"2025-04-20T11:21:00",25263089,"Em conclusão","2407","Despiste",0,5,0,11,"2025-04-20T11:21:00","Tomar","Santarém","Centro",-8.372915,39.663373
 25263222,"Gondifelos, Cavalões e Outiz","Ave",309,"2025-04-20T11:55:00",25263222,"Em curso","2407","Despiste",0,2,0,4,"2025-04-20T11:55:00","Vila Nova De Famalicão","Braga","Norte",-8.562923,41.414107
 25263356,"Anha","Alto Minho",309,"2025-04-20T12:38:00",25263356,"Em despacho","2403","Colisão rodoviária",0,2,0,6,"2025-04-20T12:38:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.804129,41.663897
-25263375,"Soutelo de Aguiar","Alto Tâmega e Barroso",309,"2025-04-20T12:44:00",25263375,"Em despacho","2407","Despiste",0,0,0,0,"2025-04-20T12:44:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.66363,41.50614
-25262941,"Portimão","Algarve",313,"2025-04-20T10:29:00",25262941,"Em resolução","2407","Despiste",0,3,0,6,"2025-04-20T10:29:00","Portimão","Faro","Algarve",-8.54339,37.231613
-25263204,"Mosteiros","Alto Alentejo",312,"2025-04-20T11:54:00",25263204,"Em curso","2407","Despiste",1,11,0,31,"2025-04-20T11:54:00","Arronches","Portalegre","Alentejo",-7.3394,39.17589
-25263254,"Espinho","Area M. Porto",309,"2025-04-20T12:10:00",25263254,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,8,"2025-04-20T12:10:00","Espinho","Aveiro","Norte",-8.64515,41.00589
-25263318,"Oliveira do Douro","Area M. Porto",309,"2025-04-20T12:25:00",25263318,"Em despacho","2407","Despiste",0,2,0,5,"2025-04-20T12:25:00","Vila Nova De Gaia","Porto","Norte",-8.585272,41.125484
-25263343,"Guia, Ilha e Mata Mourisca","Região de Leiria",310,"2025-04-20T12:20:00",25263343,"Em despacho","3301","Queda de árvore",0,2,0,5,"2025-04-20T12:20:00","Pombal","Leiria","Centro",-8.753282,39.947593
-25263361,"Monchique","Algarve",313,"2025-04-20T12:29:00",25263361,"Em curso","3301","Queda de árvore",0,1,0,4,"2025-04-20T12:29:00","Monchique","Faro","Algarve",-8.532382,37.308262
-25263379,"Águeda e Borralha","Região de Aveiro",310,"2025-04-20T09:30:00",25263379,"Em despacho","1101","Cheia",0,0,0,0,"2025-04-20T09:30:00","Águeda","Aveiro","Centro",-8.416662,40.574294
+25263375,"Alvão","Alto Tâmega e Barroso",309,"2025-04-20T12:44:00",25263375,"Em despacho","2407","Despiste",0,2,0,7,"2025-04-20T12:44:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.716807,41.494871
+25263391,"São Mamede de Infesta e Senhora da Hora","Area M. Porto",309,"2025-04-20T12:46:00",25263391,"Em despacho","3301","Queda de árvore",0,1,0,4,"2025-04-20T12:46:00","Matosinhos","Porto","Norte",-8.630369,41.188957
