@@ -3,5 +3,6 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
 25263541,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-04-20T13:35:00Z,25263541,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-20T13:35:00Z,Ourém,Santarém,Centro,-8.5991,39.643
 25263590,Arazede,Região de Coimbra,310,2025-04-20T13:48:00Z,25263590,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-20T13:48:00Z,Montemor-o-Velho,Coimbra,Centro,-8.737742,40.307008
+25263793,Bucelas,Grande Lisboa,311,2025-04-20T14:47:00Z,25263793,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-20T14:47:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.13589,38.90324
 25263634,Almalaguês,Região de Coimbra,310,2025-04-20T14:01:00Z,25263634,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-04-20T14:01:00Z,Coimbra,Coimbra,Centro,-8.390062,40.130893
 25263379,Águeda e Borralha,Região de Aveiro,310,2025-04-20T09:30:00Z,25263379,Em despacho,1101,Cheia,0,0,0,0,2025-04-20T09:30:00Z,Águeda,Aveiro,Centro,-8.416662,40.574294
