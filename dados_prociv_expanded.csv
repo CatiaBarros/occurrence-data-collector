@@ -1,9 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25268246,"São Pedro do Sul, Várzea e Baiões","Viseu Dão Lafões",310,"2025-04-21T16:12:00",25268246,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-04-21T16:12:00","São Pedro Do Sul","Viseu","Centro",-8.067635,40.755355
 25268514,"São Miguel, Santa Eufémia e Rabaçal","Região de Coimbra",310,"2025-04-21T17:30:00",25268514,"Em conclusão","2403","Colisão rodoviária",0,4,0,9,"2025-04-21T17:30:00","Penela","Coimbra","Centro",-8.37194,40.05722
-25268730,"Barqueiros","Cávado",309,"2025-04-21T18:34:00",25268730,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-04-21T18:34:00","Barcelos","Braga","Norte",-8.738688,41.464287
+25269164,"Braga (Maximinos, Sé e Cividade)","Cávado",309,"2025-04-21T20:28:00",25269164,"Em curso","2129","Incêndio em edifícios degradados ou devolutos",0,1,0,6,"2025-04-21T20:28:00","Braga","Braga","Norte",-8.444677,41.545887
 25268927,"Lordelo do Ouro e Massarelos","Area M. Porto",309,"2025-04-21T19:22:00",25268927,"Em resolução","2401","Atropelamento rodoviário",0,2,0,3,"2025-04-21T19:22:00","Porto","Porto","Norte",-8.65126,41.153792
-25268984,"Resende","Tâmega e Sousa",309,"2025-04-21T19:38:00",25268984,"Em conclusão","3203","Detritos confinados",0,2,0,4,"2025-04-21T19:38:00","Resende","Viseu","Norte",-7.955755,41.105403
 25268991,"Carvalhal","Médio Tejo",311,"2025-04-21T19:44:00",25268991,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,6,"2025-04-21T19:44:00","Abrantes","Santarém","Centro",-8.19055,39.567048
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
@@ -12,10 +11,9 @@
 25268840,"Ribeira de Nisa e Carreiras","Alto Alentejo",312,"2025-04-21T19:02:00",25268840,"Em conclusão","2403","Colisão rodoviária",0,4,0,12,"2025-04-21T19:02:00","Portalegre","Portalegre","Alentejo",-7.447897,39.334288
 25269124,"Nossa Senhora da Piedade","Médio Tejo",311,"2025-04-21T20:17:00",25269124,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-04-21T20:17:00","Ourém","Santarém","Centro",-8.593419,39.664639
 25268733,"Castanheira","Alto Minho",309,"2025-04-21T18:35:00",25268733,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-21T18:35:00","Paredes De Coura","Viana Do Castelo","Norte",-8.549033,41.884872
-25268742,"Alcanhões","Lezíria do Tejo",311,"2025-04-21T18:40:00",25268742,"Em conclusão","2403","Colisão rodoviária",0,4,0,11,"2025-04-21T18:40:00","Santarém","Santarém","Alentejo",-8.655718,39.284832
 25268785,"Nossa Senhora do Pópulo, Coto e São Gregório","Oeste",311,"2025-04-21T18:49:00",25268785,"Em despacho","2401","Atropelamento rodoviário",0,2,0,5,"2025-04-21T18:49:00","Caldas Da Rainha","Leiria","Centro",-9.129235,39.404586
-25268853,"Oiã","Região de Aveiro",310,"2025-04-21T19:08:00",25268853,"Em resolução","2101","Incêndio em edifícios habitacionais",0,2,0,8,"2025-04-21T19:08:00","Oliveira Do Bairro","Aveiro","Centro",-8.53851,40.54014
-25268860,"Santo António Dos Cavaleiros e Frielas","Grande Lisboa",311,"2025-04-21T19:02:00",25268860,"Em conclusão","2403","Colisão rodoviária",0,4,0,10,"2025-04-21T19:02:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.176131,38.808798
+25268853,"Oiã","Região de Aveiro",310,"2025-04-21T19:08:00",25268853,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,2,0,8,"2025-04-21T19:08:00","Oliveira Do Bairro","Aveiro","Centro",-8.53851,40.54014
 25268935,"São João Das Lampas e Terrugem","Grande Lisboa",311,"2025-04-21T19:23:00",25268935,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-04-21T19:23:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.442718,38.844843
-25269060,"Atouguia","Médio Tejo",311,"2025-04-21T20:00:00",25269060,"Em conclusão","2407","Despiste",0,3,0,9,"2025-04-21T20:00:00","Ourém","Santarém","Centro",-8.63208,39.6406
-25269135,"Cascais e Estoril","Grande Lisboa",311,"2025-04-21T20:21:00",25269135,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,0,0,0,"2025-04-21T20:21:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.40657,38.71986
+25269060,"Atouguia","Médio Tejo",311,"2025-04-21T20:00:00",25269060,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-21T20:00:00","Ourém","Santarém","Centro",-8.63125,39.63985
+25269135,"Cascais e Estoril","Grande Lisboa",311,"2025-04-21T20:21:00",25269135,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,3,0,8,"2025-04-21T20:21:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.40657,38.71986
+25269167,"Almancil","Algarve",313,"2025-04-21T20:29:00",25269167,"Em conclusão","2301","Incêndio em transporte rodoviário",0,5,0,15,"2025-04-21T20:29:00","Loulé","Faro","Algarve",-7.99626,37.09547
