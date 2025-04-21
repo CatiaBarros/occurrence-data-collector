@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25265883,"Barcarena","Grande Lisboa",311,"2025-04-21T07:24:00",25265883,"Em despacho","2403","Colisão rodoviária",0,1,0,5,"2025-04-21T07:24:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.282164,38.744749
+25265883,"Barcarena","Grande Lisboa",311,"2025-04-21T07:24:00",25265883,"Em conclusão","2403","Colisão rodoviária",0,3,0,8,"2025-04-21T07:24:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.275006,38.74766
+25265811,"São Domingos de Rana","Grande Lisboa",311,"2025-04-21T06:44:00",25265811,"Em conclusão","2403","Colisão rodoviária",0,5,0,13,"2025-04-21T06:44:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.347651,38.740483
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25265898,"Coimbrão","Região de Leiria",310,"2025-04-21T07:27:00",25265898,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-04-21T07:27:00","Leiria","Leiria","Centro",-8.886024,39.888266
-25265811,"São Domingos de Rana","Grande Lisboa",311,"2025-04-21T06:44:00",25265811,"Em resolução","2403","Colisão rodoviária",0,5,0,13,"2025-04-21T06:44:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.347651,38.740483
+25265898,"Coimbrão","Região de Leiria",310,"2025-04-21T07:27:00",25265898,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-04-21T07:27:00","Leiria","Leiria","Centro",-8.886024,39.888266
