@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25267671,"Aver-o-Mar, Amorim e Terroso",Area M. Porto,309,2025-04-21T14:10:00Z,25267671,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-21T14:10:00Z,Póvoa De Varzim,Porto,Norte,-8.748024,41.41038
+25267724,Ramada e Caneças,Grande Lisboa,311,2025-04-21T14:20:00Z,25267724,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,2,0,6,2025-04-21T14:20:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.178444,38.802339
+25268072,Sesimbra (Castelo),Península de Setúbal,311,2025-04-21T15:31:00Z,25268072,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-21T15:31:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.110435,38.465263
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25202441,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-04-06T10:25:00Z,25202441,Em conclusão,1101,Cheia,0,0,0,0,2025-04-06T10:25:00Z,Serpa,Beja,Alentejo,-7.555783,37.88592
-25268001,Soure,Região de Coimbra,310,2025-04-21T15:16:00Z,25268001,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-21T15:16:00Z,Soure,Coimbra,Centro,-8.613757,40.074341
-25267724,Ramada e Caneças,Grande Lisboa,311,2025-04-21T14:20:00Z,25267724,Em curso,3315,Inundação de estruturas por precipitação intensa,0,2,0,6,2025-04-21T14:20:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.178444,38.802339
-25268072,Sesimbra (Castelo),Península de Setúbal,311,2025-04-21T15:31:00Z,25268072,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-21T15:31:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.110435,38.465263
