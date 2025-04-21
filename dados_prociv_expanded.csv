@@ -1,5 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25265450,"Póvoa de Santo Adrião e Olival Basto","Grande Lisboa",311,"2025-04-21T00:38:00",25265450,"Em resolução","2407","Despiste",0,5,0,13,"2025-04-21T00:38:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.162059,38.790908
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25265494,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-04-21T01:09:00",25265494,"Em despacho","2403","Colisão rodoviária",0,3,0,10,"2025-04-21T01:09:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.186078,38.611365
+25265450,"Póvoa de Santo Adrião e Olival Basto","Grande Lisboa",311,"2025-04-21T00:38:00",25265450,"Em conclusão","2407","Despiste",0,5,0,13,"2025-04-21T00:38:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.162059,38.790908
