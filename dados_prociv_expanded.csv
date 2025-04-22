@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25270020,"Barcouço","Região de Coimbra",310,"2025-04-22T05:38:00",25270020,"Em despacho","2407","Despiste",0,1,0,2,"2025-04-22T05:38:00","Mealhada","Aveiro","Centro",-8.448434,40.305277
+25270020,"Barcouço","Região de Coimbra",310,"2025-04-22T05:38:00",25270020,"Em curso","2407","Despiste",0,1,0,2,"2025-04-22T05:38:00","Mealhada","Aveiro","Centro",-8.448434,40.305277
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25202441,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-04-06T10:25:00",25202441,"Em conclusão","1101","Cheia",0,0,0,0,"2025-04-06T10:25:00","Serpa","Beja","Alentejo",-7.555783,37.88592
-25270024,"São Barnabé","Baixo Alentejo",312,"2025-04-22T05:39:00",25270024,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,4,"2025-04-22T05:39:00","Almodôvar","Beja","Alentejo",-8.242222,37.41278
+25270024,"São Barnabé","Baixo Alentejo",312,"2025-04-22T05:39:00",25270024,"Em despacho","2301","Incêndio em transporte rodoviário",0,4,0,13,"2025-04-22T05:39:00","Almodôvar","Beja","Alentejo",-8.242222,37.41278
