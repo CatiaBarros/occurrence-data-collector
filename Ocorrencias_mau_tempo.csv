@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25277828,Vila Praia de Âncora,Alto Minho,309,2025-04-23T17:31:00Z,25277828,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-04-23T17:31:00Z,Caminha,Viana Do Castelo,Norte,-8.85586,41.816822
 25277185,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2025-04-23T15:06:00Z,25277185,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-04-23T15:06:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.065968,38.6593
 25277303,Arcos de Valdevez (São Paio) e Giela,Alto Minho,309,2025-04-23T15:44:00Z,25277303,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-23T15:44:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.407297,41.847054
 25277366,Golães,Ave,309,2025-04-23T15:57:00Z,25277366,Em despacho,3301,Queda de árvore,0,2,0,3,2025-04-23T15:57:00Z,Fafe,Braga,Norte,-8.196656,41.465541
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25277828,Vila Praia de Âncora,Alto Minho,309,2025-04-23T17:31:00Z,25277828,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-23T17:31:00Z,Caminha,Viana Do Castelo,Norte,-8.853052,41.820795
