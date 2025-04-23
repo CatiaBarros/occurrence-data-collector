@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25275220,São Miguel do Mato,Viseu Dão Lafões,310,2025-04-23T09:09:00Z,25275220,Em conclusão,3301,Queda de árvore,0,2,0,6,2025-04-23T09:09:00Z,Vouzela,Viseu,Centro,-8.024187,40.740257
-25275604,"Mangualde, Mesquitela e Cunha Alta",Viseu Dão Lafões,310,2025-04-23T10:15:00Z,25275604,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-23T10:15:00Z,Mangualde,Viseu,Centro,-7.752528,40.630364
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25275207,Lousã e Vilarinho,Região de Coimbra,310,2025-04-23T09:04:00Z,25275207,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-23T09:04:00Z,Lousã,Coimbra,Centro,-8.255087,40.104097
-25275413,Santa Bárbara de Nexe,Algarve,313,2025-04-23T09:41:00Z,25275413,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-23T09:41:00Z,Faro,Faro,Algarve,-7.974444,37.103397
+25275207,Lousã e Vilarinho,Região de Coimbra,310,2025-04-23T09:04:00Z,25275207,Em curso,3301,Queda de árvore,0,0,0,0,2025-04-23T09:04:00Z,Lousã,Coimbra,Centro,-8.255087,40.104097
+25275642,Paranhos,Area M. Porto,309,2025-04-23T10:31:00Z,25275642,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-04-23T10:31:00Z,Porto,Porto,Norte,-8.613764,41.18429
+25275721,Lodares,Tâmega e Sousa,309,2025-04-23T10:44:00Z,25275721,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-04-23T10:44:00Z,Lousada,Porto,Norte,-8.30664,41.242242
+25275413,Santa Bárbara de Nexe,Algarve,313,2025-04-23T09:41:00Z,25275413,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-23T09:41:00Z,Faro,Faro,Algarve,-7.974444,37.103397
