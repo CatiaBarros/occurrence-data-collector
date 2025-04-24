@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25282168,Arcos de Valdevez (São Paio) e Giela,Alto Minho,309,2025-04-24T15:47:00Z,25282168,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-24T15:47:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.407297,41.847054
+25282030,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-04-24T15:16:00Z,25282030,Em conclusão,3309,Desabamento de estruturas edificadas,0,3,0,5,2025-04-24T15:16:00Z,Póvoa De Lanhoso,Braga,Norte,-8.270435,41.576617
+25281534,Vila Boa,Beiras e Serra da Estrela,310,2025-04-24T13:59:00Z,25281534,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-24T13:59:00Z,Sabugal,Guarda,Centro,-7.013198,40.383332
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25281040,Redinha,Região de Leiria,310,2025-04-24T12:31:00Z,25281040,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-24T12:31:00Z,Pombal,Leiria,Centro,-8.61056,39.98917
-25282030,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-04-24T15:16:00Z,25282030,Em curso,3309,Desabamento de estruturas edificadas,0,3,0,5,2025-04-24T15:16:00Z,Póvoa De Lanhoso,Braga,Norte,-8.270435,41.576617
-25281534,Vila Boa,Beiras e Serra da Estrela,310,2025-04-24T13:59:00Z,25281534,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-24T13:59:00Z,Sabugal,Guarda,Centro,-7.013198,40.383332
-25282168,Arcos de Valdevez (São Paio) e Giela,Alto Minho,309,2025-04-24T15:47:00Z,25282168,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-24T15:47:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.407297,41.847054
