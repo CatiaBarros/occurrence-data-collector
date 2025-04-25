@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25286241,Santo André,Alentejo Litoral,312,2025-04-25T13:56:00Z,25286241,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-04-25T13:56:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.744813,38.04147
 25286784,Benedita,Oeste,311,2025-04-25T16:15:00Z,25286784,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-25T16:15:00Z,Alcobaça,Leiria,Centro,-8.941467,39.431263
-25286860,Buarcos,Região de Coimbra,310,2025-04-25T16:40:00Z,25286860,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-04-25T16:40:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25286860,Buarcos,Região de Coimbra,310,2025-04-25T16:40:00Z,25286860,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-04-25T16:40:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
+25286867,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-04-25T16:49:00Z,25286867,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-04-25T16:49:00Z,Matosinhos,Porto,Norte,-8.687778,41.20889
 25286678,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-04-25T15:58:00Z,25286678,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,5,2025-04-25T15:58:00Z,Porto,Porto,Norte,-8.61381,41.14515
