@@ -1,6 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25288710,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-04-26T06:52:00",25288710,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-04-26T06:52:00","Bragança","Bragança","Norte",-6.761223,41.813164
-25288663,"Sortes","Terras de Trás-os-Montes",309,"2025-04-26T06:27:00",25288663,"Em curso","2407","Despiste",0,5,0,12,"2025-04-26T06:27:00","Bragança","Bragança","Norte",-6.843698,41.700343
+25288710,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-04-26T06:52:00",25288710,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-04-26T06:52:00","Bragança","Bragança","Norte",-6.761223,41.813164
+25288663,"Sortes","Terras de Trás-os-Montes",309,"2025-04-26T06:27:00",25288663,"Em resolução","2407","Despiste",0,6,0,14,"2025-04-26T06:27:00","Bragança","Bragança","Norte",-6.843698,41.700343
 25288666,"Queluz e Belas","Grande Lisboa",311,"2025-04-26T06:29:00",25288666,"Em curso","3325","Dano na rede de abastecimento de gás",0,2,0,7,"2025-04-26T06:29:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.26046,38.78252
-25288700,"São Domingos de Benfica","Grande Lisboa",311,"2025-04-26T06:51:00",25288700,"Em conclusão","2115","Incêndio em edifícios hoteleiros e de restauração",0,1,0,5,"2025-04-26T06:51:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.171185,38.75015
