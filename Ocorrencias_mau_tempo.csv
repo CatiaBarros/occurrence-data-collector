@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25289005,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-04-26T08:37:00Z,25289005,Em resolução,3301,Queda de árvore,0,4,0,10,2025-04-26T08:37:00Z,Cartaxo,Santarém,Alentejo,-8.787323,39.175847
-25289706,Boliqueime,Algarve,313,2025-04-26T10:15:00Z,25289706,Em curso,3301,Queda de árvore,0,2,0,8,2025-04-26T10:15:00Z,Loulé,Faro,Algarve,-8.156699,37.135937
 25289770,Almeirim,Lezíria do Tejo,311,2025-04-26T11:24:00Z,25289770,Em resolução,3301,Queda de árvore,0,3,0,7,2025-04-26T11:24:00Z,Almeirim,Santarém,Alentejo,-8.633262,39.240882
-25289822,Alcabideche,Grande Lisboa,311,2025-04-26T11:26:00Z,25289822,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-04-26T11:26:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.402781,38.736294
-25289973,Ericeira,Grande Lisboa,311,2025-04-26T12:09:00Z,25289973,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-04-26T12:09:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.41102,38.97129
+25289973,Ericeira,Grande Lisboa,311,2025-04-26T12:09:00Z,25289973,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-04-26T12:09:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.41102,38.97129
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25289912,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-04-26T11:53:00Z,25289912,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-26T11:53:00Z,Cartaxo,Santarém,Alentejo,-8.784348,39.15638
+25289005,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-04-26T08:37:00Z,25289005,Em resolução,3301,Queda de árvore,0,1,0,4,2025-04-26T08:37:00Z,Cartaxo,Santarém,Alentejo,-8.787323,39.175847
