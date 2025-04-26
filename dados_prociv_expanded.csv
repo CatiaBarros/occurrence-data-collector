@@ -1,7 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25288437,"Areias de Vilar e Encourados","Cávado",309,"2025-04-26T02:20:00",25288437,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-04-26T02:20:00","Barcelos","Braga","Norte",-8.546787,41.533376
-25288447,"Joane","Ave",309,"2025-04-26T02:21:00",25288447,"Em resolução","2301","Incêndio em transporte rodoviário",0,5,0,13,"2025-04-26T02:21:00","Vila Nova De Famalicão","Braga","Norte",-8.401143,41.44074
+25288507,"Paranhos","Area M. Porto",309,"2025-04-26T03:32:00",25288507,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,5,"2025-04-26T03:32:00","Porto","Porto","Norte",-8.607437,41.17569
+25288525,"Sacavém e Prior Velho","Grande Lisboa",311,"2025-04-26T03:52:00",25288525,"Em despacho","3325","Dano na rede de abastecimento de gás",0,0,0,0,"2025-04-26T03:52:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.1138,38.79692
+25288437,"Areias de Vilar e Encourados","Cávado",309,"2025-04-26T02:20:00",25288437,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-04-26T02:20:00","Barcelos","Braga","Norte",-8.543388,41.530987
+25288447,"Joane","Ave",309,"2025-04-26T02:21:00",25288447,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,7,"2025-04-26T02:21:00","Vila Nova De Famalicão","Braga","Norte",-8.401143,41.44074
+25288506,"Pinhal Novo","Península de Setúbal",311,"2025-04-26T03:41:00",25288506,"Em despacho","3103","Incêndio rural",0,1,0,4,"2025-04-26T03:41:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.86882,38.62708
 25287732,"Lagoaça e Fornos","Douro",309,"2025-04-25T20:40:00",25287732,"Em resolução","2407","Despiste",0,1,0,3,"2025-04-25T20:40:00","Freixo De Espada à Cinta","Bragança","Norte",-6.760759,41.210829
-25288352,"Peniche","Oeste",311,"2025-04-26T01:08:00",25288352,"Em resolução","2407","Despiste",0,5,0,10,"2025-04-26T01:08:00","Peniche","Leiria","Centro",-9.376833,39.357166
-25288435,"Orgens","Viseu Dão Lafões",310,"2025-04-26T02:27:00",25288435,"Em resolução","2407","Despiste",0,5,0,11,"2025-04-26T02:27:00","Viseu","Viseu","Centro",-7.95131,40.648753
+25288352,"Peniche","Oeste",311,"2025-04-26T01:08:00",25288352,"Em resolução","2407","Despiste",0,1,0,2,"2025-04-26T01:08:00","Peniche","Leiria","Centro",-9.376833,39.357166
+25288435,"Orgens","Viseu Dão Lafões",310,"2025-04-26T02:27:00",25288435,"Em conclusão","2407","Despiste",0,5,0,11,"2025-04-26T02:27:00","Viseu","Viseu","Centro",-7.95131,40.648753
