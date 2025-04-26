@@ -1,21 +1,15 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25291832,"Ourique","Baixo Alentejo",312,"2025-04-26T19:51:00",25291832,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-26T19:51:00","Ourique","Beja","Alentejo",-8.19162,37.624465
 25291932,"Cachopo","Algarve",313,"2025-04-26T20:14:00",25291932,"Em conclusão","3103","Incêndio rural",0,7,0,19,"2025-04-26T20:14:00","Tavira","Faro","Algarve",-7.819015,37.340338
-25292023,"Águas Santas","Area M. Porto",309,"2025-04-26T20:08:00",25292023,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-04-26T20:08:00","Maia","Porto","Norte",-8.574268,41.21017
-25292066,"Riba de Mouro","Alto Minho",309,"2025-04-26T20:58:00",25292066,"Em conclusão","3103","Incêndio rural",0,1,0,2,"2025-04-26T20:58:00","Monção","Viana Do Castelo","Norte",-8.29421,41.99875
-25292200,"Rio Tinto","Area M. Porto",309,"2025-04-26T21:37:00",25292200,"Em resolução","3201","Detritos não confinados",0,1,0,5,"2025-04-26T21:37:00","Gondomar","Porto","Norte",-8.574127,41.186562
-25291738,"Fajões","Area M. Porto",309,"2025-04-26T19:16:00",25291738,"Em resolução","2407","Despiste",0,2,0,4,"2025-04-26T19:16:00","Oliveira De Azeméis","Aveiro","Norte",-8.411467,40.917022
-25292033,"Soajo","Alto Minho",309,"2025-04-26T20:48:00",25292033,"Em despacho","3111","Queima",0,0,0,0,"2025-04-26T20:48:00","Arcos De Valdevez","Viana Do Castelo","Norte",-8.27042,41.88745
-25292242,"Foz do Sousa e Covelo","Area M. Porto",309,"2025-04-26T21:53:00",25292242,"Em resolução","2101","Incêndio em edifícios habitacionais",0,5,0,14,"2025-04-26T21:53:00","Gondomar","Porto","Norte",-8.486495,41.113157
-25292274,"Calvaria de Cima","Região de Leiria",310,"2025-04-26T22:03:00",25292274,"Em curso","2403","Colisão rodoviária",0,8,0,19,"2025-04-26T22:03:00","Porto De Mós","Leiria","Centro",-8.847124,39.631831
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25292002,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória","Area M. Porto",309,"2025-04-26T20:39:00",25292002,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-04-26T20:39:00","Porto","Porto","Norte",-8.61164,41.14652
-25292167,"Sapiãos","Alto Tâmega e Barroso",309,"2025-04-26T21:27:00",25292167,"Em conclusão","3103","Incêndio rural",0,1,0,4,"2025-04-26T21:27:00","Boticas","Vila Real","Norte",-7.607563,41.714995
-25292201,"Armação de Pêra","Algarve",313,"2025-04-26T21:38:00",25292201,"Em resolução","3325","Dano na rede de abastecimento de gás",0,3,0,8,"2025-04-26T21:38:00","Silves","Faro","Algarve",-8.36913,37.10425
-25292271,"Moreira do Rei e Várzea Cova","Ave",309,"2025-04-26T22:03:00",25292271,"Em resolução","3103","Incêndio rural",0,1,0,4,"2025-04-26T22:03:00","Fafe","Braga","Norte",-8.13123,41.46326
-25292302,"Salvaterra de Magos e Foros de Salvaterra","Lezíria do Tejo",311,"2025-04-26T22:08:00",25292302,"Em conclusão","3201","Detritos não confinados",0,5,0,14,"2025-04-26T22:08:00","Salvaterra De Magos","Santarém","Alentejo",-8.759133,39.005523
+25292439,"Aradas","Região de Aveiro",310,"2025-04-26T22:52:00",25292439,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-04-26T22:52:00","Aveiro","Aveiro","Centro",-8.6472,40.619932
 25291692,"Arcozelo","Alto Minho",309,"2025-04-26T18:30:00",25291692,"Em conclusão","3301","Queda de árvore",0,1,0,2,"2025-04-26T18:30:00","Ponte De Lima","Viana Do Castelo","Norte",-8.597727,41.791041
 25291962,"Rocas do Vouga","Região de Aveiro",310,"2025-04-26T20:28:00",25291962,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,8,0,21,"2025-04-26T20:28:00","Sever Do Vouga","Aveiro","Centro",-8.343892,40.749659
 25292061,"Lorvão","Região de Coimbra",310,"2025-04-26T20:54:00",25292061,"Em despacho","2407","Despiste",0,1,0,2,"2025-04-26T20:54:00","Penacova","Coimbra","Centro",-8.288272,40.255355
 25292229,"Rio Caldo","Cávado",309,"2025-04-26T21:49:00",25292229,"Em despacho","3103","Incêndio rural",0,1,0,4,"2025-04-26T21:49:00","Terras De Bouro","Braga","Norte",-8.20285,41.68859
-25292309,"Benavente","Lezíria do Tejo",311,"2025-04-26T22:13:00",25292309,"Em resolução","2407","Despiste",0,3,0,8,"2025-04-26T22:13:00","Benavente","Santarém","Alentejo",-8.795515,38.956428
+25292411,"Boliqueime","Algarve",313,"2025-04-26T22:49:00",25292411,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,5,0,15,"2025-04-26T22:49:00","Loulé","Faro","Algarve",-8.15774,37.13043
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25292201,"Armação de Pêra","Algarve",313,"2025-04-26T21:38:00",25292201,"Em conclusão","3325","Dano na rede de abastecimento de gás",0,4,0,10,"2025-04-26T21:38:00","Silves","Faro","Algarve",-8.36913,37.10425
+25292271,"Moreira do Rei e Várzea Cova","Ave",309,"2025-04-26T22:03:00",25292271,"Em conclusão","3103","Incêndio rural",0,1,0,4,"2025-04-26T22:03:00","Fafe","Braga","Norte",-8.13123,41.46326
+25292242,"Foz do Sousa e Covelo","Area M. Porto",309,"2025-04-26T21:53:00",25292242,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,4,0,10,"2025-04-26T21:53:00","Gondomar","Porto","Norte",-8.486495,41.113157
+25292274,"Calvaria de Cima","Região de Leiria",310,"2025-04-26T22:03:00",25292274,"Em curso","2403","Colisão rodoviária",0,8,0,19,"2025-04-26T22:03:00","Porto De Mós","Leiria","Centro",-8.847124,39.631831
+25292442,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias","Grande Lisboa",311,"2025-04-26T22:56:00",25292442,"Em despacho","2401","Atropelamento rodoviário",0,2,0,7,"2025-04-26T22:56:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.275682,38.698873
