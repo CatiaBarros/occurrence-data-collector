@@ -1,9 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25287732,"Lagoaça e Fornos","Douro",309,"2025-04-25T20:40:00",25287732,"Em resolução","2407","Despiste",0,1,0,3,"2025-04-25T20:40:00","Freixo De Espada à Cinta","Bragança","Norte",-6.760759,41.210829
-25288666,"Queluz e Belas","Grande Lisboa",311,"2025-04-26T06:29:00",25288666,"Em despacho","3325","Dano na rede de abastecimento de gás",0,0,0,0,"2025-04-26T06:29:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.26046,38.78252
-25288506,"Pinhal Novo","Península de Setúbal",311,"2025-04-26T03:41:00",25288506,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-04-26T03:41:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.862007,38.610402
-25288663,"Sortes","Terras de Trás-os-Montes",309,"2025-04-26T06:27:00",25288663,"Em despacho","2407","Despiste",0,0,0,0,"2025-04-26T06:27:00","Bragança","Bragança","Norte",-6.84371,41.70035
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25288641,"Malveira e São Miguel de Alcainça","Grande Lisboa",311,"2025-04-26T05:53:00",25288641,"Em conclusão","2407","Despiste",0,4,0,11,"2025-04-26T05:53:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.2541,38.93451
+25287732,"Lagoaça e Fornos","Douro",309,"2025-04-25T20:40:00",25287732,"Em resolução","2407","Despiste",0,1,0,3,"2025-04-25T20:40:00","Freixo De Espada à Cinta","Bragança","Norte",-6.760759,41.210829
+25288666,"Queluz e Belas","Grande Lisboa",311,"2025-04-26T06:29:00",25288666,"Em curso","3325","Dano na rede de abastecimento de gás",0,2,0,7,"2025-04-26T06:29:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.26046,38.78252
+25288663,"Sortes","Terras de Trás-os-Montes",309,"2025-04-26T06:27:00",25288663,"Em despacho","2407","Despiste",0,3,0,9,"2025-04-26T06:27:00","Bragança","Bragança","Norte",-6.84371,41.70035
 25288614,"Santa Eufémia e Boa Vista","Região de Leiria",310,"2025-04-26T05:29:00",25288614,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-04-26T05:29:00","Leiria","Leiria","Centro",-8.741307,39.784643
-25288632,"Silves","Algarve",313,"2025-04-26T05:41:00",25288632,"Em conclusão","2407","Despiste",0,2,0,6,"2025-04-26T05:41:00","Silves","Faro","Algarve",-8.385254,37.162701
+25288632,"Silves","Algarve",313,"2025-04-26T05:41:00",25288632,"Em conclusão","2407","Despiste",0,3,0,8,"2025-04-26T05:41:00","Silves","Faro","Algarve",-8.385254,37.162701
