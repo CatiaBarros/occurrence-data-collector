@@ -1,4 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25288614,"Santa Eufémia e Boa Vista","Região de Leiria",310,"2025-04-26T05:29:00",25288614,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-04-26T05:29:00","Leiria","Leiria","Centro",-8.739274,39.78617
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25287732,"Lagoaça e Fornos","Douro",309,"2025-04-25T20:40:00",25287732,"Em resolução","2407","Despiste",0,1,0,3,"2025-04-25T20:40:00","Freixo De Espada à Cinta","Bragança","Norte",-6.760759,41.210829
-25288506,"Pinhal Novo","Península de Setúbal",311,"2025-04-26T03:41:00",25288506,"Em curso","3103","Incêndio rural",0,3,0,8,"2025-04-26T03:41:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.862007,38.610402
+25288506,"Pinhal Novo","Península de Setúbal",311,"2025-04-26T03:41:00",25288506,"Em conclusão","3103","Incêndio rural",0,3,0,8,"2025-04-26T03:41:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.862007,38.610402
