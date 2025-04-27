@@ -1,6 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25292913,"Monsaraz","Alentejo Central",312,"2025-04-27T03:23:00",25292913,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-27T03:23:00","Reguengos De Monsaraz","Évora","Alentejo",-7.394642,38.448575
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25292932,"Algoz e Tunes","Algarve",313,"2025-04-27T03:58:00",25292932,"Em conclusão","3201","Detritos não confinados",0,3,0,8,"2025-04-27T03:58:00","Silves","Faro","Algarve",-8.29421,37.15983
-25292913,"Monsaraz","Alentejo Central",312,"2025-04-27T03:23:00",25292913,"Em conclusão","2407","Despiste",0,4,0,9,"2025-04-27T03:23:00","Reguengos De Monsaraz","Évora","Alentejo",-7.394642,38.448575
 25292933,"Praia de Mira","Região de Coimbra",310,"2025-04-27T03:58:00",25292933,"Em resolução","2407","Despiste",0,1,0,2,"2025-04-27T03:58:00","Mira","Coimbra","Centro",-8.796927,40.45573
-25292965,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória","Area M. Porto",309,"2025-04-27T04:25:00",25292965,"Em despacho","2401","Atropelamento rodoviário",0,1,0,3,"2025-04-27T04:25:00","Porto","Porto","Norte",-8.615939,41.15359
+25292932,"Algoz e Tunes","Algarve",313,"2025-04-27T03:58:00",25292932,"Em conclusão","3201","Detritos não confinados",0,2,0,3,"2025-04-27T03:58:00","Silves","Faro","Algarve",-8.29421,37.15983
