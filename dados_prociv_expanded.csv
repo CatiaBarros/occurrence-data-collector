@@ -1,16 +1,12 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25295748,"Monchique","Algarve",313,"2025-04-27T18:25:00",25295748,"Em curso","4327","Busca e resgate terrestre de pessoas",0,4,0,9,"2025-04-27T18:25:00","Monchique","Faro","Algarve",-8.600633,37.292855
-25296470,"Quinta do Conde","Península de Setúbal",311,"2025-04-27T22:27:00",25296470,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,8,"2025-04-27T22:27:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.04521,38.57428
-25296486,"Sortelha","Beiras e Serra da Estrela",310,"2025-04-27T22:32:00",25296486,"Em conclusão","3103","Incêndio rural",0,1,0,4,"2025-04-27T22:32:00","Sabugal","Guarda","Centro",-7.21813,40.328603
-25296354,"Montijo e Afonsoeiro","Península de Setúbal",311,"2025-04-27T21:40:00",25296354,"Em resolução","2403","Colisão rodoviária",0,4,0,7,"2025-04-27T21:40:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.975715,38.702323
 25296437,"Murtosa","Região de Aveiro",310,"2025-04-27T22:16:00",25296437,"Em conclusão","2407","Despiste",0,3,0,5,"2025-04-27T22:16:00","Murtosa","Aveiro","Centro",-8.640278,40.73537
 25296621,"Vila de Cucujães","Area M. Porto",309,"2025-04-27T23:26:00",25296621,"Em resolução","2407","Despiste",0,1,0,2,"2025-04-27T23:26:00","Oliveira De Azeméis","Aveiro","Norte",-8.507006,40.873108
 25296601,"Carnaxide e Queijas","Grande Lisboa",311,"2025-04-27T23:19:00",25296601,"Em conclusão","2403","Colisão rodoviária",0,3,0,9,"2025-04-27T23:19:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.233587,38.727201
 25296603,"Aldeia Galega da Merceana e Aldeia Gavinha","Oeste",311,"2025-04-27T23:17:00",25296603,"Em conclusão","2407","Despiste",0,2,0,4,"2025-04-27T23:17:00","Alenquer","Lisboa","Centro",-9.098841,39.085029
 25296610,"Palmeira","Cávado",309,"2025-04-27T23:23:00",25296610,"Em conclusão","3103","Incêndio rural",0,1,0,4,"2025-04-27T23:23:00","Braga","Braga","Norte",-8.450002,41.591772
-25296719,"Braga (São Vítor)","Cávado",309,"2025-04-28T00:20:00",25296719,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,6,"2025-04-28T00:20:00","Braga","Braga","Norte",-8.406451,41.557726
+25296719,"Braga (São Vítor)","Cávado",309,"2025-04-28T00:20:00",25296719,"Em curso","2201","Incêndio em equipamentos ou produtos",0,1,0,6,"2025-04-28T00:20:00","Braga","Braga","Norte",-8.406451,41.557726
+25295748,"Monchique","Algarve",313,"2025-04-27T18:25:00",25295748,"Em curso","4327","Busca e resgate terrestre de pessoas",0,4,0,9,"2025-04-27T18:25:00","Monchique","Faro","Algarve",-8.600633,37.292855
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25296212,"Pias","Baixo Alentejo",312,"2025-04-27T21:10:00",25296212,"Em curso","3201","Detritos não confinados",0,0,0,0,"2025-04-27T21:10:00","Serpa","Beja","Alentejo",-7.479155,38.022195
 25296364,"Belmonte e Colmeal da Torre","Beiras e Serra da Estrela",310,"2025-04-27T21:49:00",25296364,"Em resolução","2403","Colisão rodoviária",1,4,0,12,"2025-04-27T21:49:00","Belmonte","Castelo Branco","Centro",-7.336464,40.331975
 25296396,"Cunheira","Alto Alentejo",312,"2025-04-27T21:59:00",25296396,"Em conclusão","2407","Despiste",0,1,0,2,"2025-04-27T21:59:00","Alter Do Chão","Portalegre","Alentejo",-7.809073,39.319505
 25296563,"Valongo","Area M. Porto",309,"2025-04-27T23:04:00",25296563,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,2,0,4,"2025-04-27T23:04:00","Valongo","Porto","Norte",-8.478991,41.17102
