@@ -1,13 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25298391,Tavarede,Região de Coimbra,310,2025-04-28T11:15:00Z,25298391,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-28T11:15:00Z,Figueira Da Foz,Coimbra,Centro,-8.853871,40.165854
-25298859,Ílhavo (São Salvador),Região de Aveiro,310,2025-04-28T12:44:00Z,25298859,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-04-28T12:44:00Z,Ílhavo,Aveiro,Centro,-8.699143,40.613385
-25299151,Apúlia e Fão,Cávado,309,2025-04-28T13:40:00Z,25299151,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T13:40:00Z,Esposende,Braga,Norte,-8.76808,41.49454
-25299494,Manhente,Cávado,309,2025-04-28T14:15:00Z,25299494,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T14:15:00Z,Barcelos,Braga,Norte,-8.572773,41.546535
-25299528,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-04-28T14:12:00Z,25299528,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-04-28T14:12:00Z,Trofa,Porto,Norte,-8.58713,41.340548
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25299253,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-04-28T13:20:00Z,25299253,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T13:20:00Z,Évora,Évora,Alentejo,-7.917338,38.579056
 25299307,"Vila Chã, Codal e Vila Cova de Perrinho",Area M. Porto,309,2025-04-28T14:00:00Z,25299307,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T14:00:00Z,Vale De Cambra,Aveiro,Norte,-8.401157,40.855797
+25299622,Boliqueime,Algarve,313,2025-04-28T14:52:00Z,25299622,Em despacho,3301,Queda de árvore,0,1,0,1,2025-04-28T14:52:00Z,Loulé,Faro,Algarve,-8.121813,37.120621
+25299151,Apúlia e Fão,Cávado,309,2025-04-28T13:40:00Z,25299151,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T13:40:00Z,Esposende,Braga,Norte,-8.76808,41.49454
+25299494,Manhente,Cávado,309,2025-04-28T14:15:00Z,25299494,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T14:15:00Z,Barcelos,Braga,Norte,-8.572773,41.546535
+25299528,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-04-28T14:12:00Z,25299528,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-04-28T14:12:00Z,Trofa,Porto,Norte,-8.58713,41.340548
+25298391,Tavarede,Região de Coimbra,310,2025-04-28T11:15:00Z,25298391,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-28T11:15:00Z,Figueira Da Foz,Coimbra,Centro,-8.853871,40.165854
+25298859,Ílhavo (São Salvador),Região de Aveiro,310,2025-04-28T12:44:00Z,25298859,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-04-28T12:44:00Z,Ílhavo,Aveiro,Centro,-8.699143,40.613385
 25299537,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-04-28T14:43:00Z,25299537,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-28T14:43:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
 25299336,Rio de Loba,Viseu Dão Lafões,310,2025-04-28T14:07:00Z,25299336,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T14:07:00Z,Viseu,Viseu,Centro,-7.877682,40.665827
 25299352,Caldas da Rainha - Santo Onofre e Serra do Bouro,Oeste,311,2025-04-28T14:12:00Z,25299352,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T14:12:00Z,Caldas Da Rainha,Leiria,Centro,-9.148929,39.401713
 25299470,Alcochete,Península de Setúbal,311,2025-04-28T14:14:00Z,25299470,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-04-28T14:14:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.962464,38.749259
+25299661,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-04-28T15:00:00Z,25299661,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-28T15:00:00Z,Ovar,Aveiro,Centro,-8.632482,40.864029
