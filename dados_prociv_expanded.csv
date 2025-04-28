@@ -1,8 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25296364,"Belmonte e Colmeal da Torre","Beiras e Serra da Estrela",310,"2025-04-27T21:49:00",25296364,"Em resolução","2403","Colisão rodoviária",1,5,0,15,"2025-04-27T21:49:00","Belmonte","Castelo Branco","Centro",-7.336464,40.331975
-25296563,"Valongo","Area M. Porto",309,"2025-04-27T23:04:00",25296563,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,2,0,4,"2025-04-27T23:04:00","Valongo","Porto","Norte",-8.478991,41.17102
-25296646,"Loures","Grande Lisboa",311,"2025-04-27T23:41:00",25296646,"Em conclusão","2407","Despiste",0,4,0,12,"2025-04-27T23:41:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.178627,38.81978
-25296800,"Seixal, Arrentela e Aldeia de Paio Pires","Península de Setúbal",311,"2025-04-28T01:27:00",25296800,"Em despacho","2515","Fuga de gás em garrafa",0,1,0,3,"2025-04-28T01:27:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.09386,38.64212
+25296364,"Belmonte e Colmeal da Torre","Beiras e Serra da Estrela",310,"2025-04-27T21:49:00",25296364,"Em resolução","2403","Colisão rodoviária",0,4,0,9,"2025-04-27T21:49:00","Belmonte","Castelo Branco","Centro",-7.336464,40.331975
+25296830,"Eiras e São Paulo de Frades","Região de Coimbra",310,"2025-04-28T01:46:00",25296830,"Em resolução","3203","Detritos confinados",0,3,0,12,"2025-04-28T01:46:00","Coimbra","Coimbra","Centro",-8.394907,40.24523
+25296844,"Abraveses","Viseu Dão Lafões",310,"2025-04-28T01:49:00",25296844,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-04-28T01:49:00","Viseu","Viseu","Centro",-7.916388,40.686465
 25295748,"Monchique","Algarve",313,"2025-04-27T18:25:00",25295748,"Em curso","4327","Busca e resgate terrestre de pessoas",0,4,0,9,"2025-04-27T18:25:00","Monchique","Faro","Algarve",-8.600633,37.292855
-25296802,"Vilar de Andorinho","Area M. Porto",309,"2025-04-28T01:30:00",25296802,"Em despacho","3103","Incêndio rural",0,2,0,9,"2025-04-28T01:30:00","Vila Nova De Gaia","Porto","Norte",-8.58832,41.09917
+25296802,"Vilar de Andorinho","Area M. Porto",309,"2025-04-28T01:30:00",25296802,"Em curso","3103","Incêndio rural",0,3,0,11,"2025-04-28T01:30:00","Vila Nova De Gaia","Porto","Norte",-8.58832,41.09917
