@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25303336,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-04-29T09:39:00Z,25303336,Em curso,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-04-29T09:39:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.837495,41.687722
 25304510,Mértola,Baixo Alentejo,312,2025-04-29T12:50:00Z,25304510,Em curso,3301,Queda de árvore,0,1,0,2,2025-04-29T12:50:00Z,Mértola,Beja,Alentejo,-7.669644,37.645009
 25304877,Aljezur,Algarve,313,2025-04-29T13:59:00Z,25304877,Em despacho,3301,Queda de árvore,0,1,0,5,2025-04-29T13:59:00Z,Aljezur,Faro,Algarve,-8.8494,37.313973
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
