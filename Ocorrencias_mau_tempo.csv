@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25305803,Campo,Viseu Dão Lafões,310,2025-04-29T16:48:00Z,25305803,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-29T16:48:00Z,Viseu,Viseu,Centro,-7.917758,40.707331
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25305683,Torre e Vila Mou,Alto Minho,309,2025-04-29T16:27:00Z,25305683,Em despacho,3301,Queda de árvore,0,2,0,3,2025-04-29T16:27:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.709167,41.724333
 25305743,"Seia, São Romão e Lapa Dos Dinheiros",Beiras e Serra da Estrela,310,2025-04-29T16:40:00Z,25305743,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-29T16:40:00Z,Seia,Guarda,Centro,-7.708028,40.37716
+25305803,Campo,Viseu Dão Lafões,310,2025-04-29T16:48:00Z,25305803,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-29T16:48:00Z,Viseu,Viseu,Centro,-7.917758,40.707331
+25305921,"Vila Garcia, Aboim e Chapa",Tâmega e Sousa,309,2025-04-29T17:00:00Z,25305921,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-29T17:00:00Z,Amarante,Porto,Norte,-8.084172,41.313525
+25305683,Torre e Vila Mou,Alto Minho,309,2025-04-29T16:27:00Z,25305683,Em despacho,3301,Queda de árvore,0,2,0,3,2025-04-29T16:27:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.709167,41.724333
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25305288,Lajeosa do Dão,Viseu Dão Lafões,310,2025-04-29T15:14:00Z,25305288,Em resolução,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-29T15:14:00Z,Tondela,Viseu,Centro,-7.9913,40.53726
