@@ -3,4 +3,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25305972,Quinta do Anjo,Península de Setúbal,311,2025-04-29T17:13:00Z,25305972,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-29T17:13:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.938536,38.564763
 25306198,São Bartolomeu de Messines,Algarve,313,2025-04-29T18:12:00Z,25306198,Em curso,3301,Queda de árvore,0,1,0,5,2025-04-29T18:12:00Z,Silves,Faro,Algarve,-8.322313,37.205168
-25306251,Olho Marinho,Oeste,311,2025-04-29T18:28:00Z,25306251,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-29T18:28:00Z,Óbidos,Leiria,Centro,-9.236985,39.317147
+25306251,Olho Marinho,Oeste,311,2025-04-29T18:28:00Z,25306251,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-04-29T18:28:00Z,Óbidos,Leiria,Centro,-9.236985,39.317147
