@@ -1,7 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25303336,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-04-29T09:39:00Z,25303336,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-04-29T09:39:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
 25301542,Samora Correia,Lezíria do Tejo,311,2025-04-28T21:53:00Z,25301542,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-04-28T21:53:00Z,Benavente,Santarém,Alentejo,-8.868908,38.935447
-25303562,Carcavelos e Parede,Grande Lisboa,311,2025-04-29T10:10:00Z,25303562,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-29T10:10:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.355169,38.690219
+25303336,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-04-29T09:39:00Z,25303336,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-04-29T09:39:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25300315,Bonfim,Area M. Porto,309,2025-04-28T16:56:00Z,25300315,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-28T16:56:00Z,Porto,Porto,Norte,-8.59788,41.14874
 25302839,Lousã e Vilarinho,Região de Coimbra,310,2025-04-29T08:04:00Z,25302839,Em despacho,3301,Queda de árvore,0,1,0,2,2025-04-29T08:04:00Z,Lousã,Coimbra,Centro,-8.182391,40.130269
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25303888,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-04-29T11:00:00Z,25303888,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-04-29T11:00:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.250524,38.707224
+25303861,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-04-29T11:10:00Z,25303861,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-04-29T11:10:00Z,Cartaxo,Santarém,Alentejo,-8.794948,39.166481
