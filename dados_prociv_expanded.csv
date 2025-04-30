@@ -1,14 +1,12 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25300060,"Viseu","Viseu Dão Lafões",310,"2025-04-28T16:12:00",25300060,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T16:12:00","Viseu","Viseu","Centro",-7.908374,40.661514
-25300096,"Sé e São Lourenço","Alto Alentejo",312,"2025-04-28T14:55:00",25300096,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T14:55:00","Portalegre","Portalegre","Alentejo",-7.425983,39.295933
-25307532,"Guarda","Beiras e Serra da Estrela",310,"2025-04-30T00:56:00",25307532,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2025-04-30T00:56:00","Guarda","Guarda","Centro",-7.260869,40.536751
-25307834,"Favaios","Douro",309,"2025-04-30T06:31:00",25307834,"Em despacho","3103","Incêndio rural",0,1,0,5,"2025-04-30T06:31:00","Alijó","Vila Real","Norte",-7.498253,41.267672
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25299039,"Faro (Sé e São Pedro)","Algarve",313,"2025-04-28T11:44:00",25299039,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T11:44:00","Faro","Faro","Algarve",-7.942032,37.01865
+25307426,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu","Região de Coimbra",310,"2025-04-30T00:13:00",25307426,"Em conclusão","2515","Fuga de gás em garrafa",0,1,0,6,"2025-04-30T00:13:00","Coimbra","Coimbra","Centro",-8.425582,40.205556
+25307844,"Braga (São Vítor)","Cávado",309,"2025-04-30T06:34:00",25307844,"Em despacho","2403","Colisão rodoviária",0,2,0,5,"2025-04-30T06:34:00","Braga","Braga","Norte",-8.40979,41.554181
 25298444,"Carnaxide e Queijas","Grande Lisboa",311,"2025-04-28T11:44:00",25298444,"Em curso","9999","Situação crítica",0,1,0,2,"2025-04-28T11:44:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.243421,38.725234
 25299127,"Viseu","Viseu Dão Lafões",310,"2025-04-28T11:44:00",25299127,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T11:44:00","Viseu","Viseu","Centro",-7.908374,40.661514
 25300204,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2025-04-28T16:32:00",25300204,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T16:32:00","Leiria","Leiria","Centro",-8.802832,39.749179
 25307781,"Marinha Grande","Região de Leiria",310,"2025-04-30T05:31:00",25307781,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-04-30T05:31:00","Marinha Grande","Leiria","Centro",-8.921812,39.746629
 25307817,"São Pedro","Região de Coimbra",310,"2025-04-30T06:14:00",25307817,"Em resolução","2129","Incêndio em edifícios degradados ou devolutos",0,3,0,10,"2025-04-30T06:14:00","Figueira Da Foz","Coimbra","Centro",-8.859365,40.130697
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25299039,"Faro (Sé e São Pedro)","Algarve",313,"2025-04-28T11:44:00",25299039,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T11:44:00","Faro","Faro","Algarve",-7.942032,37.01865
-25307426,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu","Região de Coimbra",310,"2025-04-30T00:13:00",25307426,"Em conclusão","2515","Fuga de gás em garrafa",0,1,0,6,"2025-04-30T00:13:00","Coimbra","Coimbra","Centro",-8.425582,40.205556
-25307844,"Braga (São Vítor)","Cávado",309,"2025-04-30T06:34:00",25307844,"Em despacho","2403","Colisão rodoviária",0,2,0,5,"2025-04-30T06:34:00","Braga","Braga","Norte",-8.40979,41.554181
+25307858,"Sandim, Olival, Lever e Crestuma","Area M. Porto",309,"2025-04-30T06:40:00",25307858,"Em curso","3103","Incêndio rural",0,1,0,2,"2025-04-30T06:40:00","Vila Nova De Gaia","Porto","Norte",-8.502382,41.048753
