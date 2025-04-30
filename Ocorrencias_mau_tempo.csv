@@ -1,6 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25311703,Aljezur,Algarve,313,2025-04-30T20:38:00Z,25311703,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-04-30T20:38:00Z,Aljezur,Faro,Algarve,-8.78058,37.34342
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25310370,Toulões,Beira Baixa,310,2025-04-30T15:36:00Z,25310370,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-04-30T15:36:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.03683,39.92608
 25311371,São João Baptista e Santa Maria Dos Olivais,Médio Tejo,311,2025-04-30T19:19:00Z,25311371,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-30T19:19:00Z,Tomar,Santarém,Centro,-8.414943,39.60706
-25311649,"Cernache do Bonjardim, Nesperal e Palhais",Beira Baixa,310,2025-04-30T20:21:00Z,25311649,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,4,2025-04-30T20:21:00Z,Sertã,Castelo Branco,Centro,-8.203185,39.817744
-25311538,Castêlo da Maia,Area M. Porto,309,2025-04-30T19:50:00Z,25311538,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-30T19:50:00Z,Maia,Porto,Norte,-8.611663,41.264814
