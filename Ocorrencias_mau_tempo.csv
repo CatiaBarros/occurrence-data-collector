@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25310443,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-04-30T15:49:00Z,25310443,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,0,0,0,2025-04-30T15:49:00Z,Évora,Évora,Alentejo,-7.90941,38.560377
-25310813,Chaviães e Paços,Alto Minho,309,2025-04-30T17:08:00Z,25310813,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-30T17:08:00Z,Melgaço,Viana Do Castelo,Norte,-8.222654,42.13281
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25310370,Toulões,Beira Baixa,310,2025-04-30T15:36:00Z,25310370,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-04-30T15:36:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.03683,39.92608
+25310813,Chaviães e Paços,Alto Minho,309,2025-04-30T17:08:00Z,25310813,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-04-30T17:08:00Z,Melgaço,Viana Do Castelo,Norte,-8.229157,42.13141
