@@ -2,4 +2,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25310370,Toulões,Beira Baixa,310,2025-04-30T15:36:00Z,25310370,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-04-30T15:36:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.03683,39.92608
 25311019,Âncora,Alto Minho,309,2025-04-30T17:50:00Z,25311019,Em curso,3301,Queda de árvore,0,1,0,2,2025-04-30T17:50:00Z,Caminha,Viana Do Castelo,Norte,-8.863853,41.797252
-25311253,Borba (São Bartolomeu),Alentejo Central,312,2025-04-30T18:53:00Z,25311253,Em resolução,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-30T18:53:00Z,Borba,Évora,Alentejo,-7.457,38.80547
+25311253,"N.s. Conceição, S. Brás Matos, Juromenha",Alentejo Central,312,2025-04-30T18:53:00Z,25311253,Em resolução,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-30T18:53:00Z,Borba,Évora,Alentejo,-7.457093,38.805502
+25311371,São João Baptista e Santa Maria Dos Olivais,Médio Tejo,311,2025-04-30T19:19:00Z,25311371,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-30T19:19:00Z,Tomar,Santarém,Centro,-8.414943,39.60706
