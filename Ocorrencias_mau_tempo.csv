@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25308438,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-04-30T09:22:00Z,25308438,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-30T09:22:00Z,Póvoa De Lanhoso,Braga,Norte,-8.26784,41.577971
-25308888,Tavarede,Região de Coimbra,310,2025-04-30T10:30:00Z,25308888,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-30T10:30:00Z,Figueira Da Foz,Coimbra,Centro,-8.853871,40.165854
-25308938,"Brogueira, Parceiros de Igreja e Alcorochel",Médio Tejo,311,2025-04-30T10:47:00Z,25308938,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-04-30T10:47:00Z,Torres Novas,Santarém,Centro,-8.610613,39.453811
-25308956,"Póvoa de Varzim, Beiriz e Argivai",Area M. Porto,309,2025-04-30T10:48:00Z,25308956,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-30T10:48:00Z,Póvoa De Varzim,Porto,Norte,-8.716677,41.398488
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25308514,Torreira,Região de Aveiro,310,2025-04-30T09:34:00Z,25308514,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-30T09:34:00Z,Murtosa,Aveiro,Centro,-8.699212,40.761066
+25309100,Monchique,Algarve,313,2025-04-30T10:57:00Z,25309100,Em despacho,3301,Queda de árvore,0,1,0,3,2025-04-30T10:57:00Z,Monchique,Faro,Algarve,-8.589695,37.272914
+25309114,Góis,Região de Coimbra,310,2025-04-30T11:13:00Z,25309114,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-30T11:13:00Z,Góis,Coimbra,Centro,-8.108467,40.156394
+25308438,Póvoa de Lanhoso (Nossa Senhora do Amparo),Ave,309,2025-04-30T09:22:00Z,25308438,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-30T09:22:00Z,Póvoa De Lanhoso,Braga,Norte,-8.26784,41.577971
+25308956,"Póvoa de Varzim, Beiriz e Argivai",Area M. Porto,309,2025-04-30T10:48:00Z,25308956,Em despacho,3301,Queda de árvore,0,1,0,4,2025-04-30T10:48:00Z,Póvoa De Varzim,Porto,Norte,-8.716677,41.398488
 25308127,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-04-30T08:22:00Z,25308127,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-04-30T08:22:00Z,Covilhã,Castelo Branco,Centro,-7.519359,40.276354
 25308879,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-04-30T10:39:00Z,25308879,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-04-30T10:39:00Z,Coruche,Santarém,Alentejo,-8.531156,38.965014
