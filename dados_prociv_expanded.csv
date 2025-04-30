@@ -1,7 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25312110,"Ferreiras","Algarve",313,"2025-04-30T22:49:00",25312110,"Em despacho","3201","Detritos não confinados",0,2,0,6,"2025-04-30T22:49:00","Albufeira","Faro","Algarve",-8.259112,37.134069
 25299127,"Viseu","Viseu Dão Lafões",310,"2025-04-28T11:44:00",25299127,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T11:44:00","Viseu","Viseu","Centro",-7.908374,40.661514
 25300204,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2025-04-28T16:32:00",25300204,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T16:32:00","Leiria","Leiria","Centro",-8.802832,39.749179
+25312297,"Lagos (São Sebastião e Santa Maria)","Algarve",313,"2025-05-01T00:12:00",25312297,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-05-01T00:12:00","Lagos","Faro","Algarve",-8.668524,37.100485
+25312305,"São Bartolomeu de Messines","Algarve",313,"2025-05-01T00:15:00",25312305,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,1,0,2,"2025-05-01T00:15:00","Silves","Faro","Algarve",-8.287502,37.25838
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25310370,"Toulões","Beira Baixa",310,"2025-04-30T15:36:00",25310370,"Em despacho","3315","Inundação de estruturas por precipitação intensa",0,2,0,3,"2025-04-30T15:36:00","Idanha-a-Nova","Castelo Branco","Centro",-7.03683,39.92608
 25298444,"Carnaxide e Queijas","Grande Lisboa",311,"2025-04-28T11:44:00",25298444,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T11:44:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.243421,38.725234
