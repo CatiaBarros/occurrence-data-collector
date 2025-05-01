@@ -1,14 +1,13 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25316052,"Guarda","Beiras e Serra da Estrela",310,"2025-05-01T22:15:00",25316052,"Em conclusão","2407","Despiste",0,2,0,5,"2025-05-01T22:15:00","Guarda","Guarda","Centro",-7.260869,40.536751
-25316302,"Rio Tinto","Area M. Porto",309,"2025-05-02T00:10:00",25316302,"Em despacho","2407","Despiste",0,2,0,4,"2025-05-02T00:10:00","Gondomar","Porto","Norte",-8.560102,41.179302
-25316179,"Fornelos e Queijada","Alto Minho",309,"2025-05-01T23:09:00",25316179,"Em despacho","2407","Despiste",0,2,0,4,"2025-05-01T23:09:00","Ponte De Lima","Viana Do Castelo","Norte",-8.540544,41.732269
-25316247,"Arrabal","Região de Leiria",310,"2025-05-01T23:45:00",25316247,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-05-01T23:45:00","Leiria","Leiria","Centro",-8.727729,39.699153
 25316005,"Azambuja","Lezíria do Tejo",311,"2025-05-01T22:07:00",25316005,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-01T22:07:00","Azambuja","Lisboa","Alentejo",-8.92097,39.045345
 25316191,"Penela da Beira","Douro",309,"2025-05-01T23:12:00",25316191,"Em resolução","2407","Despiste",0,2,0,4,"2025-05-01T23:12:00","Penedono","Viseu","Norte",-7.42627,41.04062
 25316298,"Telões","Alto Tâmega e Barroso",309,"2025-05-01T23:56:00",25316298,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2025-05-01T23:56:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.66761,41.450359
+25316179,"Rebordões (Souto)","Alto Minho",309,"2025-05-01T23:09:00",25316179,"Em resolução","2407","Despiste",0,4,0,7,"2025-05-01T23:09:00","Ponte De Lima","Viana Do Castelo","Norte",-8.558508,41.726192
+25316247,"Arrabal","Região de Leiria",310,"2025-05-01T23:45:00",25316247,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-05-01T23:45:00","Leiria","Leiria","Centro",-8.727729,39.699153
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25316052,"Guarda","Beiras e Serra da Estrela",310,"2025-05-01T22:15:00",25316052,"Em conclusão","2407","Despiste",0,2,0,5,"2025-05-01T22:15:00","Guarda","Guarda","Centro",-7.260869,40.536751
 25298444,"Carnaxide e Queijas","Grande Lisboa",311,"2025-04-28T11:44:00",25298444,"Em curso","9999","Situação crítica",0,0,0,0,"2025-04-28T11:44:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.243421,38.725234
 25316092,"Olaia e Paço","Médio Tejo",311,"2025-05-01T22:39:00",25316092,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-01T22:39:00","Torres Novas","Santarém","Centro",-8.518588,39.503855
 25316094,"Marrazes e Barosa","Região de Leiria",310,"2025-05-01T22:24:00",25316094,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,6,0,13,"2025-05-01T22:24:00","Leiria","Leiria","Centro",-8.849481,39.747099
-25316275,"Arranhó","Oeste",311,"2025-05-01T23:18:00",25316275,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,2,0,5,"2025-05-01T23:18:00","Arruda Dos Vinhos","Lisboa","Centro",-9.132157,38.956907
-25316277,"Caparica e Trafaria","Península de Setúbal",311,"2025-05-01T23:55:00",25316277,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-05-01T23:55:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.18602,38.668487
+25316275,"Arranhó","Oeste",311,"2025-05-01T23:18:00",25316275,"Em curso","4327","Busca e resgate terrestre de pessoas",0,2,0,5,"2025-05-01T23:18:00","Arruda Dos Vinhos","Lisboa","Centro",-9.132157,38.956907
+25316277,"Caparica e Trafaria","Península de Setúbal",311,"2025-05-01T23:55:00",25316277,"Em conclusão","3103","Incêndio rural",0,2,0,7,"2025-05-01T23:55:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.18602,38.668487
