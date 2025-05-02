@@ -3,12 +3,14 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25317282,Nossa Senhora Das Neves,Baixo Alentejo,312,2025-05-02T09:32:00Z,25317282,Em despacho,3301,Queda de árvore,0,0,0,0,2025-05-02T09:32:00Z,Beja,Beja,Alentejo,-7.793703,38.021124
 25317291,"Assunção, Ajuda, Salvador e Santo Ildefonso",Alto Alentejo,312,2025-05-02T09:38:00Z,25317291,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-05-02T09:38:00Z,Elvas,Portalegre,Alentejo,-7.17053,38.874473
 25317409,Nossa Senhora Das Neves,Baixo Alentejo,312,2025-05-02T10:04:00Z,25317409,Em despacho,3301,Queda de árvore,0,1,0,3,2025-05-02T10:04:00Z,Beja,Beja,Alentejo,-7.793703,38.021124
-25317627,Ferreira do Alentejo e Canhestros,Baixo Alentejo,312,2025-05-02T10:41:00Z,25317627,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-02T10:41:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.240482,38.035493
-25317727,Faro (Sé e São Pedro),Algarve,313,2025-05-02T10:46:00Z,25317727,Em curso,3301,Queda de árvore,0,1,0,4,2025-05-02T10:46:00Z,Faro,Faro,Algarve,-7.908261,37.006372
+25317627,Ferreira do Alentejo e Canhestros,Baixo Alentejo,312,2025-05-02T10:41:00Z,25317627,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-02T10:41:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.240482,38.035493
+25317727,Faro (Sé e São Pedro),Algarve,313,2025-05-02T10:46:00Z,25317727,Em curso,3301,Queda de árvore,0,3,0,10,2025-05-02T10:46:00Z,Faro,Faro,Algarve,-7.908261,37.006372
+25317877,Serzedo e Calvos,Ave,309,2025-05-02T11:26:00Z,25317877,Em despacho,3301,Queda de árvore,0,2,0,4,2025-05-02T11:26:00Z,Guimarães,Braga,Norte,-8.237038,41.402873
 25317078,Nossa Senhora Das Neves,Baixo Alentejo,312,2025-05-02T08:37:00Z,25317078,Em conclusão,1103,Vento forte,0,3,0,4,2025-05-02T08:37:00Z,Beja,Beja,Alentejo,-7.79216,38.02064
 25317630,Ramalde,Area M. Porto,309,2025-05-02T10:43:00Z,25317630,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-05-02T10:43:00Z,Porto,Porto,Norte,-8.629472,41.17579
 25317649,São Pedro da Cadeira,Oeste,311,2025-05-02T10:46:00Z,25317649,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-05-02T10:46:00Z,Torres Vedras,Lisboa,Centro,-9.405293,39.06066
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,7,0,16,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
 25317644,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-05-02T10:31:00Z,25317644,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-02T10:31:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
 25317728,Portimão,Algarve,313,2025-05-02T10:45:00Z,25317728,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-05-02T10:45:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
+25317835,Loulé (São Sebastião),Algarve,313,2025-05-02T11:18:00Z,25317835,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-05-02T11:18:00Z,Loulé,Faro,Algarve,-8.097039,37.161164
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
