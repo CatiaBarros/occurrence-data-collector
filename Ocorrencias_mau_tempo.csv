@@ -1,11 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
-25324655,Pedrógão Pequeno,Beira Baixa,310,2025-05-03T20:16:00Z,25324655,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-05-03T20:16:00Z,Sertã,Castelo Branco,Centro,-8.13188,39.91771
-25325055,Caldas da Rainha - Santo Onofre e Serra do Bouro,Oeste,311,2025-05-03T22:14:00Z,25325055,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-03T22:14:00Z,Caldas Da Rainha,Leiria,Centro,-9.148929,39.401713
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
 25325027,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-05-03T21:58:00Z,25325027,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-05-03T21:58:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
+25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
+25324655,Pedrógão Pequeno,Beira Baixa,310,2025-05-03T20:16:00Z,25324655,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,2,0,3,2025-05-03T20:16:00Z,Sertã,Castelo Branco,Centro,-8.13188,39.91771
+25325055,Caldas da Rainha - Santo Onofre e Serra do Bouro,Oeste,311,2025-05-03T22:14:00Z,25325055,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-03T22:14:00Z,Caldas Da Rainha,Leiria,Centro,-9.148929,39.401713
 25324940,Oliveira do Conde,Viseu Dão Lafões,310,2025-05-03T21:38:00Z,25324940,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-05-03T21:38:00Z,Carregal Do Sal,Viseu,Centro,-7.968109,40.440859
 25324961,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-05-03T21:46:00Z,25324961,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,3,2025-05-03T21:46:00Z,Coimbra,Coimbra,Centro,-8.439766,40.225332
 25325006,Arganil,Região de Coimbra,310,2025-05-03T21:57:00Z,25325006,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-03T21:57:00Z,Arganil,Coimbra,Centro,-8.049704,40.220309
-25325036,Talhinhas e Bagueixe,Terras de Trás-os-Montes,309,2025-05-03T22:12:00Z,25325036,Em resolução,3301,Queda de árvore,0,1,0,2,2025-05-03T22:12:00Z,Bragança,Bragança,Norte,-6.731333,41.555873
