@@ -1,6 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25322664,Apúlia e Fão,Cávado,309,2025-05-03T11:32:00Z,25322664,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,3,2025-05-03T11:32:00Z,Esposende,Braga,Norte,-8.76808,41.49454
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
+25322685,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-05-03T11:15:00Z,25322685,Em despacho,3317,Inundação de estruturas por água canalizada,0,2,0,4,2025-05-03T11:15:00Z,Elvas,Portalegre,Alentejo,-7.169645,38.882464
+25322703,Colares,Grande Lisboa,311,2025-05-03T11:49:00Z,25322703,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-05-03T11:49:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.461505,38.840719
 25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,9,0,18,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
 25322631,Igrejinha,Alentejo Central,312,2025-05-03T11:26:00Z,25322631,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-03T11:26:00Z,Arraiolos,Évora,Alentejo,-7.889471,38.693718
 25322640,Quinta do Conde,Península de Setúbal,311,2025-05-03T11:27:00Z,25322640,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-05-03T11:27:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.03613,38.570355
