@@ -1,10 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25323650,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-05-03T15:40:00Z,25323650,Em despacho,3301,Queda de árvore,0,2,0,4,2025-05-03T15:40:00Z,Coimbra,Coimbra,Centro,-8.454962,40.20908
-25323768,Esmoriz,Região de Aveiro,310,2025-05-03T16:20:00Z,25323768,Em despacho,3301,Queda de árvore,0,0,0,0,2025-05-03T16:20:00Z,Ovar,Aveiro,Centro,-8.63846,40.95719
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
 25322685,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-05-03T11:15:00Z,25322685,Em conclusão,3317,Inundação de estruturas por água canalizada,0,3,0,6,2025-05-03T11:15:00Z,Elvas,Portalegre,Alentejo,-7.169645,38.882464
-25323712,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-05-03T15:58:00Z,25323712,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-03T15:58:00Z,Coimbra,Coimbra,Centro,-8.477205,40.209543
-25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,9,0,18,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
+25323841,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-05-03T16:34:00Z,25323841,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,1,2025-05-03T16:34:00Z,Leiria,Leiria,Centro,-8.802832,39.749179
+25323956,Marco,Tâmega e Sousa,309,2025-05-03T16:45:00Z,25323956,Em despacho,3301,Queda de árvore,0,1,0,3,2025-05-03T16:45:00Z,Marco De Canaveses,Porto,Norte,-8.139092,41.179373
+25323866,Cascais e Estoril,Grande Lisboa,311,2025-05-03T16:35:00Z,25323866,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-03T16:35:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.398759,38.70391
+25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
 25322942,Sardoal,Médio Tejo,311,2025-05-03T12:58:00Z,25322942,Em curso,1103,Vento forte,0,11,0,20,2025-05-03T12:58:00Z,Sardoal,Santarém,Centro,-8.154358,39.534042
 25323358,Carvalhal,Beira Baixa,310,2025-05-03T14:40:00Z,25323358,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-05-03T14:40:00Z,Sertã,Castelo Branco,Centro,-8.13362,39.86742
+25323960,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-05-03T16:59:00Z,25323960,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-03T16:59:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
