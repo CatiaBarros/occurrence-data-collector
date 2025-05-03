@@ -1,14 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25323650,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-05-03T15:40:00Z,25323650,Em despacho,3301,Queda de árvore,0,2,0,4,2025-05-03T15:40:00Z,Coimbra,Coimbra,Centro,-8.454962,40.20908
+25323768,Esmoriz,Região de Aveiro,310,2025-05-03T16:20:00Z,25323768,Em despacho,3301,Queda de árvore,0,0,0,0,2025-05-03T16:20:00Z,Ovar,Aveiro,Centro,-8.63846,40.95719
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
+25322685,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-05-03T11:15:00Z,25322685,Em conclusão,3317,Inundação de estruturas por água canalizada,0,3,0,6,2025-05-03T11:15:00Z,Elvas,Portalegre,Alentejo,-7.169645,38.882464
+25323712,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-05-03T15:58:00Z,25323712,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-03T15:58:00Z,Coimbra,Coimbra,Centro,-8.477205,40.209543
 25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,9,0,18,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
 25322942,Sardoal,Médio Tejo,311,2025-05-03T12:58:00Z,25322942,Em curso,1103,Vento forte,0,11,0,20,2025-05-03T12:58:00Z,Sardoal,Santarém,Centro,-8.154358,39.534042
 25323358,Carvalhal,Beira Baixa,310,2025-05-03T14:40:00Z,25323358,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-05-03T14:40:00Z,Sertã,Castelo Branco,Centro,-8.13362,39.86742
-25323508,Santo Estêvão,Lezíria do Tejo,311,2025-05-03T15:17:00Z,25323508,Em conclusão,3301,Queda de árvore,0,1,0,3,2025-05-03T15:17:00Z,Benavente,Santarém,Alentejo,-8.746922,38.866305
-25322866,Nossa Senhora de Fátima,Médio Tejo,311,2025-05-03T12:36:00Z,25322866,Em conclusão,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-05-03T12:36:00Z,Entroncamento,Santarém,Centro,-8.485202,39.466869
-25323602,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-05-03T15:35:00Z,25323602,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-03T15:35:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.244903,38.715384
-25323650,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-05-03T15:40:00Z,25323650,Em despacho,3301,Queda de árvore,0,2,0,4,2025-05-03T15:40:00Z,Coimbra,Coimbra,Centro,-8.454962,40.20908
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
-25322685,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-05-03T11:15:00Z,25322685,Em conclusão,3317,Inundação de estruturas por água canalizada,0,2,0,4,2025-05-03T11:15:00Z,Elvas,Portalegre,Alentejo,-7.169645,38.882464
-25323348,Mina de Água,Grande Lisboa,311,2025-05-03T14:40:00Z,25323348,Em conclusão,3301,Queda de árvore,0,2,0,8,2025-05-03T14:40:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.251841,38.77134
-25323530,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-05-03T15:15:00Z,25323530,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-03T15:15:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.194473,38.648295
-25323712,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-05-03T15:58:00Z,25323712,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-03T15:58:00Z,Coimbra,Coimbra,Centro,-8.477205,40.209543
