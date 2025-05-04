@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25328248,Vilar de Andorinho,Area M. Porto,309,2025-05-04T17:16:00Z,25328248,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-05-04T17:16:00Z,Vila Nova De Gaia,Porto,Norte,-8.57418,41.09994
+25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
 25328183,Ferragudo,Algarve,313,2025-05-04T17:12:00Z,25328183,Em despacho,3313,Deslizamento de terras,0,1,0,4,2025-05-04T17:12:00Z,Lagoa,Faro,Algarve,-8.514204,37.11762
-25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
-25328107,Viseu,Viseu Dão Lafões,310,2025-05-04T16:58:00Z,25328107,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-04T16:58:00Z,Viseu,Viseu,Centro,-7.91307,40.6643
