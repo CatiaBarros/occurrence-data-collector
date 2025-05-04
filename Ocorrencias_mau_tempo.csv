@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
-25328870,Campo,Viseu Dão Lafões,310,2025-05-04T20:42:00Z,25328870,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,4,2025-05-04T20:42:00Z,Viseu,Viseu,Centro,-7.917758,40.707331
 25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
+25328992,Rio de Mouro,Grande Lisboa,311,2025-05-04T20:45:00Z,25328992,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-04T20:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.321906,38.783084
