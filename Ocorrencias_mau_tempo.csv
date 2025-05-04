@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25327640,Carvalhosa,Tâmega e Sousa,309,2025-05-04T15:01:00Z,25327640,Em curso,3317,Inundação de estruturas por água canalizada,0,0,0,0,2025-05-04T15:01:00Z,Paços De Ferreira,Porto,Norte,-8.374107,41.29446
-25327925,São Martinho do Porto,Oeste,311,2025-05-04T16:07:00Z,25327925,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-05-04T16:07:00Z,Alcobaça,Leiria,Centro,-9.131915,39.510842
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
-25327483,Agualva e Mira-Sintra,Grande Lisboa,311,2025-05-04T14:27:00Z,25327483,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,2,2025-05-04T14:27:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.287604,38.78152
 25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
 25327218,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-05-04T13:19:00Z,25327218,Em conclusão,3301,Queda de árvore,0,0,0,0,2025-05-04T13:19:00Z,Santarém,Santarém,Alentejo,-8.671677,39.236474
 25327336,Brufe,Ave,309,2025-05-04T13:42:00Z,25327336,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-04T13:42:00Z,Vila Nova De Famalicão,Braga,Norte,-8.540604,41.413234
 25327897,Sé e São Lourenço,Alto Alentejo,312,2025-05-04T16:03:00Z,25327897,Em conclusão,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-05-04T16:03:00Z,Portalegre,Portalegre,Alentejo,-7.429567,39.277927
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
+25327925,São Martinho do Porto,Oeste,311,2025-05-04T16:07:00Z,25327925,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-05-04T16:07:00Z,Alcobaça,Leiria,Centro,-9.131915,39.510842
+25327944,Meixomil,Tâmega e Sousa,309,2025-05-04T15:40:00Z,25327944,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-05-04T15:40:00Z,Paços De Ferreira,Porto,Norte,-8.389784,41.285334
