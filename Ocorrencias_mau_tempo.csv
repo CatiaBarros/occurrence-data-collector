@@ -1,14 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25327640,Carvalhosa,Tâmega e Sousa,309,2025-05-04T15:01:00Z,25327640,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-05-04T15:01:00Z,Paços De Ferreira,Porto,Norte,-8.374107,41.29446
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25318424,Nossa Senhora da Graça Dos Degolados,Alto Alentejo,312,2025-05-02T13:10:00Z,25318424,Em conclusão,1103,Vento forte,0,0,0,0,2025-05-02T13:10:00Z,Campo Maior,Portalegre,Alentejo,-7.12147,39.062622
 25327483,Agualva e Mira-Sintra,Grande Lisboa,311,2025-05-04T14:27:00Z,25327483,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,2,2025-05-04T14:27:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.287604,38.78152
 25327566,"Freixianda, Ribeira do Fárrio e Formigais",Médio Tejo,311,2025-05-04T14:42:00Z,25327566,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-05-04T14:42:00Z,Ourém,Santarém,Centro,-8.494823,39.756187
-25327616,Tavira (Santa Maria e Santiago),Algarve,313,2025-05-04T14:36:00Z,25327616,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-04T14:36:00Z,Tavira,Faro,Algarve,-7.64691,37.130442
-25327640,Carvalhosa,Tâmega e Sousa,309,2025-05-04T15:01:00Z,25327640,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-05-04T15:01:00Z,Paços De Ferreira,Porto,Norte,-8.374107,41.29446
-25327485,Ansião,Região de Leiria,310,2025-05-04T14:28:00Z,25327485,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-04T14:28:00Z,Ansião,Leiria,Centro,-8.446734,39.953334
+25327715,Sé e São Lourenço,Alto Alentejo,312,2025-05-04T15:07:00Z,25327715,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,5,2025-05-04T15:07:00Z,Portalegre,Portalegre,Alentejo,-7.431335,39.294154
 25316776,Guarda,Beiras e Serra da Estrela,310,2025-05-02T07:17:00Z,25316776,Em conclusão,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-05-02T07:17:00Z,Guarda,Guarda,Centro,-7.269039,40.539292
 25327218,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-05-04T13:19:00Z,25327218,Em conclusão,3301,Queda de árvore,0,2,0,4,2025-05-04T13:19:00Z,Santarém,Santarém,Alentejo,-8.671677,39.236474
 25327336,Brufe,Ave,309,2025-05-04T13:42:00Z,25327336,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-04T13:42:00Z,Vila Nova De Famalicão,Braga,Norte,-8.540604,41.413234
-25327502,Azambuja,Lezíria do Tejo,311,2025-05-04T14:32:00Z,25327502,Em conclusão,3301,Queda de árvore,0,1,0,2,2025-05-04T14:32:00Z,Azambuja,Lisboa,Alentejo,-8.88326,39.08245
-25327586,Mira,Região de Coimbra,310,2025-05-04T14:45:00Z,25327586,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-04T14:45:00Z,Mira,Coimbra,Centro,-8.704613,40.423347
 25327620,Faro (Sé e São Pedro),Algarve,313,2025-05-04T14:52:00Z,25327620,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-04T14:52:00Z,Faro,Faro,Algarve,-7.942032,37.01865
