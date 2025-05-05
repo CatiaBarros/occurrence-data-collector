@@ -2,7 +2,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25332097,Sobrado e Bairros,Tâmega e Sousa,309,2025-05-05T14:34:00Z,25332097,Em curso,3301,Queda de árvore,0,3,0,6,2025-05-05T14:34:00Z,Castelo De Paiva,Aveiro,Norte,-8.2699,41.041524
 25332296,Caldelas,Ave,309,2025-05-05T15:16:00Z,25332296,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-05-05T15:16:00Z,Guimarães,Braga,Norte,-8.344354,41.491575
-25331902,Salto,Alto Tâmega e Barroso,309,2025-05-05T14:03:00Z,25331902,Em despacho,3301,Queda de árvore,0,1,0,3,2025-05-05T14:03:00Z,Montalegre,Vila Real,Norte,-7.953108,41.639334
 25330629,Nossa Senhora do Pranto,Médio Tejo,311,2025-05-05T10:14:00Z,25330629,Em despacho,3313,Deslizamento de terras,0,2,0,3,2025-05-05T10:14:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.273289,39.751159
 25332017,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-05-05T14:21:00Z,25332017,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-05-05T14:21:00Z,Gondomar,Porto,Norte,-8.535295,41.129255
-25332092,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-05-05T14:38:00Z,25332092,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,2,2025-05-05T14:38:00Z,Coruche,Santarém,Alentejo,-8.531156,38.965014
+25332343,Benavente,Lezíria do Tejo,311,2025-05-05T15:25:00Z,25332343,Em despacho,3301,Queda de árvore,0,1,0,3,2025-05-05T15:25:00Z,Benavente,Santarém,Alentejo,-8.787727,38.953978
+25331902,Salto,Alto Tâmega e Barroso,309,2025-05-05T14:03:00Z,25331902,Em despacho,3301,Queda de árvore,0,1,0,3,2025-05-05T14:03:00Z,Montalegre,Vila Real,Norte,-7.953108,41.639334
