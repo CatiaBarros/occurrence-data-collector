@@ -1,5 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25334534,"Carregado e Cadafais","Oeste",311,"2025-05-06T04:29:00",25334534,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,9,"2025-05-06T04:29:00","Alenquer","Lisboa","Centro",-8.97813,39.02326
-25334563,"Rocas do Vouga","Região de Aveiro",310,"2025-05-06T04:58:00",25334563,"Em despacho","3203","Detritos confinados",0,1,0,3,"2025-05-06T04:58:00","Sever Do Vouga","Aveiro","Centro",-8.353407,40.762248
+25334563,"Rocas do Vouga","Região de Aveiro",310,"2025-05-06T04:58:00",25334563,"Em resolução","3203","Detritos confinados",0,2,0,5,"2025-05-06T04:58:00","Sever Do Vouga","Aveiro","Centro",-8.353407,40.762248
 25334555,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo","Grande Lisboa",311,"2025-05-06T04:45:00",25334555,"Em despacho","2403","Colisão rodoviária",0,2,0,7,"2025-05-06T04:45:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.242367,38.700095
