@@ -1,20 +1,19 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25342861,"Massamá e Monte Abraão","Grande Lisboa",311,"2025-05-07T19:53:00",25342861,"Em conclusão","2515","Fuga de gás em garrafa",0,1,0,6,"2025-05-07T19:53:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.280008,38.753778
+25343072,"Cachopo","Algarve",313,"2025-05-07T20:52:00",25343072,"Em despacho","3103","Incêndio rural",0,2,0,4,"2025-05-07T20:52:00","Tavira","Faro","Algarve",-7.766338,37.334505
+25343161,"Palmeira","Cávado",309,"2025-05-07T21:16:00",25343161,"Em despacho","2407","Despiste",0,1,0,3,"2025-05-07T21:16:00","Braga","Braga","Norte",-8.434231,41.59113
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25342357,"Murtede","Região de Coimbra",310,"2025-05-07T17:40:00",25342357,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-07T17:40:00","Cantanhede","Coimbra","Centro",-8.518066,40.358381
 25342491,"Odeceixe","Algarve",313,"2025-05-07T18:12:00",25342491,"Em conclusão","2401","Atropelamento rodoviário",0,1,0,2,"2025-05-07T18:12:00","Aljezur","Faro","Algarve",-8.774846,37.434235
 25342957,"Santo António Dos Cavaleiros e Frielas","Grande Lisboa",311,"2025-05-07T20:16:00",25342957,"Em conclusão","2403","Colisão rodoviária",0,3,0,11,"2025-05-07T20:16:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.143018,38.828005
 25343041,"Cavernães","Viseu Dão Lafões",310,"2025-05-07T20:35:00",25343041,"Em conclusão","2407","Despiste",0,3,0,8,"2025-05-07T20:35:00","Viseu","Viseu","Centro",-7.838472,40.708058
-25341836,"Santa Vitória e Mombeja","Baixo Alentejo",312,"2025-05-07T15:38:00",25341836,"Em conclusão","2407","Despiste",0,0,0,0,"2025-05-07T15:38:00","Beja","Beja","Alentejo",-7.997692,37.920637
-25342636,"Freamunde","Tâmega e Sousa",309,"2025-05-07T18:47:00",25342636,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-05-07T18:47:00","Paços De Ferreira","Porto","Norte",-8.336058,41.276443
-25342861,"Massamá e Monte Abraão","Grande Lisboa",311,"2025-05-07T19:53:00",25342861,"Em resolução","2515","Fuga de gás em garrafa",0,1,0,6,"2025-05-07T19:53:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.280008,38.753778
-25343072,"Cachopo","Algarve",313,"2025-05-07T20:52:00",25343072,"Em despacho","3103","Incêndio rural",0,1,0,3,"2025-05-07T20:52:00","Tavira","Faro","Algarve",-7.766338,37.334505
-25342655,"Campelos e Outeiro da Cabeça","Oeste",311,"2025-05-07T18:49:00",25342655,"Em conclusão","2405","Acidente com tratores e máquinas",0,2,0,4,"2025-05-07T18:49:00","Torres Vedras","Lisboa","Centro",-9.177131,39.190701
-25342778,"Guisande e Oliveira (São Pedro)","Cávado",309,"2025-05-07T19:33:00",25342778,"Em conclusão","2301","Incêndio em transporte rodoviário",0,6,0,18,"2025-05-07T19:33:00","Braga","Braga","Norte",-8.464207,41.473255
+25342801,"Fragoso","Cávado",309,"2025-05-07T19:36:00",25342801,"Em conclusão","2401","Atropelamento rodoviário",0,3,0,6,"2025-05-07T19:36:00","Barcelos","Braga","Norte",-8.715802,41.621135
+25342833,"Igreja Nova e Cheleiros","Grande Lisboa",311,"2025-05-07T19:44:00",25342833,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-05-07T19:44:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.309442,38.934536
+25343068,"Modivas","Area M. Porto",309,"2025-05-07T20:47:00",25343068,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-05-07T20:47:00","Vila Do Conde","Porto","Norte",-8.705702,41.299632
+25343084,"Barqueiros","Douro",309,"2025-05-07T20:55:00",25343084,"Em resolução","2407","Despiste",0,3,0,6,"2025-05-07T20:55:00","Mesão Frio","Vila Real","Norte",-7.902705,41.1324
+25343152,"Conceição e Estoi","Algarve",313,"2025-05-07T21:17:00",25343152,"Em despacho","3103","Incêndio rural",0,2,0,7,"2025-05-07T21:17:00","Faro","Faro","Algarve",-7.92857,37.04687
+25342778,"Guisande e Oliveira (São Pedro)","Cávado",309,"2025-05-07T19:33:00",25342778,"Em conclusão","2301","Incêndio em transporte rodoviário",0,4,0,11,"2025-05-07T19:33:00","Braga","Braga","Norte",-8.464207,41.473255
 25342780,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-07T19:27:00",25342780,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-05-07T19:27:00","Matosinhos","Porto","Norte",-8.687955,41.180108
 25342844,"Cárquere","Tâmega e Sousa",309,"2025-05-07T19:46:00",25342844,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-07T19:46:00","Resende","Viseu","Norte",-7.956988,41.089197
 25342896,"Covelas","Area M. Porto",309,"2025-05-07T20:03:00",25342896,"Em resolução","3103","Incêndio rural",0,5,0,14,"2025-05-07T20:03:00","Trofa","Porto","Norte",-8.512045,41.29251
 25343089,"Freamunde","Tâmega e Sousa",309,"2025-05-07T20:50:00",25343089,"Em conclusão","2301","Incêndio em transporte rodoviário",0,1,0,4,"2025-05-07T20:50:00","Paços De Ferreira","Porto","Norte",-8.345435,41.288348
-25342801,"Fragoso","Cávado",309,"2025-05-07T19:36:00",25342801,"Em conclusão","2401","Atropelamento rodoviário",0,3,0,6,"2025-05-07T19:36:00","Barcelos","Braga","Norte",-8.715802,41.621135
-25342833,"Igreja Nova e Cheleiros","Grande Lisboa",311,"2025-05-07T19:44:00",25342833,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-05-07T19:44:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.309442,38.934536
-25343068,"Modivas","Area M. Porto",309,"2025-05-07T20:47:00",25343068,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-05-07T20:47:00","Vila Do Conde","Porto","Norte",-8.705702,41.299632
-25343084,"Barrô","Tâmega e Sousa",309,"2025-05-07T20:55:00",25343084,"Em resolução","2407","Despiste",0,3,0,6,"2025-05-07T20:55:00","Mesão Frio","Vila Real","Norte",-7.902705,41.1324
