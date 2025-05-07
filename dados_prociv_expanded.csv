@@ -1,9 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25338943,"Silves","Algarve",313,"2025-05-07T00:00:00",25338943,"Em conclusão","3111","Queima",0,2,0,6,"2025-05-07T00:00:00","Silves","Faro","Algarve",-8.433595,37.220814
 25339002,"Amora","Península de Setúbal",311,"2025-05-07T00:41:00",25339002,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,4,"2025-05-07T00:41:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.12026,38.6247
 25339004,"Queluz e Belas","Grande Lisboa",311,"2025-05-07T00:33:00",25339004,"Em conclusão","2407","Despiste",0,3,0,7,"2025-05-07T00:33:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.253541,38.753134
-25338819,"Marvila","Grande Lisboa",311,"2025-05-06T22:50:00",25338819,"Em despacho","2407","Despiste",0,2,0,4,"2025-05-06T22:50:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.12684,38.75564
-25339003,"São Pedro e Santa Maria e Vila Boa do Mondego","Beiras e Serra da Estrela",310,"2025-05-07T00:34:00",25339003,"Em resolução","2407","Despiste",0,2,0,4,"2025-05-07T00:34:00","Celorico Da Beira","Guarda","Centro",-7.385873,40.627852
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25338982,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2025-05-07T00:15:00",25338982,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-05-07T00:15:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.139208,38.802817
 25338999,"Portimão","Algarve",313,"2025-05-07T00:36:00",25338999,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,9,"2025-05-07T00:36:00","Portimão","Faro","Algarve",-8.532608,37.137966
