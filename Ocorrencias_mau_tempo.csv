@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25346060,Lamego (Almacave e Sé),Douro,309,2025-05-08T14:32:00Z,25346060,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,5,2025-05-08T14:32:00Z,Lamego,Viseu,Norte,-7.808005,41.10587
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25348170,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-05-08T23:47:00Z,25348170,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,3,2025-05-08T23:47:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
