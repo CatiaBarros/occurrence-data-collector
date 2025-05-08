@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25346060,Lamego (Almacave e Sé),Douro,309,2025-05-08T14:32:00Z,25346060,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,5,2025-05-08T14:32:00Z,Lamego,Viseu,Norte,-7.808005,41.10587
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25346401,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-05-08T15:15:00Z,25346401,Em curso,3313,Deslizamento de terras,0,4,0,10,2025-05-08T15:15:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.956032,40.891538
-25346060,Lamego (Almacave e Sé),Douro,309,2025-05-08T14:32:00Z,25346060,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,2,0,5,2025-05-08T14:32:00Z,Lamego,Viseu,Norte,-7.808005,41.10587
+25346777,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-05-08T17:04:00Z,25346777,Em despacho,3301,Queda de árvore,0,2,0,7,2025-05-08T17:04:00Z,Santarém,Santarém,Alentejo,-8.678591,39.231938
