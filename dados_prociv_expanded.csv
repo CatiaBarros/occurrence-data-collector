@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25347599,"Tarouca e Dálvares","Douro",309,"2025-05-08T20:05:00",25347599,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-08T20:05:00","Tarouca","Viseu","Norte",-7.778952,41.018525
-25348496,"Telões","Alto Tâmega e Barroso",309,"2025-05-09T04:29:00",25348496,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2025-05-09T04:29:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.66761,41.450359
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25346060,"Lamego (Almacave e Sé)","Douro",309,"2025-05-08T14:32:00",25346060,"Em despacho","3329","Queda de estruturas temporárias ou móveis",0,2,0,5,"2025-05-08T14:32:00","Lamego","Viseu","Norte",-7.808005,41.10587
 25348346,"Braga (São Vicente)","Cávado",309,"2025-05-09T01:34:00",25348346,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2025-05-09T01:34:00","Braga","Braga","Norte",-8.419631,41.563364
+25347599,"Tarouca e Dálvares","Douro",309,"2025-05-08T20:05:00",25347599,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-08T20:05:00","Tarouca","Viseu","Norte",-7.778952,41.018525
+25348496,"Telões","Alto Tâmega e Barroso",309,"2025-05-09T04:29:00",25348496,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2025-05-09T04:29:00","Vila Pouca De Aguiar","Vila Real","Norte",-7.641545,41.43281
