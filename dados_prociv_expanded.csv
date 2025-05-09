@@ -1,7 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25348623,"Ericeira","Grande Lisboa",311,"2025-05-09T06:48:00",25348623,"Em despacho","2407","Despiste",0,3,0,6,"2025-05-09T06:48:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.417289,38.967626
 25347599,"Tarouca e Dálvares","Douro",309,"2025-05-08T20:05:00",25347599,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-08T20:05:00","Tarouca","Viseu","Norte",-7.778952,41.018525
+25348602,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure","Tâmega e Sousa",309,"2025-05-09T06:30:00",25348602,"Em resolução","2513","Fuga de gás em conduta",0,1,0,3,"2025-05-09T06:30:00","Felgueiras","Porto","Norte",-8.22225,41.360642
+25348620,"Boliqueime","Algarve",313,"2025-05-09T06:47:00",25348620,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-09T06:47:00","Loulé","Faro","Algarve",-8.143617,37.14638
 25346060,"Lamego (Almacave e Sé)","Douro",309,"2025-05-08T14:32:00",25346060,"Em despacho","3329","Queda de estruturas temporárias ou móveis",0,2,0,5,"2025-05-08T14:32:00","Lamego","Viseu","Norte",-7.808005,41.10587
 25348346,"Braga (São Vicente)","Cávado",309,"2025-05-09T01:34:00",25348346,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2025-05-09T01:34:00","Braga","Braga","Norte",-8.419631,41.563364
-25348532,"Marrazes e Barosa","Região de Leiria",310,"2025-05-09T05:21:00",25348532,"Em despacho","2407","Despiste",0,2,0,4,"2025-05-09T05:21:00","Leiria","Leiria","Centro",-8.848398,39.755211
-25348602,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure","Tâmega e Sousa",309,"2025-05-09T06:30:00",25348602,"Em despacho","2513","Fuga de gás em conduta",0,1,0,3,"2025-05-09T06:30:00","Felgueiras","Porto","Norte",-8.226355,41.361218
