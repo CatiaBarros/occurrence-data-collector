@@ -1,18 +1,1 @@
-"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25353885,"Briteiros Santo Estêvão e Donim","Ave",309,"2025-05-10T08:42:00",25353885,"Em resolução","2407","Despiste",0,0,0,0,"2025-05-10T08:42:00","Guimarães","Braga","Norte",-8.323573,41.511593
-25353899,"Miranda do Corvo","Região de Coimbra",310,"2025-05-10T08:50:00",25353899,"Em conclusão","2407","Despiste",0,7,0,17,"2025-05-10T08:50:00","Miranda Do Corvo","Coimbra","Centro",-8.348312,40.098633
-25354176,"Arcos e Mogofores","Região de Aveiro",310,"2025-05-10T09:53:00",25354176,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-05-10T09:53:00","Anadia","Aveiro","Centro",-8.433666,40.438781
-25354467,"Polvoreira","Ave",309,"2025-05-10T11:00:00",25354467,"Em resolução","2101","Incêndio em edifícios habitacionais",0,3,0,10,"2025-05-10T11:00:00","Guimarães","Braga","Norte",-8.30284,41.41138
-25354551,"Porto Covo","Alentejo Litoral",312,"2025-05-10T11:20:00",25354551,"Em despacho","2407","Despiste",0,2,0,5,"2025-05-10T11:20:00","Sines","Setúbal","Alentejo",-8.783963,37.8242
-25353595,"Espinho","Cávado",309,"2025-05-10T07:23:00",25353595,"Em despacho","3301","Queda de árvore",0,1,0,3,"2025-05-10T07:23:00","Braga","Braga","Norte",-8.358069,41.545513
-25354532,"Valongo","Area M. Porto",309,"2025-05-10T11:19:00",25354532,"Em conclusão","2129","Incêndio em edifícios degradados ou devolutos",0,1,0,3,"2025-05-10T11:19:00","Valongo","Porto","Norte",-8.498295,41.191956
-25353759,"Castanheira do Ribatejo e Cachoeiras","Grande Lisboa",311,"2025-05-10T08:18:00",25353759,"Em curso","4335","Prevenção a queimadas",0,1,0,3,"2025-05-10T08:18:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-8.98602382359454,38.994584808235
-25354470,"Ponte de Sor, Tramaga e Vale de Açor","Alto Alentejo",312,"2025-05-10T10:58:00",25354470,"Em despacho","2407","Despiste",0,3,0,5,"2025-05-10T10:58:00","Ponte De Sor","Portalegre","Alentejo",-8.03117,39.239482
-25354561,"Aljustrel e Rio de Moinhos","Baixo Alentejo",312,"2025-05-10T11:21:00",25354561,"Em curso","2403","Colisão rodoviária",0,3,0,8,"2025-05-10T11:21:00","Aljustrel","Beja","Alentejo",-8.149549,37.875978
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25353455,"Gondifelos, Cavalões e Outiz","Ave",309,"2025-05-10T06:09:00",25353455,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,5,"2025-05-10T06:09:00","Vila Nova De Famalicão","Braga","Norte",-8.55996,41.417955
-25353687,"Porto da Carne","Beiras e Serra da Estrela",310,"2025-05-10T08:02:00",25353687,"Em conclusão","3311","Queda de elementos de estruturas edificados",0,3,0,7,"2025-05-10T08:02:00","Guarda","Guarda","Centro",-7.29423,40.606337
-25353906,"Aver-o-Mar, Amorim e Terroso","Area M. Porto",309,"2025-05-10T08:52:00",25353906,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-05-10T08:52:00","Póvoa De Varzim","Porto","Norte",-8.766923,41.40298
-25354406,"Poceirão e Marateca","Península de Setúbal",311,"2025-05-10T10:49:00",25354406,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-05-10T10:49:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.751295,38.672199
-25354525,"Folgosa","Area M. Porto",309,"2025-05-10T11:19:00",25354525,"Em despacho","2129","Incêndio em edifícios degradados ou devolutos",0,0,0,0,"2025-05-10T11:19:00","Maia","Porto","Norte",-8.544932,41.23217
-25354555,"Carnaxide e Queijas","Grande Lisboa",311,"2025-05-10T11:12:00",25354555,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,4,"2025-05-10T11:12:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.233587,38.727201
+""
