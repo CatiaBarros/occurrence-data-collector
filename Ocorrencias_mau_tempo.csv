@@ -1,2 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25353084,Glória e Vera Cruz,Região de Aveiro,310,2025-05-10T00:53:00Z,25353084,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-10T00:53:00Z,Aveiro,Aveiro,Centro,-8.659223,40.645992
+25353074,Gafanha da Nazaré,Região de Aveiro,310,2025-05-10T00:59:00Z,25353074,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-10T00:59:00Z,Ílhavo,Aveiro,Centro,-8.756128,40.641907
+25353097,Glória e Vera Cruz,Região de Aveiro,310,2025-05-10T00:54:00Z,25353097,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-10T00:54:00Z,Aveiro,Aveiro,Centro,-8.659223,40.645992
+25353100,Glória e Vera Cruz,Região de Aveiro,310,2025-05-10T01:05:00Z,25353100,Em curso,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-10T01:05:00Z,Aveiro,Aveiro,Centro,-8.659223,40.645992
