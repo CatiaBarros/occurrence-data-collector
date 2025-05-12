@@ -1,4 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25361584,"Turquel","Oeste",311,"2025-05-12T06:19:00",25361584,"Em curso","2403","Colisão rodoviária",0,8,0,19,"2025-05-12T06:19:00","Alcobaça","Leiria","Centro",-8.94128,39.47031
+25361670,"São Domingos de Rana","Grande Lisboa",311,"2025-05-12T07:09:00",25361670,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-05-12T07:09:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.340115,38.702729
+25361584,"Turquel","Oeste",311,"2025-05-12T06:19:00",25361584,"Em curso","2403","Colisão rodoviária",0,9,0,21,"2025-05-12T06:19:00","Alcobaça","Leiria","Centro",-8.94128,39.47031
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25358167,"Fátima","Médio Tejo",311,"2025-05-11T09:00:00",25358167,"Em curso","9115","Operação nacional de assistência",0,50,0,153,"2025-05-11T09:00:00","Ourém","Santarém","Centro",-8.665871,39.625307
+25358167,"Fátima","Médio Tejo",311,"2025-05-11T09:00:00",25358167,"Em curso","9115","Operação nacional de assistência",0,57,0,166,"2025-05-11T09:00:00","Ourém","Santarém","Centro",-8.665871,39.625307
