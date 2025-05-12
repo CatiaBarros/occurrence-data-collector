@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25364687,Moscavide e Portela,Grande Lisboa,311,2025-05-12T17:58:00Z,25364687,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-05-12T17:58:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.099341,38.780698
+25364962,Palmela,Península de Setúbal,311,2025-05-12T19:23:00Z,25364962,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-05-12T19:23:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.836579,38.580735
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
