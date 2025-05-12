@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25363904,Albufeira e Olhos de Água,Algarve,313,2025-05-12T15:13:00Z,25363904,Em conclusão,3309,Desabamento de estruturas edificadas,1,14,0,37,2025-05-12T15:13:00Z,Albufeira,Faro,Algarve,-8.28976,37.07522
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25364687,Moscavide e Portela,Grande Lisboa,311,2025-05-12T17:58:00Z,25364687,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,3,2025-05-12T17:58:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.099341,38.780698
+25363904,Albufeira e Olhos de Água,Algarve,313,2025-05-12T15:13:00Z,25363904,Em conclusão,3309,Desabamento de estruturas edificadas,0,13,0,29,2025-05-12T15:13:00Z,Albufeira,Faro,Algarve,-8.28976,37.07522
