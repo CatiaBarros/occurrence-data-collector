@@ -1,14 +1,16 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25361670,"São Domingos de Rana","Grande Lisboa",311,"2025-05-12T07:09:00",25361670,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-05-12T07:09:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.340115,38.702729
-25361690,"Arcozelo","Cávado",309,"2025-05-12T07:26:00",25361690,"Em conclusão","2403","Colisão rodoviária",0,4,0,10,"2025-05-12T07:26:00","Barcelos","Braga","Norte",-8.613182,41.539803
-25361698,"Avanca","Região de Aveiro",310,"2025-05-12T07:30:00",25361698,"Em curso","2407","Despiste",0,2,0,4,"2025-05-12T07:30:00","Estarreja","Aveiro","Centro",-8.575154,40.804832
-25361730,"Espinho","Area M. Porto",309,"2025-05-12T07:38:00",25361730,"Em resolução","2403","Colisão rodoviária",0,3,0,8,"2025-05-12T07:38:00","Espinho","Aveiro","Norte",-8.64078,41.007665
-25361821,"Lordelo","Area M. Porto",309,"2025-05-12T08:14:00",25361821,"Em despacho","3103","Incêndio rural",0,1,0,5,"2025-05-12T08:14:00","Paredes","Porto","Norte",-8.409851,41.232163
 25361584,"Turquel","Oeste",311,"2025-05-12T06:19:00",25361584,"Em curso","2403","Colisão rodoviária",0,7,0,17,"2025-05-12T06:19:00","Alcobaça","Leiria","Centro",-8.94128,39.47031
-25361719,"Bouro (Santa Maria)","Cávado",309,"2025-05-12T07:39:00",25361719,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-05-12T07:39:00","Amares","Braga","Norte",-8.263628,41.665478
-25361768,"Marinha Das Ondas","Região de Coimbra",310,"2025-05-12T08:00:00",25361768,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-12T08:00:00","Figueira Da Foz","Coimbra","Centro",-8.826709,40.034534
-25361786,"Lagoa e Carvoeiro","Algarve",313,"2025-05-12T08:12:00",25361786,"Em despacho","3103","Incêndio rural",0,1,0,4,"2025-05-12T08:12:00","Lagoa","Faro","Algarve",-8.422313,37.138287
+25361786,"Lagoa e Carvoeiro","Algarve",313,"2025-05-12T08:12:00",25361786,"Em conclusão","3103","Incêndio rural",0,1,0,4,"2025-05-12T08:12:00","Lagoa","Faro","Algarve",-8.422313,37.138287
 25361803,"Pelmá","Região de Leiria",310,"2025-05-12T08:00:00",25361803,"Em despacho","2407","Despiste",0,2,0,4,"2025-05-12T08:00:00","Alvaiázere","Leiria","Centro",-8.42965,39.791265
+25361851,"Pedrógão Pequeno","Beira Baixa",310,"2025-05-12T08:21:00",25361851,"Em curso","2407","Despiste",0,5,0,13,"2025-05-12T08:21:00","Sertã","Castelo Branco","Centro",-8.130771,39.903326
+25361670,"São Domingos de Rana","Grande Lisboa",311,"2025-05-12T07:09:00",25361670,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-05-12T07:09:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.340115,38.702729
+25361690,"Arcozelo","Cávado",309,"2025-05-12T07:26:00",25361690,"Em conclusão","2403","Colisão rodoviária",0,2,0,6,"2025-05-12T07:26:00","Barcelos","Braga","Norte",-8.613182,41.539803
+25361698,"Avanca","Região de Aveiro",310,"2025-05-12T07:30:00",25361698,"Em curso","2407","Despiste",0,2,0,4,"2025-05-12T07:30:00","Estarreja","Aveiro","Centro",-8.575154,40.804832
+25361730,"Espinho","Area M. Porto",309,"2025-05-12T07:38:00",25361730,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-05-12T07:38:00","Espinho","Aveiro","Norte",-8.64078,41.007665
+25361816,"Campanhã","Area M. Porto",309,"2025-05-12T08:19:00",25361816,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,5,"2025-05-12T08:19:00","Porto","Porto","Norte",-8.58301,41.15691
+25361821,"Lordelo","Area M. Porto",309,"2025-05-12T08:14:00",25361821,"Em resolução","3103","Incêndio rural",0,1,0,5,"2025-05-12T08:14:00","Paredes","Porto","Norte",-8.416442,41.247962
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25358167,"Fátima","Médio Tejo",311,"2025-05-11T09:00:00",25358167,"Em curso","9115","Operação nacional de assistência",0,81,0,228,"2025-05-11T09:00:00","Ourém","Santarém","Centro",-8.665871,39.625307
+25358167,"Fátima","Médio Tejo",311,"2025-05-11T09:00:00",25358167,"Em curso","9115","Operação nacional de assistência",0,84,0,232,"2025-05-11T09:00:00","Ourém","Santarém","Centro",-8.665871,39.625307
 25361778,"Perafita, Lavra e Santa Cruz do Bispo","Area M. Porto",309,"2025-05-12T08:03:00",25361778,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-05-12T08:03:00","Matosinhos","Porto","Norte",-8.699522,41.236271
+25361809,"Frazão Arreigada","Tâmega e Sousa",309,"2025-05-12T08:18:00",25361809,"Em despacho","3111","Queima",0,1,0,4,"2025-05-12T08:18:00","Paços De Ferreira","Porto","Norte",-8.40896,41.25447
+25361825,"Queluz e Belas","Grande Lisboa",311,"2025-05-12T08:20:00",25361825,"Em curso","2403","Colisão rodoviária",0,3,0,8,"2025-05-12T08:20:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.270072,38.779997
