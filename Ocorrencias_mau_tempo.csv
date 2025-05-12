@@ -1,2 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25363953,São Brás de Alportel,Algarve,313,2025-05-12T15:03:00Z,25363953,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-12T15:03:00Z,São Brás De Alportel,Faro,Algarve,-7.892178,37.149213
+25363904,Albufeira e Olhos de Água,Algarve,313,2025-05-12T15:13:00Z,25363904,Em curso,3309,Desabamento de estruturas edificadas,0,5,0,10,2025-05-12T15:13:00Z,Albufeira,Faro,Algarve,-8.28976,37.07522
+25363969,Forninhos,Viseu Dão Lafões,310,2025-05-12T15:15:00Z,25363969,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-05-12T15:15:00Z,Aguiar Da Beira,Guarda,Centro,-7.552145,40.703373
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
