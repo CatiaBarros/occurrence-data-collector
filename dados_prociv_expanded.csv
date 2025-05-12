@@ -1,10 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25361216,"Glória e Vera Cruz","Região de Aveiro",310,"2025-05-12T00:14:00",25361216,"Em resolução","2301","Incêndio em transporte rodoviário",0,4,0,10,"2025-05-12T00:14:00","Aveiro","Aveiro","Centro",-8.64154,40.649498
-25361218,"Nazaré","Oeste",311,"2025-05-12T00:15:00",25361218,"Em conclusão","2513","Fuga de gás em conduta",0,1,0,4,"2025-05-12T00:15:00","Nazaré","Leiria","Centro",-9.06694,39.60315
+25361216,"Glória e Vera Cruz","Região de Aveiro",310,"2025-05-12T00:14:00",25361216,"Em conclusão","2301","Incêndio em transporte rodoviário",0,4,0,10,"2025-05-12T00:14:00","Aveiro","Aveiro","Centro",-8.64154,40.649498
 25360985,"São Teotónio","Alentejo Litoral",312,"2025-05-11T22:04:00",25360985,"Em conclusão","2401","Atropelamento rodoviário",0,1,0,2,"2025-05-11T22:04:00","Odemira","Beja","Alentejo",-8.728422,37.512563
-25361228,"Ribeirão","Ave",309,"2025-05-12T00:18:00",25361228,"Em curso","2407","Despiste",0,3,0,7,"2025-05-12T00:18:00","Vila Nova De Famalicão","Braga","Norte",-8.554433,41.3518
+25361228,"Ribeirão","Ave",309,"2025-05-12T00:18:00",25361228,"Em curso","2407","Despiste",0,1,0,2,"2025-05-12T00:18:00","Vila Nova De Famalicão","Braga","Norte",-8.554433,41.3518
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25358167,"Fátima","Médio Tejo",311,"2025-05-11T09:00:00",25358167,"Em curso","9115","Operação nacional de assistência",0,17,0,65,"2025-05-11T09:00:00","Ourém","Santarém","Centro",-8.665871,39.625307
 25361141,"Raiva, Pedorido e Paraíso","Tâmega e Sousa",309,"2025-05-11T23:26:00",25361141,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,11,"2025-05-11T23:26:00","Castelo De Paiva","Aveiro","Norte",-8.319068,41.041377
 25361227,"Gafanha da Boa Hora","Região de Aveiro",310,"2025-05-12T00:11:00",25361227,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-12T00:11:00","Vagos","Aveiro","Centro",-8.766714,40.528195
-25361258,"Alcantarilha e Pêra","Algarve",313,"2025-05-12T00:33:00",25361258,"Em curso","2407","Despiste",0,2,0,7,"2025-05-12T00:33:00","Silves","Faro","Algarve",-8.352626,37.169974
+25361258,"Alcantarilha e Pêra","Algarve",313,"2025-05-12T00:33:00",25361258,"Em resolução","2407","Despiste",0,3,0,9,"2025-05-12T00:33:00","Silves","Faro","Algarve",-8.352626,37.169974
