@@ -1,7 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25366606,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão",Tâmega e Sousa,309,2025-05-13T08:56:00Z,25366606,Em despacho,3301,Queda de árvore,0,1,0,1,2025-05-13T08:56:00Z,Amarante,Porto,Norte,-8.074493,41.278182
+25366518,São João da Madeira,Area M. Porto,309,2025-05-13T08:34:00Z,25366518,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-05-13T08:34:00Z,São João Da Madeira,Aveiro,Norte,-8.490365,40.895632
 25366453,Santa Maria Maior e Monserrate e Meadela,Alto Minho,309,2025-05-13T08:14:00Z,25366453,Em despacho,3315,Inundação de estruturas por precipitação intensa,0,1,0,2,2025-05-13T08:14:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.81652,41.703882
 25366576,Santa Joana,Região de Aveiro,310,2025-05-13T08:48:00Z,25366576,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-05-13T08:48:00Z,Aveiro,Aveiro,Centro,-8.616608,40.631861
 25366594,Nossa Senhora Das Neves,Baixo Alentejo,312,2025-05-13T08:50:00Z,25366594,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-13T08:50:00Z,Beja,Beja,Alentejo,-7.793703,38.021124
-25366518,São João da Madeira,Area M. Porto,309,2025-05-13T08:34:00Z,25366518,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-05-13T08:34:00Z,São João Da Madeira,Aveiro,Norte,-8.490365,40.895632
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25366606,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão",Tâmega e Sousa,309,2025-05-13T08:56:00Z,25366606,Em despacho,3301,Queda de árvore,0,1,0,1,2025-05-13T08:56:00Z,Amarante,Porto,Norte,-8.074493,41.278182
