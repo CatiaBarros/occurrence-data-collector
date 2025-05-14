@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25370763,"Cristelo","Area M. Porto",309,"2025-05-14T06:06:00",25370763,"Em despacho","3203","Detritos confinados",0,1,0,2,"2025-05-14T06:06:00","Paredes","Porto","Norte",-8.358551,41.228673
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25370791,"Beduído e Veiros","Região de Aveiro",310,"2025-05-14T06:46:00",25370791,"Em curso","2403","Colisão rodoviária",0,1,0,2,"2025-05-14T06:46:00","Estarreja","Aveiro","Centro",-8.56076,40.777872
 25366291,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-12T23:59:00",25366291,"Em curso","9115","Operação nacional de assistência",0,0,0,0,"2025-05-12T23:59:00","Matosinhos","Porto","Norte",-8.682603,41.186161
 25368476,"Aljubarrota","Oeste",311,"2025-05-13T14:51:00",25368476,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,2,0,4,"2025-05-13T14:51:00","Alcobaça","Leiria","Centro",-8.952185,39.552779
 25370512,"Rio Mau e Arcos","Area M. Porto",309,"2025-05-14T01:36:00",25370512,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,4,"2025-05-14T01:36:00","Vila Do Conde","Porto","Norte",-8.675992,41.405528
