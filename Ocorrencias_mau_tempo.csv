@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25373447,Encosta do Sol,Grande Lisboa,311,2025-05-14T16:09:00Z,25373447,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,2,2025-05-14T16:09:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.2229120000000009,38.781348
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25373502,Vila Nova da Barquinha,Médio Tejo,311,2025-05-14T16:26:00Z,25373502,Em resolução,3301,Queda de árvore,0,1,0,4,2025-05-14T16:26:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.431282,39.456272
+25373502,Vila Nova da Barquinha,Médio Tejo,311,2025-05-14T16:26:00Z,25373502,Em conclusão,3301,Queda de árvore,0,1,0,4,2025-05-14T16:26:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.431282,39.456272
+25373651,Tornada e Salir do Porto,Oeste,311,2025-05-14T17:04:00Z,25373651,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-05-14T17:04:00Z,Caldas Da Rainha,Leiria,Centro,-9.146348,39.463882
