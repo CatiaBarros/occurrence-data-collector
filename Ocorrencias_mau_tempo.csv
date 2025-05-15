@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25377287,Quarteira,Algarve,313,2025-05-15T13:48:00Z,25377287,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-15T13:48:00Z,Loulé,Faro,Algarve,-8.10754,37.08367
+25378106,Seroa,Tâmega e Sousa,309,2025-05-15T16:17:00Z,25378106,Em despacho,3301,Queda de árvore,0,0,0,0,2025-05-15T16:17:00Z,Paços De Ferreira,Porto,Norte,-8.444791,41.25757
+25378139,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-05-15T16:19:00Z,25378139,Em despacho,3301,Queda de árvore,0,1,0,4,2025-05-15T16:19:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
