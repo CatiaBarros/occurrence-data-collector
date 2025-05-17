@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25386355,Aljubarrota,Oeste,311,2025-05-17T10:46:00Z,25386355,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-05-17T10:46:00Z,Alcobaça,Leiria,Centro,-8.941861,39.565461
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25387446,Riachos,Médio Tejo,311,2025-05-17T14:46:00Z,25387446,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-17T14:46:00Z,Torres Novas,Santarém,Centro,-8.503608,39.431685
