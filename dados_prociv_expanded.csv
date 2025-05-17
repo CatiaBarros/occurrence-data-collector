@@ -1,9 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25366291,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-12T23:59:00",25366291,"Em curso","9115","Operação nacional de assistência",0,11,0,40,"2025-05-12T23:59:00","Matosinhos","Porto","Norte",-8.682603,41.186161
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25384974,"Cumeeira","Região de Coimbra",310,"2025-05-17T01:05:00",25384974,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-17T01:05:00","Penela","Coimbra","Centro",-8.370645,39.94631
-25384992,"Carregado e Cadafais","Oeste",311,"2025-05-17T01:10:00",25384992,"Em resolução","2407","Despiste",0,2,0,3,"2025-05-17T01:10:00","Alenquer","Lisboa","Centro",-9.003565,39.003943
-25385040,"Sines","Alentejo Litoral",312,"2025-05-17T01:55:00",25385040,"Em resolução","2403","Colisão rodoviária",0,6,0,15,"2025-05-17T01:55:00","Sines","Setúbal","Alentejo",-8.819814,37.93496
+25385040,"Sines","Alentejo Litoral",312,"2025-05-17T01:55:00",25385040,"Em resolução","2403","Colisão rodoviária",0,5,0,13,"2025-05-17T01:55:00","Sines","Setúbal","Alentejo",-8.819814,37.93496
 25384715,"Pelariga","Região de Leiria",310,"2025-05-16T23:07:00",25384715,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-05-16T23:07:00","Pombal","Leiria","Centro",-8.628083,39.948196
-25385148,"Cascais e Estoril","Grande Lisboa",311,"2025-05-17T03:07:00",25385148,"Em despacho","3201","Detritos não confinados",0,1,0,5,"2025-05-17T03:07:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.408908,38.704814
-25385119,"Santa Clara e Castelo Viegas","Região de Coimbra",310,"2025-05-17T02:40:00",25385119,"Em conclusão","2407","Despiste",0,4,0,12,"2025-05-17T02:40:00","Coimbra","Coimbra","Centro",-8.430244,40.197439
+25385119,"Santa Clara e Castelo Viegas","Região de Coimbra",310,"2025-05-17T02:40:00",25385119,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-17T02:40:00","Coimbra","Coimbra","Centro",-8.43113,40.191849
+25366291,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-12T23:59:00",25366291,"Em curso","9115","Operação nacional de assistência",0,17,0,61,"2025-05-12T23:59:00","Matosinhos","Porto","Norte",-8.682603,41.186161
+25385179,"Vilaça e Fradelos","Cávado",309,"2025-05-17T03:43:00",25385179,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-17T03:43:00","Braga","Braga","Norte",-8.479286,41.518113
