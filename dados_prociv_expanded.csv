@@ -1,10 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25389815,"Vilar da Veiga","Cávado",309,"2025-05-18T01:43:00",25389815,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,1,0,2,"2025-05-18T01:43:00","Terras De Bouro","Braga","Norte",-8.12617,41.75885
-25389981,"Igreja Nova e Cheleiros","Grande Lisboa",311,"2025-05-18T03:33:00",25389981,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-18T03:33:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.321418,38.89208
-25390033,"Campanhã","Area M. Porto",309,"2025-05-18T04:32:00",25390033,"Em despacho","3201","Detritos não confinados",0,1,0,5,"2025-05-18T04:32:00","Porto","Porto","Norte",-8.58674,41.16732
-25388108,"Santo António Dos Olivais","Região de Coimbra",310,"2025-05-17T17:11:00",25388108,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-17T17:11:00","Coimbra","Coimbra","Centro",-8.400274,40.210754
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25389919,"Amora","Península de Setúbal",311,"2025-05-18T02:47:00",25389919,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-18T02:47:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.128863,38.61388
-25390038,"Sá","Alto Minho",309,"2025-05-18T04:35:00",25390038,"Em conclusão","3203","Detritos confinados",0,3,0,9,"2025-05-18T04:35:00","Ponte De Lima","Viana Do Castelo","Norte",-8.619453,41.77318
-25366291,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-12T23:59:00",25366291,"Em curso","9115","Operação nacional de assistência",0,27,0,90,"2025-05-12T23:59:00","Matosinhos","Porto","Norte",-8.682603,41.186161
+25390155,"Sá","Alto Minho",309,"2025-05-18T06:02:00",25390155,"Em curso","3203","Detritos confinados",0,1,0,5,"2025-05-18T06:02:00","Ponte De Lima","Viana Do Castelo","Norte",-8.611032,41.773533
+25388108,"Santo António Dos Olivais","Região de Coimbra",310,"2025-05-17T17:11:00",25388108,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-17T17:11:00","Coimbra","Coimbra","Centro",-8.400274,40.210754
+25390145,"São Teotónio","Alentejo Litoral",312,"2025-05-18T06:03:00",25390145,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-18T06:03:00","Odemira","Beja","Alentejo",-8.71788,37.51038
+25390033,"Campanhã","Area M. Porto",309,"2025-05-18T04:32:00",25390033,"Em despacho","3201","Detritos não confinados",0,1,0,5,"2025-05-18T04:32:00","Porto","Porto","Norte",-8.58674,41.16732
+25390151,"Carvoeira e Carmões","Oeste",311,"2025-05-18T06:08:00",25390151,"Em despacho","2407","Despiste",0,3,0,9,"2025-05-18T06:08:00","Torres Vedras","Lisboa","Centro",-9.16968,39.07561
+25366291,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-12T23:59:00",25366291,"Em curso","9115","Operação nacional de assistência",0,33,0,110,"2025-05-12T23:59:00","Matosinhos","Porto","Norte",-8.682603,41.186161
 25390084,"Alhos Vedros","Península de Setúbal",311,"2025-05-18T05:03:00",25390084,"Em resolução","2407","Despiste",0,3,0,9,"2025-05-18T05:03:00","Moita","Setúbal","Área Metropolitana De Lisboa",-9.011669,38.634499
+25390148,"Misericórdia","Grande Lisboa",311,"2025-05-18T06:00:00",25390148,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-05-18T06:00:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.146675,38.705441
