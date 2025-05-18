@@ -1,12 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25393712,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-05-18T23:19:00",25393712,"Em conclusão","2403","Colisão rodoviária",0,4,0,11,"2025-05-18T23:19:00","Évora","Évora","Alentejo",-7.704718,38.471943
-25393763,"Pinhal Novo","Península de Setúbal",311,"2025-05-18T23:39:00",25393763,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-05-18T23:39:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.881886,38.633601
-25393425,"Aljezur","Algarve",313,"2025-05-18T21:38:00",25393425,"Em conclusão","3103","Incêndio rural",0,3,0,12,"2025-05-18T21:38:00","Aljezur","Faro","Algarve",-8.7837974,37.239714
-25393568,"Santo António Dos Olivais","Região de Coimbra",310,"2025-05-18T22:27:00",25393568,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,2,0,8,"2025-05-18T22:27:00","Coimbra","Coimbra","Centro",-8.41737,40.19477
-25393586,"Alpiarça","Lezíria do Tejo",311,"2025-05-18T22:37:00",25393586,"Em conclusão","3201","Detritos não confinados",0,3,0,10,"2025-05-18T22:37:00","Alpiarça","Santarém","Alentejo",-8.5706,39.186457
+25393763,"Pinhal Novo","Península de Setúbal",311,"2025-05-18T23:39:00",25393763,"Em resolução","2403","Colisão rodoviária",0,4,0,11,"2025-05-18T23:39:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.881886,38.633601
+25393857,"Custóias, Leça do Balio e Guifões","Area M. Porto",309,"2025-05-19T00:30:00",25393857,"Em despacho","2407","Despiste",0,1,0,4,"2025-05-19T00:30:00","Matosinhos","Porto","Norte",-8.643123,41.208539
+25393425,"Aljezur","Algarve",313,"2025-05-18T21:38:00",25393425,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-05-18T21:38:00","Aljezur","Faro","Algarve",-8.7837974,37.239714
 25393600,"Colares","Grande Lisboa",311,"2025-05-18T22:39:00",25393600,"Em conclusão","2407","Despiste",0,1,0,5,"2025-05-18T22:39:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.459238,38.804123
-25393623,"Odeceixe","Algarve",313,"2025-05-18T22:40:00",25393623,"Em conclusão","2403","Colisão rodoviária",0,3,0,5,"2025-05-18T22:40:00","Aljezur","Faro","Algarve",-8.774846,37.434235
-25393669,"Pombal","Região de Leiria",310,"2025-05-18T22:40:00",25393669,"Em despacho","3325","Dano na rede de abastecimento de gás",0,1,0,2,"2025-05-18T22:40:00","Pombal","Leiria","Centro",-8.62781,39.910371
 25393703,"Lamego (Almacave e Sé)","Douro",309,"2025-05-18T23:11:00",25393703,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-05-18T23:11:00","Lamego","Viseu","Norte",-7.808172,41.09878
 25393742,"Moure","Cávado",309,"2025-05-18T23:28:00",25393742,"Em curso","2407","Despiste",0,2,0,4,"2025-05-18T23:28:00","Vila Verde","Braga","Norte",-8.481875,41.639948
+25393842,"Odivelas","Grande Lisboa",311,"2025-05-19T00:27:00",25393842,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-05-19T00:27:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.182813,38.793425
