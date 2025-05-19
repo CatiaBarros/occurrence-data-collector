@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25395293,"Aver-o-Mar, Amorim e Terroso",Area M. Porto,309,2025-05-19T10:43:00Z,25395293,Em resolução,3311,Queda de elementos de estruturas edificados,0,8,0,22,2025-05-19T10:43:00Z,Póvoa De Varzim,Porto,Norte,-8.767247,41.406797
-25395611,Tornada e Salir do Porto,Oeste,311,2025-05-19T11:35:00Z,25395611,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-05-19T11:35:00Z,Caldas Da Rainha,Leiria,Centro,-9.15943,39.49095
 25394720,Anais,Alto Minho,309,2025-05-19T09:05:00Z,25394720,Em despacho,3301,Queda de árvore,0,0,0,0,2025-05-19T09:05:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.52981,41.70321
+25395293,"Aver-o-Mar, Amorim e Terroso",Area M. Porto,309,2025-05-19T10:43:00Z,25395293,Em resolução,3311,Queda de elementos de estruturas edificados,0,6,0,17,2025-05-19T10:43:00Z,Póvoa De Varzim,Porto,Norte,-8.767247,41.406797
+25395611,Tornada e Salir do Porto,Oeste,311,2025-05-19T11:35:00Z,25395611,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-05-19T11:35:00Z,Caldas Da Rainha,Leiria,Centro,-9.15943,39.49095
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
