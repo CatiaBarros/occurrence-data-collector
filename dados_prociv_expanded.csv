@@ -1,5 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25394119,"Mões","Viseu Dão Lafões",310,"2025-05-19T04:57:00",25394119,"Em despacho","2101","Incêndio em edifícios habitacionais",0,1,0,5,"2025-05-19T04:57:00","Castro Daire","Viseu","Centro",-7.88677,40.86744
-25394091,"Alcochete","Península de Setúbal",311,"2025-05-19T04:26:00",25394091,"Em curso","3103","Incêndio rural",0,1,0,5,"2025-05-19T04:26:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-8.945189,38.74693
+25394119,"Mões","Viseu Dão Lafões",310,"2025-05-19T04:57:00",25394119,"Em curso","2101","Incêndio em edifícios habitacionais",0,1,0,5,"2025-05-19T04:57:00","Castro Daire","Viseu","Centro",-7.847316,40.853959
 25394107,"Igreja Nova e Cheleiros","Grande Lisboa",311,"2025-05-19T04:35:00",25394107,"Em curso","2407","Despiste",0,4,0,11,"2025-05-19T04:35:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.290378,38.896896
