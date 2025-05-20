@@ -1,7 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25403351,"Paços de Ferreira","Tâmega e Sousa",309,"2025-05-20T21:45:00",25403351,"Em resolução","2403","Colisão rodoviária",0,1,0,2,"2025-05-20T21:45:00","Paços De Ferreira","Porto","Norte",-8.370658,41.278172
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25403392,"Carreira e Refojos de Riba de Ave","Area M. Porto",309,"2025-05-20T22:07:00",25403392,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-20T22:07:00","Santo Tirso","Porto","Norte",-8.453274,41.296516
-25403492,"Gondomar (São Cosme), Valbom e Jovim","Area M. Porto",309,"2025-05-20T23:00:00",25403492,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-05-20T23:00:00","Gondomar","Porto","Norte",-8.54659,41.13396
 25400494,"Espinhal","Região de Coimbra",310,"2025-05-20T11:20:00",25400494,"Em curso","3109","Gestão de combustível",0,0,0,0,"2025-05-20T11:20:00","Penela","Coimbra","Centro",-8.328655,39.993221
 25403402,"Mina de Água","Grande Lisboa",311,"2025-05-20T22:15:00",25403402,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-05-20T22:15:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.236908,38.777438
+25403351,"Paços de Ferreira","Tâmega e Sousa",309,"2025-05-20T21:45:00",25403351,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2025-05-20T21:45:00","Paços De Ferreira","Porto","Norte",-8.370658,41.278172
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25403392,"Carreira e Refojos de Riba de Ave","Area M. Porto",309,"2025-05-20T22:07:00",25403392,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-20T22:07:00","Santo Tirso","Porto","Norte",-8.453274,41.296516
+25403567,"Maceira","Região de Leiria",310,"2025-05-20T23:28:00",25403567,"Em curso","2403","Colisão rodoviária",0,4,0,11,"2025-05-20T23:28:00","Leiria","Leiria","Centro",-8.873565,39.70822
