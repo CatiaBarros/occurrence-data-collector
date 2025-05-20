@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25400893,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-05-20T12:46:00Z,25400893,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,2,2025-05-20T12:46:00Z,Beja,Beja,Alentejo,-7.85522,38.015879
-25401191,Ranhados,Beiras e Serra da Estrela,310,2025-05-20T13:44:00Z,25401191,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-20T13:44:00Z,Mêda,Guarda,Centro,-7.327385,40.992876
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25401926,Marinha Das Ondas,Região de Coimbra,310,2025-05-20T16:05:00Z,25401926,Em despacho,3311,Queda de elementos de estruturas edificados,0,0,0,0,2025-05-20T16:05:00Z,Figueira Da Foz,Coimbra,Centro,-8.88976,40.05794
