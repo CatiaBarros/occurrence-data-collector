@@ -1,3 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25399224,"Nespereira e Casais","Tâmega e Sousa",309,"2025-05-20T07:05:00",25399224,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-20T07:05:00","Lousada","Porto","Norte",-8.30416,41.26086
+25399265,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-05-20T07:19:00",25399265,"Em curso","2401","Atropelamento rodoviário",0,2,0,7,"2025-05-20T07:19:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.297451,38.765315
+25399301,"Paredes","Area M. Porto",309,"2025-05-20T07:34:00",25399301,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-05-20T07:34:00","Paredes","Porto","Norte",-8.340526,41.21359
+25399269,"Grândola e Santa Margarida da Serra","Alentejo Litoral",312,"2025-05-20T07:25:00",25399269,"Em despacho","9113","Operação nacional de proteção e socorro",0,1,0,1,"2025-05-20T07:25:00","Grândola","Setúbal","Alentejo",-8.560713,38.182592
+25399305,"Lagos (São Sebastião e Santa Maria)","Algarve",313,"2025-05-20T07:42:00",25399305,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,14,"2025-05-20T07:42:00","Lagos","Faro","Algarve",-8.67423,37.10596
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25399295,"Boliqueime","Algarve",313,"2025-05-20T07:39:00",25399295,"Em despacho","3103","Incêndio rural",0,3,0,15,"2025-05-20T07:39:00","Loulé","Faro","Algarve",-8.15358,37.15314
