@@ -1,5 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25403829,"Alcântara","Grande Lisboa",311,"2025-05-21T02:41:00",25403829,"Em curso","2407","Despiste",0,0,0,0,"2025-05-21T02:41:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.175963,38.703851
 25403351,"Paços de Ferreira","Tâmega e Sousa",309,"2025-05-20T21:45:00",25403351,"Em conclusão","2403","Colisão rodoviária",0,0,0,0,"2025-05-20T21:45:00","Paços De Ferreira","Porto","Norte",-8.370658,41.278172
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25403616,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-20T23:46:00",25403616,"Em curso","2503","Acidente químico dentro de instalação",0,12,0,34,"2025-05-20T23:46:00","Matosinhos","Porto","Norte",-8.682603,41.186161
