@@ -1,7 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25408715,"Briteiros São Salvador e Briteiros Santa Leocádia","Ave",309,"2025-05-22T02:00:00",25408715,"Em curso","4327","Busca e resgate terrestre de pessoas",0,5,0,12,"2025-05-22T02:00:00","Guimarães","Braga","Norte",-8.332529,41.526908
-25408764,"Beja (Salvador e Santa Maria da Feira)","Baixo Alentejo",312,"2025-05-22T02:57:00",25408764,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,2,0,4,"2025-05-22T02:57:00","Beja","Beja","Alentejo",-7.85522,38.015879
-25408750,"Bonfim","Area M. Porto",309,"2025-05-22T02:45:00",25408750,"Em despacho","3203","Detritos confinados",0,1,0,5,"2025-05-22T02:45:00","Porto","Porto","Norte",-8.599628,41.14849
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25408759,"Montijo e Afonsoeiro","Península de Setúbal",311,"2025-05-22T02:58:00",25408759,"Em despacho","3323","Dano na rede de abastecimento de água",0,1,0,1,"2025-05-22T02:58:00","Montijo","Setúbal","Área Metropolitana De Lisboa",-8.97565,38.70788
-25408786,"Ermesinde","Area M. Porto",309,"2025-05-22T03:32:00",25408786,"Em despacho","3317","Inundação de estruturas por água canalizada",0,0,0,0,"2025-05-22T03:32:00","Valongo","Porto","Norte",-8.55593,41.20887
+25408786,"Ermesinde","Area M. Porto",309,"2025-05-22T03:32:00",25408786,"Em curso","3317","Inundação de estruturas por água canalizada",0,2,0,4,"2025-05-22T03:32:00","Valongo","Porto","Norte",-8.55593,41.20887
+25408816,"Areias","Cávado",309,"2025-05-22T04:05:00",25408816,"Em despacho","3103","Incêndio rural",0,2,0,7,"2025-05-22T04:05:00","Barcelos","Braga","Norte",-8.54502,41.56602
