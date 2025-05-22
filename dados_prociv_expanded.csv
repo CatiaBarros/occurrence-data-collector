@@ -1,5 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25408781,"Loulé (São Clemente)","Algarve",313,"2025-05-22T03:24:00",25408781,"Em conclusão","2401","Atropelamento rodoviário",0,6,0,9,"2025-05-22T03:24:00","Loulé","Faro","Algarve",-7.999718,37.141271
 25408816,"Areias","Cávado",309,"2025-05-22T04:05:00",25408816,"Em curso","3103","Incêndio rural",0,5,0,19,"2025-05-22T04:05:00","Barcelos","Braga","Norte",-8.54359,41.565293
-25408868,"Santo António Dos Cavaleiros e Frielas","Grande Lisboa",311,"2025-05-22T04:47:00",25408868,"Em despacho","2403","Colisão rodoviária",0,4,0,11,"2025-05-22T04:47:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.171619,38.815144
+25408868,"Santo António Dos Cavaleiros e Frielas","Grande Lisboa",311,"2025-05-22T04:47:00",25408868,"Em curso","2403","Colisão rodoviária",0,5,0,13,"2025-05-22T04:47:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.171619,38.815144
