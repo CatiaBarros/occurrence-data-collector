@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25413179,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-05-22T22:10:00Z,25413179,Em conclusão,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-05-22T22:10:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.22967,38.696612
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25413452,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-05-23T00:22:00Z,25413452,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-23T00:22:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.380334,38.768062
+25413441,Odivelas,Grande Lisboa,311,2025-05-23T00:03:00Z,25413441,Em despacho,3313,Deslizamento de terras,0,2,0,10,2025-05-23T00:03:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194374,38.796924
