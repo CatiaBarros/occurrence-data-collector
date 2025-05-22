@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25411974,Cadaval e Pêro Moniz,Oeste,311,2025-05-22T17:02:00Z,25411974,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,9,2025-05-22T17:02:00Z,Cadaval,Lisboa,Centro,-9.101481,39.244497
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25411974,Cadaval e Pêro Moniz,Oeste,311,2025-05-22T17:02:00Z,25411974,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,3,0,9,2025-05-22T17:02:00Z,Cadaval,Lisboa,Centro,-9.101481,39.244497
+25412077,Semide e Rio Vide,Região de Coimbra,310,2025-05-22T17:38:00Z,25412077,Em despacho,3301,Queda de árvore,0,0,0,0,2025-05-22T17:38:00Z,Miranda Do Corvo,Coimbra,Centro,-8.328011,40.176944
