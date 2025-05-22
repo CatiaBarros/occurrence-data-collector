@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25408816,"Areias","Cávado",309,"2025-05-22T04:05:00",25408816,"Em curso","3103","Incêndio rural",0,6,0,21,"2025-05-22T04:05:00","Barcelos","Braga","Norte",-8.54359,41.565293
-25408868,"Santo António Dos Cavaleiros e Frielas","Grande Lisboa",311,"2025-05-22T04:47:00",25408868,"Em conclusão","2403","Colisão rodoviária",0,5,0,13,"2025-05-22T04:47:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.171619,38.815144
-25408895,"Castelo Branco","Beira Baixa",310,"2025-05-22T05:28:00",25408895,"Em despacho","2301","Incêndio em transporte rodoviário",0,2,0,4,"2025-05-22T05:28:00","Castelo Branco","Castelo Branco","Centro",-7.490756,39.816895
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25408889,"Grijó e Sermonde","Area M. Porto",309,"2025-05-22T05:34:00",25408889,"Em despacho","2101","Incêndio em edifícios habitacionais",0,0,0,0,"2025-05-22T05:34:00","Vila Nova De Gaia","Porto","Norte",-8.58549,41.02348
+25408889,"Grijó e Sermonde","Area M. Porto",309,"2025-05-22T05:34:00",25408889,"Em curso","2101","Incêndio em edifícios habitacionais",0,5,0,17,"2025-05-22T05:34:00","Vila Nova De Gaia","Porto","Norte",-8.58549,41.02348
+25408816,"Areias","Cávado",309,"2025-05-22T04:05:00",25408816,"Em conclusão","3103","Incêndio rural",0,6,0,21,"2025-05-22T04:05:00","Barcelos","Braga","Norte",-8.54359,41.565293
+25408868,"Santo António Dos Cavaleiros e Frielas","Grande Lisboa",311,"2025-05-22T04:47:00",25408868,"Em conclusão","2403","Colisão rodoviária",0,5,0,13,"2025-05-22T04:47:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.171619,38.815144
+25408895,"Castelo Branco","Beira Baixa",310,"2025-05-22T05:28:00",25408895,"Em curso","2301","Incêndio em transporte rodoviário",0,6,0,14,"2025-05-22T05:28:00","Castelo Branco","Castelo Branco","Centro",-7.490756,39.816895
