@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25412803,Gulpilhares e Valadares,Area M. Porto,309,2025-05-22T19:50:00Z,25412803,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-22T19:50:00Z,Vila Nova De Gaia,Porto,Norte,-8.637978,41.084091
 25412810,Alcabideche,Grande Lisboa,311,2025-05-22T20:31:00Z,25412810,Em despacho,3329,Queda de estruturas temporárias ou móveis,0,1,0,5,2025-05-22T20:31:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.402781,38.736294
+25413008,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-05-22T21:19:00Z,25413008,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,4,2025-05-22T21:19:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.054255,38.909809
+25412803,Gulpilhares e Valadares,Area M. Porto,309,2025-05-22T19:50:00Z,25412803,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-22T19:50:00Z,Vila Nova De Gaia,Porto,Norte,-8.637978,41.084091
 25412518,Milheirós,Area M. Porto,309,2025-05-22T19:23:00Z,25412518,Em resolução,3329,Queda de estruturas temporárias ou móveis,0,2,0,4,2025-05-22T19:23:00Z,Maia,Porto,Norte,-8.588631,41.21447
-25412772,Vale da Pedra,Lezíria do Tejo,311,2025-05-22T20:24:00Z,25412772,Em conclusão,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-05-22T20:24:00Z,Cartaxo,Santarém,Alentejo,-8.812939,39.112334
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25412818,Seroa,Tâmega e Sousa,309,2025-05-22T20:39:00Z,25412818,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,0,0,0,2025-05-22T20:39:00Z,Paços De Ferreira,Porto,Norte,-8.42352,41.26328
