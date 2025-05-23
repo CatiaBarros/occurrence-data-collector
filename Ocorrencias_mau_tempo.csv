@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25417934,São João Baptista e Santa Maria Dos Olivais,Médio Tejo,311,2025-05-23T20:53:00Z,25417934,Em conclusão,3317,Inundação de estruturas por água canalizada,0,3,0,9,2025-05-23T20:53:00Z,Tomar,Santarém,Centro,-8.403148,39.60171
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25417326,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-05-23T18:30:00Z,25417326,Em conclusão,3301,Queda de árvore,0,2,0,5,2025-05-23T18:30:00Z,Beja,Beja,Alentejo,-7.873273,38.020917
 25418088,Braga (São Vítor),Cávado,309,2025-05-23T21:10:00Z,25418088,Em despacho,3301,Queda de árvore,0,1,0,2,2025-05-23T21:10:00Z,Braga,Braga,Norte,-8.40979,41.554181
