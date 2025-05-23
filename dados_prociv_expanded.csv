@@ -1,4 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25413376,"Caíde de Rei","Tâmega e Sousa",309,"2025-05-22T23:32:00",25413376,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-05-22T23:32:00","Lousada","Porto","Norte",-8.228177,41.257153
+25413858,"Borba (Matriz)","Alentejo Central",312,"2025-05-23T06:59:00",25413858,"Em conclusão","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2025-05-23T06:59:00","Borba","Évora","Alentejo",-7.455877,38.806238
+25413860,"Ermesinde","Area M. Porto",309,"2025-05-23T06:58:00",25413860,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-23T06:58:00","Valongo","Porto","Norte",-8.554665,41.204437
+25413876,"Alverca do Ribatejo e Sobralinho","Grande Lisboa",311,"2025-05-23T07:04:00",25413876,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-05-23T07:04:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.040251,38.905708
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25413651,"Turquel","Oeste",311,"2025-05-23T03:08:00",25413651,"Em conclusão","2403","Colisão rodoviária",0,6,0,14,"2025-05-23T03:08:00","Alcobaça","Leiria","Centro",-8.947316,39.456023
+25413852,"Pedroso e Seixezelo","Area M. Porto",309,"2025-05-23T07:01:00",25413852,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-05-23T07:01:00","Vila Nova De Gaia","Porto","Norte",-8.55785,41.06333
