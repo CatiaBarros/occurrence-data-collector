@@ -1,6 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25418872,"São João de Ver","Area M. Porto",309,"2025-05-24T03:54:00",25418872,"Em despacho","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-05-24T03:54:00","Santa Maria Da Feira","Aveiro","Norte",-8.57203,40.95556
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25418765,"Faro (Sé e São Pedro)","Algarve",313,"2025-05-24T02:17:00",25418765,"Em conclusão","3201","Detritos não confinados",0,3,0,7,"2025-05-24T02:17:00","Faro","Faro","Algarve",-7.91686,37.01537
+25418765,"Faro (Sé e São Pedro)","Algarve",313,"2025-05-24T02:17:00",25418765,"Em conclusão","3201","Detritos não confinados",0,1,0,1,"2025-05-24T02:17:00","Faro","Faro","Algarve",-7.91686,37.01537
 25418831,"Estrela","Grande Lisboa",311,"2025-05-24T03:12:00",25418831,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-24T03:12:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.160959,38.714352
 25418674,"Tamengos, Aguim e Óis do Bairro","Região de Aveiro",310,"2025-05-24T01:14:00",25418674,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-24T01:14:00","Anadia","Aveiro","Centro",-8.458346,40.424305
 25418841,"S.pedro e Santiago, S.maria e S.miguel e Matacães","Oeste",311,"2025-05-24T03:19:00",25418841,"Em despacho","2401","Atropelamento rodoviário",0,3,0,9,"2025-05-24T03:19:00","Torres Vedras","Lisboa","Centro",-9.277012,39.069067
+25418874,"Caia, São Pedro e Alcáçova","Alto Alentejo",312,"2025-05-24T03:52:00",25418874,"Em curso","3203","Detritos confinados",0,2,0,7,"2025-05-24T03:52:00","Elvas","Portalegre","Alentejo",-7.169645,38.882464
