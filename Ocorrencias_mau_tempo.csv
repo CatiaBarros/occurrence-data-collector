@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25421682,"Assunção, Ajuda, Salvador e Santo Ildefonso",Alto Alentejo,312,2025-05-24T16:06:00Z,25421682,Em curso,3301,Queda de árvore,0,2,0,7,2025-05-24T16:06:00Z,Elvas,Portalegre,Alentejo,-7.18074,38.872955
+25421682,"Assunção, Ajuda, Salvador e Santo Ildefonso",Alto Alentejo,312,2025-05-24T16:06:00Z,25421682,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-05-24T16:06:00Z,Elvas,Portalegre,Alentejo,-7.18074,38.872955
+25421876,Ervidel,Baixo Alentejo,312,2025-05-24T16:54:00Z,25421876,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-24T16:54:00Z,Aljustrel,Beja,Alentejo,-8.081879,37.97313
+25421898,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-05-24T16:56:00Z,25421898,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-05-24T16:56:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.091919,38.623959
