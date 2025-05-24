@@ -1,6 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25418921,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2025-05-24T04:35:00",25418921,"Em conclusão","3203","Detritos confinados",0,2,0,7,"2025-05-24T04:35:00","Leiria","Leiria","Centro",-8.80657,39.74342
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25418980,"Pópulo e Ribalonga","Douro",309,"2025-05-24T05:24:00",25418980,"Em despacho","2407","Despiste",0,1,0,5,"2025-05-24T05:24:00","Alijó","Vila Real","Norte",-7.498795,41.376991
 25418674,"Tamengos, Aguim e Óis do Bairro","Região de Aveiro",310,"2025-05-24T01:14:00",25418674,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-24T01:14:00","Anadia","Aveiro","Centro",-8.458346,40.424305
 25418872,"São João de Ver","Area M. Porto",309,"2025-05-24T03:54:00",25418872,"Em resolução","2301","Incêndio em transporte rodoviário",0,5,0,12,"2025-05-24T03:54:00","Santa Maria Da Feira","Aveiro","Norte",-8.57203,40.95556
-25418938,"Santa Clara e Castelo Viegas","Região de Coimbra",310,"2025-05-24T04:48:00",25418938,"Em curso","4327","Busca e resgate terrestre de pessoas",0,5,0,17,"2025-05-24T04:48:00","Coimbra","Coimbra","Centro",-8.430244,40.197439
+25418938,"Santa Clara e Castelo Viegas","Região de Coimbra",310,"2025-05-24T04:48:00",25418938,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,3,0,10,"2025-05-24T04:48:00","Coimbra","Coimbra","Centro",-8.430244,40.197439
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25418967,"Caxarias","Médio Tejo",311,"2025-05-24T05:22:00",25418967,"Em despacho","2407","Despiste",0,4,0,11,"2025-05-24T05:22:00","Ourém","Santarém","Centro",-8.54247,39.71977
