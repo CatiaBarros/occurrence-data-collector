@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25421898,"Seixal, Arrentela e Aldeia de Paio Pires",Península de Setúbal,311,2025-05-24T16:56:00Z,25421898,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,3,2025-05-24T16:56:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.091919,38.623959
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25421876,Ervidel,Baixo Alentejo,312,2025-05-24T16:54:00Z,25421876,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-05-24T16:54:00Z,Aljustrel,Beja,Alentejo,-8.081879,37.97313
+25421876,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-05-24T16:54:00Z,25421876,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-05-24T16:54:00Z,Aljustrel,Beja,Alentejo,-8.093305,37.878265
+25422060,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-05-24T17:19:00Z,25422060,Em despacho,3309,Desabamento de estruturas edificadas,0,1,0,2,2025-05-24T17:19:00Z,Marco De Canaveses,Porto,Norte,-8.240242,41.086578
