@@ -1,10 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25418522,"Facha","Alto Minho",309,"2025-05-23T23:56:00",25418522,"Em resolução","2407","Despiste",0,1,0,2,"2025-05-23T23:56:00","Ponte De Lima","Viana Do Castelo","Norte",-8.618672,41.701498
-25418674,"Tamengos, Aguim e Óis do Bairro","Região de Aveiro",310,"2025-05-24T01:14:00",25418674,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-24T01:14:00","Anadia","Aveiro","Centro",-8.458346,40.424305
-25418470,"Veade, Gagos e Molares","Tâmega e Sousa",309,"2025-05-23T23:34:00",25418470,"Em despacho","2407","Despiste",0,1,0,2,"2025-05-23T23:34:00","Celorico De Basto","Braga","Norte",-7.991275,41.419409
 25418561,"Vandoma","Area M. Porto",309,"2025-05-24T00:06:00",25418561,"Em despacho","2407","Despiste",0,1,0,3,"2025-05-24T00:06:00","Paredes","Porto","Norte",-8.404916,41.192556
+25418674,"Tamengos, Aguim e Óis do Bairro","Região de Aveiro",310,"2025-05-24T01:14:00",25418674,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-24T01:14:00","Anadia","Aveiro","Centro",-8.458346,40.424305
+25418724,"Vilarinho","Area M. Porto",309,"2025-05-24T01:45:00",25418724,"Em curso","2407","Despiste",0,2,0,4,"2025-05-24T01:45:00","Santo Tirso","Porto","Norte",-8.331512,41.357482
+25418726,"Carcavelos e Parede","Grande Lisboa",311,"2025-05-24T01:42:00",25418726,"Em conclusão","3201","Detritos não confinados",0,1,0,3,"2025-05-24T01:42:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.355169,38.690219
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25418631,"Azurara","Area M. Porto",309,"2025-05-24T00:46:00",25418631,"Em resolução","2407","Despiste",0,2,0,4,"2025-05-24T00:46:00","Vila Do Conde","Porto","Norte",-8.73877,41.350052
-25418633,"Gouveia (São Simão)","Tâmega e Sousa",309,"2025-05-24T00:52:00",25418633,"Em resolução","3103","Incêndio rural",0,3,0,12,"2025-05-24T00:52:00","Amarante","Porto","Norte",-8.063883,41.230177
-25418664,"Mafamude e Vilar do Paraíso","Area M. Porto",309,"2025-05-24T01:11:00",25418664,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,3,0,14,"2025-05-24T01:11:00","Vila Nova De Gaia","Porto","Norte",-8.60243,41.12652
-25418681,"Venteira","Grande Lisboa",311,"2025-05-24T01:12:00",25418681,"Em curso","2407","Despiste",0,1,0,6,"2025-05-24T01:12:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.240965,38.755077
+25418633,"Gouveia (São Simão)","Tâmega e Sousa",309,"2025-05-24T00:52:00",25418633,"Em conclusão","3103","Incêndio rural",0,2,0,7,"2025-05-24T00:52:00","Amarante","Porto","Norte",-8.06278,41.215369
+25418664,"Mafamude e Vilar do Paraíso","Area M. Porto",309,"2025-05-24T01:11:00",25418664,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,18,"2025-05-24T01:11:00","Vila Nova De Gaia","Porto","Norte",-8.60243,41.12652
+25418732,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo","Grande Lisboa",311,"2025-05-24T01:55:00",25418732,"Em resolução","2301","Incêndio em transporte rodoviário",0,4,0,12,"2025-05-24T01:55:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.22755,38.7162
