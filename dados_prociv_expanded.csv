@@ -1,17 +1,14 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,7,0,13,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
-25431893,"Rego","Tâmega e Sousa",309,"2025-05-26T17:47:00",25431893,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-26T17:47:00","Celorico De Basto","Braga","Norte",-8.06481,41.431155
-25432761,"Lordelo do Ouro e Massarelos","Area M. Porto",309,"2025-05-26T21:23:00",25432761,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-05-26T21:23:00","Porto","Porto","Norte",-8.65871,41.1495
-25431688,"Serpins","Região de Coimbra",310,"2025-05-26T17:10:00",25431688,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-26T17:10:00","Lousã","Coimbra","Centro",-8.200016,40.156377
-25432131,"Febres","Região de Coimbra",310,"2025-05-26T18:41:00",25432131,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-05-26T18:41:00","Cantanhede","Coimbra","Centro",-8.63492,40.400257
 25432674,"Custóias, Leça do Balio e Guifões","Area M. Porto",309,"2025-05-26T20:55:00",25432674,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-26T20:55:00","Matosinhos","Porto","Norte",-8.643123,41.208539
-25432692,"Pontinha e Famões","Grande Lisboa",311,"2025-05-26T21:02:00",25432692,"Em conclusão","3103","Incêndio rural",0,5,0,16,"2025-05-26T21:02:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.20833,38.775
-25432835,"Nespereira","Ave",309,"2025-05-26T21:45:00",25432835,"Em resolução","3103","Incêndio rural",0,4,0,17,"2025-05-26T21:45:00","Guimarães","Braga","Norte",-8.330623,41.411703
+25432692,"Pontinha e Famões","Grande Lisboa",311,"2025-05-26T21:02:00",25432692,"Em conclusão","3103","Incêndio rural",0,7,0,20,"2025-05-26T21:02:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.20833,38.775
+25432835,"Nespereira","Ave",309,"2025-05-26T21:45:00",25432835,"Em conclusão","3103","Incêndio rural",0,2,0,10,"2025-05-26T21:45:00","Guimarães","Braga","Norte",-8.330623,41.411703
 25432917,"Albufeira e Olhos de Água","Algarve",313,"2025-05-26T22:09:00",25432917,"Em curso","2407","Despiste",0,1,0,2,"2025-05-26T22:09:00","Albufeira","Faro","Algarve",-8.223069,37.109774
 25432926,"São Domingos de Benfica","Grande Lisboa",311,"2025-05-26T22:16:00",25432926,"Em despacho","2407","Despiste",0,1,0,3,"2025-05-26T22:16:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.176344,38.746518
-25432994,"Cidade da Maia","Area M. Porto",309,"2025-05-26T22:39:00",25432994,"Em curso","2407","Despiste",0,5,0,13,"2025-05-26T22:39:00","Maia","Porto","Norte",-8.60802,41.21958
-25429099,"Anhões e Luzio","Alto Minho",309,"2025-05-26T09:14:00",25429099,"Em conclusão","3109","Gestão de combustível",0,0,0,0,"2025-05-26T09:14:00","Monção","Viana Do Castelo","Norte",-8.43972,41.98083
-25432816,"Azueira e Sobral da Abelheira","Grande Lisboa",311,"2025-05-26T21:36:00",25432816,"Em conclusão","3103","Incêndio rural",0,2,0,10,"2025-05-26T21:36:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.311386,38.982255
-25433025,"Lanheses","Alto Minho",309,"2025-05-26T22:42:00",25433025,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-05-26T22:42:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.686926,41.746459
+25432994,"Cidade da Maia","Area M. Porto",309,"2025-05-26T22:39:00",25432994,"Em resolução","2407","Despiste",0,5,0,13,"2025-05-26T22:39:00","Maia","Porto","Norte",-8.607932,41.219568
+25433058,"Campanhã","Area M. Porto",309,"2025-05-26T23:05:00",25433058,"Em despacho","2101","Incêndio em edifícios habitacionais",0,1,0,5,"2025-05-26T23:05:00","Porto","Porto","Norte",-8.58914,41.14964
+25433025,"Lanheses","Alto Minho",309,"2025-05-26T22:42:00",25433025,"Em curso","2407","Despiste",0,3,0,6,"2025-05-26T22:42:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.685462,41.75392
+25433043,"Caparica e Trafaria","Península de Setúbal",311,"2025-05-26T22:53:00",25433043,"Em despacho","3301","Queda de árvore",0,2,0,8,"2025-05-26T22:53:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.231582,38.671372
+25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,7,0,13,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
+25431893,"Rego","Tâmega e Sousa",309,"2025-05-26T17:47:00",25431893,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-26T17:47:00","Celorico De Basto","Braga","Norte",-8.06481,41.431155
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25433003,"Moncarapacho e Fuseta","Algarve",313,"2025-05-26T22:38:00",25433003,"Em despacho","2403","Colisão rodoviária",0,3,0,7,"2025-05-26T22:38:00","Olhão","Faro","Algarve",-7.753077,37.053338
+25433003,"Moncarapacho e Fuseta","Algarve",313,"2025-05-26T22:38:00",25433003,"Em resolução","2403","Colisão rodoviária",0,3,0,7,"2025-05-26T22:38:00","Olhão","Faro","Algarve",-7.753077,37.053338
