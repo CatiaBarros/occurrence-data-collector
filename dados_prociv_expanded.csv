@@ -1,1 +1,33 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25428556,"Nossa Senhora Das Misericórdias","Médio Tejo",311,"2025-05-26T07:25:00",25428556,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-26T07:25:00","Ourém","Santarém","Centro",-8.603968,39.653713
+25428649,"Vermoim","Ave",309,"2025-05-26T07:48:00",25428649,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-05-26T07:48:00","Vila Nova De Famalicão","Braga","Norte",-8.44404,41.417651
+25428656,"São Luís","Alentejo Litoral",312,"2025-05-26T07:51:00",25428656,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-26T07:51:00","Odemira","Beja","Alentejo",-8.604235,37.722948
+25428797,"Murtosa","Região de Aveiro",310,"2025-05-26T08:23:00",25428797,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-26T08:23:00","Murtosa","Aveiro","Centro",-8.63389,40.736155
+25428829,"Avanca","Região de Aveiro",310,"2025-05-26T08:34:00",25428829,"Em conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-05-26T08:34:00","Estarreja","Aveiro","Centro",-8.575154,40.804832
+25428890,"São João da Madeira","Area M. Porto",309,"2025-05-26T08:44:00",25428890,"Em despacho","2403","Colisão rodoviária",0,2,0,4,"2025-05-26T08:44:00","São João Da Madeira","Aveiro","Norte",-8.497441,40.896053
+25428922,"Praia do Ribatejo","Médio Tejo",311,"2025-05-26T08:57:00",25428922,"Em resolução","3103","Incêndio rural",0,6,0,24,"2025-05-26T08:57:00","Vila Nova Da Barquinha","Santarém","Centro",-8.364263,39.47076
+25429015,"São Pedro do Sul, Várzea e Baiões","Viseu Dão Lafões",310,"2025-05-26T09:14:00",25429015,"Em curso","4335","Prevenção a queimadas",0,1,0,4,"2025-05-26T09:14:00","São Pedro Do Sul","Viseu","Centro",-8.06785574517679,40.7566544513995
+25429088,"Mora","Alentejo Central",312,"2025-05-26T09:23:00",25429088,"Em despacho","3203","Detritos confinados",0,2,0,7,"2025-05-26T09:23:00","Mora","Évora","Alentejo",-8.168853,38.946775
+25429099,"Anhões e Luzio","Alto Minho",309,"2025-05-26T09:14:00",25429099,"Em despacho","3109","Gestão de combustível",0,1,0,4,"2025-05-26T09:14:00","Monção","Viana Do Castelo","Norte",-8.441732,41.988778
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25427004,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-05-25T18:58:00",25427004,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-05-25T18:58:00","Bragança","Bragança","Norte",-6.761223,41.813164
+25428659,"Mafamude e Vilar do Paraíso","Area M. Porto",309,"2025-05-26T08:00:00",25428659,"Em resolução","2301","Incêndio em transporte rodoviário",0,5,0,12,"2025-05-26T08:00:00","Vila Nova De Gaia","Porto","Norte",-8.624263,41.114833
+25428695,"Lagos (São Sebastião e Santa Maria)","Algarve",313,"2025-05-26T08:06:00",25428695,"Em conclusão","2403","Colisão rodoviária",0,3,0,9,"2025-05-26T08:06:00","Lagos","Faro","Algarve",-8.665276,37.118521
+25428827,"Calvaria de Cima","Região de Leiria",310,"2025-05-26T08:32:00",25428827,"Em resolução","2407","Despiste",0,3,0,6,"2025-05-26T08:32:00","Porto De Mós","Leiria","Centro",-8.855155,39.620072
+25429077,"Carvalhal","Médio Tejo",311,"2025-05-26T09:22:00",25429077,"Em despacho","3321","Dano na rede de fornecimento de eletricidade ",0,1,0,1,"2025-05-26T09:22:00","Abrantes","Santarém","Centro",-8.192179,39.569386
+25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,11,0,19,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
+25428500,"Vade","Cávado",309,"2025-05-26T07:00:00",25428500,"Em despacho","3109","Gestão de combustível",0,7,0,27,"2025-05-26T07:00:00","Vila Verde","Braga","Norte",-8.459313,41.729048
+25428616,"Ferreira do Alentejo e Canhestros","Baixo Alentejo",312,"2025-05-26T07:47:00",25428616,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-26T07:47:00","Ferreira Do Alentejo","Beja","Alentejo",-8.231263,38.041445
+25428836,"Mafra","Grande Lisboa",311,"2025-05-26T08:35:00",25428836,"Em conclusão","3103","Incêndio rural",0,2,0,7,"2025-05-26T08:35:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.321423,38.961437
+25428918,"São Mamede","Região de Leiria",310,"2025-05-26T08:50:00",25428918,"Em curso","2407","Despiste",0,2,0,7,"2025-05-26T08:50:00","Batalha","Leiria","Centro",-8.716682,39.633461
+25429052,"Pombeiro de Ribavizela","Tâmega e Sousa",309,"2025-05-26T09:21:00",25429052,"Em despacho","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,0,0,0,"2025-05-26T09:21:00","Felgueiras","Porto","Norte",-8.21641,41.37983
+25428612,"Camarate, Unhos e Apelação","Grande Lisboa",311,"2025-05-26T07:43:00",25428612,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-05-26T07:43:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.139208,38.802817
+25428691,"Rio Tinto","Area M. Porto",309,"2025-05-26T07:55:00",25428691,"Em resolução","2401","Atropelamento rodoviário",0,3,0,9,"2025-05-26T07:55:00","Gondomar","Porto","Norte",-8.5586,41.1776
+25428805,"Sé e São Lourenço","Alto Alentejo",312,"2025-05-26T08:25:00",25428805,"Em conclusão","2403","Colisão rodoviária",0,4,0,11,"2025-05-26T08:25:00","Portalegre","Portalegre","Alentejo",-7.458292,39.302838
+25428823,"Ermelo e Pardelhas","Ave",309,"2025-05-26T08:34:00",25428823,"Em despacho","2405","Acidente com tratores e máquinas",1,7,0,19,"2025-05-26T08:34:00","Mondim De Basto","Vila Real","Norte",-7.886954,41.359195
+25428839,"Galegos (São Martinho)","Cávado",309,"2025-05-26T08:37:00",25428839,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-26T08:37:00","Barcelos","Braga","Norte",-8.556442,41.55775
+25428939,"Palmela","Península de Setúbal",311,"2025-05-26T08:54:00",25428939,"Em curso","2403","Colisão rodoviária",0,3,0,6,"2025-05-26T08:54:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.908464,38.608366
+25428941,"Ponte de Sor, Tramaga e Vale de Açor","Alto Alentejo",312,"2025-05-26T08:57:00",25428941,"Em conclusão","2403","Colisão rodoviária",0,4,0,11,"2025-05-26T08:57:00","Ponte De Sor","Portalegre","Alentejo",-8.013017,39.247397
+25428989,"Benavente","Lezíria do Tejo",311,"2025-05-26T09:11:00",25428989,"Em resolução","2403","Colisão rodoviária",0,3,0,9,"2025-05-26T09:11:00","Benavente","Santarém","Alentejo",-8.810277,38.977282
+25429000,"Granja Nova e Vila Chã da Beira","Douro",309,"2025-05-26T09:08:00",25429000,"Em despacho","2403","Colisão rodoviária",0,2,0,6,"2025-05-26T09:08:00","Tarouca","Viseu","Norte",-7.687223,41.029943
+25429098,"Moreira","Area M. Porto",309,"2025-05-26T09:21:00",25429098,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-05-26T09:21:00","Maia","Porto","Norte",-8.644928,41.245762
