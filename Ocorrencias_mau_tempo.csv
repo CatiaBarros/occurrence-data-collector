@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25429794,Ferral,Alto Tâmega e Barroso,309,2025-05-26T11:15:00Z,25429794,Em curso,3313,Deslizamento de terras,0,9,0,23,2025-05-26T11:15:00Z,Montalegre,Vila Real,Norte,-7.994152,41.694233
 25431289,Monchique,Algarve,313,2025-05-26T15:35:00Z,25431289,Em curso,3301,Queda de árvore,0,1,0,5,2025-05-26T15:35:00Z,Monchique,Faro,Algarve,-8.567422,37.320753
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25429077,Carvalhal,Médio Tejo,311,2025-05-26T09:22:00Z,25429077,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-05-26T09:22:00Z,Abrantes,Santarém,Centro,-8.192179,39.569386
