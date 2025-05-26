@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25432611,Casal de Cambra,Grande Lisboa,311,2025-05-26T20:30:00Z,25432611,Em curso,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-05-26T20:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.231299,38.802887
+25432324,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-05-26T19:24:00Z,25432324,Em curso,3301,Queda de árvore,0,2,0,4,2025-05-26T19:24:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
 25429794,Ferral,Alto Tâmega e Barroso,309,2025-05-26T11:15:00Z,25429794,Em curso,3313,Deslizamento de terras,0,9,0,23,2025-05-26T11:15:00Z,Montalegre,Vila Real,Norte,-7.994152,41.694233
 25432130,Baixa da Banheira e Vale da Amoreira,Península de Setúbal,311,2025-05-26T18:38:00Z,25432130,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,4,2025-05-26T18:38:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.043028,38.662183
-25432324,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-05-26T19:24:00Z,25432324,Em curso,3301,Queda de árvore,0,2,0,4,2025-05-26T19:24:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.275682,38.698873
-25432611,Casal de Cambra,Grande Lisboa,311,2025-05-26T20:30:00Z,25432611,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,4,2025-05-26T20:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.231299,38.802887
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
