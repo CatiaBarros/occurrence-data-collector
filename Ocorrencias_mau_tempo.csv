@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25437491,Além da Ribeira e Pedreira,Médio Tejo,311,2025-05-27T20:20:00Z,25437491,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-05-27T20:20:00Z,Tomar,Santarém,Centro,-8.40715501819484,39.6827227340344
-25437961,Ribamondego,Beiras e Serra da Estrela,310,2025-05-27T22:42:00Z,25437961,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,5,2025-05-27T22:42:00Z,Gouveia,Guarda,Centro,-7.576267,40.562834
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25437491,Além da Ribeira e Pedreira,Médio Tejo,311,2025-05-27T20:20:00Z,25437491,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,1,2025-05-27T20:20:00Z,Tomar,Santarém,Centro,-8.40715501819484,39.6827227340344
+25437961,Ribamondego,Beiras e Serra da Estrela,310,2025-05-27T22:42:00Z,25437961,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,7,2025-05-27T22:42:00Z,Gouveia,Guarda,Centro,-7.576267,40.562834
