@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25433075,"Alhadas","Região de Coimbra",310,"2025-05-26T23:14:00",25433075,"Em conclusão","3101","Incêndio rural",0,3,0,12,"2025-05-26T23:14:00","Figueira Da Foz","Coimbra","Centro",-8.78972,40.17944
 25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em conclusão","4329","Busca e resgate aquático de pessoas",0,7,0,13,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
-25433231,"Rio Maior","Lezíria do Tejo",311,"2025-05-27T00:34:00",25433231,"Em resolução","2407","Despiste",0,1,0,2,"2025-05-27T00:34:00","Rio Maior","Santarém","Alentejo",-8.987173,39.379982
-25433075,"Alhadas","Região de Coimbra",310,"2025-05-26T23:14:00",25433075,"Em conclusão","3101","Incêndio rural",0,6,0,23,"2025-05-26T23:14:00","Figueira Da Foz","Coimbra","Centro",-8.78972,40.17944
 25433210,"Meca","Oeste",311,"2025-05-27T00:17:00",25433210,"Em conclusão","2407","Despiste",0,6,0,11,"2025-05-27T00:17:00","Alenquer","Lisboa","Centro",-9.03354,39.06701
+25433387,"Carnaxide e Queijas","Grande Lisboa",311,"2025-05-27T02:13:00",25433387,"Em resolução","2407","Despiste",0,2,0,6,"2025-05-27T02:13:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.241613,38.727201
