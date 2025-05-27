@@ -1,7 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25433654,"Barcelinhos","Cávado",309,"2025-05-27T07:00:00",25433654,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-05-27T07:00:00","Barcelos","Braga","Norte",-8.630593,41.520063
-25433585,"Parada de Pinhão","Douro",309,"2025-05-27T06:20:00",25433585,"Em despacho","3103","Incêndio rural",0,4,0,17,"2025-05-27T06:20:00","Sabrosa","Vila Real","Norte",-7.592212,41.343668
 25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,8,0,15,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
 25433613,"Tamengos, Aguim e Óis do Bairro","Região de Aveiro",310,"2025-05-27T06:37:00",25433613,"Em conclusão","2403","Colisão rodoviária",0,3,0,9,"2025-05-27T06:37:00","Anadia","Aveiro","Centro",-8.452167,40.398892
 25433650,"Caldas da Rainha - Santo Onofre e Serra do Bouro","Oeste",311,"2025-05-27T06:45:00",25433650,"Em despacho","4331","Busca e resgate terrestre de animais",0,2,0,4,"2025-05-27T06:45:00","Caldas Da Rainha","Leiria","Centro",-9.148929,39.401713
+25433585,"Parada de Pinhão","Douro",309,"2025-05-27T06:20:00",25433585,"Em despacho","3103","Incêndio rural",0,3,0,15,"2025-05-27T06:20:00","Sabrosa","Vila Real","Norte",-7.592212,41.343668
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25433772,"Mealhada, Ventosa do Bairro e Antes","Região de Coimbra",310,"2025-05-27T07:46:00",25433772,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,2,"2025-05-27T07:46:00","Mealhada","Aveiro","Centro",-8.452118,40.37918
+25433654,"Barcelinhos","Cávado",309,"2025-05-27T07:00:00",25433654,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-05-27T07:00:00","Barcelos","Braga","Norte",-8.630593,41.520063
+25433818,"Fernão Ferro","Península de Setúbal",311,"2025-05-27T07:52:00",25433818,"Em despacho","2403","Colisão rodoviária",0,1,0,5,"2025-05-27T07:52:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.115329,38.572419
