@@ -1,1 +1,29 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25442715,"Sapataria","Oeste",311,"2025-05-28T20:56:00",25442715,"Em despacho","3111","Queima",0,3,0,13,"2025-05-28T20:56:00","Sobral De Monte Agraço","Lisboa","Centro",-9.198053,38.966232
+25442733,"Santiago do Cacém, S.cruz e São Bartolomeu da Serra","Alentejo Litoral",312,"2025-05-28T21:03:00",25442733,"Em despacho","3301","Queda de árvore",0,1,0,1,"2025-05-28T21:03:00","Santiago Do Cacém","Setúbal","Alentejo",-8.6822,38.02093
+25442897,"Lamas","Região de Coimbra",310,"2025-05-28T21:50:00",25442897,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,9,"2025-05-28T21:50:00","Miranda Do Corvo","Coimbra","Centro",-8.38522,40.08654
+25442898,"Carnaxide e Queijas","Grande Lisboa",311,"2025-05-28T21:45:00",25442898,"Em conclusão","2407","Despiste",0,4,0,11,"2025-05-28T21:45:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.233587,38.727201
+25442914,"Rosário","Baixo Alentejo",312,"2025-05-28T21:50:00",25442914,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,2,0,4,"2025-05-28T21:50:00","Almodôvar","Beja","Alentejo",-8.119868,37.577677
+25442933,"Ovar, São João, Arada e São Vicente de Pereira Jusã","Região de Aveiro",310,"2025-05-28T21:53:00",25442933,"Em resolução","3105","Incêndio rural",0,2,0,7,"2025-05-28T21:53:00","Ovar","Aveiro","Centro",-8.66743,40.829583
+25442949,"Santa Iria de Azoia, São João da Talha e Bobadela","Grande Lisboa",311,"2025-05-28T22:05:00",25442949,"Em conclusão","3203","Detritos confinados",0,2,0,7,"2025-05-28T22:05:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.08751,38.84554
+25442770,"Palmela","Península de Setúbal",311,"2025-05-28T21:05:00",25442770,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-05-28T21:05:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.894979,38.568658
+25442988,"Leiria, Pousos, Barreira e Cortes","Região de Leiria",310,"2025-05-28T22:15:00",25442988,"Em despacho","4331","Busca e resgate terrestre de animais",0,2,0,4,"2025-05-28T22:15:00","Leiria","Leiria","Centro",-8.802693,39.73477
+25443011,"Forjães","Cávado",309,"2025-05-28T22:24:00",25443011,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,0,0,0,"2025-05-28T22:24:00","Esposende","Braga","Norte",-8.737518,41.61238
+25442199,NA,NA,0,"2025-05-28T18:54:00",25442199,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-05-28T18:54:00","Beja","Beja","Alentejo",-7.943891,37.829701
+25442726,"São Bartolomeu de Messines","Algarve",313,"2025-05-28T20:46:00",25442726,"Em conclusão","2403","Colisão rodoviária",0,2,0,6,"2025-05-28T20:46:00","Silves","Faro","Algarve",-8.24014,37.246719
+25442819,"Castelo Branco","Beira Baixa",310,"2025-05-28T21:25:00",25442819,"Em curso","3301","Queda de árvore",0,1,0,2,"2025-05-28T21:25:00","Castelo Branco","Castelo Branco","Centro",-7.490756,39.816895
+25443003,"Loures","Grande Lisboa",311,"2025-05-28T22:16:00",25443003,"Em despacho","3301","Queda de árvore",0,1,0,6,"2025-05-28T22:16:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.176421,38.828612
+25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,3,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
+25436571,"Nossa Senhora Das Misericórdias","Médio Tejo",311,"2025-05-27T16:47:00",25436571,"Em conclusão","3101","Incêndio rural",0,1,0,5,"2025-05-27T16:47:00","Ourém","Santarém","Centro",-8.578222,39.646628
+25442153,"Atouguia da Baleia","Oeste",311,"2025-05-28T18:37:00",25442153,"Em conclusão","3105","Incêndio rural",0,6,0,24,"2025-05-28T18:37:00","Peniche","Leiria","Centro",-9.323217,39.33436
+25442538,"Tabuaço","Douro",309,"2025-05-28T20:11:00",25442538,"Em conclusão","2407","Despiste",1,1,0,6,"2025-05-28T20:11:00","Tabuaço","Viseu","Norte",-7.566648,41.114395
+25442608,"Albufeira e Olhos de Água","Algarve",313,"2025-05-28T20:10:00",25442608,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-28T20:10:00","Albufeira","Faro","Algarve",-8.200553,37.092669
+25442725,"Massamá e Monte Abraão","Grande Lisboa",311,"2025-05-28T20:55:00",25442725,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-28T20:55:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.280008,38.753778
+25442773,"Carlão e Amieiro","Douro",309,"2025-05-28T21:15:00",25442773,"Em conclusão","3103","Incêndio rural",0,5,0,17,"2025-05-28T21:15:00","Alijó","Vila Real","Norte",-7.38011,41.324695
+25442823,"Muxagata","Beiras e Serra da Estrela",310,"2025-05-28T21:15:00",25442823,"Em despacho","4333","Busca e resgate aquático de animais",0,2,0,4,"2025-05-28T21:15:00","Fornos De Algodres","Guarda","Centro",-7.465515,40.657548
+25442856,"Atouguia da Baleia","Oeste",311,"2025-05-28T21:29:00",25442856,"Em resolução","3103","Incêndio rural",0,4,0,14,"2025-05-28T21:29:00","Peniche","Leiria","Centro",-9.311405,39.33328
+25442857,"Vila Nova de Cacela","Algarve",313,"2025-05-28T21:40:00",25442857,"Em conclusão","3203","Detritos confinados",0,2,0,7,"2025-05-28T21:40:00","Vila Real De Santo António","Faro","Algarve",-7.560058,37.157087
+25442908,"Queluz e Belas","Grande Lisboa",311,"2025-05-28T21:47:00",25442908,"Em conclusão","2403","Colisão rodoviária",0,2,0,8,"2025-05-28T21:47:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.253541,38.753134
+25442989,"Martim","Cávado",309,"2025-05-28T22:19:00",25442989,"Em despacho","2403","Colisão rodoviária",0,3,0,9,"2025-05-28T22:19:00","Barcelos","Braga","Norte",-8.50579,41.53748
+25443024,"Quinta do Conde","Península de Setúbal",311,"2025-05-28T22:18:00",25443024,"Em despacho","3103","Incêndio rural",0,2,0,9,"2025-05-28T22:18:00","Sesimbra","Setúbal","Área Metropolitana De Lisboa",-9.03613,38.570355
