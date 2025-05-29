@@ -1,8 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25443734,"Venteira","Grande Lisboa",311,"2025-05-29T06:55:00",25443734,"Em resolução","2403","Colisão rodoviária",0,3,0,10,"2025-05-29T06:55:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.240965,38.755077
-25443740,"Portimão","Algarve",313,"2025-05-29T06:55:00",25443740,"Em curso","2403","Colisão rodoviária",0,2,0,7,"2025-05-29T06:55:00","Portimão","Faro","Algarve",-8.5273,37.199255
+25443740,"Portimão","Algarve",313,"2025-05-29T06:55:00",25443740,"Em conclusão","2403","Colisão rodoviária",0,2,0,7,"2025-05-29T06:55:00","Portimão","Faro","Algarve",-8.5273,37.199255
+25443831,"Rio Tinto","Area M. Porto",309,"2025-05-29T07:26:00",25443831,"Em despacho","3103","Incêndio rural",0,1,0,2,"2025-05-29T07:26:00","Gondomar","Porto","Norte",-8.560102,41.179302
 25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,3,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
 25442199,NA,NA,0,"2025-05-28T18:54:00",25442199,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-05-28T18:54:00","Beja","Beja","Alentejo",-7.943891,37.829701
-25443637,"a Dos Cunhados e Maceira","Oeste",311,"2025-05-29T06:02:00",25443637,"Em despacho","3103","Incêndio rural",0,2,0,7,"2025-05-29T06:02:00","Torres Vedras","Lisboa","Centro",-9.330928,39.18391
+25443637,"a Dos Cunhados e Maceira","Oeste",311,"2025-05-29T06:02:00",25443637,"Em conclusão","3111","Queima",0,2,0,7,"2025-05-29T06:02:00","Torres Vedras","Lisboa","Centro",-9.330928,39.18391
 25443746,"Silgueiros","Viseu Dão Lafões",310,"2025-05-29T07:04:00",25443746,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-05-29T07:04:00","Viseu","Viseu","Centro",-7.984364,40.553448
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25443734,"Venteira","Grande Lisboa",311,"2025-05-29T06:55:00",25443734,"Em conclusão","2403","Colisão rodoviária",0,1,0,2,"2025-05-29T06:55:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.240965,38.755077
+25443803,"Branca","Região de Aveiro",310,"2025-05-29T07:11:00",25443803,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-05-29T07:11:00","Albergaria-a-Velha","Aveiro","Centro",-8.482518,40.76643
