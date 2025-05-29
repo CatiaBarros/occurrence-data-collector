@@ -1,6 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,3,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25443584,"Mansores","Area M. Porto",309,"2025-05-29T05:07:00",25443584,"Em despacho","3301","Queda de árvore",0,1,0,2,"2025-05-29T05:07:00","Arouca","Aveiro","Norte",-8.363771,40.934787
 25442199,NA,NA,0,"2025-05-28T18:54:00",25442199,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-05-28T18:54:00","Beja","Beja","Alentejo",-7.943891,37.829701
-25443612,"Armação de Pêra","Algarve",313,"2025-05-29T05:15:00",25443612,"Em curso","2407","Despiste",0,4,0,11,"2025-05-29T05:15:00","Silves","Faro","Algarve",-8.355807,37.10329
+25443612,"Armação de Pêra","Algarve",313,"2025-05-29T05:15:00",25443612,"Em conclusão","2407","Despiste",0,4,0,11,"2025-05-29T05:15:00","Silves","Faro","Algarve",-8.355807,37.10329
+25443637,"a Dos Cunhados e Maceira","Oeste",311,"2025-05-29T06:02:00",25443637,"Em despacho","3111","Queima",0,0,0,0,"2025-05-29T06:02:00","Torres Vedras","Lisboa","Centro",-9.330928,39.18391
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25443649,"Moncarapacho e Fuseta","Algarve",313,"2025-05-29T06:08:00",25443649,"Em despacho","3111","Queima",0,0,0,0,"2025-05-29T06:08:00","Olhão","Faro","Algarve",-7.771635,37.03238
+25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,3,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
