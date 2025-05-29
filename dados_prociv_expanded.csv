@@ -1,12 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,3,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
-25443343,"Lamelas e Guimarei","Area M. Porto",309,"2025-05-29T00:44:00",25443343,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-05-29T00:44:00","Santo Tirso","Porto","Norte",-8.480457,41.308197
-25443425,"Riachos","Médio Tejo",311,"2025-05-29T01:42:00",25443425,"Em despacho","2407","Despiste",0,2,0,8,"2025-05-29T01:42:00","Torres Novas","Santarém","Centro",-8.511802,39.443368
 25442199,NA,NA,0,"2025-05-28T18:54:00",25442199,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-05-28T18:54:00","Beja","Beja","Alentejo",-7.943891,37.829701
-25443321,"Cardosas","Oeste",311,"2025-05-29T00:32:00",25443321,"Em despacho","3103","Incêndio rural",0,2,0,7,"2025-05-29T00:32:00","Arruda Dos Vinhos","Lisboa","Centro",-9.053798,38.98209
-25443389,"Loures","Grande Lisboa",311,"2025-05-29T01:13:00",25443389,"Em despacho","3203","Detritos confinados",0,2,0,7,"2025-05-29T01:13:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.176421,38.828612
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25442715,"Sapataria","Oeste",311,"2025-05-28T20:56:00",25442715,"Em despacho","3111","Queima",0,3,0,13,"2025-05-28T20:56:00","Sobral De Monte Agraço","Lisboa","Centro",-9.198053,38.966232
-25443368,"Santa Maria Maior e Monserrate e Meadela","Alto Minho",309,"2025-05-29T01:01:00",25443368,"Em conclusão","2109","Incêndio em edifícios escolares",0,1,0,6,"2025-05-29T01:01:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.82683,41.7049
-25443399,"Eja","Tâmega e Sousa",309,"2025-05-29T01:20:00",25443399,"Em curso","2407","Despiste",0,2,0,4,"2025-05-29T01:20:00","Penafiel","Porto","Norte",-8.294077,41.096782
-25443400,"Braga (Maximinos, Sé e Cividade)","Cávado",309,"2025-05-29T01:26:00",25443400,"Em despacho","4327","Busca e resgate terrestre de pessoas",0,1,0,2,"2025-05-29T01:26:00","Braga","Braga","Norte",-8.43331,41.5485
+25443399,"Eja","Tâmega e Sousa",309,"2025-05-29T01:20:00",25443399,"Em conclusão","2407","Despiste",0,2,0,4,"2025-05-29T01:20:00","Penafiel","Porto","Norte",-8.294077,41.096782
+25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,2,0,3,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
+25443425,"Riachos","Médio Tejo",311,"2025-05-29T01:42:00",25443425,"Em conclusão","2407","Despiste",0,3,0,10,"2025-05-29T01:42:00","Torres Novas","Santarém","Centro",-8.513437,39.430007
