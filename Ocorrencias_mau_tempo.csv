@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25451410,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-05-30T13:52:00Z,25451410,Em despacho,3301,Queda de árvore,0,1,0,3,2025-05-30T13:52:00Z,Vila Nova De Gaia,Porto,Norte,-8.624714,41.132843
 25451404,Peniche,Oeste,311,2025-05-30T14:08:00Z,25451404,Em despacho,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,7,2025-05-30T14:08:00Z,Peniche,Leiria,Centro,-9.376833,39.357166
+25451410,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-05-30T13:52:00Z,25451410,Em despacho,3301,Queda de árvore,0,1,0,3,2025-05-30T13:52:00Z,Vila Nova De Gaia,Porto,Norte,-8.624714,41.132843
+25451498,Sardoal,Médio Tejo,311,2025-05-30T14:33:00Z,25451498,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-05-30T14:33:00Z,Sardoal,Santarém,Centro,-8.158693,39.533153
