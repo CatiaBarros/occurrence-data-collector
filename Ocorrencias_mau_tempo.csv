@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
-25453454,Quarteira,Algarve,313,2025-05-30T19:00:00Z,25453454,Em despacho,3301,Queda de árvore,0,2,0,3,2025-05-30T19:00:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
 25453172,Santa Eulália,Ave,309,2025-05-30T20:29:00Z,25453172,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,3,2025-05-30T20:29:00Z,Vizela,Braga,Norte,-8.30994,41.35081
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
+25453639,Moita,Península de Setúbal,311,2025-05-30T22:19:00Z,25453639,Em despacho,3311,Queda de elementos de estruturas edificados,0,1,0,5,2025-05-30T22:19:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.985364,38.643702
