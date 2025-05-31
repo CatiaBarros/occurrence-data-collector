@@ -1,1 +1,22 @@
-""
+"id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,6,0,11,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
+25453220,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail","Area M. Porto",309,"2025-05-30T20:27:00",25453220,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-05-30T20:27:00","Oliveira De Azeméis","Aveiro","Norte",-8.464642,40.827185
+25453721,"Quinchães","Ave",309,"2025-05-30T22:44:00",25453721,"Em resolução","2407","Despiste",0,1,0,2,"2025-05-30T22:44:00","Fafe","Braga","Norte",-8.143813,41.42966
+25454022,"Cativelos","Beiras e Serra da Estrela",310,"2025-05-31T00:34:00",25454022,"Em resolução","2407","Despiste",0,3,0,6,"2025-05-31T00:34:00","Gouveia","Guarda","Centro",-7.679413,40.530325
+25454054,"Alpendorada, Várzea e Torrão","Tâmega e Sousa",309,"2025-05-31T00:55:00",25454054,"Em despacho","2407","Despiste",0,2,0,4,"2025-05-31T00:55:00","Marco De Canaveses","Porto","Norte",-8.240242,41.086578
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25445507,"Cabeça Gorda","Baixo Alentejo",312,"2025-05-29T12:44:00",25445507,"Em conclusão","3101","Incêndio rural",0,0,0,0,"2025-05-29T12:44:00","Beja","Beja","Alentejo",-7.811333,37.900468
+25446525,"Alcaria Ruiva","Baixo Alentejo",312,"2025-05-29T15:45:00",25446525,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-05-29T15:45:00","Mértola","Beja","Alentejo",-7.791125,37.724672
+25452022,"Santa Clara-a-Nova e Gomes Aires","Baixo Alentejo",312,"2025-05-30T15:37:00",25452022,"Em conclusão","2509","Acidente químico em trânsito",0,1,0,1,"2025-05-30T15:37:00","Almodôvar","Beja","Alentejo",-8.168165,37.479786
+25453396,"Bonfim","Area M. Porto",309,"2025-05-30T21:15:00",25453396,"Em resolução","2411","Atropelamento ferroviário",0,0,0,0,"2025-05-30T21:15:00","Porto","Porto","Norte",-8.592205,41.14191
+25454062,"Fonte Boa e Rio Tinto","Cávado",309,"2025-05-31T01:00:00",25454062,"Em despacho","2407","Despiste",0,1,0,3,"2025-05-31T01:00:00","Esposende","Braga","Norte",-8.73078,41.500091
+25453716,"Famalicão","Oeste",311,"2025-05-30T22:49:00",25453716,"Em conclusão","2407","Despiste",0,1,0,2,"2025-05-30T22:49:00","Nazaré","Leiria","Centro",-9.090446,39.539112
+25453798,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-05-30T23:18:00",25453798,"Em curso","2403","Colisão rodoviária",0,7,0,17,"2025-05-30T23:18:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.345795,38.786998
+25453834,"Milheirós de Poiares","Area M. Porto",309,"2025-05-30T23:14:00",25453834,"Em resolução","2403","Colisão rodoviária",0,5,0,12,"2025-05-30T23:14:00","Santa Maria Da Feira","Aveiro","Norte",-8.474408,40.922286
+25453263,"Coronado (São Romão e São Mamede)","Area M. Porto",309,"2025-05-30T20:38:00",25453263,"Em resolução","2403","Colisão rodoviária",0,1,0,2,"2025-05-30T20:38:00","Trofa","Porto","Norte",-8.557653,41.279818
+25453597,"Matosinhos e Leça da Palmeira","Area M. Porto",309,"2025-05-30T22:04:00",25453597,"Em resolução","2403","Colisão rodoviária",0,1,0,2,"2025-05-30T22:04:00","Matosinhos","Porto","Norte",-8.667433,41.192413
+25453856,"Outeiro da Cortiçada e Arruda Dos Pisões","Lezíria do Tejo",311,"2025-05-30T23:34:00",25453856,"Em conclusão","3103","Incêndio rural",0,2,0,7,"2025-05-30T23:34:00","Rio Maior","Santarém","Alentejo",-8.818527,39.330275
+25453906,"Ruivães e Novais","Ave",309,"2025-05-30T23:50:00",25453906,"Em curso","3105","Incêndio rural",0,2,0,6,"2025-05-30T23:50:00","Vila Nova De Famalicão","Braga","Norte",-8.438052,41.391653
+25453910,"Lamelas e Guimarei","Area M. Porto",309,"2025-05-30T23:45:00",25453910,"Em resolução","2407","Despiste",0,3,0,7,"2025-05-30T23:45:00","Santo Tirso","Porto","Norte",-8.494102,41.296213
+25454026,"Vilar de Nantes","Alto Tâmega e Barroso",309,"2025-05-31T00:40:00",25454026,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-05-31T00:40:00","Chaves","Vila Real","Norte",-7.444624,41.713947
+25454040,"Faro (Sé e São Pedro)","Algarve",313,"2025-05-31T00:49:00",25454040,"Em despacho","4331","Busca e resgate terrestre de animais",0,2,0,7,"2025-05-31T00:49:00","Faro","Faro","Algarve",-7.942032,37.01865
