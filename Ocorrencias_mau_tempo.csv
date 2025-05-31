@@ -1,6 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25455546,Paranhos,Area M. Porto,309,2025-05-31T10:32:00Z,25455546,Em despacho,3317,Inundação de estruturas por água canalizada,0,1,0,5,2025-05-31T10:32:00Z,Porto,Porto,Norte,-8.604254,41.174248
-25455621,Porto Salvo,Grande Lisboa,311,2025-05-31T10:56:00Z,25455621,Em curso,3321,Dano na rede de fornecimento de eletricidade ,0,1,0,2,2025-05-31T10:56:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.287828,38.726412
+25455621,Porto Salvo,Grande Lisboa,311,2025-05-31T10:56:00Z,25455621,Em conclusão,3321,Dano na rede de fornecimento de eletricidade ,0,2,0,4,2025-05-31T10:56:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.287828,38.726412
 25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25455114,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-05-31T09:08:00Z,25455114,Em despacho,3301,Queda de árvore,0,1,0,5,2025-05-31T09:08:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.194473,38.648295
-25455533,Monte da Pedra,Alto Alentejo,312,2025-05-31T10:34:00Z,25455533,Em conclusão,3301,Queda de árvore,0,1,0,5,2025-05-31T10:34:00Z,Crato,Portalegre,Alentejo,-7.70818,39.352412
