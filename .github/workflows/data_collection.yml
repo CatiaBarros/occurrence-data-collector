@@ -1,53 +1,32 @@
-name: Collect and Filter Data
+name: Atualizar Dados ProCiv
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # Executa a cada 10 minutos
-  workflow_dispatch: # Permite que o workflow seja acionado manualmente pelo GitHub
+    - cron: '*/10 * * * *'  # Executa a cada 10 minutos (UTC)
+  workflow_dispatch:        # Também pode ser executado manualmente
 
 jobs:
-  collect-filter-data:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # Baixar o repositório com os arquivos necessários
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+    - name: ⬇️ Checkout do repositório
+      uses: actions/checkout@v3
 
-      # Instalar dependências de sistema necessárias para o R
-      - name: Install System Dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libudunits2-dev libgdal-dev libgeos-dev libproj-dev
+    - name: 🧪 Instalar R e pacotes
+      uses: r-lib/actions/setup-r@v2
 
-      # Configurar o R no ambiente do GitHub Actions
-      - name: Setup R
-        uses: r-lib/actions/setup-r@v2
+    - name: 📦 Instalar pacotes necessários
+      run: |
+        Rscript -e 'install.packages(c("httr", "jsonlite", "dplyr", "sf", "tools", "readr"), repos = "https://cloud.r-project.org")'
 
-      # Instalar os pacotes R necessários para executar o script
-      - name: Install R Packages
-        run: |
-          R -e 'if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")'
-          R -e 'if (!requireNamespace("jsonlite", quietly = TRUE)) install.packages("jsonlite")'
-          R -e 'if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")'
-          R -e 'if (!requireNamespace("sf", quietly = TRUE)) install.packages("sf")'
-          R -e 'if (!requireNamespace("tools", quietly = TRUE)) install.packages("tools")'
-          R -e 'if (!requireNamespace("readr", quietly = TRUE)) install.packages("readr")'
+    - name: ⚙️ Rodar script R
+      run: Rscript main.R
 
-      # Executar o script R para coletar e filtrar os dados
-      - name: Run Data Collection and Filtering Script
-        run: |
-          set -x # Habilita logs detalhados
-          Rscript collect_data.R || echo "Falha ao executar o script. Verifique os logs."
-
-      # Comitar e enviar os dados coletados e filtrados para o repositório
-      - name: Commit and Push Data
-        run: |
-          git config --local user.name "github-actions"
-          git config --local user.email "github-actions@github.com"
-          git add dados_prociv_expanded.csv Ocorrencias_mau_tempo.csv
-          git commit -m "Update data collected and filtered from API" || exit 0 # Não falhar se não houver mudanças
-          git pull https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/CatiaBarros/occurrence-data-collector.git main
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/CatiaBarros/occurrence-data-collector.git main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: 💾 Commit dos CSVs atualizados
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add dados_prociv_expanded.csv Ocorrencias_incendio.csv
+        git commit -m "🔄 Atualização automática de dados via GitHub Actions" || echo "Nada para commitar"
+        git push
