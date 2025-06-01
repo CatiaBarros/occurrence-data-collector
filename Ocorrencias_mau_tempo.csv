@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
 25461679,"Nossa Senhora do Pópulo, Coto e São Gregório",Oeste,311,2025-06-01T14:28:00Z,25461679,Em curso,3301,Queda de árvore,0,1,0,5,2025-06-01T14:28:00Z,Caldas Da Rainha,Leiria,Centro,-9.13621,39.40688
 25461573,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-06-01T14:10:00Z,25461573,Em curso,3301,Queda de árvore,0,2,0,7,2025-06-01T14:10:00Z,Elvas,Portalegre,Alentejo,-7.180528,38.871592
-25461744,Almeirim,Lezíria do Tejo,311,2025-06-01T14:47:00Z,25461744,Em despacho,3301,Queda de árvore,0,2,0,7,2025-06-01T14:47:00Z,Almeirim,Santarém,Alentejo,-8.588832,39.142251
-25071496,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-03-11T13:18:00Z,25071496,Em conclusão,1101,Cheia,0,0,0,0,2025-03-11T13:18:00Z,Évora,Évora,Alentejo,-7.713313,38.513673
