@@ -1,12 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25465380,Conde e Gandarela,Ave,309,2025-06-02T10:40:00Z,25465380,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-02T10:40:00Z,Guimarães,Braga,Norte,-8.351135,41.399947
-25464547,Montijo e Afonsoeiro,Península de Setúbal,311,2025-06-02T08:27:00Z,25464547,Em conclusão,3203,Detritos confinados,0,2,0,8,2025-06-02T08:27:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.975715,38.702323
-25465642,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-02T11:24:00Z,25465642,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-02T11:24:00Z,Vila Nova De Gaia,Porto,Norte,-8.510908,41.018352
+25465380,Conde e Gandarela,Ave,309,2025-06-02T10:40:00Z,25465380,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-02T10:40:00Z,Guimarães,Braga,Norte,-8.351135,41.399947
 25464149,Cascais e Estoril,Grande Lisboa,311,2025-06-02T06:08:00Z,25464149,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,2,0,6,2025-06-02T06:08:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.39923,38.71103
 25464882,Ceivães e Badim,Alto Minho,309,2025-06-02T09:22:00Z,25464882,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,2,0,6,2025-06-02T09:22:00Z,Monção,Viana Do Castelo,Norte,-8.37409,42.073828
 25465269,Santo André,Alentejo Litoral,312,2025-06-02T10:09:00Z,25465269,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-02T10:09:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.76818,38.062922
+25464547,Montijo e Afonsoeiro,Península de Setúbal,311,2025-06-02T08:27:00Z,25464547,Em conclusão,3203,Detritos confinados,0,2,0,8,2025-06-02T08:27:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.975715,38.702323
+25465642,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-02T11:24:00Z,25465642,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-02T11:24:00Z,Vila Nova De Gaia,Porto,Norte,-8.510908,41.018352
 25457724,Santo André,Alentejo Litoral,312,2025-05-31T18:30:00Z,25457724,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,7,2025-05-31T18:30:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.784407,38.048083
 25465227,Vade,Cávado,309,2025-06-02T10:19:00Z,25465227,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-02T10:19:00Z,Vila Verde,Braga,Norte,-8.457143,41.729773
-25465695,Paranhos,Area M. Porto,309,2025-06-02T11:31:00Z,25465695,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,10,2025-06-02T11:31:00Z,Porto,Porto,Norte,-8.594356,41.17145
+25465695,Paranhos,Area M. Porto,309,2025-06-02T11:31:00Z,25465695,Em despacho,2301,Incêndio em transporte rodoviário,0,3,0,11,2025-06-02T11:31:00Z,Porto,Porto,Norte,-8.594356,41.17145
 25465670,Padreiro (Salvador e Santa Cristina),Alto Minho,309,2025-06-02T11:28:00Z,25465670,Em despacho,3105,Incêndio rural,0,2,0,5,2025-06-02T11:28:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.488662,41.835247
-25465804,Sampriz,Alto Minho,309,2025-06-02T11:43:00Z,25465804,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-02T11:43:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.392082,41.797625
+25465804,Sampriz,Alto Minho,309,2025-06-02T11:43:00Z,25465804,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-02T11:43:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.392082,41.797625
