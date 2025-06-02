@@ -1,7 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25464045,"Sandim, Olival, Lever e Crestuma","Area M. Porto",309,"2025-06-02T04:21:00",25464045,"Em conclusão","3103","Incêndio rural",0,2,0,7,"2025-06-02T04:21:00","Vila Nova De Gaia","Porto","Norte",-8.510908,41.018352
+25464177,"Turquel","Oeste",311,"2025-06-02T06:20:00",25464177,"Em curso","2403","Colisão rodoviária",0,3,0,11,"2025-06-02T06:20:00","Alcobaça","Leiria","Centro",-8.942722,39.439361
+25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,6,0,11,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
+25464149,"Cascais e Estoril","Grande Lisboa",311,"2025-06-02T06:08:00",25464149,"Em curso","2129","Incêndio em edifícios degradados ou devolutos",0,2,0,7,"2025-06-02T06:08:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.39923,38.71103
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25464072,"Queluz e Belas","Grande Lisboa",311,"2025-06-02T04:46:00",25464072,"Em conclusão","2407","Despiste",0,2,0,4,"2025-06-02T04:46:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.270072,38.779997
-25426662,"Coimbrão","Região de Leiria",310,"2025-05-25T17:24:00",25426662,"Em curso","4329","Busca e resgate aquático de pessoas",0,6,0,11,"2025-05-25T17:24:00","Leiria","Leiria","Centro",-8.954228,39.916957
-25464149,"Cascais e Estoril","Grande Lisboa",311,"2025-06-02T06:08:00",25464149,"Em curso","2129","Incêndio em edifícios degradados ou devolutos",0,1,0,5,"2025-06-02T06:08:00","Cascais","Lisboa","Área Metropolitana De Lisboa",-9.39923,38.71103
-25464045,"Sandim, Olival, Lever e Crestuma","Area M. Porto",309,"2025-06-02T04:21:00",25464045,"Em conclusão","3103","Incêndio rural",0,3,0,12,"2025-06-02T04:21:00","Vila Nova De Gaia","Porto","Norte",-8.510908,41.018352
-25464177,"Turquel","Oeste",311,"2025-06-02T06:20:00",25464177,"Em despacho","2403","Colisão rodoviária",0,2,0,8,"2025-06-02T06:20:00","Alcobaça","Leiria","Centro",-8.942722,39.439361
