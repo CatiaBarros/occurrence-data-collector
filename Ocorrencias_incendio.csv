@@ -1,18 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25457724,Santo André,Alentejo Litoral,312,2025-05-31T18:30:00Z,25457724,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,2,2025-05-31T18:30:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.784407,38.048083
-25467699,Falagueira-Venda Nova,Grande Lisboa,311,2025-06-02T18:00:00Z,25467699,Em conclusão,3103,Incêndio rural,0,9,0,30,2025-06-02T18:00:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.222731,38.761289
-25467919,Carvalhosa,Tâmega e Sousa,309,2025-06-02T18:49:00Z,25467919,Em resolução,3201,Detritos não confinados,0,1,0,4,2025-06-02T18:49:00Z,Paços De Ferreira,Porto,Norte,-8.358801,41.300706
+25467345,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-06-02T16:38:00Z,25467345,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-02T16:38:00Z,Ourém,Santarém,Centro,-8.576478,39.647105
 25467674,Quinta do Anjo,Península de Setúbal,311,2025-06-02T17:48:00Z,25467674,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-02T17:48:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.938536,38.564763
-25467776,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-02T18:17:00Z,25467776,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-02T18:17:00Z,Amarante,Porto,Norte,-8.064293,41.229668
+25467776,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-02T18:17:00Z,25467776,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-02T18:17:00Z,Amarante,Porto,Norte,-8.064293,41.229668
 25467790,Loures,Grande Lisboa,311,2025-06-02T18:10:00Z,25467790,Em curso,2117,Incêndio em edifícios comerciais e gares de transporte,0,5,0,12,2025-06-02T18:10:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.160139,38.839673
 25467844,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-02T18:33:00Z,25467844,Em resolução,2301,Incêndio em transporte rodoviário,0,2,0,9,2025-06-02T18:33:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.01865,38.51927
-25468027,Ericeira,Grande Lisboa,311,2025-06-02T19:10:00Z,25468027,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-02T19:10:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.417289,38.967626
-25467345,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-06-02T16:38:00Z,25467345,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,4,0,14,2025-06-02T16:38:00Z,Ourém,Santarém,Centro,-8.576478,39.647105
-25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em resolução,3103,Incêndio rural,0,35,0,101,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
-25467037,Penafiel,Tâmega e Sousa,309,2025-06-02T15:32:00Z,25467037,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-02T15:32:00Z,Penafiel,Porto,Norte,-8.225057,41.227672
-25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,9,0,30,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
-25467521,Carnota,Oeste,311,2025-06-02T17:20:00Z,25467521,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,6,0,19,2025-06-02T17:20:00Z,Alenquer,Lisboa,Centro,-9.044217,39.027728
-25467619,Chancelaria,Alto Alentejo,312,2025-06-02T17:39:00Z,25467619,Em conclusão,3105,Incêndio rural,0,3,0,14,2025-06-02T17:39:00Z,Alter Do Chão,Portalegre,Alentejo,-7.785502,39.237577
-25467696,Póvoa de Santo Adrião e Olival Basto,Grande Lisboa,311,2025-06-02T17:58:00Z,25467696,Em conclusão,3203,Detritos confinados,0,3,0,8,2025-06-02T17:58:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.159939,38.803537
+25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,34,0,97,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
+25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,8,0,29,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
+25467521,Carnota,Oeste,311,2025-06-02T17:20:00Z,25467521,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-02T17:20:00Z,Alenquer,Lisboa,Centro,-9.044217,39.027728
+25467619,Chancelaria,Alto Alentejo,312,2025-06-02T17:39:00Z,25467619,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-02T17:39:00Z,Alter Do Chão,Portalegre,Alentejo,-7.785502,39.237577
+25467696,Póvoa de Santo Adrião e Olival Basto,Grande Lisboa,311,2025-06-02T17:58:00Z,25467696,Em conclusão,3203,Detritos confinados,0,4,0,10,2025-06-02T17:58:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.159939,38.803537
 25467930,Sesimbra (Santiago),Península de Setúbal,311,2025-06-02T18:55:00Z,25467930,Em despacho,3103,Incêndio rural,1,4,0,19,2025-06-02T18:55:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.10033,38.44406
-25468030,Cortiçadas de Lavre e Lavre,Alentejo Central,312,2025-06-02T19:18:00Z,25468030,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-02T19:18:00Z,Montemor-o-Novo,Évora,Alentejo,-8.39219,38.77966
+25468030,Cortiçadas de Lavre e Lavre,Alentejo Central,312,2025-06-02T19:18:00Z,25468030,Em despacho,3103,Incêndio rural,0,5,0,19,2025-06-02T19:18:00Z,Montemor-o-Novo,Évora,Alentejo,-8.39219,38.77966
+25457724,Santo André,Alentejo Litoral,312,2025-05-31T18:30:00Z,25457724,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,2,2025-05-31T18:30:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.784407,38.048083
+25467699,Falagueira-Venda Nova,Grande Lisboa,311,2025-06-02T18:00:00Z,25467699,Em conclusão,3103,Incêndio rural,0,8,0,25,2025-06-02T18:00:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.222731,38.761289
+25467919,Carvalhosa,Tâmega e Sousa,309,2025-06-02T18:49:00Z,25467919,Em conclusão,3201,Detritos não confinados,0,1,0,4,2025-06-02T18:49:00Z,Paços De Ferreira,Porto,Norte,-8.358801,41.300706
+25468105,Arez e Amieira do Tejo,Alto Alentejo,312,2025-06-02T19:32:00Z,25468105,Em conclusão,3101,Incêndio rural,0,5,0,22,2025-06-02T19:32:00Z,Nisa,Portalegre,Alentejo,-7.691003,39.499452
