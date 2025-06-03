@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25469928,Além da Ribeira e Pedreira,Médio Tejo,311,2025-06-03T09:19:00Z,25469928,Em conclusão,3109,Gestão de combustível,0,0,0,0,2025-06-03T09:19:00Z,Tomar,Santarém,Centro,-8.416189,39.64089
-25470553,Loures,Grande Lisboa,311,2025-06-03T11:02:00Z,25470553,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-03T11:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.160448,38.842092
-25470782,Bordeira,Algarve,313,2025-06-03T11:42:00Z,25470782,Em despacho,3103,Incêndio rural,1,6,0,26,2025-06-03T11:42:00Z,Aljezur,Faro,Algarve,-8.90711,37.17383
-25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,4,0,6,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
+25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
+25469928,Além da Ribeira e Pedreira,Médio Tejo,311,2025-06-03T09:19:00Z,25469928,Em conclusão,3109,Gestão de combustível,0,0,0,0,2025-06-03T09:19:00Z,Tomar,Santarém,Centro,-8.416189,39.64089
+25470903,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-06-03T11:54:00Z,25470903,Em despacho,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-03T11:54:00Z,Elvas,Portalegre,Alentejo,-7.113609,38.912756
+25470782,Bordeira,Algarve,313,2025-06-03T11:42:00Z,25470782,Em despacho,3103,Incêndio rural,1,6,0,31,2025-06-03T11:42:00Z,Aljezur,Faro,Algarve,-8.90711,37.17383
