@@ -1,13 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25473233,Gondoriz,Cávado,309,2025-06-03T20:50:00Z,25473233,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-03T20:50:00Z,Terras De Bouro,Braga,Norte,-8.3026,41.72995
-25473315,Arroios,Grande Lisboa,311,2025-06-03T21:16:00Z,25473315,Em despacho,2101,Incêndio em edifícios habitacionais,0,4,0,19,2025-06-03T21:16:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.13545,38.72966
-25473364,Branca,Lezíria do Tejo,311,2025-06-03T21:32:00Z,25473364,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-03T21:32:00Z,Coruche,Santarém,Alentejo,-8.581985,38.83895
 25472550,Avenidas Novas,Grande Lisboa,311,2025-06-03T17:42:00Z,25472550,Em resolução,2101,Incêndio em edifícios habitacionais,0,11,0,36,2025-06-03T17:42:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.147605,38.73891
-25473229,Armação de Pêra,Algarve,313,2025-06-03T20:50:00Z,25473229,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-03T20:50:00Z,Silves,Faro,Algarve,-8.36286,37.10339
-25473277,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-03T21:05:00Z,25473277,Em resolução,3201,Detritos não confinados,0,5,0,19,2025-06-03T21:05:00Z,Beja,Beja,Alentejo,-7.866362,38.029073
-25473123,Gondar,Ave,309,2025-06-03T20:17:00Z,25473123,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-03T20:17:00Z,Guimarães,Braga,Norte,-8.3761,41.42194
-25473308,Carreira e Refojos de Riba de Ave,Area M. Porto,309,2025-06-03T21:07:00Z,25473308,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-03T21:07:00Z,Santo Tirso,Porto,Norte,-8.453274,41.296516
+25473277,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-03T21:05:00Z,25473277,Em resolução,3201,Detritos não confinados,0,2,0,7,2025-06-03T21:05:00Z,Beja,Beja,Alentejo,-7.866362,38.029073
+25473308,Carreira e Refojos de Riba de Ave,Area M. Porto,309,2025-06-03T21:07:00Z,25473308,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-03T21:07:00Z,Santo Tirso,Porto,Norte,-8.449938,41.29113
+25473426,Nossa Senhora da Expectação,Alto Alentejo,312,2025-06-03T21:45:00Z,25473426,Em despacho,3105,Incêndio rural,0,2,0,6,2025-06-03T21:45:00Z,Campo Maior,Portalegre,Alentejo,-7.063944,39.014855
+25473315,Arroios,Grande Lisboa,311,2025-06-03T21:16:00Z,25473315,Em despacho,2101,Incêndio em edifícios habitacionais,0,4,0,19,2025-06-03T21:16:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.13545,38.72966
+25473364,Branca,Lezíria do Tejo,311,2025-06-03T21:32:00Z,25473364,Em despacho,3103,Incêndio rural,0,6,0,24,2025-06-03T21:32:00Z,Coruche,Santarém,Alentejo,-8.581985,38.83895
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
-25473201,Escapães,Area M. Porto,309,2025-06-03T20:41:00Z,25473201,Em curso,3103,Incêndio rural,0,4,0,18,2025-06-03T20:41:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.499133,40.93711
+25473201,Escapães,Area M. Porto,309,2025-06-03T20:41:00Z,25473201,Em conclusão,3103,Incêndio rural,0,4,0,18,2025-06-03T20:41:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.501705,40.941593
 25473303,Fernão Ferro,Península de Setúbal,311,2025-06-03T21:13:00Z,25473303,Em despacho,3103,Incêndio rural,0,5,0,24,2025-06-03T21:13:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.092753,38.58772
+25473380,Ervões,Alto Tâmega e Barroso,309,2025-06-03T21:35:00Z,25473380,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-03T21:35:00Z,Valpaços,Vila Real,Norte,-7.375748,41.644189
