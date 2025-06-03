@@ -1,8 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25469928,Além da Ribeira e Pedreira,Médio Tejo,311,2025-06-03T09:19:00Z,25469928,Em despacho,3109,Gestão de combustível,0,1,0,1,2025-06-03T09:19:00Z,Tomar,Santarém,Centro,-8.416189,39.64089
-25470553,Loures,Grande Lisboa,311,2025-06-03T11:02:00Z,25470553,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-03T11:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.16072,38.84251
+25470553,Loures,Grande Lisboa,311,2025-06-03T11:02:00Z,25470553,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-03T11:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.160448,38.842092
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,4,0,6,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
-25470302,Alvor,Algarve,313,2025-06-03T10:20:00Z,25470302,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-03T10:20:00Z,Portimão,Faro,Algarve,-8.564182,37.148667
 25470388,Alvor,Algarve,313,2025-06-03T10:31:00Z,25470388,Em conclusão,3201,Detritos não confinados,0,5,0,11,2025-06-03T10:31:00Z,Portimão,Faro,Algarve,-8.554023,37.150678
-25470223,Biscainho,Lezíria do Tejo,311,2025-06-03T10:11:00Z,25470223,Em conclusão,3111,Queima,0,2,0,7,2025-06-03T10:11:00Z,Coruche,Santarém,Alentejo,-8.657155,38.909598
