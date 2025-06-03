@@ -1,7 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25469244,"Penafiel","Tâmega e Sousa",309,"2025-06-03T06:01:00",25469244,"Em conclusão","3103","Incêndio rural",0,2,0,10,"2025-06-03T06:01:00","Penafiel","Porto","Norte",-8.266723,41.20427
+25466369,"Melides","Alentejo Litoral",312,"2025-06-02T13:27:00",25466369,"Em conclusão","3103","Incêndio rural",0,4,0,6,"2025-06-02T13:27:00","Grândola","Setúbal","Alentejo",-8.754243,38.19534
+25467128,"Monte Redondo e Carreira","Região de Leiria",310,"2025-06-02T15:48:00",25467128,"Em conclusão","3103","Incêndio rural",0,1,0,2,"2025-06-02T15:48:00","Leiria","Leiria","Centro",-8.860783,39.89848
 25469190,"Ramalde","Area M. Porto",309,"2025-06-03T04:50:00",25469190,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,19,"2025-06-03T04:50:00","Porto","Porto","Norte",-8.63372,41.16745
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25469237,"Vila de Cucujães","Area M. Porto",309,"2025-06-03T05:43:00",25469237,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-06-03T05:43:00","Oliveira De Azeméis","Aveiro","Norte",-8.491203,40.879752
-25466369,"Melides","Alentejo Litoral",312,"2025-06-02T13:27:00",25466369,"Em conclusão","3103","Incêndio rural",0,4,0,6,"2025-06-02T13:27:00","Grândola","Setúbal","Alentejo",-8.754243,38.19534
-25467128,"Monte Redondo e Carreira","Região de Leiria",310,"2025-06-02T15:48:00",25467128,"Em conclusão","3103","Incêndio rural",0,1,0,2,"2025-06-02T15:48:00","Leiria","Leiria","Centro",-8.860783,39.89848
