@@ -1,10 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25470782,Bordeira,Algarve,313,2025-06-03T11:42:00Z,25470782,Em conclusão,3103,Incêndio rural,1,7,0,33,2025-06-03T11:42:00Z,Aljezur,Faro,Algarve,-8.90316,37.17562
-25470916,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-03T12:06:00Z,25470916,Em despacho,2129,Incêndio em edifícios degradados ou devolutos,0,2,0,6,2025-06-03T12:06:00Z,Beja,Beja,Alentejo,-7.857487,38.018587
-25470893,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-06-03T12:01:00Z,25470893,Em curso,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-03T12:01:00Z,Matosinhos,Porto,Norte,-8.699853,41.18651
-25469928,Além da Ribeira e Pedreira,Médio Tejo,311,2025-06-03T09:19:00Z,25469928,Em conclusão,3109,Gestão de combustível,0,0,0,0,2025-06-03T09:19:00Z,Tomar,Santarém,Centro,-8.416189,39.64089
-25470903,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-06-03T11:54:00Z,25470903,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-03T11:54:00Z,Elvas,Portalegre,Alentejo,-7.118678,38.828017
-25470989,Croca,Tâmega e Sousa,309,2025-06-03T12:22:00Z,25470989,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-03T12:22:00Z,Penafiel,Porto,Norte,-8.23813,41.2221
+25470782,Bordeira,Algarve,313,2025-06-03T11:42:00Z,25470782,Em conclusão,3103,Incêndio rural,0,7,0,27,2025-06-03T11:42:00Z,Aljezur,Faro,Algarve,-8.90316,37.17562
+25470916,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-03T12:06:00Z,25470916,Em conclusão,3105,Incêndio rural,0,4,0,13,2025-06-03T12:06:00Z,Beja,Beja,Alentejo,-7.867033,38.0263
+25471086,Sosa,Região de Aveiro,310,2025-06-03T12:47:00Z,25471086,Em despacho,3105,Incêndio rural,0,2,0,7,2025-06-03T12:47:00Z,Vagos,Aveiro,Centro,-8.620443,40.54564
+25470903,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-06-03T11:54:00Z,25470903,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,3,0,10,2025-06-03T11:54:00Z,Elvas,Portalegre,Alentejo,-7.118678,38.828017
+25470989,Croca,Tâmega e Sousa,309,2025-06-03T12:22:00Z,25470989,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-03T12:22:00Z,Penafiel,Porto,Norte,-8.23813,41.2221
+25470893,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-06-03T12:01:00Z,25470893,Em resolução,2301,Incêndio em transporte rodoviário,0,4,0,13,2025-06-03T12:01:00Z,Matosinhos,Porto,Norte,-8.699853,41.18651
+25471076,Avintes,Area M. Porto,309,2025-06-03T12:46:00Z,25471076,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-03T12:46:00Z,Vila Nova De Gaia,Porto,Norte,-8.56149,41.10322
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
-25470954,Alcains,Beira Baixa,310,2025-06-03T12:13:00Z,25470954,Em despacho,3105,Incêndio rural,0,2,0,7,2025-06-03T12:13:00Z,Castelo Branco,Castelo Branco,Centro,-7.474057,39.90875
+25470954,Alcains,Beira Baixa,310,2025-06-03T12:13:00Z,25470954,Em resolução,3105,Incêndio rural,0,8,0,23,2025-06-03T12:13:00Z,Castelo Branco,Castelo Branco,Centro,-7.474665,39.910333
