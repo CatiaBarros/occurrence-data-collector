@@ -1,5 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25469676,Agualva e Mira-Sintra,Grande Lisboa,311,2025-06-03T08:32:00Z,25469676,Em conclusão,3201,Detritos não confinados,0,1,0,4,2025-06-03T08:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.294104,38.769933
-25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,2,0,3,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
+25469928,Além da Ribeira e Pedreira,Médio Tejo,311,2025-06-03T09:19:00Z,25469928,Em despacho,3109,Gestão de combustível,0,1,0,1,2025-06-03T09:19:00Z,Tomar,Santarém,Centro,-8.416189,39.64089
+25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,3,0,5,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
 25469307,Aljezur,Algarve,313,2025-06-03T06:57:00Z,25469307,Em conclusão,3201,Detritos não confinados,0,2,0,7,2025-06-03T06:57:00Z,Aljezur,Faro,Algarve,-8.798547,37.29193
+25469811,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-03T09:02:00Z,25469811,Em resolução,2301,Incêndio em transporte rodoviário,0,4,0,12,2025-06-03T09:02:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.077527,38.84547
