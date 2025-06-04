@@ -1,3 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25476050,São João Baptista,Alto Alentejo,312,2025-06-04T13:25:00Z,25476050,Em conclusão,3103,Incêndio rural,0,5,0,18,2025-06-04T13:25:00Z,Campo Maior,Portalegre,Alentejo,-7.094133,39.008797
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
+25476211,Braga (São Vicente),Cávado,309,2025-06-04T13:48:00Z,25476211,Em curso,2301,Incêndio em transporte rodoviário,0,2,0,8,2025-06-04T13:48:00Z,Braga,Braga,Norte,-8.418903,41.562937
+25476182,Vila Franca de Xira,Grande Lisboa,311,2025-06-04T13:45:00Z,25476182,Em conclusão,3111,Queima,0,1,0,5,2025-06-04T13:45:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.989293,38.955728
+25476231,Mina de Água,Grande Lisboa,311,2025-06-04T14:01:00Z,25476231,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-04T14:01:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.241265,38.7641
+25476247,Quinta do Conde,Península de Setúbal,311,2025-06-04T14:04:00Z,25476247,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-04T14:04:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.04122,38.5614
