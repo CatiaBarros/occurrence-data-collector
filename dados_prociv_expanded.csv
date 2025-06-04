@@ -1,8 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25474097,"Odivelas","Grande Lisboa",311,"2025-06-04T05:50:00",25474097,"Em despacho","2301","Incêndio em transporte rodoviário",0,1,0,5,"2025-06-04T05:50:00","Odivelas","Lisboa","Área Metropolitana De Lisboa",-9.178478,38.790448
 25474104,"Bougado (São Martinho e Santiago)","Area M. Porto",309,"2025-06-04T06:04:00",25474104,"Em despacho","2117","Incêndio em edifícios comerciais e gares de transporte",0,0,0,0,"2025-06-04T06:04:00","Trofa","Porto","Norte",-8.567566,41.336
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25474116,"Requeixo, Nossa Senhora de Fátima e Nariz","Região de Aveiro",310,"2025-06-04T06:05:00",25474116,"Em despacho","3103","Incêndio rural",0,1,0,5,"2025-06-04T06:05:00","Aveiro","Aveiro","Centro",-8.571568,40.568778
+25474116,"Requeixo, Nossa Senhora de Fátima e Nariz","Região de Aveiro",310,"2025-06-04T06:05:00",25474116,"Em curso","3103","Incêndio rural",0,2,0,10,"2025-06-04T06:05:00","Aveiro","Aveiro","Centro",-8.570447,40.565322
 25466369,"Melides","Alentejo Litoral",312,"2025-06-02T13:27:00",25466369,"Em conclusão","3103","Incêndio rural",0,1,0,2,"2025-06-02T13:27:00","Grândola","Setúbal","Alentejo",-8.754243,38.19534
 25467128,"Monte Redondo e Carreira","Região de Leiria",310,"2025-06-02T15:48:00",25467128,"Em conclusão","3103","Incêndio rural",0,1,0,2,"2025-06-02T15:48:00","Leiria","Leiria","Centro",-8.860783,39.89848
 25473387,"Almeirim","Lezíria do Tejo",311,"2025-06-03T21:35:00",25473387,"Em conclusão","4331","Busca e resgate terrestre de animais",0,1,0,4,"2025-06-03T21:35:00","Almeirim","Santarém","Alentejo",-8.588832,39.142251
