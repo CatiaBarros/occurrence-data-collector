@@ -1,6 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25478409,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-04T22:39:00Z,25478409,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-04T22:39:00Z,Vila Nova De Gaia,Porto,Norte,-8.545846,41.046266
-25478330,Sendim,Tâmega e Sousa,309,2025-06-04T22:09:00Z,25478330,Em conclusão,3203,Detritos confinados,0,2,0,7,2025-06-04T22:09:00Z,Felgueiras,Porto,Norte,-8.186937,41.386455
+25478504,Paranhos,Area M. Porto,309,2025-06-04T23:14:00Z,25478504,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-04T23:14:00Z,Porto,Porto,Norte,-8.613518,41.18295
+25478482,Sapataria,Oeste,311,2025-06-04T22:59:00Z,25478482,Em resolução,2101,Incêndio em edifícios habitacionais,0,4,0,11,2025-06-04T22:59:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.197237,38.988758
+25478500,Mértola,Baixo Alentejo,312,2025-06-04T23:10:00Z,25478500,Em despacho,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-04T23:10:00Z,Mértola,Beja,Alentejo,-7.669644,37.645009
 25478290,Valongo,Area M. Porto,309,2025-06-04T22:03:00Z,25478290,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,9,2025-06-04T22:03:00Z,Valongo,Porto,Norte,-8.5169,41.19917
-25478304,Macieira,Tâmega e Sousa,309,2025-06-04T22:05:00Z,25478304,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-04T22:05:00Z,Lousada,Porto,Norte,-8.243273,41.285847
-25478369,São Domingos de Rana,Grande Lisboa,311,2025-06-04T22:29:00Z,25478369,Em despacho,3201,Detritos não confinados,0,1,0,2,2025-06-04T22:29:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.34602,38.718269
