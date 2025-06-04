@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25474990,Casal de Cambra,Grande Lisboa,311,2025-06-04T10:02:00Z,25474990,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,8,2025-06-04T10:02:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.232898,38.79812
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25473778,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-06-04T00:23:00Z,25473778,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,14,2025-06-04T00:23:00Z,Trofa,Porto,Norte,-8.561468,41.334938
+25475431,Benavila e Valongo,Alto Alentejo,312,2025-06-04T11:15:00Z,25475431,Em despacho,3105,Incêndio rural,0,1,0,5,2025-06-04T11:15:00Z,Avis,Portalegre,Alentejo,-7.856463,39.18966
+25474990,Casal de Cambra,Grande Lisboa,311,2025-06-04T10:02:00Z,25474990,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,8,2025-06-04T10:02:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.232898,38.79812
