@@ -1,9 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25474428,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-06-04T08:27:00Z,25474428,Em conclusão,3103,Incêndio rural,0,5,0,19,2025-06-04T08:27:00Z,Cartaxo,Santarém,Alentejo,-8.822751,39.169923
-25474116,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-06-04T06:05:00Z,25474116,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-04T06:05:00Z,Aveiro,Aveiro,Centro,-8.570447,40.565322
-25474263,São Teotónio,Alentejo Litoral,312,2025-06-04T07:20:00Z,25474263,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,3,0,9,2025-06-04T07:20:00Z,Odemira,Beja,Alentejo,-8.785814,37.526075
-25474315,Mafra,Grande Lisboa,311,2025-06-04T08:02:00Z,25474315,Em resolução,2301,Incêndio em transporte rodoviário,0,4,0,14,2025-06-04T08:02:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.3555,38.93024
-25474463,Palmela,Península de Setúbal,311,2025-06-04T08:35:00Z,25474463,Em despacho,3111,Queima,0,1,0,5,2025-06-04T08:35:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.883534,38.571434000000004
+25474428,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-06-04T08:27:00Z,25474428,Em conclusão,3103,Incêndio rural,0,5,0,19,2025-06-04T08:27:00Z,Cartaxo,Santarém,Alentejo,-8.828787,39.168033
+25474315,Mafra,Grande Lisboa,311,2025-06-04T08:02:00Z,25474315,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,14,2025-06-04T08:02:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.3555,38.93024
+25474463,Palmela,Península de Setúbal,311,2025-06-04T08:35:00Z,25474463,Em conclusão,3111,Queima,0,2,0,7,2025-06-04T08:35:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.883534,38.571434000000004
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
-25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
 25473778,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-06-04T00:23:00Z,25473778,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,10,2025-06-04T00:23:00Z,Trofa,Porto,Norte,-8.561468,41.334938
