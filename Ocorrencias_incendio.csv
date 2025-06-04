@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25474116,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-06-04T06:05:00Z,25474116,Em curso,3103,Incêndio rural,0,4,0,17,2025-06-04T06:05:00Z,Aveiro,Aveiro,Centro,-8.570447,40.565322
+25474116,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-06-04T06:05:00Z,25474116,Em resolução,3103,Incêndio rural,0,5,0,22,2025-06-04T06:05:00Z,Aveiro,Aveiro,Centro,-8.570447,40.565322
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25467128,Monte Redondo e Carreira,Região de Leiria,310,2025-06-02T15:48:00Z,25467128,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T15:48:00Z,Leiria,Leiria,Centro,-8.860783,39.89848
 25473778,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-06-04T00:23:00Z,25473778,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,10,2025-06-04T00:23:00Z,Trofa,Porto,Norte,-8.561468,41.334938
