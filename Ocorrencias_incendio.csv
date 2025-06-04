@@ -1,8 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25474819,Carnaxide e Queijas,Grande Lisboa,311,2025-06-04T09:27:00Z,25474819,Em despacho,3103,Incêndio rural,0,1,0,4,2025-06-04T09:27:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.25881,38.722457
-25474428,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-06-04T08:27:00Z,25474428,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-04T08:27:00Z,Cartaxo,Santarém,Alentejo,-8.828787,39.168033
-25474846,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-04T09:39:00Z,25474846,Em despacho,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,0,0,0,2025-06-04T09:39:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.139208,38.802817
+25474428,Cartaxo e Vale da Pinta,Lezíria do Tejo,311,2025-06-04T08:27:00Z,25474428,Em conclusão,3111,Queima,0,3,0,12,2025-06-04T08:27:00Z,Cartaxo,Santarém,Alentejo,-8.828787,39.168033
+25474846,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-04T09:39:00Z,25474846,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-04T09:39:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.139208,38.802817
+25474961,Assunção,Alto Alentejo,312,2025-06-04T09:55:00Z,25474961,Em conclusão,3103,Incêndio rural,0,5,0,15,2025-06-04T09:55:00Z,Arronches,Portalegre,Alentejo,-7.33434,39.097183
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25473778,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-06-04T00:23:00Z,25473778,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,10,2025-06-04T00:23:00Z,Trofa,Porto,Norte,-8.561468,41.334938
 25474315,Mafra,Grande Lisboa,311,2025-06-04T08:02:00Z,25474315,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,14,2025-06-04T08:02:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.3555,38.93024
 25474463,Palmela,Península de Setúbal,311,2025-06-04T08:35:00Z,25474463,Em conclusão,3111,Queima,0,2,0,7,2025-06-04T08:35:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.883534,38.571434000000004
+25474819,Carnaxide e Queijas,Grande Lisboa,311,2025-06-04T09:27:00Z,25474819,Em conclusão,3201,Detritos não confinados,0,2,0,6,2025-06-04T09:27:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.25881,38.722457
