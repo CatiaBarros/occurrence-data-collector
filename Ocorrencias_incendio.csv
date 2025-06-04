@@ -1,17 +1,20 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25476412,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-06-04T14:32:00Z,25476412,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-04T14:32:00Z,Aveiro,Aveiro,Centro,-8.57364,40.56537
-25476446,Vimieiro,Alentejo Central,312,2025-06-04T14:37:00Z,25476446,Em conclusão,3105,Incêndio rural,0,7,0,25,2025-06-04T14:37:00Z,Arraiolos,Évora,Alentejo,-7.83651,38.851595
-25476544,Pechão,Algarve,313,2025-06-04T14:54:00Z,25476544,Em curso,3103,Incêndio rural,1,5,0,23,2025-06-04T14:54:00Z,Olhão,Faro,Algarve,-7.84979,37.04523
-25476644,Palmela,Península de Setúbal,311,2025-06-04T15:12:00Z,25476644,Em despacho,3105,Incêndio rural,0,1,0,5,2025-06-04T15:12:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.894979,38.568658
-25476423,Alvor,Algarve,313,2025-06-04T14:34:00Z,25476423,Em conclusão,3103,Incêndio rural,0,6,0,16,2025-06-04T14:34:00Z,Portimão,Faro,Algarve,-8.590223,37.161627
-25476541,Madalena e Beselga,Médio Tejo,311,2025-06-04T14:52:00Z,25476541,Em despacho,3109,Gestão de combustível,0,1,0,2,2025-06-04T14:52:00Z,Tomar,Santarém,Centro,-8.489487,39.622674
 25476264,Fonte Arcada,Tâmega e Sousa,309,2025-06-04T14:12:00Z,25476264,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-04T14:12:00Z,Penafiel,Porto,Norte,-8.348045,41.149795
-25476564,Calvaria de Cima,Região de Leiria,310,2025-06-04T14:58:00Z,25476564,Em despacho,3103,Incêndio rural,0,3,0,14,2025-06-04T14:58:00Z,Porto De Mós,Leiria,Centro,-8.847124,39.631831
-25476649,Braga (São Vicente),Cávado,309,2025-06-04T15:06:00Z,25476649,Em despacho,3201,Detritos não confinados,0,2,0,5,2025-06-04T15:06:00Z,Braga,Braga,Norte,-8.419631,41.563364
+25476564,Calvaria de Cima,Região de Leiria,310,2025-06-04T14:58:00Z,25476564,Em curso,3103,Incêndio rural,0,2,0,7,2025-06-04T14:58:00Z,Porto De Mós,Leiria,Centro,-8.851812,39.630935
+25476649,Braga (São José de São Lázaro e São João do Souto),Cávado,309,2025-06-04T15:06:00Z,25476649,Em conclusão,3201,Detritos não confinados,0,2,0,5,2025-06-04T15:06:00Z,Braga,Braga,Norte,-8.424003,41.552367
+25476816,Cesar,Area M. Porto,309,2025-06-04T15:39:00Z,25476816,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-04T15:39:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.437025,40.91874
+25476423,Alvor,Algarve,313,2025-06-04T14:34:00Z,25476423,Em conclusão,3103,Incêndio rural,0,5,0,11,2025-06-04T14:34:00Z,Portimão,Faro,Algarve,-8.590223,37.161627
+25476541,Madalena e Beselga,Médio Tejo,311,2025-06-04T14:52:00Z,25476541,Em despacho,3109,Gestão de combustível,0,1,0,2,2025-06-04T14:52:00Z,Tomar,Santarém,Centro,-8.489487,39.622674
+25476725,Alcochete,Península de Setúbal,311,2025-06-04T15:27:00Z,25476725,Em conclusão,3103,Incêndio rural,0,4,0,20,2025-06-04T15:27:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.925318,38.74541
+25476741,Caparica e Trafaria,Península de Setúbal,311,2025-06-04T15:28:00Z,25476741,Em despacho,2101,Incêndio em edifícios habitacionais,0,3,0,11,2025-06-04T15:28:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1884,38.67258
+25476412,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-06-04T14:32:00Z,25476412,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-04T14:32:00Z,Aveiro,Aveiro,Centro,-8.57364,40.56537
+25476446,Vimieiro,Alentejo Central,312,2025-06-04T14:37:00Z,25476446,Em conclusão,3105,Incêndio rural,0,5,0,16,2025-06-04T14:37:00Z,Arraiolos,Évora,Alentejo,-7.83651,38.851595
+25476544,Pechão,Algarve,313,2025-06-04T14:54:00Z,25476544,Em resolução,3103,Incêndio rural,1,7,0,27,2025-06-04T14:54:00Z,Olhão,Faro,Algarve,-7.84979,37.04523
+25476644,Palmela,Península de Setúbal,311,2025-06-04T15:12:00Z,25476644,Em curso,3105,Incêndio rural,1,7,0,28,2025-06-04T15:12:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.894979,38.568658
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
-25476336,Meia Via,Médio Tejo,311,2025-06-04T14:19:00Z,25476336,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-04T14:19:00Z,Torres Novas,Santarém,Centro,-8.500635,39.471512
-25476368,Santa Margarida da Coutada,Médio Tejo,311,2025-06-04T14:24:00Z,25476368,Em conclusão,3103,Incêndio rural,1,6,0,31,2025-06-04T14:24:00Z,Constância,Santarém,Centro,-8.285775,39.404489
-25476388,Castêlo da Maia,Area M. Porto,309,2025-06-04T14:19:00Z,25476388,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,5,2025-06-04T14:19:00Z,Maia,Porto,Norte,-8.616749,41.267591
-25476477,"Coz, Alpedriz e Montes",Oeste,311,2025-06-04T14:42:00Z,25476477,Em resolução,3103,Incêndio rural,1,4,0,23,2025-06-04T14:42:00Z,Alcobaça,Leiria,Centro,-8.934629,39.59174
-25476493,"Ponte de Sor, Tramaga e Vale de Açor",Alto Alentejo,312,2025-06-04T14:43:00Z,25476493,Em conclusão,3103,Incêndio rural,0,7,0,18,2025-06-04T14:43:00Z,Ponte De Sor,Portalegre,Alentejo,-8.046858,39.201173
-25476570,Oliveira do Bairro,Região de Aveiro,310,2025-06-04T14:57:00Z,25476570,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-04T14:57:00Z,Oliveira Do Bairro,Aveiro,Centro,-8.498499,40.509952
+25476368,Santa Margarida da Coutada,Médio Tejo,311,2025-06-04T14:24:00Z,25476368,Em conclusão,3103,Incêndio rural,0,6,0,25,2025-06-04T14:24:00Z,Constância,Santarém,Centro,-8.285775,39.404489
+25476477,"Coz, Alpedriz e Montes",Oeste,311,2025-06-04T14:42:00Z,25476477,Em conclusão,3103,Incêndio rural,0,4,0,17,2025-06-04T14:42:00Z,Alcobaça,Leiria,Centro,-8.934833,39.593113
+25476493,"Ponte de Sor, Tramaga e Vale de Açor",Alto Alentejo,312,2025-06-04T14:43:00Z,25476493,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-04T14:43:00Z,Ponte De Sor,Portalegre,Alentejo,-8.046858,39.201173
+25476570,Oliveira do Bairro,Região de Aveiro,310,2025-06-04T14:57:00Z,25476570,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-04T14:57:00Z,Oliveira Do Bairro,Aveiro,Centro,-8.484685,40.510668
+25476770,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-04T15:35:00Z,25476770,Em despacho,3105,Incêndio rural,0,5,0,17,2025-06-04T15:35:00Z,Beja,Beja,Alentejo,-7.871839,38.04575
+25476797,Mezio e Moura Morta,Viseu Dão Lafões,310,2025-06-04T15:38:00Z,25476797,Em despacho,3103,Incêndio rural,1,2,0,11,2025-06-04T15:38:00Z,Castro Daire,Viseu,Centro,-7.864602,40.979165
