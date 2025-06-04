@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25475431,Benavila e Valongo,Alto Alentejo,312,2025-06-04T11:15:00Z,25475431,Em conclusão,3105,Incêndio rural,0,3,0,11,2025-06-04T11:15:00Z,Avis,Portalegre,Alentejo,-7.848612,39.193278
+25475431,Benavila e Valongo,Alto Alentejo,312,2025-06-04T11:15:00Z,25475431,Em conclusão,3105,Incêndio rural,0,2,0,6,2025-06-04T11:15:00Z,Avis,Portalegre,Alentejo,-7.848612,39.193278
 25466369,Melides,Alentejo Litoral,312,2025-06-02T13:27:00Z,25466369,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-02T13:27:00Z,Grândola,Setúbal,Alentejo,-8.754243,38.19534
 25475727,Mira,Região de Coimbra,310,2025-06-04T12:10:00Z,25475727,Em conclusão,3201,Detritos não confinados,0,1,0,5,2025-06-04T12:10:00Z,Mira,Coimbra,Centro,-8.74972,40.41444
-25475544,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-06-04T11:20:00Z,25475544,Em conclusão,3103,Incêndio rural,0,1,0,4,2025-06-04T11:20:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.912849,38.523499
