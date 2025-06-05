@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25479602,Beduído e Veiros,Região de Aveiro,310,2025-06-05T09:15:00Z,25479602,Em despacho,3111,Queima,0,0,0,0,2025-06-05T09:15:00Z,Estarreja,Aveiro,Centro,-8.5432,40.77607
+25479602,Beduído e Veiros,Região de Aveiro,310,2025-06-05T09:15:00Z,25479602,Em conclusão,3111,Queima,0,2,0,5,2025-06-05T09:15:00Z,Estarreja,Aveiro,Centro,-8.535813,40.766256
 25479188,Aveiras de Cima,Lezíria do Tejo,311,2025-06-05T07:59:00Z,25479188,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-05T07:59:00Z,Azambuja,Lisboa,Alentejo,-8.89214,39.13748
-25479342,Estreito-Vilar Barroco,Beira Baixa,310,2025-06-05T08:29:00Z,25479342,Em conclusão,3201,Detritos não confinados,0,3,0,11,2025-06-05T08:29:00Z,Oleiros,Castelo Branco,Centro,-7.763863,39.868827
+25479342,Estreito-Vilar Barroco,Beira Baixa,310,2025-06-05T08:29:00Z,25479342,Em conclusão,3201,Detritos não confinados,0,2,0,7,2025-06-05T08:29:00Z,Oleiros,Castelo Branco,Centro,-7.763863,39.868827
 25479453,Aveiras de Baixo,Lezíria do Tejo,311,2025-06-05T08:49:00Z,25479453,Em despacho,3109,Gestão de combustível,0,1,0,2,2025-06-05T08:49:00Z,Azambuja,Lisboa,Alentejo,-8.869588,39.111989
