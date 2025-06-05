@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25480740,Torre de Coelheiros,Alentejo Central,312,2025-06-05T12:32:00Z,25480740,Em conclusão,3103,Incêndio rural,0,16,0,51,2025-06-05T12:32:00Z,Évora,Évora,Alentejo,-7.799997,38.46965
+25482923,Venteira,Grande Lisboa,311,2025-06-05T20:08:00Z,25482923,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,13,2025-06-05T20:08:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.24655,38.75616
+25482980,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-05T20:17:00Z,25482980,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-05T20:17:00Z,Vila Nova De Gaia,Porto,Norte,-8.545846,41.046266
+25479771,Muxagata,Douro,309,2025-06-05T09:43:00Z,25479771,Em despacho,3109,Gestão de combustível,0,2,0,10,2025-06-05T09:43:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.168678,41.037581
+25482776,São Pedro de Castelões,Area M. Porto,309,2025-06-05T19:30:00Z,25482776,Em despacho,3103,Incêndio rural,0,2,0,5,2025-06-05T19:30:00Z,Vale De Cambra,Aveiro,Norte,-8.397362,40.796374
 25482200,São João Dos Caldeireiros,Baixo Alentejo,312,2025-06-05T17:13:00Z,25482200,Em conclusão,3105,Incêndio rural,0,21,0,48,2025-06-05T17:13:00Z,Mértola,Beja,Alentejo,-7.81599,37.59366
 25482634,Bem Viver,Tâmega e Sousa,309,2025-06-05T19:07:00Z,25482634,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-05T19:07:00Z,Marco De Canaveses,Porto,Norte,-8.219183,41.091147
-25482784,Longueira/Almograve,Alentejo Litoral,312,2025-06-05T19:39:00Z,25482784,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-05T19:39:00Z,Odemira,Beja,Alentejo,-8.775516,37.6576
-25479771,Muxagata,Douro,309,2025-06-05T09:43:00Z,25479771,Em despacho,3109,Gestão de combustível,0,2,0,10,2025-06-05T09:43:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.168678,41.037581
-25482327,Baleizão,Baixo Alentejo,312,2025-06-05T17:49:00Z,25482327,Em conclusão,3105,Incêndio rural,0,1,0,4,2025-06-05T17:49:00Z,Beja,Beja,Alentejo,-7.718158,38.030118
-25482373,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-06-05T17:49:00Z,25482373,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-05T17:49:00Z,Trofa,Porto,Norte,-8.522827,41.332802
-25482776,São Pedro de Castelões,Area M. Porto,309,2025-06-05T19:30:00Z,25482776,Em despacho,3103,Incêndio rural,0,2,0,5,2025-06-05T19:30:00Z,Vale De Cambra,Aveiro,Norte,-8.397362,40.796374
-25480740,Torre de Coelheiros,Alentejo Central,312,2025-06-05T12:32:00Z,25480740,Em conclusão,3103,Incêndio rural,0,18,0,57,2025-06-05T12:32:00Z,Évora,Évora,Alentejo,-7.799997,38.46965
+25482784,Longueira/Almograve,Alentejo Litoral,312,2025-06-05T19:39:00Z,25482784,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-05T19:39:00Z,Odemira,Beja,Alentejo,-8.775478,37.657745
+25482918,Jou,Douro,309,2025-06-05T20:10:00Z,25482918,Em resolução,3103,Incêndio rural,0,4,0,13,2025-06-05T20:10:00Z,Murça,Vila Real,Norte,-7.415113,41.46365
