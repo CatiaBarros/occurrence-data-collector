@@ -1,16 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25486449,Faro (Sé e São Pedro),Algarve,313,2025-06-06T14:56:00Z,25486449,Em resolução,3201,Detritos não confinados,0,5,0,12,2025-06-06T14:56:00Z,Faro,Faro,Algarve,-7.91773,37.01212
-25486524,Albufeira e Olhos de Água,Algarve,313,2025-06-06T15:11:00Z,25486524,Em conclusão,3103,Incêndio rural,0,1,0,1,2025-06-06T15:11:00Z,Albufeira,Faro,Algarve,-8.239918,37.090838
-25486563,Sebal e Belide,Região de Coimbra,310,2025-06-06T15:19:00Z,25486563,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-06T15:19:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.49639,40.13171
-25486530,Braga (São Vítor),Cávado,309,2025-06-06T15:08:00Z,25486530,Em conclusão,3203,Detritos confinados,0,2,0,8,2025-06-06T15:08:00Z,Braga,Braga,Norte,-8.407725,41.552993
+25485959,Póvoa de São Miguel,Baixo Alentejo,312,2025-06-06T13:18:00Z,25485959,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-06T13:18:00Z,Moura,Beja,Alentejo,-7.34096,38.226317
+25486174,Monsanto e Idanha-a-Velha,Beira Baixa,310,2025-06-06T14:09:00Z,25486174,Em conclusão,3103,Incêndio rural,0,9,0,29,2025-06-06T14:09:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.109505,40.022182
+25486449,Faro (Sé e São Pedro),Algarve,313,2025-06-06T14:56:00Z,25486449,Em conclusão,3201,Detritos não confinados,0,4,0,10,2025-06-06T14:56:00Z,Faro,Faro,Algarve,-7.91773,37.01212
+25486881,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-06-06T16:17:00Z,25486881,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-06T16:17:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.29778,38.70472
+25486890,Samouco,Península de Setúbal,311,2025-06-06T16:20:00Z,25486890,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-06T16:20:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-9.006298,38.728442
+25486917,Caparica e Trafaria,Península de Setúbal,311,2025-06-06T16:21:00Z,25486917,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-06T16:21:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.231582,38.671372
 25486557,Montemor-o-Velho e Gatões,Região de Coimbra,310,2025-06-06T15:19:00Z,25486557,Em resolução,2101,Incêndio em edifícios habitacionais,0,3,0,12,2025-06-06T15:19:00Z,Montemor-o-Velho,Coimbra,Centro,-8.696843,40.198246
-25486691,Ílhavo (São Salvador),Região de Aveiro,310,2025-06-06T15:44:00Z,25486691,Em curso,3201,Detritos não confinados,0,2,0,7,2025-06-06T15:44:00Z,Ílhavo,Aveiro,Centro,-8.679987,40.58286
-25485959,Póvoa de São Miguel,Baixo Alentejo,312,2025-06-06T13:18:00Z,25485959,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-06T13:18:00Z,Moura,Beja,Alentejo,-7.34096,38.226317
-25486174,Monsanto e Idanha-a-Velha,Beira Baixa,310,2025-06-06T14:09:00Z,25486174,Em conclusão,3103,Incêndio rural,0,7,0,25,2025-06-06T14:09:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.109505,40.022182
-25486611,Albufeira e Olhos de Água,Algarve,313,2025-06-06T15:18:00Z,25486611,Em conclusão,3203,Detritos confinados,0,0,0,0,2025-06-06T15:18:00Z,Albufeira,Faro,Algarve,-8.239918,37.090838
-25484913,Muxagata,Douro,309,2025-06-06T09:20:00Z,25484913,Em curso,3109,Gestão de combustível,0,0,0,0,2025-06-06T09:20:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.162523,41.021165
-25485950,Nogueiró e Tenões,Cávado,309,2025-06-06T13:27:00Z,25485950,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,10,2025-06-06T13:27:00Z,Braga,Braga,Norte,-8.383675,41.547322
-25486101,Safara e Santo Aleixo da Restauração,Baixo Alentejo,312,2025-06-06T13:40:00Z,25486101,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-06T13:40:00Z,Moura,Beja,Alentejo,-7.227776,38.108223
-25486619,Alpiarça,Lezíria do Tejo,311,2025-06-06T15:29:00Z,25486619,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-06T15:29:00Z,Alpiarça,Santarém,Alentejo,-8.592138,39.244545
-25486651,Pontinha e Famões,Grande Lisboa,311,2025-06-06T15:30:00Z,25486651,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-06T15:30:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.214967,38.788628
-25486753,Azambuja,Lezíria do Tejo,311,2025-06-06T15:57:00Z,25486753,Em despacho,2301,Incêndio em transporte rodoviário,0,5,0,13,2025-06-06T15:57:00Z,Azambuja,Lisboa,Alentejo,-8.93022,39.09086
+25486753,Azambuja,Lezíria do Tejo,311,2025-06-06T15:57:00Z,25486753,Em conclusão,2301,Incêndio em transporte rodoviário,0,5,0,13,2025-06-06T15:57:00Z,Azambuja,Lisboa,Alentejo,-8.93022,39.09086
+25486787,Barreiro e Lavradio,Península de Setúbal,311,2025-06-06T16:06:00Z,25486787,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-06T16:06:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.062184,38.667355
