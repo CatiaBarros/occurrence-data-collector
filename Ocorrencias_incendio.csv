@@ -1,8 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25485173,Monchique,Algarve,313,2025-06-06T10:40:00Z,25485173,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,8,2025-06-06T10:40:00Z,Monchique,Faro,Algarve,-8.614574,37.284529
 25484535,Jou,Douro,309,2025-06-06T08:55:00Z,25484535,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-06T08:55:00Z,Murça,Vila Real,Norte,-7.415113,41.46365
-25485271,Palmela,Península de Setúbal,311,2025-06-06T11:09:00Z,25485271,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,6,2025-06-06T11:09:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.92532,38.58571
+25485271,Palmela,Península de Setúbal,311,2025-06-06T11:09:00Z,25485271,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-06T11:09:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.92532,38.58571
 25485526,Abrigada e Cabanas de Torres,Oeste,311,2025-06-06T11:52:00Z,25485526,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-06T11:52:00Z,Alenquer,Lisboa,Centro,-9.009306,39.138008
-25485528,Colares,Grande Lisboa,311,2025-06-06T11:53:00Z,25485528,Em conclusão,3111,Queima,0,1,0,5,2025-06-06T11:53:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.453168,38.787078
-25485596,Rio Meão,Area M. Porto,309,2025-06-06T12:09:00Z,25485596,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-06T12:09:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56983,40.95874
+25485596,Rio Meão,Area M. Porto,309,2025-06-06T12:09:00Z,25485596,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-06T12:09:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56977,40.958763
 25484913,Muxagata,Douro,309,2025-06-06T09:20:00Z,25484913,Em curso,3109,Gestão de combustível,0,2,0,10,2025-06-06T09:20:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.162523,41.021165
