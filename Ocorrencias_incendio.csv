@@ -1,8 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25484913,Muxagata,Douro,309,2025-06-06T09:20:00Z,25484913,Em curso,3109,Gestão de combustível,0,2,0,10,2025-06-06T09:20:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.162523,41.021165
+25485918,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão",Tâmega e Sousa,309,2025-06-06T13:20:00Z,25485918,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-06T13:20:00Z,Amarante,Porto,Norte,-8.07294,41.26238
+25485775,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-06-06T12:51:00Z,25485775,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,6,2025-06-06T12:51:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.173069,38.677312
 25484535,Jou,Douro,309,2025-06-06T08:55:00Z,25484535,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-06T08:55:00Z,Murça,Vila Real,Norte,-7.415113,41.46365
 25485271,Palmela,Península de Setúbal,311,2025-06-06T11:09:00Z,25485271,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-06T11:09:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.92532,38.58571
-25485526,Abrigada e Cabanas de Torres,Oeste,311,2025-06-06T11:52:00Z,25485526,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-06T11:52:00Z,Alenquer,Lisboa,Centro,-9.009306,39.138008
+25485526,Abrigada e Cabanas de Torres,Oeste,311,2025-06-06T11:52:00Z,25485526,Em conclusão,3111,Queima,0,2,0,7,2025-06-06T11:52:00Z,Alenquer,Lisboa,Centro,-9.009306,39.138008
 25485596,Rio Meão,Area M. Porto,309,2025-06-06T12:09:00Z,25485596,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-06T12:09:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56977,40.958763
-25485735,Minde,Médio Tejo,311,2025-06-06T12:42:00Z,25485735,Em conclusão,3105,Incêndio rural,0,6,0,20,2025-06-06T12:42:00Z,Alcanena,Santarém,Centro,-8.688087,39.51688
-25485771,Marco,Tâmega e Sousa,309,2025-06-06T12:46:00Z,25485771,Em resolução,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-06T12:46:00Z,Marco De Canaveses,Porto,Norte,-8.139092,41.179373
+25485735,Minde,Médio Tejo,311,2025-06-06T12:42:00Z,25485735,Em conclusão,3105,Incêndio rural,0,5,0,15,2025-06-06T12:42:00Z,Alcanena,Santarém,Centro,-8.688635,39.51741
+25485771,Marco,Tâmega e Sousa,309,2025-06-06T12:46:00Z,25485771,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,3,0,9,2025-06-06T12:46:00Z,Marco De Canaveses,Porto,Norte,-8.15541,41.189728
