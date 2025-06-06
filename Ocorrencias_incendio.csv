@@ -1,17 +1,16 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25485959,Póvoa de São Miguel,Baixo Alentejo,312,2025-06-06T13:18:00Z,25485959,Em conclusão,3105,Incêndio rural,0,10,0,32,2025-06-06T13:18:00Z,Moura,Beja,Alentejo,-7.34096,38.226317
-25486040,Cesar,Area M. Porto,309,2025-06-06T13:45:00Z,25486040,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-06T13:45:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.446341,40.92735
-25486158,Albufeira e Olhos de Água,Algarve,313,2025-06-06T14:06:00Z,25486158,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,4,2025-06-06T14:06:00Z,Albufeira,Faro,Algarve,-8.25856,37.08613
-25486174,Monsanto e Idanha-a-Velha,Beira Baixa,310,2025-06-06T14:09:00Z,25486174,Em curso,3103,Incêndio rural,1,7,0,31,2025-06-06T14:09:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.11847,40.036689
-25486342,Chamusca e Pinheiro Grande,Lezíria do Tejo,311,2025-06-06T14:35:00Z,25486342,Em conclusão,3105,Incêndio rural,0,2,0,2,2025-06-06T14:35:00Z,Chamusca,Santarém,Alentejo,-8.490477,39.362372
-25484913,Muxagata,Douro,309,2025-06-06T09:20:00Z,25484913,Em curso,3109,Gestão de combustível,0,2,0,10,2025-06-06T09:20:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.162523,41.021165
-25485950,Nogueiró e Tenões,Cávado,309,2025-06-06T13:27:00Z,25485950,Em conclusão,2101,Incêndio em edifícios habitacionais,0,2,0,8,2025-06-06T13:27:00Z,Braga,Braga,Norte,-8.383658,41.54726
-25486101,Safara e Santo Aleixo da Restauração,Baixo Alentejo,312,2025-06-06T13:40:00Z,25486101,Em conclusão,3105,Incêndio rural,0,2,0,10,2025-06-06T13:40:00Z,Moura,Beja,Alentejo,-7.227776,38.108223
-25486135,Sesimbra (Castelo),Península de Setúbal,311,2025-06-06T14:03:00Z,25486135,Em resolução,2101,Incêndio em edifícios habitacionais,0,5,0,18,2025-06-06T14:03:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.10952,38.45357
-25486318,"Nogueira, Fraião e Lamaçães",Cávado,309,2025-06-06T14:29:00Z,25486318,Em curso,2301,Incêndio em transporte rodoviário,0,2,0,10,2025-06-06T14:29:00Z,Braga,Braga,Norte,-8.399912,41.531469
+25486174,Monsanto e Idanha-a-Velha,Beira Baixa,310,2025-06-06T14:09:00Z,25486174,Em resolução,3103,Incêndio rural,1,7,0,31,2025-06-06T14:09:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.109505,40.022182
+25486342,Chamusca e Pinheiro Grande,Lezíria do Tejo,311,2025-06-06T14:35:00Z,25486342,Em conclusão,3105,Incêndio rural,0,1,0,1,2025-06-06T14:35:00Z,Chamusca,Santarém,Alentejo,-8.490477,39.362372
+25486425,Venteira,Grande Lisboa,311,2025-06-06T14:45:00Z,25486425,Em curso,3103,Incêndio rural,0,3,0,8,2025-06-06T14:45:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.235063,38.736015
 25485986,Armação de Pêra,Algarve,313,2025-06-06T13:35:00Z,25485986,Em conclusão,2101,Incêndio em edifícios habitacionais,0,5,0,15,2025-06-06T13:35:00Z,Silves,Faro,Algarve,-8.364072,37.10266
 25486081,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-06T13:40:00Z,25486081,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,4,2025-06-06T13:40:00Z,Moura,Beja,Alentejo,-7.33967,38.13325
-25486338,Gulpilhares e Valadares,Area M. Porto,309,2025-06-06T14:35:00Z,25486338,Em despacho,3103,Incêndio rural,0,2,0,11,2025-06-06T14:35:00Z,Vila Nova De Gaia,Porto,Norte,-8.636765,41.09927
+25486338,Gulpilhares e Valadares,Area M. Porto,309,2025-06-06T14:35:00Z,25486338,Em conclusão,3103,Incêndio rural,0,2,0,11,2025-06-06T14:35:00Z,Vila Nova De Gaia,Porto,Norte,-8.636827,41.098248
 25486347,Valongo,Area M. Porto,309,2025-06-06T14:29:00Z,25486347,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-06T14:29:00Z,Valongo,Porto,Norte,-8.50935,41.200497
-25486089,Paredes,Area M. Porto,309,2025-06-06T13:54:00Z,25486089,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-06T13:54:00Z,Paredes,Porto,Norte,-8.355998,41.194898
+25486449,Faro (Sé e São Pedro),Algarve,313,2025-06-06T14:56:00Z,25486449,Em despacho,3201,Detritos não confinados,0,0,0,0,2025-06-06T14:56:00Z,Faro,Faro,Algarve,-7.91773,37.01212
 25486289,Quinta do Anjo,Península de Setúbal,311,2025-06-06T14:27:00Z,25486289,Em despacho,3111,Queima,0,1,0,6,2025-06-06T14:27:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-9.00289,38.59999
+25484913,Muxagata,Douro,309,2025-06-06T09:20:00Z,25484913,Em curso,3109,Gestão de combustível,0,2,0,10,2025-06-06T09:20:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.162523,41.021165
+25485950,Nogueiró e Tenões,Cávado,309,2025-06-06T13:27:00Z,25485950,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,10,2025-06-06T13:27:00Z,Braga,Braga,Norte,-8.383658,41.54726
+25486101,Safara e Santo Aleixo da Restauração,Baixo Alentejo,312,2025-06-06T13:40:00Z,25486101,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-06T13:40:00Z,Moura,Beja,Alentejo,-7.227776,38.108223
+25486135,Sesimbra (Castelo),Península de Setúbal,311,2025-06-06T14:03:00Z,25486135,Em conclusão,2101,Incêndio em edifícios habitacionais,0,6,0,19,2025-06-06T14:03:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.10952,38.45357
+25486318,"Nogueira, Fraião e Lamaçães",Cávado,309,2025-06-06T14:29:00Z,25486318,Em curso,2301,Incêndio em transporte rodoviário,0,3,0,12,2025-06-06T14:29:00Z,Braga,Braga,Norte,-8.399912,41.531469
