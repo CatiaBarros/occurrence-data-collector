@@ -1,10 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25483902,"Souselo","Tâmega e Sousa",309,"2025-06-06T03:44:00",25483902,"Em curso","2407","Despiste",0,1,0,2,"2025-06-06T03:44:00","Cinfães","Viseu","Norte",-8.229763,41.064373
-25483688,"Mindelo","Area M. Porto",309,"2025-06-06T01:01:00",25483688,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,2,0,6,"2025-06-06T01:01:00","Vila Do Conde","Porto","Norte",-8.730293,41.3097
-25483874,"Almancil","Algarve",313,"2025-06-06T03:24:00",25483874,"Em curso","2403","Colisão rodoviária",0,7,0,16,"2025-06-06T03:24:00","Loulé","Faro","Algarve",-8.01853,37.09173
-25483800,"Coruche, Fajarda e Erra","Lezíria do Tejo",311,"2025-06-06T02:22:00",25483800,"Em curso","2407","Despiste",0,8,0,17,"2025-06-06T02:22:00","Coruche","Santarém","Alentejo",-8.5049,38.94121
-25483848,"Sacavém e Prior Velho","Grande Lisboa",311,"2025-06-06T02:58:00",25483848,"Em conclusão","2403","Colisão rodoviária",0,2,0,8,"2025-06-06T02:58:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.097627,38.792359
+25483902,"Souselo","Tâmega e Sousa",309,"2025-06-06T03:44:00",25483902,"Em resolução","2407","Despiste",0,2,0,4,"2025-06-06T03:44:00","Cinfães","Viseu","Norte",-8.229763,41.064373
+25483800,"Coruche, Fajarda e Erra","Lezíria do Tejo",311,"2025-06-06T02:22:00",25483800,"Em resolução","2407","Despiste",0,8,0,17,"2025-06-06T02:22:00","Coruche","Santarém","Alentejo",-8.504892,38.941147
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25483712,"Marinha Grande","Região de Leiria",310,"2025-06-06T01:03:00",25483712,"Em despacho","3203","Detritos confinados",0,1,0,2,"2025-06-06T01:03:00","Marinha Grande","Leiria","Centro",-8.919612,39.758352
 25483743,"Almada, Cova da Piedade, Pragal e Cacilhas","Península de Setúbal",311,"2025-06-06T01:29:00",25483743,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,6,0,17,"2025-06-06T01:29:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.173069,38.677312
-25483912,"Santa Iria de Azoia, São João da Talha e Bobadela","Grande Lisboa",311,"2025-06-06T03:59:00",25483912,"Em conclusão","3201","Detritos não confinados",0,1,0,5,"2025-06-06T03:59:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.098065,38.824783
+25483688,"Mindelo","Area M. Porto",309,"2025-06-06T01:01:00",25483688,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,2,0,6,"2025-06-06T01:01:00","Vila Do Conde","Porto","Norte",-8.730293,41.3097
+25483874,"Almancil","Algarve",313,"2025-06-06T03:24:00",25483874,"Em resolução","2403","Colisão rodoviária",0,7,0,16,"2025-06-06T03:24:00","Loulé","Faro","Algarve",-8.01853,37.09173
