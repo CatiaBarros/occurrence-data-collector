@@ -1,10 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25492068,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-07T17:21:00Z,25492068,Em conclusão,3103,Incêndio rural,0,11,0,31,2025-06-07T17:21:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19733,38.584712
-25493102,Faro (Sé e São Pedro),Algarve,313,2025-06-07T21:44:00Z,25493102,Em conclusão,3201,Detritos não confinados,0,3,0,6,2025-06-07T21:44:00Z,Faro,Faro,Algarve,-7.942032,37.01865
-25493010,Monte Real e Carvide,Região de Leiria,310,2025-06-07T21:24:00Z,25493010,Em despacho,3111,Queima,0,2,0,7,2025-06-07T21:24:00Z,Leiria,Leiria,Centro,-8.878199,39.81969
-25493160,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-06-07T22:04:00Z,25493160,Em despacho,3103,Incêndio rural,0,1,0,3,2025-06-07T22:04:00Z,Matosinhos,Porto,Norte,-8.60684,41.20151
-25492907,Cernache,Região de Coimbra,310,2025-06-07T21:00:00Z,25492907,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-07T21:00:00Z,Coimbra,Coimbra,Centro,-8.48528,40.13683
-25491602,Torre de Moncorvo,Douro,309,2025-06-07T15:40:00Z,25491602,Em conclusão,3103,Incêndio rural,0,3,0,11,2025-06-07T15:40:00Z,Torre De Moncorvo,Bragança,Norte,-7.096635,41.162693
+25491602,Torre de Moncorvo,Douro,309,2025-06-07T15:40:00Z,25491602,Em conclusão,3103,Incêndio rural,0,2,0,9,2025-06-07T15:40:00Z,Torre De Moncorvo,Bragança,Norte,-7.096635,41.162693
 25492983,Nogueira da Montanha,Alto Tâmega e Barroso,309,2025-06-07T21:18:00Z,25492983,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-07T21:18:00Z,Chaves,Vila Real,Norte,-7.431127,41.666317
 25493117,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-06-07T21:53:00Z,25493117,Em conclusão,3203,Detritos confinados,0,2,0,7,2025-06-07T21:53:00Z,Torres Vedras,Lisboa,Centro,-9.229865,39.104507
-25493224,Quinta do Anjo,Península de Setúbal,311,2025-06-07T22:26:00Z,25493224,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-07T22:26:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-9.003575,38.60234
+25493224,Quinta do Anjo,Península de Setúbal,311,2025-06-07T22:26:00Z,25493224,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-07T22:26:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-9.003575,38.60234
+25493289,Sernancelhe e Sarzeda,Douro,309,2025-06-07T22:47:00Z,25493289,Em despacho,2101,Incêndio em edifícios habitacionais,0,0,0,0,2025-06-07T22:47:00Z,Sernancelhe,Viseu,Norte,-7.492811,40.89791
+25492068,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-07T17:21:00Z,25492068,Em conclusão,3103,Incêndio rural,0,10,0,26,2025-06-07T17:21:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19733,38.584712
+25493102,Faro (Sé e São Pedro),Algarve,313,2025-06-07T21:44:00Z,25493102,Em conclusão,3201,Detritos não confinados,0,3,0,6,2025-06-07T21:44:00Z,Faro,Faro,Algarve,-7.942032,37.01865
