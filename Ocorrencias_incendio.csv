@@ -1,16 +1,24 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25491331,Selho (São Jorge),Ave,309,2025-06-07T14:29:00Z,25491331,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,6,2025-06-07T14:29:00Z,Guimarães,Braga,Norte,-8.357693,41.422703
-25491465,Santo António da Charneca,Península de Setúbal,311,2025-06-07T15:08:00Z,25491465,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,8,2025-06-07T15:08:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.019845,38.59108
-25491498,Samora Correia,Lezíria do Tejo,311,2025-06-07T15:16:00Z,25491498,Em despacho,3103,Incêndio rural,0,3,0,9,2025-06-07T15:16:00Z,Benavente,Santarém,Alentejo,-8.880769,38.7915
-25491515,Canelas,Area M. Porto,309,2025-06-07T15:18:00Z,25491515,Em despacho,3203,Detritos confinados,0,0,0,0,2025-06-07T15:18:00Z,Vila Nova De Gaia,Porto,Norte,-8.604341,41.08291
-25490744,Poceirão e Marateca,Península de Setúbal,311,2025-06-07T12:07:00Z,25490744,Em conclusão,3103,Incêndio rural,0,6,0,19,2025-06-07T12:07:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.708145,38.595668
-25491055,Santa Clara-a-Nova e Gomes Aires,Baixo Alentejo,312,2025-06-07T13:28:00Z,25491055,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-07T13:28:00Z,Almodôvar,Beja,Alentejo,-8.228333,37.43722
-25491207,"Aver-o-Mar, Amorim e Terroso",Area M. Porto,309,2025-06-07T13:58:00Z,25491207,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-07T13:58:00Z,Póvoa De Varzim,Porto,Norte,-8.730397,41.412752
-25491255,Vila Boa de Quires e Maureles,Tâmega e Sousa,309,2025-06-07T14:16:00Z,25491255,Em despacho,3105,Incêndio rural,0,1,0,5,2025-06-07T14:16:00Z,Marco De Canaveses,Porto,Norte,-8.20736,41.18382
-25490718,Conde e Gandarela,Ave,309,2025-06-07T11:59:00Z,25490718,Em conclusão,3103,Incêndio rural,0,6,0,16,2025-06-07T11:59:00Z,Guimarães,Braga,Norte,-8.339596,41.394277
-25490825,Nossa Senhora da Graça do Divor,Alentejo Central,312,2025-06-07T12:25:00Z,25490825,Em conclusão,3103,Incêndio rural,0,14,0,42,2025-06-07T12:25:00Z,Évora,Évora,Alentejo,-8.018983,38.669043
+25490718,Conde e Gandarela,Ave,309,2025-06-07T11:59:00Z,25490718,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-07T11:59:00Z,Guimarães,Braga,Norte,-8.339596,41.394277
+25490825,Nossa Senhora da Graça do Divor,Alentejo Central,312,2025-06-07T12:25:00Z,25490825,Em conclusão,3103,Incêndio rural,0,10,0,25,2025-06-07T12:25:00Z,Évora,Évora,Alentejo,-8.018983,38.669043
 25490866,Tarouca e Dálvares,Douro,309,2025-06-07T12:39:00Z,25490866,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-07T12:39:00Z,Tarouca,Viseu,Norte,-7.76012,41.035963
-25491204,São João de Rei,Ave,309,2025-06-07T14:03:00Z,25491204,Em resolução,3103,Incêndio rural,1,4,0,23,2025-06-07T14:03:00Z,Póvoa De Lanhoso,Braga,Norte,-8.286837,41.616893
+25491204,São João de Rei,Ave,309,2025-06-07T14:03:00Z,25491204,Em resolução,3103,Incêndio rural,0,4,0,17,2025-06-07T14:03:00Z,Póvoa De Lanhoso,Braga,Norte,-8.286837,41.616893
 25491309,Fernão Ferro,Península de Setúbal,311,2025-06-07T14:27:00Z,25491309,Em conclusão,3103,Incêndio rural,0,7,0,26,2025-06-07T14:27:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.103417,38.577958
-25491409,Montargil,Alto Alentejo,312,2025-06-07T14:55:00Z,25491409,Em despacho,3103,Incêndio rural,0,11,0,40,2025-06-07T14:55:00Z,Ponte De Sor,Portalegre,Alentejo,-8.121535,39.107116
-25491463,Pombeiro de Ribavizela,Tâmega e Sousa,309,2025-06-07T15:07:00Z,25491463,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-07T15:07:00Z,Felgueiras,Porto,Norte,-8.22894,41.37885
+25491409,Montargil,Alto Alentejo,312,2025-06-07T14:55:00Z,25491409,Em conclusão,3103,Incêndio rural,0,15,0,50,2025-06-07T14:55:00Z,Ponte De Sor,Portalegre,Alentejo,-8.121535,39.107116
+25491463,Pombeiro de Ribavizela,Tâmega e Sousa,309,2025-06-07T15:07:00Z,25491463,Em resolução,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-07T15:07:00Z,Felgueiras,Porto,Norte,-8.22894,41.37885
+25491579,Amora,Península de Setúbal,311,2025-06-07T15:30:00Z,25491579,Em conclusão,3203,Detritos confinados,0,1,0,4,2025-06-07T15:30:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.125227,38.624582
+25491602,Torre de Moncorvo,Douro,309,2025-06-07T15:40:00Z,25491602,Em despacho,3103,Incêndio rural,1,0,0,6,2025-06-07T15:40:00Z,Torre De Moncorvo,Bragança,Norte,-7.0713,41.15781
+25491055,Santa Clara-a-Nova e Gomes Aires,Baixo Alentejo,312,2025-06-07T13:28:00Z,25491055,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-07T13:28:00Z,Almodôvar,Beja,Alentejo,-8.226851,37.434143
+25491207,"Aver-o-Mar, Amorim e Terroso",Area M. Porto,309,2025-06-07T13:58:00Z,25491207,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-07T13:58:00Z,Póvoa De Varzim,Porto,Norte,-8.730397,41.412752
+25491255,Vila Boa de Quires e Maureles,Tâmega e Sousa,309,2025-06-07T14:16:00Z,25491255,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-07T14:16:00Z,Marco De Canaveses,Porto,Norte,-8.20736,41.18382
+25491522,Santo António da Charneca,Península de Setúbal,311,2025-06-07T15:08:00Z,25491522,Em resolução,3103,Incêndio rural,0,3,0,15,2025-06-07T15:08:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.019845,38.59108
+25491525,Brufe,Ave,309,2025-06-07T15:20:00Z,25491525,Em conclusão,3103,Incêndio rural,1,1,0,10,2025-06-07T15:20:00Z,Vila Nova De Famalicão,Braga,Norte,-8.5412,41.41631
+25491540,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-07T15:03:00Z,25491540,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-07T15:03:00Z,Vila Nova De Gaia,Porto,Norte,-8.502382,41.048753
+25491556,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-06-07T15:28:00Z,25491556,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-07T15:28:00Z,Évora,Évora,Alentejo,-7.921915,38.57378
+25491465,Santo António da Charneca,Península de Setúbal,311,2025-06-07T15:08:00Z,25491465,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,3,2025-06-07T15:08:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.019845,38.59108
+25491498,Samora Correia,Lezíria do Tejo,311,2025-06-07T15:16:00Z,25491498,Em conclusão,3103,Incêndio rural,1,5,0,25,2025-06-07T15:16:00Z,Benavente,Santarém,Alentejo,-8.880642,38.8054
+25491515,Canelas,Area M. Porto,309,2025-06-07T15:18:00Z,25491515,Em conclusão,3203,Detritos confinados,0,2,0,7,2025-06-07T15:18:00Z,Vila Nova De Gaia,Porto,Norte,-8.60441,41.083085
+25490744,Poceirão e Marateca,Península de Setúbal,311,2025-06-07T12:07:00Z,25490744,Em conclusão,3103,Incêndio rural,0,4,0,12,2025-06-07T12:07:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.708145,38.595668
+25491594,Mirandela,Terras de Trás-os-Montes,309,2025-06-07T15:30:00Z,25491594,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-07T15:30:00Z,Mirandela,Bragança,Norte,-7.170474,41.484193
+25491624,Alfragide,Grande Lisboa,311,2025-06-07T15:35:00Z,25491624,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-07T15:35:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.216739,38.734733
+25491600,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-06-07T15:36:00Z,25491600,Em curso,3101,Incêndio rural,0,2,0,10,2025-06-07T15:36:00Z,Coimbra,Coimbra,Centro,-8.404617,40.249736
