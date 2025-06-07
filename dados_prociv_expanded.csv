@@ -1,12 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25487447,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-06-06T18:13:00",25487447,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-06T18:13:00","Bragança","Bragança","Norte",-6.761223,41.813164
-25487715,"Póvoa de São Miguel","Baixo Alentejo",312,"2025-06-06T19:10:00",25487715,"Em conclusão","2407","Despiste",0,0,0,0,"2025-06-06T19:10:00","Moura","Beja","Alentejo",-7.320877,38.223247
-25488581,"Corroios","Península de Setúbal",311,"2025-06-06T22:47:00",25488581,"Em resolução","2407","Despiste",0,0,0,0,"2025-06-06T22:47:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.156291,38.628818
-25488966,"Vilar de Andorinho","Area M. Porto",309,"2025-06-07T01:59:00",25488966,"Em despacho","3103","Incêndio rural",0,2,0,11,"2025-06-07T01:59:00","Vila Nova De Gaia","Porto","Norte",-8.586687,41.10464
 25488863,"Vila Chã","Cávado",309,"2025-06-07T00:57:00",25488863,"Em conclusão","2301","Incêndio em transporte rodoviário",0,2,0,7,"2025-06-07T00:57:00","Esposende","Braga","Norte",-8.767827,41.569373
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25487371,"São João Dos Caldeireiros","Baixo Alentejo",312,"2025-06-06T18:02:00",25487371,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-06-06T18:02:00","Mértola","Beja","Alentejo",-7.804608,37.600808
-25488941,"Amiais de Baixo","Lezíria do Tejo",311,"2025-06-07T01:50:00",25488941,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,4,0,12,"2025-06-07T01:50:00","Santarém","Santarém","Alentejo",-8.73153,39.442252
+25489025,"Mira","Região de Coimbra",310,"2025-06-07T02:42:00",25489025,"Em despacho","2407","Despiste",0,1,0,2,"2025-06-07T02:42:00","Mira","Coimbra","Centro",-8.734102,40.4268
+25487447,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-06-06T18:13:00",25487447,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-06T18:13:00","Bragança","Bragança","Norte",-6.761223,41.813164
+25487715,"Póvoa de São Miguel","Baixo Alentejo",312,"2025-06-06T19:10:00",25487715,"Em conclusão","2407","Despiste",0,0,0,0,"2025-06-06T19:10:00","Moura","Beja","Alentejo",-7.320877,38.223247
 25487651,"Nelas","Viseu Dão Lafões",310,"2025-06-06T19:05:00",25487651,"Em resolução","2407","Despiste",0,1,0,2,"2025-06-06T19:05:00","Nelas","Viseu","Centro",-7.848666,40.536085
-25488905,"Samouco","Península de Setúbal",311,"2025-06-07T01:25:00",25488905,"Em conclusão","3103","Incêndio rural",0,2,0,8,"2025-06-07T01:25:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-9.006712,38.728287
+25488905,"Samouco","Península de Setúbal",311,"2025-06-07T01:25:00",25488905,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-06-07T01:25:00","Alcochete","Setúbal","Área Metropolitana De Lisboa",-9.006712,38.728287
 25488914,"Serzedo e Perosinho","Area M. Porto",309,"2025-06-07T01:22:00",25488914,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,4,"2025-06-07T01:22:00","Vila Nova De Gaia","Porto","Norte",-8.616017,41.045992
