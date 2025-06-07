@@ -1,12 +1,12 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25487447,"Sé, Santa Maria e Meixedo","Terras de Trás-os-Montes",309,"2025-06-06T18:13:00",25487447,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-06T18:13:00","Bragança","Bragança","Norte",-6.761223,41.813164
-25489338,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-06-07T07:15:00",25489338,"Em conclusão","2407","Despiste",0,2,0,7,"2025-06-07T07:15:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.207039,38.635551
-25489345,"Monchique","Algarve",313,"2025-06-07T07:07:00",25489345,"Em curso","3301","Queda de árvore",0,0,0,0,"2025-06-07T07:07:00","Monchique","Faro","Algarve",-8.567422,37.320753
+25489483,"Panoias e Conceição","Baixo Alentejo",312,"2025-06-07T07:56:00",25489483,"Em curso","2407","Despiste",0,9,0,24,"2025-06-07T07:56:00","Ourique","Beja","Alentejo",-8.207548,37.765657
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25487371,"São João Dos Caldeireiros","Baixo Alentejo",312,"2025-06-06T18:02:00",25487371,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-06-06T18:02:00","Mértola","Beja","Alentejo",-7.804608,37.600808
+25489410,"Touguinha e Touguinhó","Area M. Porto",309,"2025-06-07T07:42:00",25489410,"Em resolução","2407","Despiste",0,2,0,4,"2025-06-07T07:42:00","Vila Do Conde","Porto","Norte",-8.722323,41.379798
+25489338,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-06-07T07:15:00",25489338,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-07T07:15:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.207039,38.635551
+25489574,"Poceirão e Marateca","Península de Setúbal",311,"2025-06-07T08:24:00",25489574,"Em despacho","2407","Despiste",0,1,0,2,"2025-06-07T08:24:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.714046,38.612937
 25489330,"Lordelo do Ouro e Massarelos","Area M. Porto",309,"2025-06-07T07:10:00",25489330,"Em curso","4329","Busca e resgate aquático de pessoas",0,4,0,9,"2025-06-07T07:10:00","Porto","Porto","Norte",-8.652543,41.152985
 25489355,"Cruz","Ave",309,"2025-06-07T07:19:00",25489355,"Em conclusão","2403","Colisão rodoviária",0,2,0,4,"2025-06-07T07:19:00","Vila Nova De Famalicão","Braga","Norte",-8.495552,41.440794
 25489373,"Valongo","Area M. Porto",309,"2025-06-07T07:24:00",25489373,"Em resolução","3103","Incêndio rural",0,1,0,5,"2025-06-07T07:24:00","Valongo","Porto","Norte",-8.48714,41.18783
-25489437,"Aborim","Cávado",309,"2025-06-07T07:57:00",25489437,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-06-07T07:57:00","Barcelos","Braga","Norte",-8.625435,41.61133
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25487371,"São João Dos Caldeireiros","Baixo Alentejo",312,"2025-06-06T18:02:00",25487371,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-06-06T18:02:00","Mértola","Beja","Alentejo",-7.804608,37.600808
-25489259,"Lagos (São Sebastião e Santa Maria)","Algarve",313,"2025-06-07T06:25:00",25489259,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-07T06:25:00","Lagos","Faro","Algarve",-8.668524,37.100485
-25489410,"Touguinha e Touguinhó","Area M. Porto",309,"2025-06-07T07:42:00",25489410,"Em despacho","2407","Despiste",0,4,0,8,"2025-06-07T07:42:00","Vila Do Conde","Porto","Norte",-8.721232,41.373254
+25489437,"Quintiães e Aguiar","Cávado",309,"2025-06-07T07:57:00",25489437,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-06-07T07:57:00","Barcelos","Braga","Norte",-8.637788,41.624495
