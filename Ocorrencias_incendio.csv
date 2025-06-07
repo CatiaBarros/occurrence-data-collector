@@ -1,12 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25492068,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-07T17:21:00Z,25492068,Em conclusão,3103,Incêndio rural,0,16,0,48,2025-06-07T17:21:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19733,38.584712
+25492868,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2025-06-07T20:49:00Z,25492868,Em curso,3201,Detritos não confinados,0,2,0,10,2025-06-07T20:49:00Z,Porto,Porto,Norte,-8.66592,41.14795
+25492907,Cernache,Região de Coimbra,310,2025-06-07T21:00:00Z,25492907,Em despacho,3105,Incêndio rural,0,1,0,5,2025-06-07T21:00:00Z,Coimbra,Coimbra,Centro,-8.48528,40.13683
 25491204,São João de Rei,Ave,309,2025-06-07T14:03:00Z,25491204,Em conclusão,3101,Incêndio rural,0,0,0,0,2025-06-07T14:03:00Z,Póvoa De Lanhoso,Braga,Norte,-8.286837,41.616893
 25491602,Torre de Moncorvo,Douro,309,2025-06-07T15:40:00Z,25491602,Em conclusão,3103,Incêndio rural,0,8,0,26,2025-06-07T15:40:00Z,Torre De Moncorvo,Bragança,Norte,-7.096635,41.162693
 25492440,Vila Caiz,Tâmega e Sousa,309,2025-06-07T18:58:00Z,25492440,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-07T18:58:00Z,Amarante,Porto,Norte,-8.133468,41.232695
 25492474,Marinha Grande,Região de Leiria,310,2025-06-07T19:04:00Z,25492474,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-07T19:04:00Z,Marinha Grande,Leiria,Centro,-8.900148,39.729212
-25492504,Vilar da Veiga,Cávado,309,2025-06-07T19:10:00Z,25492504,Em curso,2201,Incêndio em equipamentos ou produtos,0,2,0,7,2025-06-07T19:10:00Z,Terras De Bouro,Braga,Norte,-8.16406,41.72886
-25492672,Monte Real e Carvide,Região de Leiria,310,2025-06-07T19:57:00Z,25492672,Em conclusão,3111,Queima,1,4,0,20,2025-06-07T19:57:00Z,Leiria,Leiria,Centro,-8.87814,39.818715
-25492747,Lousa,Grande Lisboa,311,2025-06-07T20:16:00Z,25492747,Em conclusão,3111,Queima,0,0,0,0,2025-06-07T20:16:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.20419,38.88992
-25492790,Sé e São Lourenço,Alto Alentejo,312,2025-06-07T20:29:00Z,25492790,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-07T20:29:00Z,Portalegre,Portalegre,Alentejo,-7.428348,39.289802
-25492068,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-07T17:21:00Z,25492068,Em conclusão,3103,Incêndio rural,0,16,0,48,2025-06-07T17:21:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19733,38.584712
-25492696,Alpiarça,Lezíria do Tejo,311,2025-06-07T20:01:00Z,25492696,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-07T20:01:00Z,Alpiarça,Santarém,Alentejo,-8.56794,39.190332
-25492727,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-07T20:00:00Z,25492727,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-07T20:00:00Z,Gondomar,Porto,Norte,-8.502452,41.155366
+25492672,Monte Real e Carvide,Região de Leiria,310,2025-06-07T19:57:00Z,25492672,Em conclusão,3111,Queima,0,1,0,2,2025-06-07T19:57:00Z,Leiria,Leiria,Centro,-8.87814,39.818715
