@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25488493,Nogueira e Silva Escura,Area M. Porto,309,2025-06-06T22:15:00Z,25488493,Em conclusão,3105,Incêndio rural,0,3,0,8,2025-06-06T22:15:00Z,Maia,Porto,Norte,-8.59054,41.244857
+25488863,Antas,Cávado,309,2025-06-07T00:57:00Z,25488863,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-07T00:57:00Z,Esposende,Braga,Norte,-8.77353,41.59852
 25487371,São João Dos Caldeireiros,Baixo Alentejo,312,2025-06-06T18:02:00Z,25487371,Em conclusão,3105,Incêndio rural,0,13,0,34,2025-06-06T18:02:00Z,Mértola,Beja,Alentejo,-7.804608,37.600808
 25488665,Penacova,Tâmega e Sousa,309,2025-06-06T23:25:00Z,25488665,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-06T23:25:00Z,Felgueiras,Porto,Norte,-8.25518,41.368598
-25488815,São Bartolomeu de Messines,Algarve,313,2025-06-07T00:32:00Z,25488815,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-07T00:32:00Z,Silves,Faro,Algarve,-8.2745,37.22839
+25488815,São Bartolomeu de Messines,Algarve,313,2025-06-07T00:32:00Z,25488815,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-07T00:32:00Z,Silves,Faro,Algarve,-8.2745,37.22839
