@@ -1,18 +1,21 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25491255,Vila Boa de Quires e Maureles,Tâmega e Sousa,309,2025-06-07T14:16:00Z,25491255,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-07T14:16:00Z,Marco De Canaveses,Porto,Norte,-8.20736,41.18382
-25491739,Reguenga,Area M. Porto,309,2025-06-07T16:08:00Z,25491739,Em curso,3103,Incêndio rural,0,1,0,5,2025-06-07T16:08:00Z,Santo Tirso,Porto,Norte,-8.442337,41.27942
-25491498,Samora Correia,Lezíria do Tejo,311,2025-06-07T15:16:00Z,25491498,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-07T15:16:00Z,Benavente,Santarém,Alentejo,-8.880642,38.8054
-25491716,Touguinha e Touguinhó,Area M. Porto,309,2025-06-07T16:00:00Z,25491716,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-07T16:00:00Z,Vila Do Conde,Porto,Norte,-8.723497,41.376143
-25491850,Baltar,Area M. Porto,309,2025-06-07T16:38:00Z,25491850,Em resolução,3103,Incêndio rural,0,3,0,12,2025-06-07T16:38:00Z,Paredes,Porto,Norte,-8.374708,41.184618
 25491685,Touguinha e Touguinhó,Area M. Porto,309,2025-06-07T15:51:00Z,25491685,Em resolução,2301,Incêndio em transporte rodoviário,0,5,0,12,2025-06-07T15:51:00Z,Vila Do Conde,Porto,Norte,-8.711706,41.381417
-25491780,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-07T16:19:00Z,25491780,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-07T16:19:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.49437,40.94186
-25491830,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-07T16:31:00Z,25491830,Em curso,3105,Incêndio rural,0,2,0,7,2025-06-07T16:31:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.094947,38.82306
-25491921,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-06-07T16:45:00Z,25491921,Em conclusão,3111,Queima,0,1,0,5,2025-06-07T16:45:00Z,Grândola,Setúbal,Alentejo,-8.560713,38.195578
+25491830,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-07T16:31:00Z,25491830,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-07T16:31:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.094947,38.82306
+25491921,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-06-07T16:45:00Z,25491921,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-07T16:45:00Z,Grândola,Setúbal,Alentejo,-8.560713,38.195578
+25492012,Pontinha e Famões,Grande Lisboa,311,2025-06-07T17:14:00Z,25492012,Em despacho,2101,Incêndio em edifícios habitacionais,0,1,0,4,2025-06-07T17:14:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.20927,38.80144
+25491716,Touguinha e Touguinhó,Area M. Porto,309,2025-06-07T16:00:00Z,25491716,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-07T16:00:00Z,Vila Do Conde,Porto,Norte,-8.723497,41.376143
+25491850,Baltar,Area M. Porto,309,2025-06-07T16:38:00Z,25491850,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-07T16:38:00Z,Paredes,Porto,Norte,-8.374708,41.184618
+25492000,Rio Tinto,Area M. Porto,309,2025-06-07T17:10:00Z,25492000,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,6,2025-06-07T17:10:00Z,Gondomar,Porto,Norte,-8.548484,41.16239
+25492068,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-07T17:21:00Z,25492068,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-07T17:21:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.20278,38.58583
 25490718,Conde e Gandarela,Ave,309,2025-06-07T11:59:00Z,25490718,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-07T11:59:00Z,Guimarães,Braga,Norte,-8.339596,41.394277
 25490866,Tarouca e Dálvares,Douro,309,2025-06-07T12:39:00Z,25490866,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-07T12:39:00Z,Tarouca,Viseu,Norte,-7.76012,41.035963
 25491204,São João de Rei,Ave,309,2025-06-07T14:03:00Z,25491204,Em conclusão,3103,Incêndio rural,0,5,0,18,2025-06-07T14:03:00Z,Póvoa De Lanhoso,Braga,Norte,-8.286837,41.616893
 25491409,Montargil,Alto Alentejo,312,2025-06-07T14:55:00Z,25491409,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-07T14:55:00Z,Ponte De Sor,Portalegre,Alentejo,-8.1281,39.09918
-25491463,Pombeiro de Ribavizela,Tâmega e Sousa,309,2025-06-07T15:07:00Z,25491463,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-07T15:07:00Z,Felgueiras,Porto,Norte,-8.22894,41.37885
-25491602,Torre de Moncorvo,Douro,309,2025-06-07T15:40:00Z,25491602,Em conclusão,3103,Incêndio rural,1,10,0,39,2025-06-07T15:40:00Z,Torre De Moncorvo,Bragança,Norte,-7.096635,41.162693
-25491663,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-06-07T15:48:00Z,25491663,Em conclusão,3105,Incêndio rural,0,7,0,26,2025-06-07T15:48:00Z,Évora,Évora,Alentejo,-7.939893,38.574438
-25491797,Cabril,Alto Tâmega e Barroso,309,2025-06-07T16:23:00Z,25491797,Em despacho,3103,Incêndio rural,1,3,0,21,2025-06-07T16:23:00Z,Montalegre,Vila Real,Norte,-8.09336,41.70923
+25491463,Pombeiro de Ribavizela,Tâmega e Sousa,309,2025-06-07T15:07:00Z,25491463,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,2,2025-06-07T15:07:00Z,Felgueiras,Porto,Norte,-8.22894,41.37885
+25491602,Torre de Moncorvo,Douro,309,2025-06-07T15:40:00Z,25491602,Em conclusão,3103,Incêndio rural,0,11,0,34,2025-06-07T15:40:00Z,Torre De Moncorvo,Bragança,Norte,-7.096635,41.162693
+25492084,Carcavelos e Parede,Grande Lisboa,311,2025-06-07T17:30:00Z,25492084,Em despacho,3203,Detritos confinados,0,0,0,0,2025-06-07T17:30:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.353934,38.69514
+25492036,Veiros,Alentejo Central,312,2025-06-07T17:18:00Z,25492036,Em despacho,3103,Incêndio rural,0,4,0,11,2025-06-07T17:18:00Z,Estremoz,Évora,Alentejo,-7.513584,38.955952
+25492045,Vila Nova da Barquinha,Médio Tejo,311,2025-06-07T17:22:00Z,25492045,Em curso,2301,Incêndio em transporte rodoviário,0,5,0,16,2025-06-07T17:22:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.44383,39.47294
+25492056,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-07T17:21:00Z,25492056,Em resolução,3105,Incêndio rural,0,1,0,5,2025-06-07T17:21:00Z,Felgueiras,Porto,Norte,-8.23103,41.366583
+25492072,Cacém e São Marcos,Grande Lisboa,311,2025-06-07T17:27:00Z,25492072,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-07T17:27:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.30114,38.76371
