@@ -1,13 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25493327,"Garvão e Santa Luzia","Baixo Alentejo",312,"2025-06-07T23:02:00",25493327,"Em conclusão","3105","Incêndio rural",0,1,0,5,"2025-06-07T23:02:00","Ourique","Beja","Alentejo",-8.394977,37.741793
+25493663,"Lobão da Beira","Viseu Dão Lafões",310,"2025-06-08T01:19:00",25493663,"Em resolução","2407","Despiste",0,3,0,6,"2025-06-08T01:19:00","Tondela","Viseu","Centro",-8.046994,40.507584
+25493963,"Ribeira de Nisa e Carreiras","Alto Alentejo",312,"2025-06-08T05:10:00",25493963,"Em conclusão","2407","Despiste",0,2,0,4,"2025-06-08T05:10:00","Portalegre","Portalegre","Alentejo",-7.437231,39.349893
 25493910,"Castro Marim","Algarve",313,"2025-06-08T04:14:00",25493910,"Em conclusão","3103","Incêndio rural",0,2,0,7,"2025-06-08T04:14:00","Castro Marim","Faro","Algarve",-7.477058,37.252166
 25493275,"Carregal do Sal","Viseu Dão Lafões",310,"2025-06-07T22:40:00",25493275,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-07T22:40:00","Carregal Do Sal","Viseu","Centro",-7.999939,40.437298
 25493752,"Souto da Carpalhosa e Ortigosa","Região de Leiria",310,"2025-06-08T02:13:00",25493752,"Em despacho","2407","Despiste",0,3,0,10,"2025-06-08T02:13:00","Leiria","Leiria","Centro",-8.847969,39.826364
-25493327,"Garvão e Santa Luzia","Baixo Alentejo",312,"2025-06-07T23:02:00",25493327,"Em conclusão","3105","Incêndio rural",0,1,0,5,"2025-06-07T23:02:00","Ourique","Beja","Alentejo",-8.394977,37.741793
-25493663,"Lobão da Beira","Viseu Dão Lafões",310,"2025-06-08T01:19:00",25493663,"Em resolução","2407","Despiste",0,3,0,6,"2025-06-08T01:19:00","Tondela","Viseu","Centro",-8.046994,40.507584
-25493949,"Macinhata do Vouga","Região de Aveiro",310,"2025-06-08T05:01:00",25493949,"Em despacho","3317","Inundação de estruturas por água canalizada",0,0,0,0,"2025-06-08T05:01:00","Águeda","Aveiro","Centro",-8.45577,40.66965
-25493963,"Sé e São Lourenço","Alto Alentejo",312,"2025-06-08T05:10:00",25493963,"Em despacho","2407","Despiste",0,1,0,2,"2025-06-08T05:10:00","Portalegre","Portalegre","Alentejo",-7.425983,39.295933
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25492602,"Vilar Formoso","Beiras e Serra da Estrela",310,"2025-06-07T19:30:00",25492602,"Em despacho","2407","Despiste",0,2,0,4,"2025-06-07T19:30:00","Almeida","Guarda","Centro",-6.836969,40.616247
 25493854,"Marinha Grande","Região de Leiria",310,"2025-06-08T03:35:00",25493854,"Em curso","2407","Despiste",0,4,0,8,"2025-06-08T03:35:00","Marinha Grande","Leiria","Centro",-8.971847,39.746393
-25493873,"Pinheiro da Bemposta, Travanca e Palmaz","Area M. Porto",309,"2025-06-08T03:40:00",25493873,"Em despacho","2407","Despiste",0,1,0,2,"2025-06-08T03:40:00","Oliveira De Azeméis","Aveiro","Norte",-8.468107,40.789674
-25493907,"Lousa","Grande Lisboa",311,"2025-06-08T04:04:00",25493907,"Em resolução","2403","Colisão rodoviária",0,7,0,17,"2025-06-08T04:04:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.201121,38.874078
+25493907,"Lousa","Grande Lisboa",311,"2025-06-08T04:04:00",25493907,"Em conclusão","2403","Colisão rodoviária",0,7,0,17,"2025-06-08T04:04:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.201121,38.874078
