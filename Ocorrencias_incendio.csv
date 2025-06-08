@@ -1,5 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25498041,Bodiosa,Viseu Dão Lafões,310,2025-06-08T23:55:00Z,25498041,Em curso,3111,Queima,0,1,0,3,2025-06-08T23:55:00Z,Viseu,Viseu,Centro,-7.995132,40.720737
-25497903,Areosa,Alto Minho,309,2025-06-08T23:16:00Z,25497903,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-08T23:16:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.84774,41.71887
-25498012,Escariz (São Mamede) e Escariz (São Martinho),Cávado,309,2025-06-08T23:48:00Z,25498012,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-08T23:48:00Z,Vila Verde,Braga,Norte,-8.52979,41.63814
 25495190,Peva e Segões,Douro,309,2025-06-08T11:17:00Z,25495190,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-08T11:17:00Z,Moimenta Da Beira,Viseu,Norte,-7.69063,40.890053
+25498066,Pedroso e Seixezelo,Area M. Porto,309,2025-06-09T00:08:00Z,25498066,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,8,0,24,2025-06-09T00:08:00Z,Vila Nova De Gaia,Porto,Norte,-8.538487,41.08813
+25498100,"Nossa Senhora da Conceição, São Pedro e São Dinis",Douro,309,2025-06-09T00:26:00Z,25498100,Em despacho,2201,Incêndio em equipamentos ou produtos,0,0,0,0,2025-06-09T00:26:00Z,Vila Real,Vila Real,Norte,-7.74004,41.30786
+25498118,Paredes,Area M. Porto,309,2025-06-09T00:07:00Z,25498118,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-09T00:07:00Z,Paredes,Porto,Norte,-8.32628,41.205322
+25498086,Castelo Branco,Beira Baixa,310,2025-06-09T00:12:00Z,25498086,Em curso,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-09T00:12:00Z,Castelo Branco,Castelo Branco,Centro,-7.490756,39.816895
+25498012,Ribeira do Neiva,Cávado,309,2025-06-08T23:48:00Z,25498012,Em despacho,3103,Incêndio rural,0,4,0,17,2025-06-08T23:48:00Z,Vila Verde,Braga,Norte,-8.504574,41.670266
+25498041,Bodiosa,Viseu Dão Lafões,310,2025-06-08T23:55:00Z,25498041,Em resolução,3111,Queima,0,1,0,3,2025-06-08T23:55:00Z,Viseu,Viseu,Centro,-7.995132,40.720737
+25498077,Faro (Sé e São Pedro),Algarve,313,2025-06-09T00:16:00Z,25498077,Em curso,3203,Detritos confinados,0,3,0,6,2025-06-09T00:16:00Z,Faro,Faro,Algarve,-7.9324,37.0122
