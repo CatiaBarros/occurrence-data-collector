@@ -6,11 +6,12 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25495190,Peva e Segões,Douro,309,2025-06-08T11:17:00Z,25495190,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,6,0,19,2025-06-08T11:17:00Z,Moimenta Da Beira,Viseu,Norte,-7.69063,40.890053
 25495892,Fernão Ferro,Península de Setúbal,311,2025-06-08T14:03:00Z,25495892,Em conclusão,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-08T14:03:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.08943,38.56504
 25493327,Garvão e Santa Luzia,Baixo Alentejo,312,2025-06-07T23:02:00Z,25493327,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-07T23:02:00Z,Ourique,Beja,Alentejo,-8.394977,37.741793
-25494748,Tavarede,Região de Coimbra,310,2025-06-08T09:37:00Z,25494748,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,2,2025-06-08T09:37:00Z,Figueira Da Foz,Coimbra,Centro,-8.828472,40.18054
 25495500,Faro (Sé e São Pedro),Algarve,313,2025-06-08T12:26:00Z,25495500,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-08T12:26:00Z,Faro,Faro,Algarve,-7.915627,37.026747
-25495920,Pontinha e Famões,Grande Lisboa,311,2025-06-08T14:09:00Z,25495920,Em despacho,3203,Detritos confinados,0,0,0,0,2025-06-08T14:09:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.21566,38.80007
-25495623,Silves,Algarve,313,2025-06-08T12:57:00Z,25495623,Em conclusão,3103,Incêndio rural,0,7,0,21,2025-06-08T12:57:00Z,Silves,Faro,Algarve,-8.448337,37.188372
-25495805,Silvares,Beiras e Serra da Estrela,310,2025-06-08T13:43:00Z,25495805,Em resolução,3101,Incêndio rural,1,7,0,31,2025-06-08T13:43:00Z,Fundão,Castelo Branco,Centro,-7.668893,40.130707
-25495889,Carregueira,Lezíria do Tejo,311,2025-06-08T14:01:00Z,25495889,Em curso,3203,Detritos confinados,0,8,0,21,2025-06-08T14:01:00Z,Chamusca,Santarém,Alentejo,-8.411811,39.421134
-25495941,Carvoeira,Grande Lisboa,311,2025-06-08T14:14:00Z,25495941,Em despacho,2101,Incêndio em edifícios habitacionais,0,0,0,0,2025-06-08T14:14:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.408941,38.94968
-25495948,Sezures,Viseu Dão Lafões,310,2025-06-08T14:16:00Z,25495948,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-08T14:16:00Z,Penalva Do Castelo,Viseu,Centro,-7.61671,40.714208
+25495920,Pontinha e Famões,Grande Lisboa,311,2025-06-08T14:09:00Z,25495920,Em curso,3203,Detritos confinados,0,1,0,5,2025-06-08T14:09:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.21566,38.80007
+25496001,Covas,Alto Minho,309,2025-06-08T14:26:00Z,25496001,Em resolução,3101,Incêndio rural,0,3,0,11,2025-06-08T14:26:00Z,Vila Nova De Cerveira,Viana Do Castelo,Norte,-8.696402,41.903205
+25496051,Braga (São Vítor),Cávado,309,2025-06-08T14:34:00Z,25496051,Em despacho,3203,Detritos confinados,0,1,0,5,2025-06-08T14:34:00Z,Braga,Braga,Norte,-8.406451,41.557726
+25495623,Silves,Algarve,313,2025-06-08T12:57:00Z,25495623,Em conclusão,3103,Incêndio rural,0,6,0,16,2025-06-08T12:57:00Z,Silves,Faro,Algarve,-8.448337,37.188372
+25495805,Silvares,Beiras e Serra da Estrela,310,2025-06-08T13:43:00Z,25495805,Em conclusão,3103,Incêndio rural,0,7,0,23,2025-06-08T13:43:00Z,Fundão,Castelo Branco,Centro,-7.668893,40.130707
+25495889,Carregueira,Lezíria do Tejo,311,2025-06-08T14:01:00Z,25495889,Em resolução,3203,Detritos confinados,0,8,0,21,2025-06-08T14:01:00Z,Chamusca,Santarém,Alentejo,-8.357435,39.410728
+25495941,Carvoeira,Grande Lisboa,311,2025-06-08T14:14:00Z,25495941,Em despacho,2101,Incêndio em edifícios habitacionais,0,5,0,15,2025-06-08T14:14:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.408941,38.94968
+25495948,Sezures,Viseu Dão Lafões,310,2025-06-08T14:16:00Z,25495948,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-08T14:16:00Z,Penalva Do Castelo,Viseu,Centro,-7.61671,40.714208
