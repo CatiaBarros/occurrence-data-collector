@@ -1,10 +1,8 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25493327,"Garvão e Santa Luzia","Baixo Alentejo",312,"2025-06-07T23:02:00",25493327,"Em conclusão","3105","Incêndio rural",0,1,0,5,"2025-06-07T23:02:00","Ourique","Beja","Alentejo",-8.394977,37.741793
+25493663,"Lobão da Beira","Viseu Dão Lafões",310,"2025-06-08T01:19:00",25493663,"Em resolução","2407","Despiste",0,3,0,6,"2025-06-08T01:19:00","Tondela","Viseu","Centro",-8.046994,40.507584
+25493275,"Carregal do Sal","Viseu Dão Lafões",310,"2025-06-07T22:40:00",25493275,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-07T22:40:00","Carregal Do Sal","Viseu","Centro",-7.999939,40.437298
 25494010,"Bustelo, Carneiro e Carvalho de Rei","Tâmega e Sousa",309,"2025-06-08T05:52:00",25494010,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-06-08T05:52:00","Amarante","Porto","Norte",-7.990847,41.220734
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25492602,"Vilar Formoso","Beiras e Serra da Estrela",310,"2025-06-07T19:30:00",25492602,"Em despacho","2407","Despiste",0,2,0,4,"2025-06-07T19:30:00","Almeida","Guarda","Centro",-6.836969,40.616247
-25493907,"Lousa","Grande Lisboa",311,"2025-06-08T04:04:00",25493907,"Em conclusão","2403","Colisão rodoviária",0,4,0,7,"2025-06-08T04:04:00","Loures","Lisboa","Área Metropolitana De Lisboa",-9.201121,38.874078
-25493974,"Costa da Caparica","Península de Setúbal",311,"2025-06-08T05:32:00",25493974,"Em curso","3107","Consolidação de rescaldo de incêndio rural",0,4,0,17,"2025-06-08T05:32:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.20088,38.58186
-25493275,"Carregal do Sal","Viseu Dão Lafões",310,"2025-06-07T22:40:00",25493275,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-07T22:40:00","Carregal Do Sal","Viseu","Centro",-7.999939,40.437298
-25494025,"Grândola e Santa Margarida da Serra","Alentejo Litoral",312,"2025-06-08T06:03:00",25494025,"Em resolução","3111","Queima",0,1,0,5,"2025-06-08T06:03:00","Grândola","Setúbal","Alentejo",-8.56748,38.183608
-25493327,"Garvão e Santa Luzia","Baixo Alentejo",312,"2025-06-07T23:02:00",25493327,"Em conclusão","3105","Incêndio rural",0,1,0,5,"2025-06-07T23:02:00","Ourique","Beja","Alentejo",-8.394977,37.741793
-25493663,"Lobão da Beira","Viseu Dão Lafões",310,"2025-06-08T01:19:00",25493663,"Em resolução","2407","Despiste",0,3,0,6,"2025-06-08T01:19:00","Tondela","Viseu","Centro",-8.046994,40.507584
+25493974,"Costa da Caparica","Península de Setúbal",311,"2025-06-08T05:32:00",25493974,"Em resolução","3107","Consolidação de rescaldo de incêndio rural",0,4,0,17,"2025-06-08T05:32:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.20088,38.58186
