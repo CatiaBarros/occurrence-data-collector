@@ -1,18 +1,21 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25494754,Alvarelhos e Guidões,Area M. Porto,309,2025-06-08T09:34:00Z,25494754,Em conclusão,3111,Queima,0,5,0,26,2025-06-08T09:34:00Z,Trofa,Porto,Norte,-8.609605,41.309843
-25495665,Samora Correia,Lezíria do Tejo,311,2025-06-08T13:10:00Z,25495665,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-08T13:10:00Z,Benavente,Santarém,Alentejo,-8.846593,38.906285
-25496206,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-06-08T15:13:00Z,25496206,Em curso,3101,Incêndio rural,1,9,0,42,2025-06-08T15:13:00Z,Coruche,Santarém,Alentejo,-8.514908,38.9843
 25493974,Costa da Caparica,Península de Setúbal,311,2025-06-08T05:32:00Z,25493974,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,5,0,14,2025-06-08T05:32:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.20088,38.58186
 25495190,Peva e Segões,Douro,309,2025-06-08T11:17:00Z,25495190,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,5,0,17,2025-06-08T11:17:00Z,Moimenta Da Beira,Viseu,Norte,-7.69063,40.890053
-25495805,Silvares,Beiras e Serra da Estrela,310,2025-06-08T13:43:00Z,25495805,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-08T13:43:00Z,Fundão,Castelo Branco,Centro,-7.668893,40.130707
-25495889,Carregueira,Lezíria do Tejo,311,2025-06-08T14:01:00Z,25495889,Em resolução,3203,Detritos confinados,0,5,0,13,2025-06-08T14:01:00Z,Chamusca,Santarém,Alentejo,-8.357435,39.410728
-25496273,Cercal,Alentejo Litoral,312,2025-06-08T15:28:00Z,25496273,Em despacho,3103,Incêndio rural,0,3,0,12,2025-06-08T15:28:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.603936,37.83615
+25496177,Bonfim,Area M. Porto,309,2025-06-08T15:06:00Z,25496177,Em conclusão,3203,Detritos confinados,0,3,0,12,2025-06-08T15:06:00Z,Porto,Porto,Norte,-8.599242,41.14794
+25496194,Arões (Santa Cristina),Ave,309,2025-06-08T15:09:00Z,25496194,Em resolução,3103,Incêndio rural,0,3,0,15,2025-06-08T15:09:00Z,Fafe,Braga,Norte,-8.231833,41.437117
+25496243,Monte Córdova,Area M. Porto,309,2025-06-08T15:20:00Z,25496243,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-08T15:20:00Z,Santo Tirso,Porto,Norte,-8.398897,41.313787
+25496261,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-06-08T15:27:00Z,25496261,Em resolução,3103,Incêndio rural,0,2,0,10,2025-06-08T15:27:00Z,Coruche,Santarém,Alentejo,-8.527977,38.961055
 25493327,Garvão e Santa Luzia,Baixo Alentejo,312,2025-06-07T23:02:00Z,25493327,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-07T23:02:00Z,Ourique,Beja,Alentejo,-8.394977,37.741793
-25495920,Pontinha e Famões,Grande Lisboa,311,2025-06-08T14:09:00Z,25495920,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-08T14:09:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.21566,38.80007
 25496001,Covas,Alto Minho,309,2025-06-08T14:26:00Z,25496001,Em conclusão,3101,Incêndio rural,0,5,0,14,2025-06-08T14:26:00Z,Vila Nova De Cerveira,Viana Do Castelo,Norte,-8.696402,41.903205
-25496236,Ferreiros,Ave,309,2025-06-08T15:18:00Z,25496236,Em curso,2301,Incêndio em transporte rodoviário,0,4,0,14,2025-06-08T15:18:00Z,Póvoa De Lanhoso,Braga,Norte,-8.30339,41.58614
-25496304,Alcáçovas,Alentejo Central,312,2025-06-08T15:36:00Z,25496304,Em despacho,3103,Incêndio rural,1,3,0,18,2025-06-08T15:36:00Z,Viana Do Alentejo,Évora,Alentejo,-8.15721,38.39297
-25496177,Bonfim,Area M. Porto,309,2025-06-08T15:06:00Z,25496177,Em conclusão,3203,Detritos confinados,0,6,0,22,2025-06-08T15:06:00Z,Porto,Porto,Norte,-8.599242,41.14794
-25496194,Arões (São Romão),Ave,309,2025-06-08T15:09:00Z,25496194,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-08T15:09:00Z,Fafe,Braga,Norte,-8.220707,41.45745
-25496243,Monte Córdova,Area M. Porto,309,2025-06-08T15:20:00Z,25496243,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-08T15:20:00Z,Santo Tirso,Porto,Norte,-8.43867,41.31605
-25496261,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-06-08T15:27:00Z,25496261,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-08T15:27:00Z,Coruche,Santarém,Alentejo,-8.523889,38.95833
+25496236,Ferreiros,Ave,309,2025-06-08T15:18:00Z,25496236,Em curso,2301,Incêndio em transporte rodoviário,0,4,0,14,2025-06-08T15:18:00Z,Póvoa De Lanhoso,Braga,Norte,-8.301943,41.586733
+25496304,Alcáçovas,Alentejo Central,312,2025-06-08T15:36:00Z,25496304,Em conclusão,3103,Incêndio rural,1,5,0,25,2025-06-08T15:36:00Z,Viana Do Alentejo,Évora,Alentejo,-8.15721,38.39297
+25496352,Alhadas,Região de Coimbra,310,2025-06-08T15:46:00Z,25496352,Em curso,3105,Incêndio rural,0,4,0,18,2025-06-08T15:46:00Z,Figueira Da Foz,Coimbra,Centro,-8.77122,40.19383
+25496421,Conde e Gandarela,Ave,309,2025-06-08T16:03:00Z,25496421,Em despacho,3105,Incêndio rural,0,1,0,5,2025-06-08T16:03:00Z,Guimarães,Braga,Norte,-8.339596,41.394277
+25494754,Alvarelhos e Guidões,Area M. Porto,309,2025-06-08T09:34:00Z,25494754,Em conclusão,3111,Queima,0,5,0,26,2025-06-08T09:34:00Z,Trofa,Porto,Norte,-8.609605,41.309843
+25496206,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-06-08T15:13:00Z,25496206,Em conclusão,3101,Incêndio rural,1,10,0,43,2025-06-08T15:13:00Z,Coruche,Santarém,Alentejo,-8.514908,38.9843
+25495805,Silvares,Beiras e Serra da Estrela,310,2025-06-08T13:43:00Z,25495805,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-08T13:43:00Z,Fundão,Castelo Branco,Centro,-7.668893,40.130707
+25495889,Carregueira,Lezíria do Tejo,311,2025-06-08T14:01:00Z,25495889,Em conclusão,3203,Detritos confinados,0,1,0,2,2025-06-08T14:01:00Z,Chamusca,Santarém,Alentejo,-8.357435,39.410728
+25496273,Cercal,Alentejo Litoral,312,2025-06-08T15:28:00Z,25496273,Em curso,3103,Incêndio rural,0,4,0,16,2025-06-08T15:28:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.603936,37.83615
+25496307,Vila Chã,Cávado,309,2025-06-08T15:37:00Z,25496307,Em curso,3103,Incêndio rural,1,3,0,21,2025-06-08T15:37:00Z,Esposende,Braga,Norte,-8.76182,41.563
+25496375,Trancoso (São Pedro e Santa Maria) e Souto Maior,Beiras e Serra da Estrela,310,2025-06-08T15:50:00Z,25496375,Em despacho,3103,Incêndio rural,0,3,0,8,2025-06-08T15:50:00Z,Trancoso,Guarda,Centro,-7.424802,40.772901
+25496384,Lordelo,Area M. Porto,309,2025-06-08T15:49:00Z,25496384,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-08T15:49:00Z,Paredes,Porto,Norte,-8.409851,41.232163
