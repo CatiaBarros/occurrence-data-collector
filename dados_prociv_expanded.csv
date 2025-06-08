@@ -1,16 +1,13 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25491602,"Torre de Moncorvo","Douro",309,"2025-06-07T15:40:00",25491602,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-06-07T15:40:00","Torre De Moncorvo","Bragança","Norte",-7.096635,41.162693
-25493167,"Estorãos","Alto Minho",309,"2025-06-07T22:02:00",25493167,"Em conclusão","2407","Despiste",0,2,0,4,"2025-06-07T22:02:00","Ponte De Lima","Viana Do Castelo","Norte",-8.662986,41.80017
-25493508,"Valadares","Tâmega e Sousa",309,"2025-06-07T23:50:00",25493508,"Em conclusão","2407","Despiste",0,3,0,7,"2025-06-07T23:50:00","Baião","Porto","Norte",-7.982117,41.153743
-25493599,"Atouguia da Baleia","Oeste",311,"2025-06-08T00:36:00",25493599,"Em resolução","3107","Consolidação de rescaldo de incêndio rural",0,1,0,5,"2025-06-08T00:36:00","Peniche","Leiria","Centro",-9.349842,39.339438
-25493275,"Carregal do Sal","Viseu Dão Lafões",310,"2025-06-07T22:40:00",25493275,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-07T22:40:00","Carregal Do Sal","Viseu","Centro",-7.999939,40.437298
-25493591,"Oldrões","Tâmega e Sousa",309,"2025-06-08T00:29:00",25493591,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-08T00:29:00","Penafiel","Porto","Norte",-8.29709,41.146793
-25493616,"Oliveira do Douro","Area M. Porto",309,"2025-06-08T00:35:00",25493616,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-08T00:35:00","Vila Nova De Gaia","Porto","Norte",-8.585272,41.125484
+25493327,"Garvão e Santa Luzia","Baixo Alentejo",312,"2025-06-07T23:02:00",25493327,"Em conclusão","3103","Incêndio rural",0,19,0,59,"2025-06-07T23:02:00","Ourique","Beja","Alentejo",-8.394977,37.741793
+25493581,"Cepães e Fareja","Ave",309,"2025-06-08T00:29:00",25493581,"Em resolução","2407","Despiste",0,2,0,4,"2025-06-08T00:29:00","Fafe","Braga","Norte",-8.230403,41.415575
+25493645,"Santa Comba","Alto Minho",309,"2025-06-08T01:02:00",25493645,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,"2025-06-08T01:02:00","Ponte De Lima","Viana Do Castelo","Norte",-8.611587,41.767782
+25493663,"Lobão da Beira","Viseu Dão Lafões",310,"2025-06-08T01:19:00",25493663,"Em despacho","2407","Despiste",0,1,0,2,"2025-06-08T01:19:00","Tondela","Viseu","Centro",-8.046994,40.507584
+25493664,"Santa Joana","Região de Aveiro",310,"2025-06-08T01:12:00",25493664,"Em curso","2407","Despiste",0,3,0,8,"2025-06-08T01:12:00","Aveiro","Aveiro","Centro",-8.616608,40.631861
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25492068,"Charneca de Caparica e Sobreda","Península de Setúbal",311,"2025-06-07T17:21:00",25492068,"Em conclusão","3101","Incêndio rural",0,5,0,12,"2025-06-07T17:21:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.19733,38.584712
 25492602,"Vilar Formoso","Beiras e Serra da Estrela",310,"2025-06-07T19:30:00",25492602,"Em despacho","2407","Despiste",0,2,0,4,"2025-06-07T19:30:00","Almeida","Guarda","Centro",-6.836969,40.616247
-25493587,"Esposende, Marinhas e Gandra","Cávado",309,"2025-06-08T00:35:00",25493587,"Em curso","3203","Detritos confinados",0,2,0,4,"2025-06-08T00:35:00","Esposende","Braga","Norte",-8.786144,41.56393
-25493605,"Carnaxide e Queijas","Grande Lisboa",311,"2025-06-08T00:37:00",25493605,"Em curso","3325","Dano na rede de abastecimento de gás",0,2,0,7,"2025-06-08T00:37:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.233587,38.727201
-25492525,"Peso da Régua e Godim","Douro",309,"2025-06-07T19:10:00",25492525,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-06-07T19:10:00","Peso Da Régua","Vila Real","Norte",-7.793527,41.168971
-25493327,"Garvão e Santa Luzia","Baixo Alentejo",312,"2025-06-07T23:02:00",25493327,"Em conclusão","3103","Incêndio rural",0,20,0,58,"2025-06-07T23:02:00","Ourique","Beja","Alentejo",-8.394977,37.741793
-25493581,"Cepães e Fareja","Ave",309,"2025-06-08T00:29:00",25493581,"Em curso","2407","Despiste",0,1,0,2,"2025-06-08T00:29:00","Fafe","Braga","Norte",-8.230403,41.415575
+25493275,"Carregal do Sal","Viseu Dão Lafões",310,"2025-06-07T22:40:00",25493275,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-07T22:40:00","Carregal Do Sal","Viseu","Centro",-7.999939,40.437298
+25493627,"Casével e Vaqueiros","Lezíria do Tejo",311,"2025-06-08T00:56:00",25493627,"Em resolução","2403","Colisão rodoviária",0,6,0,15,"2025-06-08T00:56:00","Santarém","Santarém","Alentejo",-8.610438,39.396727
+25493682,"Bombarral e Vale Covo","Oeste",311,"2025-06-08T01:26:00",25493682,"Em despacho","2405","Acidente com tratores e máquinas",0,4,0,11,"2025-06-08T01:26:00","Bombarral","Leiria","Centro",-9.153454,39.234145
+25493508,"Valadares","Tâmega e Sousa",309,"2025-06-07T23:50:00",25493508,"Em conclusão","2407","Despiste",0,3,0,7,"2025-06-07T23:50:00","Baião","Porto","Norte",-7.982117,41.153743
+25493651,"Silvares, Pias, Nogueira e Alvarenga","Tâmega e Sousa",309,"2025-06-08T01:12:00",25493651,"Em conclusão","2407","Despiste",0,3,0,7,"2025-06-08T01:12:00","Lousada","Porto","Norte",-8.281787,41.287915
