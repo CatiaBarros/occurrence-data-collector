@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25498328,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-06-09T03:05:00Z,25498328,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,9,0,26,2025-06-09T03:05:00Z,Beja,Beja,Alentejo,-7.872212,38.032818
 25498509,Quarteira,Algarve,313,2025-06-09T06:16:00Z,25498509,Em despacho,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-09T06:16:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
+25498328,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-06-09T03:05:00Z,25498328,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,9,0,26,2025-06-09T03:05:00Z,Beja,Beja,Alentejo,-7.872212,38.032818
 25498388,Ceira,Região de Coimbra,310,2025-06-09T03:57:00Z,25498388,Em resolução,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,13,0,41,2025-06-09T03:57:00Z,Coimbra,Coimbra,Centro,-8.39222,40.18194
-25498488,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-06-09T05:55:00Z,25498488,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,15,2025-06-09T05:55:00Z,Matosinhos,Porto,Norte,-8.6495,41.18879
+25498488,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-06-09T05:55:00Z,25498488,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,2,2025-06-09T05:55:00Z,Matosinhos,Porto,Norte,-8.6495,41.18879
