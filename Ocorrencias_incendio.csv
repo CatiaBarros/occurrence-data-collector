@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25498328,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-06-09T03:05:00Z,25498328,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,8,0,21,2025-06-09T03:05:00Z,Beja,Beja,Alentejo,-7.872212,38.032818
+25498701,Cibões e Brufe,Cávado,309,2025-06-09T08:00:00Z,25498701,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-09T08:00:00Z,Terras De Bouro,Braga,Norte,-8.261532,41.766482
+25498328,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-06-09T03:05:00Z,25498328,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,6,0,15,2025-06-09T03:05:00Z,Beja,Beja,Alentejo,-7.872212,38.032818
 25498388,Ceira,Região de Coimbra,310,2025-06-09T03:57:00Z,25498388,Em resolução,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,13,0,41,2025-06-09T03:57:00Z,Coimbra,Coimbra,Centro,-8.39222,40.18194
