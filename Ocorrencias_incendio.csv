@@ -1,17 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25500438,Alenquer (Santo Estêvão e Triana),Oeste,311,2025-06-09T12:59:00Z,25500438,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-09T12:59:00Z,Alenquer,Lisboa,Centro,-8.995652,39.061319
-25500876,Macieira de Cambra,Area M. Porto,309,2025-06-09T14:21:00Z,25500876,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-09T14:21:00Z,Vale De Cambra,Aveiro,Norte,-8.369678,40.87889
-25501359,Rio Tinto,Area M. Porto,309,2025-06-09T15:47:00Z,25501359,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,3,2025-06-09T15:47:00Z,Gondomar,Porto,Norte,-8.5543,41.18855
-25501726,Azias,Alto Minho,309,2025-06-09T16:56:00Z,25501726,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-09T16:56:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.352492,41.781112
-25501894,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-09T17:45:00Z,25501894,Em resolução,3105,Incêndio rural,0,4,0,13,2025-06-09T17:45:00Z,Felgueiras,Porto,Norte,-8.208027,41.357222
-25498388,Ceira,Região de Coimbra,310,2025-06-09T03:57:00Z,25498388,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,4,2025-06-09T03:57:00Z,Coimbra,Coimbra,Centro,-8.39222,40.18194
-25501823,Ermesinde,Area M. Porto,309,2025-06-09T17:25:00Z,25501823,Em resolução,3203,Detritos confinados,0,2,0,7,2025-06-09T17:25:00Z,Valongo,Porto,Norte,-8.545578,41.211912
-25501982,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-09T17:53:00Z,25501982,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-09T17:53:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.090295,38.846465
-25502116,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-09T18:22:00Z,25502116,Em conclusão,2117,Incêndio em edifícios comerciais e gares de transporte,0,1,0,6,2025-06-09T18:22:00Z,Vila Nova De Gaia,Porto,Norte,-8.601126,41.126193
 25499380,Freiriz,Cávado,309,2025-06-09T09:54:00Z,25499380,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,6,0,15,2025-06-09T09:54:00Z,Vila Verde,Braga,Norte,-8.502703,41.633588
-25501569,Ovoa e Vimieiro,Viseu Dão Lafões,310,2025-06-09T16:30:00Z,25501569,Em resolução,2301,Incêndio em transporte rodoviário,0,13,0,34,2025-06-09T16:30:00Z,Santa Comba Dão,Viseu,Centro,-8.179507,40.347382
-25501634,"Bagunte, Ferreiró, Outeiro Maior e Parada",Area M. Porto,309,2025-06-09T16:44:00Z,25501634,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,6,2025-06-09T16:44:00Z,Vila Do Conde,Porto,Norte,-8.675213,41.361232
-25502018,Arões (Santa Cristina),Ave,309,2025-06-09T17:57:00Z,25502018,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-09T17:57:00Z,Fafe,Braga,Norte,-8.231833,41.437117
+25501569,Ovoa e Vimieiro,Viseu Dão Lafões,310,2025-06-09T16:30:00Z,25501569,Em resolução,2301,Incêndio em transporte rodoviário,0,14,0,35,2025-06-09T16:30:00Z,Santa Comba Dão,Viseu,Centro,-8.179507,40.347382
+25502018,Arões (Santa Cristina),Ave,309,2025-06-09T17:57:00Z,25502018,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-09T17:57:00Z,Fafe,Braga,Norte,-8.233185,41.436933
 25502135,Covas,Alto Minho,309,2025-06-09T18:32:00Z,25502135,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-09T18:32:00Z,Vila Nova De Cerveira,Viana Do Castelo,Norte,-8.696402,41.903205
 25502137,Penafiel,Tâmega e Sousa,309,2025-06-09T18:00:00Z,25502137,Em resolução,3103,Incêndio rural,0,2,0,10,2025-06-09T18:00:00Z,Marco De Canaveses,Porto,Norte,-8.222067,41.192887
 25500470,Morgade,Alto Tâmega e Barroso,309,2025-06-09T13:06:00Z,25500470,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-09T13:06:00Z,Montalegre,Vila Real,Norte,-7.727372,41.721168
@@ -19,3 +9,11 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25501983,Castêlo da Maia,Area M. Porto,309,2025-06-09T18:00:00Z,25501983,Em conclusão,3103,Incêndio rural,0,4,0,17,2025-06-09T18:00:00Z,Maia,Porto,Norte,-8.61397,41.292298
 25501999,Meinedo,Tâmega e Sousa,309,2025-06-09T18:03:00Z,25501999,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-09T18:03:00Z,Lousada,Porto,Norte,-8.24861,41.25077
 25502031,Campolide,Grande Lisboa,311,2025-06-09T18:09:00Z,25502031,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-09T18:09:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.168056,38.73056
+25502286,Torres do Mondego,Região de Coimbra,310,2025-06-09T19:02:00Z,25502286,Em despacho,3203,Detritos confinados,0,0,0,0,2025-06-09T19:02:00Z,Coimbra,Coimbra,Centro,-8.36087,40.208722
+25498388,Ceira,Região de Coimbra,310,2025-06-09T03:57:00Z,25498388,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,4,2025-06-09T03:57:00Z,Coimbra,Coimbra,Centro,-8.39222,40.18194
+25502116,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-09T18:22:00Z,25502116,Em conclusão,2117,Incêndio em edifícios comerciais e gares de transporte,0,1,0,6,2025-06-09T18:22:00Z,Vila Nova De Gaia,Porto,Norte,-8.601126,41.126193
+25500438,Alenquer (Santo Estêvão e Triana),Oeste,311,2025-06-09T12:59:00Z,25500438,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-09T12:59:00Z,Alenquer,Lisboa,Centro,-8.995652,39.061319
+25500876,Macieira de Cambra,Area M. Porto,309,2025-06-09T14:21:00Z,25500876,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-09T14:21:00Z,Vale De Cambra,Aveiro,Norte,-8.369678,40.87889
+25501726,Azias,Alto Minho,309,2025-06-09T16:56:00Z,25501726,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-09T16:56:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.352492,41.781112
+25501894,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-09T17:45:00Z,25501894,Em resolução,3105,Incêndio rural,0,3,0,8,2025-06-09T17:45:00Z,Felgueiras,Porto,Norte,-8.208027,41.357222
+25502282,Galegos (Santa Maria),Cávado,309,2025-06-09T18:58:00Z,25502282,Em curso,3105,Incêndio rural,0,1,0,5,2025-06-09T18:58:00Z,Barcelos,Braga,Norte,-8.582296,41.564645
