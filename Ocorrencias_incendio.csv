@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25498328,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-06-09T03:05:00Z,25498328,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,5,2025-06-09T03:05:00Z,Beja,Beja,Alentejo,-7.872212,38.032818
-25498746,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-06-09T08:03:00Z,25498746,Em despacho,3203,Detritos confinados,0,1,0,2,2025-06-09T08:03:00Z,Leiria,Leiria,Centro,-8.794773,39.732603
 25498701,Cibões e Brufe,Cávado,309,2025-06-09T08:00:00Z,25498701,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-09T08:00:00Z,Terras De Bouro,Braga,Norte,-8.261532,41.766482
-25498388,Ceira,Região de Coimbra,310,2025-06-09T03:57:00Z,25498388,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,11,0,34,2025-06-09T03:57:00Z,Coimbra,Coimbra,Centro,-8.39222,40.18194
+25498921,Carriço,Região de Leiria,310,2025-06-09T08:42:00Z,25498921,Em despacho,3101,Incêndio rural,1,3,0,21,2025-06-09T08:42:00Z,Pombal,Leiria,Centro,-8.805055,39.977024
+25498970,Azias,Alto Minho,309,2025-06-09T08:52:00Z,25498970,Em despacho,3103,Incêndio rural,1,1,0,11,2025-06-09T08:52:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.344961,41.772154
+25498388,Ceira,Região de Coimbra,310,2025-06-09T03:57:00Z,25498388,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,9,0,27,2025-06-09T03:57:00Z,Coimbra,Coimbra,Centro,-8.39222,40.18194
+25498746,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-06-09T08:03:00Z,25498746,Em despacho,3203,Detritos confinados,0,1,0,2,2025-06-09T08:03:00Z,Leiria,Leiria,Centro,-8.794773,39.732603
