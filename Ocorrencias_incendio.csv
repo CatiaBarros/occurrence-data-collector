@@ -1,12 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25503510,"Lebução, Fiães e Nozelos",Alto Tâmega e Barroso,309,2025-06-10T00:34:00Z,25503510,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-10T00:34:00Z,Valpaços,Vila Real,Norte,-7.26583,41.74196
-25503528,Folgosa,Area M. Porto,309,2025-06-10T00:30:00Z,25503528,Em resolução,3103,Incêndio rural,0,2,0,8,2025-06-10T00:30:00Z,Maia,Porto,Norte,-8.548245,41.235302
 25502829,Furadouro,Região de Coimbra,310,2025-06-09T21:04:00Z,25502829,Em resolução,2301,Incêndio em transporte rodoviário,0,8,0,24,2025-06-09T21:04:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.525201,40.07295
-25503416,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-06-09T23:52:00Z,25503416,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,6,2025-06-09T23:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.72675,41.743043
-25503482,Vilarinho,Area M. Porto,309,2025-06-10T00:14:00Z,25503482,Em resolução,2115,Incêndio em edifícios hoteleiros e de restauração,0,2,0,7,2025-06-10T00:14:00Z,Santo Tirso,Porto,Norte,-8.328198,41.349322
-25503500,Fontão,Alto Minho,309,2025-06-10T00:25:00Z,25503500,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-10T00:25:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.652835,41.742807
-25503161,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-09T22:30:00Z,25503161,Em conclusão,3101,Incêndio rural,0,0,0,0,2025-06-09T22:30:00Z,Felgueiras,Porto,Norte,-8.203653,41.372928
-25503429,Arrifana,Beiras e Serra da Estrela,310,2025-06-09T23:56:00Z,25503429,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-09T23:56:00Z,Guarda,Guarda,Centro,-7.213943,40.570062
-25499380,Freiriz,Cávado,309,2025-06-09T09:54:00Z,25499380,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,3,0,8,2025-06-09T09:54:00Z,Vila Verde,Braga,Norte,-8.502703,41.633588
-25501569,Ovoa e Vimieiro,Viseu Dão Lafões,310,2025-06-09T16:30:00Z,25501569,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,9,2025-06-09T16:30:00Z,Santa Comba Dão,Viseu,Centro,-8.179507,40.347382
-25503508,Faro (Sé e São Pedro),Algarve,313,2025-06-10T00:32:00Z,25503508,Em resolução,2129,Incêndio em edifícios degradados ou devolutos,0,4,0,9,2025-06-10T00:32:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+25503566,Pinhal Novo,Península de Setúbal,311,2025-06-10T01:05:00Z,25503566,Em conclusão,3103,Incêndio rural,0,3,0,11,2025-06-10T01:05:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.934332,38.630313
+25503510,Santa Valha,Alto Tâmega e Barroso,309,2025-06-10T00:34:00Z,25503510,Em resolução,3103,Incêndio rural,0,3,0,15,2025-06-10T00:34:00Z,Valpaços,Vila Real,Norte,-7.266192,41.742032
+25503528,Folgosa,Area M. Porto,309,2025-06-10T00:30:00Z,25503528,Em resolução,3103,Incêndio rural,0,4,0,15,2025-06-10T00:30:00Z,Maia,Porto,Norte,-8.548245,41.235302
+25501569,Ovoa e Vimieiro,Viseu Dão Lafões,310,2025-06-09T16:30:00Z,25501569,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-09T16:30:00Z,Santa Comba Dão,Viseu,Centro,-8.179507,40.347382
+25503508,Faro (Sé e São Pedro),Algarve,313,2025-06-10T00:32:00Z,25503508,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,5,0,11,2025-06-10T00:32:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+25503556,Portela e Extremo,Alto Minho,309,2025-06-10T00:57:00Z,25503556,Em curso,3103,Incêndio rural,0,2,0,10,2025-06-10T00:57:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.46873,41.9616
+25503575,"Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",Grande Lisboa,311,2025-06-10T01:10:00Z,25503575,Em resolução,3203,Detritos confinados,0,2,0,5,2025-06-10T01:10:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.27154,38.712857
+25503591,Ericeira,Grande Lisboa,311,2025-06-10T01:11:00Z,25503591,Em conclusão,3203,Detritos confinados,0,2,0,7,2025-06-10T01:11:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.410885,38.95971
