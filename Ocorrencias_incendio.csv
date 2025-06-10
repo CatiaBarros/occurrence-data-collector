@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25502829,Furadouro,Região de Coimbra,310,2025-06-09T21:04:00Z,25502829,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-09T21:04:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.525201,40.07295
-25503785,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-10T04:01:00Z,25503785,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,0,0,0,2025-06-10T04:01:00Z,Lagos,Faro,Algarve,-8.668524,37.100485
 25501569,Ovoa e Vimieiro,Viseu Dão Lafões,310,2025-06-09T16:30:00Z,25501569,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-09T16:30:00Z,Santa Comba Dão,Viseu,Centro,-8.179507,40.347382
 25503556,Portela e Extremo,Alto Minho,309,2025-06-10T00:57:00Z,25503556,Em resolução,3103,Incêndio rural,0,6,0,24,2025-06-10T00:57:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.464202,41.960325
+25503841,"Póvoa de Varzim, Beiriz e Argivai",Area M. Porto,309,2025-06-10T04:56:00Z,25503841,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-10T04:56:00Z,Póvoa De Varzim,Porto,Norte,-8.741711,41.385553
