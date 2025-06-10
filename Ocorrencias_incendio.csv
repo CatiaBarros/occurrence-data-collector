@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25504047,Monte Redondo,Alto Minho,309,2025-06-10T07:50:00Z,25504047,Em resolução,3103,Incêndio rural,0,5,0,13,2025-06-10T07:50:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.44661,41.833125
+25504540,Canaviais,Alentejo Central,312,2025-06-10T09:52:00Z,25504540,Em resolução,2301,Incêndio em transporte rodoviário,0,7,0,14,2025-06-10T09:52:00Z,Évora,Évora,Alentejo,-7.906372,38.629405
+25504753,São Vicente da Beira,Beira Baixa,310,2025-06-10T10:38:00Z,25504753,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-10T10:38:00Z,Castelo Branco,Castelo Branco,Centro,-7.57203,40.04306
+25504802,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-10T10:35:00Z,25504802,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-10T10:35:00Z,Felgueiras,Porto,Norte,-8.203653,41.372928
+25504564,Olhão,Algarve,313,2025-06-10T09:52:00Z,25504564,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-10T09:52:00Z,Olhão,Faro,Algarve,-7.843133,37.022054
 25504408,Macieira de Cambra,Area M. Porto,309,2025-06-10T09:10:00Z,25504408,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-10T09:10:00Z,Vale De Cambra,Aveiro,Norte,-8.369678,40.87889
 25504593,Moita,Península de Setúbal,311,2025-06-10T10:03:00Z,25504593,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-10T10:03:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.97845,38.63652
-25504728,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-06-10T10:32:00Z,25504728,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-10T10:32:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.136873,39.942845
-25504753,São Vicente da Beira,Beira Baixa,310,2025-06-10T10:38:00Z,25504753,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-10T10:38:00Z,Castelo Branco,Castelo Branco,Centro,-7.57203,40.04306
-25504047,Monte Redondo,Alto Minho,309,2025-06-10T07:50:00Z,25504047,Em resolução,3103,Incêndio rural,0,4,0,12,2025-06-10T07:50:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.44661,41.833125
-25504540,Canaviais,Alentejo Central,312,2025-06-10T09:52:00Z,25504540,Em curso,2301,Incêndio em transporte rodoviário,0,7,0,14,2025-06-10T09:52:00Z,Évora,Évora,Alentejo,-7.906372,38.629405
-25504654,Alcantarilha e Pêra,Algarve,313,2025-06-10T10:17:00Z,25504654,Em despacho,3103,Incêndio rural,0,4,0,17,2025-06-10T10:17:00Z,Silves,Faro,Algarve,-8.325536,37.143891000000004
-25504564,Olhão,Algarve,313,2025-06-10T09:52:00Z,25504564,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-10T09:52:00Z,Olhão,Faro,Algarve,-7.843133,37.022054
+25504728,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-06-10T10:32:00Z,25504728,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-10T10:32:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.136873,39.942845
