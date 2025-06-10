@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25503528,Folgosa,Area M. Porto,309,2025-06-10T00:30:00Z,25503528,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-10T00:30:00Z,Maia,Porto,Norte,-8.548245,41.235302
-25503626,Loivos da Ribeira e Tresouras,Tâmega e Sousa,309,2025-06-10T01:39:00Z,25503626,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-10T01:39:00Z,Baião,Porto,Norte,-7.909547,41.15933
-25503635,Bustelo,Tâmega e Sousa,309,2025-06-10T01:44:00Z,25503635,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-10T01:44:00Z,Penafiel,Porto,Norte,-8.279905,41.235143
 25501569,Ovoa e Vimieiro,Viseu Dão Lafões,310,2025-06-09T16:30:00Z,25501569,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-09T16:30:00Z,Santa Comba Dão,Viseu,Centro,-8.179507,40.347382
-25503556,Portela e Extremo,Alto Minho,309,2025-06-10T00:57:00Z,25503556,Em resolução,3103,Incêndio rural,0,5,0,22,2025-06-10T00:57:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.464202,41.960325
-25502829,Furadouro,Região de Coimbra,310,2025-06-09T21:04:00Z,25502829,Em resolução,2301,Incêndio em transporte rodoviário,0,7,0,22,2025-06-09T21:04:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.525201,40.07295
-25503647,Galegos,Tâmega e Sousa,309,2025-06-10T02:02:00Z,25503647,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-10T02:02:00Z,Penafiel,Porto,Norte,-8.321609,41.15289
+25503556,Portela e Extremo,Alto Minho,309,2025-06-10T00:57:00Z,25503556,Em resolução,3103,Incêndio rural,0,6,0,24,2025-06-10T00:57:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.464202,41.960325
+25503705,Barqueiros,Douro,309,2025-06-10T02:55:00Z,25503705,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-10T02:55:00Z,Mesão Frio,Vila Real,Norte,-7.891165,41.142257
+25503736,Santo António Dos Olivais,Região de Coimbra,310,2025-06-10T03:18:00Z,25503736,Em conclusão,3201,Detritos não confinados,0,2,0,8,2025-06-10T03:18:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261
+25502829,Furadouro,Região de Coimbra,310,2025-06-09T21:04:00Z,25502829,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-09T21:04:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.525201,40.07295
+25503714,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-06-10T03:05:00Z,25503714,Em conclusão,3201,Detritos não confinados,0,1,0,5,2025-06-10T03:05:00Z,Porto,Porto,Norte,-8.65297,41.15213
+25503626,Loivos da Ribeira e Tresouras,Tâmega e Sousa,309,2025-06-10T01:39:00Z,25503626,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-10T01:39:00Z,Baião,Porto,Norte,-7.909547,41.15933
