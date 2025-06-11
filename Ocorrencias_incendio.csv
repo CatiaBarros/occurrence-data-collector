@@ -1,17 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25510919,Cimbres,Douro,309,2025-06-11T15:40:00Z,25510919,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-11T15:40:00Z,Tarouca,Viseu,Norte,-7.721465,41.053008
-25511270,Cantanhede e Pocariça,Região de Coimbra,310,2025-06-11T16:55:00Z,25511270,Em conclusão,3105,Incêndio rural,0,7,0,18,2025-06-11T16:55:00Z,Cantanhede,Coimbra,Centro,-8.591902,40.354849
 25511468,Chão de Couce,Região de Leiria,310,2025-06-11T17:41:00Z,25511468,Em resolução,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,9,2025-06-11T17:41:00Z,Ansião,Leiria,Centro,-8.39829,39.91629
-25511670,Montijo e Afonsoeiro,Península de Setúbal,311,2025-06-11T18:21:00Z,25511670,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-11T18:21:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.975715,38.702323
 25511687,Agualva e Mira-Sintra,Grande Lisboa,311,2025-06-11T18:30:00Z,25511687,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-11T18:30:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.29653,38.77093
-25511466,Vila Fria e Vizela (São Jorge),Tâmega e Sousa,309,2025-06-11T17:35:00Z,25511466,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-11T17:35:00Z,Felgueiras,Porto,Norte,-8.240098,41.391722
-25511523,Caldas da Rainha - Santo Onofre e Serra do Bouro,Oeste,311,2025-06-11T17:56:00Z,25511523,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,3,0,9,2025-06-11T17:56:00Z,Caldas Da Rainha,Leiria,Centro,-9.14393,39.40137
-25511618,Sendim,Tâmega e Sousa,309,2025-06-11T18:11:00Z,25511618,Em conclusão,3105,Incêndio rural,0,1,0,3,2025-06-11T18:11:00Z,Felgueiras,Porto,Norte,-8.19886,41.379738
 25511625,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-06-11T18:12:00Z,25511625,Em conclusão,3201,Detritos não confinados,0,1,0,2,2025-06-11T18:12:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.051508,38.875602
-25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em conclusão,3103,Incêndio rural,0,8,0,30,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
+25511675,Sanfins Lamoso Codessos,Tâmega e Sousa,309,2025-06-11T18:26:00Z,25511675,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-11T18:26:00Z,Paços De Ferreira,Porto,Norte,-8.369628,41.323194
+25511877,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-11T19:08:00Z,25511877,Em curso,3201,Detritos não confinados,0,2,0,7,2025-06-11T19:08:00Z,Beja,Beja,Alentejo,-7.85522,38.015879
+25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em conclusão,3103,Incêndio rural,0,7,0,25,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
 25509271,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-11T10:38:00Z,25509271,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-11T10:38:00Z,Beja,Beja,Alentejo,-7.866213,38.030653
-25510522,Sanguinheira,Região de Coimbra,310,2025-06-11T14:27:00Z,25510522,Em conclusão,3101,Incêndio rural,0,1,0,2,2025-06-11T14:27:00Z,Cantanhede,Coimbra,Centro,-8.731988,40.321447
-25510715,Penas Roias,Terras de Trás-os-Montes,309,2025-06-11T14:59:00Z,25510715,Em conclusão,3103,Incêndio rural,0,8,0,25,2025-06-11T14:59:00Z,Mogadouro,Bragança,Norte,-6.6789,41.409052
-25511233,Lordelo,Area M. Porto,309,2025-06-11T16:40:00Z,25511233,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-11T16:40:00Z,Paredes,Porto,Norte,-8.422737,41.239614
-25511656,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-06-11T18:24:00Z,25511656,Em conclusão,3105,Incêndio rural,0,5,0,15,2025-06-11T18:24:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.78929,39.0283
-25511675,Sanfins Lamoso Codessos,Tâmega e Sousa,309,2025-06-11T18:26:00Z,25511675,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-11T18:26:00Z,Paços De Ferreira,Porto,Norte,-8.369628,41.323194
+25511880,Pardilhó,Região de Aveiro,310,2025-06-11T19:13:00Z,25511880,Em resolução,2201,Incêndio em equipamentos ou produtos,0,2,0,7,2025-06-11T19:13:00Z,Estarreja,Aveiro,Centro,-8.609947,40.78765
+25510715,Penas Roias,Terras de Trás-os-Montes,309,2025-06-11T14:59:00Z,25510715,Em conclusão,3105,Incêndio rural,0,3,0,8,2025-06-11T14:59:00Z,Mogadouro,Bragança,Norte,-6.6789,41.409052
+25511915,Jugueiros,Tâmega e Sousa,309,2025-06-11T19:18:00Z,25511915,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-11T19:18:00Z,Felgueiras,Porto,Norte,-8.220438,41.404441
+25512001,São João da Madeira,Area M. Porto,309,2025-06-11T19:40:00Z,25512001,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,6,2025-06-11T19:40:00Z,São João Da Madeira,Aveiro,Norte,-8.497441,40.896053
