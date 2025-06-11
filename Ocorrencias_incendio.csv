@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em curso,3103,Incêndio rural,1,6,0,26,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
+25509225,Nossa Senhora da Expectação,Alto Alentejo,312,2025-06-11T10:30:00Z,25509225,Em conclusão,3105,Incêndio rural,0,2,0,5,2025-06-11T10:30:00Z,Campo Maior,Portalegre,Alentejo,-7.071885,39.008968
+25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em curso,3103,Incêndio rural,1,7,0,28,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
 25508838,Monte Redondo,Alto Minho,309,2025-06-11T09:35:00Z,25508838,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-11T09:35:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.455332,41.834463
-25509271,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-11T10:38:00Z,25509271,Em despacho,3201,Detritos não confinados,0,0,0,0,2025-06-11T10:38:00Z,Beja,Beja,Alentejo,-7.85522,38.015879
-25509225,Nossa Senhora da Expectação,Alto Alentejo,312,2025-06-11T10:30:00Z,25509225,Em resolução,3105,Incêndio rural,0,2,0,5,2025-06-11T10:30:00Z,Campo Maior,Portalegre,Alentejo,-7.071885,39.008968
-25508935,Quinta do Anjo,Península de Setúbal,311,2025-06-11T09:50:00Z,25508935,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,8,2025-06-11T09:50:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-9.00552,38.57832
+25509271,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-11T10:38:00Z,25509271,Em resolução,3105,Incêndio rural,0,3,0,9,2025-06-11T10:38:00Z,Beja,Beja,Alentejo,-7.866213,38.030653
 25509214,Freiriz,Cávado,309,2025-06-11T10:27:00Z,25509214,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,5,2025-06-11T10:27:00Z,Vila Verde,Braga,Norte,-8.50863,41.640892
