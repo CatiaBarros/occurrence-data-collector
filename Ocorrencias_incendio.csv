@@ -1,13 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25510522,Sanguinheira,Região de Coimbra,310,2025-06-11T14:27:00Z,25510522,Em conclusão,3101,Incêndio rural,0,6,0,17,2025-06-11T14:27:00Z,Cantanhede,Coimbra,Centro,-8.731988,40.321447
+25510919,Cimbres,Douro,309,2025-06-11T15:40:00Z,25510919,Em conclusão,3103,Incêndio rural,0,7,0,28,2025-06-11T15:40:00Z,Tarouca,Viseu,Norte,-7.721465,41.053008
+25511270,Cantanhede e Pocariça,Região de Coimbra,310,2025-06-11T16:55:00Z,25511270,Em conclusão,3105,Incêndio rural,0,6,0,20,2025-06-11T16:55:00Z,Cantanhede,Coimbra,Centro,-8.591902,40.354849
+25510522,Sanguinheira,Região de Coimbra,310,2025-06-11T14:27:00Z,25510522,Em conclusão,3101,Incêndio rural,0,2,0,4,2025-06-11T14:27:00Z,Cantanhede,Coimbra,Centro,-8.731988,40.321447
 25510715,Penas Roias,Terras de Trás-os-Montes,309,2025-06-11T14:59:00Z,25510715,Em resolução,3103,Incêndio rural,0,8,0,25,2025-06-11T14:59:00Z,Mogadouro,Bragança,Norte,-6.6789,41.409052
-25511233,Lordelo,Area M. Porto,309,2025-06-11T16:40:00Z,25511233,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-11T16:40:00Z,Paredes,Porto,Norte,-8.422737,41.239614
+25511233,Lordelo,Area M. Porto,309,2025-06-11T16:40:00Z,25511233,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-11T16:40:00Z,Paredes,Porto,Norte,-8.422737,41.239614
 25511123,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-11T16:20:00Z,25511123,Em conclusão,3103,Incêndio rural,0,1,0,4,2025-06-11T16:20:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.478308,40.949967
-25511182,Campanhã,Area M. Porto,309,2025-06-11T16:37:00Z,25511182,Em curso,2201,Incêndio em equipamentos ou produtos,0,2,0,10,2025-06-11T16:37:00Z,Porto,Porto,Norte,-8.584765,41.15004
 25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em conclusão,3103,Incêndio rural,0,8,0,30,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
 25509271,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-11T10:38:00Z,25509271,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-11T10:38:00Z,Beja,Beja,Alentejo,-7.866213,38.030653
-25509891,Sanfins Lamoso Codessos,Tâmega e Sousa,309,2025-06-11T12:30:00Z,25509891,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-11T12:30:00Z,Paços De Ferreira,Porto,Norte,-8.382427,41.32457
-25510460,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-11T14:22:00Z,25510460,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-11T14:22:00Z,Amarante,Porto,Norte,-8.063648,41.229885
 25510843,Favaios,Douro,309,2025-06-11T15:21:00Z,25510843,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-11T15:21:00Z,Alijó,Vila Real,Norte,-7.495697,41.276963
-25510878,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-11T15:32:00Z,25510878,Em resolução,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-11T15:32:00Z,Lagos,Faro,Algarve,-8.67417,37.11319
-25510919,Cimbres,Douro,309,2025-06-11T15:40:00Z,25510919,Em conclusão,3103,Incêndio rural,1,7,0,34,2025-06-11T15:40:00Z,Tarouca,Viseu,Norte,-7.721465,41.053008
+25510878,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-11T15:32:00Z,25510878,Em resolução,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-11T15:32:00Z,Lagos,Faro,Algarve,-8.67417,37.11319
