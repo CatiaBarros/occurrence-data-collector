@@ -1,14 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25509214,Freiriz,Cávado,309,2025-06-11T10:27:00Z,25509214,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-11T10:27:00Z,Vila Verde,Braga,Norte,-8.50863,41.640892
-25509513,Faro (Sé e São Pedro),Algarve,313,2025-06-11T11:21:00Z,25509513,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-11T11:21:00Z,Faro,Faro,Algarve,-7.909662,37.029238
-25509699,São Bartolomeu de Messines,Algarve,313,2025-06-11T11:55:00Z,25509699,Em resolução,3111,Queima,0,1,0,5,2025-06-11T11:55:00Z,Silves,Faro,Algarve,-8.28492,37.22933
-25509486,São Miguel do Rio Torto e Rossio Ao Sul do Tejo,Médio Tejo,311,2025-06-11T11:14:00Z,25509486,Em conclusão,3111,Queima,0,1,0,5,2025-06-11T11:14:00Z,Abrantes,Santarém,Centro,-8.193695,39.443432
-25509786,Água Longa,Area M. Porto,309,2025-06-11T12:11:00Z,25509786,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-11T12:11:00Z,Santo Tirso,Porto,Norte,-8.49238,41.26489
+25509786,Água Longa,Area M. Porto,309,2025-06-11T12:11:00Z,25509786,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-11T12:11:00Z,Santo Tirso,Porto,Norte,-8.489527,41.266823
+25509963,Sande e São Lourenço,Tâmega e Sousa,309,2025-06-11T12:44:00Z,25509963,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-11T12:44:00Z,Marco De Canaveses,Porto,Norte,-8.176083,41.10489
 25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em curso,3103,Incêndio rural,1,7,0,28,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
 25508838,Monte Redondo,Alto Minho,309,2025-06-11T09:35:00Z,25508838,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-11T09:35:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.446435,41.83288
 25509271,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-11T10:38:00Z,25509271,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-11T10:38:00Z,Beja,Beja,Alentejo,-7.866213,38.030653
-25509841,Faro (Sé e São Pedro),Algarve,313,2025-06-11T12:19:00Z,25509841,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-11T12:19:00Z,Faro,Faro,Algarve,-7.942032,37.01865
-25509891,Sanfins Lamoso Codessos,Tâmega e Sousa,309,2025-06-11T12:30:00Z,25509891,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-11T12:30:00Z,Paços De Ferreira,Porto,Norte,-8.369628,41.323194
+25509891,Sanfins Lamoso Codessos,Tâmega e Sousa,309,2025-06-11T12:30:00Z,25509891,Em despacho,3103,Incêndio rural,1,3,0,21,2025-06-11T12:30:00Z,Paços De Ferreira,Porto,Norte,-8.369628,41.323194
+25509214,Freiriz,Cávado,309,2025-06-11T10:27:00Z,25509214,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-11T10:27:00Z,Vila Verde,Braga,Norte,-8.50863,41.640892
+25509699,São Bartolomeu de Messines,Algarve,313,2025-06-11T11:55:00Z,25509699,Em resolução,3111,Queima,0,1,0,5,2025-06-11T11:55:00Z,Silves,Faro,Algarve,-8.28492,37.22933
+25509914,Faro (Sé e São Pedro),Algarve,313,2025-06-11T12:29:00Z,25509914,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,4,0,10,2025-06-11T12:29:00Z,Faro,Faro,Algarve,-7.942032,37.01865
 25509569,Carvalhal,Médio Tejo,311,2025-06-11T11:29:00Z,25509569,Em conclusão,2301,Incêndio em transporte rodoviário,0,5,0,16,2025-06-11T11:29:00Z,Abrantes,Santarém,Centro,-8.186488,39.579455
 25509610,Bustelo,Tâmega e Sousa,309,2025-06-11T11:22:00Z,25509610,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-11T11:22:00Z,Penafiel,Porto,Norte,-8.268328,41.230538
-25509835,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-11T12:16:00Z,25509835,Em despacho,3111,Queima,0,4,0,17,2025-06-11T12:16:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
+25509835,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-11T12:16:00Z,25509835,Em resolução,3103,Incêndio rural,0,7,0,22,2025-06-11T12:16:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
