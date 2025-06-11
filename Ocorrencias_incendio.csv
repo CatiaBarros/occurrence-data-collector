@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25511915,Jugueiros,Tâmega e Sousa,309,2025-06-11T19:18:00Z,25511915,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-11T19:18:00Z,Felgueiras,Porto,Norte,-8.220438,41.404441
-25512185,Atouguia da Baleia,Oeste,311,2025-06-11T20:40:00Z,25512185,Em conclusão,3111,Queima,0,2,0,6,2025-06-11T20:40:00Z,Peniche,Leiria,Centro,-9.35324,39.34464
-25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
-25512214,Passos,Terras de Trás-os-Montes,309,2025-06-11T20:34:00Z,25512214,Em curso,3103,Incêndio rural,0,4,0,14,2025-06-11T20:34:00Z,Mirandela,Bragança,Norte,-7.247498,41.455099
-25512331,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-11T21:15:00Z,25512331,Em curso,3105,Incêndio rural,0,6,0,24,2025-06-11T21:15:00Z,Moura,Beja,Alentejo,-7.307317,38.132231
-25512084,Branca,Lezíria do Tejo,311,2025-06-11T20:17:00Z,25512084,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-11T20:17:00Z,Coruche,Santarém,Alentejo,-8.55922,38.82116
-25512100,Sines,Alentejo Litoral,312,2025-06-11T20:17:00Z,25512100,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,8,2025-06-11T20:17:00Z,Sines,Setúbal,Alentejo,-8.876163,37.960403
 25511468,Chão de Couce,Região de Leiria,310,2025-06-11T17:41:00Z,25511468,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,9,2025-06-11T17:41:00Z,Ansião,Leiria,Centro,-8.39829,39.91629
 25512289,Canelas,Tâmega e Sousa,309,2025-06-11T21:08:00Z,25512289,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,1,0,5,2025-06-11T21:08:00Z,Penafiel,Porto,Norte,-8.323525,41.078365
+25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
+25512331,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-11T21:15:00Z,25512331,Em resolução,2301,Incêndio em transporte rodoviário,0,6,0,24,2025-06-11T21:15:00Z,Moura,Beja,Alentejo,-7.306262,38.121333
+25512084,Branca,Lezíria do Tejo,311,2025-06-11T20:17:00Z,25512084,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-11T20:17:00Z,Coruche,Santarém,Alentejo,-8.55922,38.82116
+25512100,Sines,Alentejo Litoral,312,2025-06-11T20:17:00Z,25512100,Em conclusão,2101,Incêndio em edifícios habitacionais,0,2,0,4,2025-06-11T20:17:00Z,Sines,Setúbal,Alentejo,-8.876163,37.960403
+25512402,Olhalvo,Oeste,311,2025-06-11T21:44:00Z,25512402,Em despacho,3111,Queima,0,0,0,0,2025-06-11T21:44:00Z,Alenquer,Lisboa,Centro,-9.06348,39.11228
+25512418,Fajozes,Area M. Porto,309,2025-06-11T21:49:00Z,25512418,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-11T21:49:00Z,Vila Do Conde,Porto,Norte,-8.694427,41.33607
