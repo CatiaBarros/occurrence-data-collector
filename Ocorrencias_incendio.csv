@@ -1,16 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25513847,Ermelo e Pardelhas,Ave,309,2025-06-12T09:41:00Z,25513847,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-12T09:41:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
+25516155,Colares,Grande Lisboa,311,2025-06-12T17:13:00Z,25516155,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-12T17:13:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.438572,38.807058
+25515897,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-06-12T16:12:00Z,25515897,Em resolução,2115,Incêndio em edifícios hoteleiros e de restauração,0,5,0,19,2025-06-12T16:12:00Z,Porto,Porto,Norte,-8.60345,41.14354
 25515629,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-06-12T15:15:00Z,25515629,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,3,2025-06-12T15:15:00Z,Gondomar,Porto,Norte,-8.526893,41.18999
 25515902,Alcaria Ruiva,Baixo Alentejo,312,2025-06-12T16:13:00Z,25515902,Em conclusão,3105,Incêndio rural,0,13,0,29,2025-06-12T16:13:00Z,Mértola,Beja,Alentejo,-7.85318,37.79254
-25515988,Marrazes e Barosa,Região de Leiria,310,2025-06-12T16:35:00Z,25515988,Em conclusão,3105,Incêndio rural,0,3,0,12,2025-06-12T16:35:00Z,Leiria,Leiria,Centro,-8.858786,39.744339
-25516095,Venteira,Grande Lisboa,311,2025-06-12T17:02:00Z,25516095,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,10,2025-06-12T17:02:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.23291,38.75185
-25513847,Ermelo e Pardelhas,Ave,309,2025-06-12T09:41:00Z,25513847,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-12T09:41:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
-25516155,Colares,Grande Lisboa,311,2025-06-12T17:13:00Z,25516155,Em curso,3103,Incêndio rural,0,3,0,12,2025-06-12T17:13:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.438572,38.807058
+25515988,Marrazes e Barosa,Região de Leiria,310,2025-06-12T16:35:00Z,25515988,Em conclusão,3111,Queima,0,2,0,7,2025-06-12T16:35:00Z,Leiria,Leiria,Centro,-8.858786,39.744339
+25516237,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-06-12T17:30:00Z,25516237,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-12T17:30:00Z,Gondomar,Porto,Norte,-8.52233,41.146663
 25513566,Chão de Couce,Região de Leiria,310,2025-06-12T08:44:00Z,25513566,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,2,2025-06-12T08:44:00Z,Ansião,Leiria,Centro,-8.380977,39.89135
 25515556,Panoias e Conceição,Baixo Alentejo,312,2025-06-12T15:01:00Z,25515556,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-12T15:01:00Z,Ourique,Beja,Alentejo,-8.33956,37.79186
-25515588,Sanguinheira,Região de Coimbra,310,2025-06-12T15:04:00Z,25515588,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,3,0,11,2025-06-12T15:04:00Z,Cantanhede,Coimbra,Centro,-8.704926,40.326791
-25515992,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-06-12T16:31:00Z,25515992,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,7,2025-06-12T16:31:00Z,Elvas,Portalegre,Alentejo,-7.15502,38.887717
-25516157,Vila Flor e Nabo,Terras de Trás-os-Montes,309,2025-06-12T17:10:00Z,25516157,Em resolução,2301,Incêndio em transporte rodoviário,0,4,0,12,2025-06-12T17:10:00Z,Vila Flor,Bragança,Norte,-7.16287,41.31022
-25515897,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-06-12T16:12:00Z,25515897,Em resolução,2115,Incêndio em edifícios hoteleiros e de restauração,0,5,0,19,2025-06-12T16:12:00Z,Porto,Porto,Norte,-8.60345,41.14354
-25515951,Rio de Moinhos,Alentejo Central,312,2025-06-12T16:26:00Z,25515951,Em conclusão,3103,Incêndio rural,0,4,0,11,2025-06-12T16:26:00Z,Borba,Évora,Alentejo,-7.498765,38.80547
-25516132,Alcabideche,Grande Lisboa,311,2025-06-12T17:09:00Z,25516132,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-12T17:09:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.399427,38.741735
-25516237,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-06-12T17:30:00Z,25516237,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-12T17:30:00Z,Gondomar,Porto,Norte,-8.535295,41.129255
+25515588,Sanguinheira,Região de Coimbra,310,2025-06-12T15:04:00Z,25515588,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,2,0,6,2025-06-12T15:04:00Z,Cantanhede,Coimbra,Centro,-8.704926,40.326791
