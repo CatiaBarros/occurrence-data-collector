@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25513566,Chão de Couce,Região de Leiria,310,2025-06-12T08:44:00Z,25513566,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,2,2025-06-12T08:44:00Z,Ansião,Leiria,Centro,-8.380977,39.89135
 25514672,Famalicão,Oeste,311,2025-06-12T12:12:00Z,25514672,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-12T12:12:00Z,Nazaré,Leiria,Centro,-9.089583,39.518083
-25515287,Olhão,Algarve,313,2025-06-12T14:12:00Z,25515287,Em conclusão,2101,Incêndio em edifícios habitacionais,0,5,0,16,2025-06-12T14:12:00Z,Olhão,Faro,Algarve,-7.84415,37.0245
-25513847,Ermelo e Pardelhas,Ave,309,2025-06-12T09:41:00Z,25513847,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,2,0,9,2025-06-12T09:41:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
-25514969,Aguiar,Alentejo Central,312,2025-06-12T13:10:00Z,25514969,Em conclusão,3105,Incêndio rural,0,6,0,12,2025-06-12T13:10:00Z,Viana Do Alentejo,Évora,Alentejo,-7.953267,38.410582
-25515044,Fortios,Alto Alentejo,312,2025-06-12T13:24:00Z,25515044,Em conclusão,3105,Incêndio rural,0,6,0,20,2025-06-12T13:24:00Z,Portalegre,Portalegre,Alentejo,-7.493312,39.334383
-25513421,Canedo,Alto Tâmega e Barroso,309,2025-06-12T08:20:00Z,25513421,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-12T08:20:00Z,Ribeira De Pena,Vila Real,Norte,-7.739478,41.637903
-25515181,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-06-12T13:42:00Z,25515181,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,3,0,12,2025-06-12T13:42:00Z,Torres Vedras,Lisboa,Centro,-9.274992,39.087101
-25515281,Boivães,Alto Minho,309,2025-06-12T13:58:00Z,25515281,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,4,0,12,2025-06-12T13:58:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.447847,41.76269
+25515287,Olhão,Algarve,313,2025-06-12T14:12:00Z,25515287,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,9,2025-06-12T14:12:00Z,Olhão,Faro,Algarve,-7.84415,37.0245
+25515281,Boivães,Alto Minho,309,2025-06-12T13:58:00Z,25515281,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,4,0,13,2025-06-12T13:58:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.447847,41.76269
+25513847,Ermelo e Pardelhas,Ave,309,2025-06-12T09:41:00Z,25513847,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,3,0,14,2025-06-12T09:41:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
+25514969,Aguiar,Alentejo Central,312,2025-06-12T13:10:00Z,25514969,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-12T13:10:00Z,Viana Do Alentejo,Évora,Alentejo,-7.953267,38.410582
+25515044,Fortios,Alto Alentejo,312,2025-06-12T13:24:00Z,25515044,Em conclusão,3105,Incêndio rural,0,4,0,13,2025-06-12T13:24:00Z,Portalegre,Portalegre,Alentejo,-7.493312,39.334383
+25515535,Cardosas,Oeste,311,2025-06-12T14:57:00Z,25515535,Em despacho,3101,Incêndio rural,0,1,0,5,2025-06-12T14:57:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.03048,38.96545
