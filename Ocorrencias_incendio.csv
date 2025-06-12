@@ -1,4 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25512725,Canelas,Area M. Porto,309,2025-06-12T00:05:00Z,25512725,Em conclusão,3103,Incêndio rural,0,1,0,6,2025-06-12T00:05:00Z,Vila Nova De Gaia,Porto,Norte,-8.599603,41.079376
-25512703,Muro,Area M. Porto,309,2025-06-12T00:04:00Z,25512703,Em resolução,3103,Incêndio rural,0,4,0,18,2025-06-12T00:04:00Z,Trofa,Porto,Norte,-8.589628,41.290477
-25512726,Benedita,Oeste,311,2025-06-12T00:10:00Z,25512726,Em resolução,2101,Incêndio em edifícios habitacionais,0,4,0,14,2025-06-12T00:10:00Z,Alcobaça,Leiria,Centro,-8.978683,39.435502
+25512703,Muro,Area M. Porto,309,2025-06-12T00:04:00Z,25512703,Em conclusão,3103,Incêndio rural,0,4,0,18,2025-06-12T00:04:00Z,Trofa,Porto,Norte,-8.589628,41.290477
+25512726,Benedita,Oeste,311,2025-06-12T00:10:00Z,25512726,Em conclusão,2101,Incêndio em edifícios habitacionais,0,5,0,14,2025-06-12T00:10:00Z,Alcobaça,Leiria,Centro,-8.978683,39.435502
