@@ -1,13 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25513421,Canedo,Alto Tâmega e Barroso,309,2025-06-12T08:20:00Z,25513421,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-12T08:20:00Z,Ribeira De Pena,Vila Real,Norte,-7.739478,41.637903
-25514782,"Ferreiros, Prozelo e Besteiros",Cávado,309,2025-06-12T12:24:00Z,25514782,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,9,2025-06-12T12:24:00Z,Amares,Braga,Norte,-8.36103,41.627277
-25514957,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-06-12T13:02:00Z,25514957,Em despacho,3203,Detritos confinados,0,1,0,5,2025-06-12T13:02:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.046012,38.896362
-25508203,Ermelo e Pardelhas,Ave,309,2025-06-11T07:30:00Z,25508203,Em resolução,3103,Incêndio rural,0,0,0,0,2025-06-11T07:30:00Z,Mondim De Basto,Vila Real,Norte,-7.842792,41.3582
 25513566,Chão de Couce,Região de Leiria,310,2025-06-12T08:44:00Z,25513566,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,2,2025-06-12T08:44:00Z,Ansião,Leiria,Centro,-8.380977,39.89135
-25514672,Famalicão,Oeste,311,2025-06-12T12:12:00Z,25514672,Em conclusão,3105,Incêndio rural,0,4,0,17,2025-06-12T12:12:00Z,Nazaré,Leiria,Centro,-9.089583,39.518083
-25514821,Rio de Mouro,Grande Lisboa,311,2025-06-12T12:38:00Z,25514821,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,9,2025-06-12T12:38:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.335169,38.750521
+25514672,Famalicão,Oeste,311,2025-06-12T12:12:00Z,25514672,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-12T12:12:00Z,Nazaré,Leiria,Centro,-9.089583,39.518083
+25513847,Ermelo e Pardelhas,Ave,309,2025-06-12T09:41:00Z,25513847,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,2,0,9,2025-06-12T09:41:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
+25514969,Aguiar,Alentejo Central,312,2025-06-12T13:10:00Z,25514969,Em conclusão,3105,Incêndio rural,0,6,0,12,2025-06-12T13:10:00Z,Viana Do Alentejo,Évora,Alentejo,-7.953267,38.410582
+25515044,Fortios,Alto Alentejo,312,2025-06-12T13:24:00Z,25515044,Em resolução,3105,Incêndio rural,0,10,0,38,2025-06-12T13:24:00Z,Portalegre,Portalegre,Alentejo,-7.493312,39.334383
+25513421,Canedo,Alto Tâmega e Barroso,309,2025-06-12T08:20:00Z,25513421,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-12T08:20:00Z,Ribeira De Pena,Vila Real,Norte,-7.739478,41.637903
 25513641,Azambuja,Lezíria do Tejo,311,2025-06-12T09:03:00Z,25513641,Em despacho,3109,Gestão de combustível,0,1,0,2,2025-06-12T09:03:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
-25514412,Campo e Sobrado,Area M. Porto,309,2025-06-12T10:59:00Z,25514412,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-12T10:59:00Z,Valongo,Porto,Norte,-8.473178,41.173417
 25514562,Poceirão e Marateca,Península de Setúbal,311,2025-06-12T11:45:00Z,25514562,Em conclusão,3103,Incêndio rural,1,4,0,18,2025-06-12T11:45:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.748942,38.573925
-25514680,Santa Catarina da Serra e Chainça,Região de Leiria,310,2025-06-12T12:10:00Z,25514680,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,1,0,2,2025-06-12T12:10:00Z,Leiria,Leiria,Centro,-8.683327,39.67155
-25513847,Ermelo e Pardelhas,Ave,309,2025-06-12T09:41:00Z,25513847,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,9,2025-06-12T09:41:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
+25515013,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2025-06-12T13:18:00Z,25515013,Em despacho,3201,Detritos não confinados,0,2,0,10,2025-06-12T13:18:00Z,Porto,Porto,Norte,-8.662754,41.14729
+25515164,Carnaxide e Queijas,Grande Lisboa,311,2025-06-12T13:49:00Z,25515164,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-12T13:49:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.25881,38.722457
+25515181,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-06-12T13:42:00Z,25515181,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,3,0,12,2025-06-12T13:42:00Z,Torres Vedras,Lisboa,Centro,-9.274992,39.087101
