@@ -1,6 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25512745,"Gondomar (São Cosme), Valbom e Jovim","Area M. Porto",309,"2025-06-12T00:23:00",25512745,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,5,"2025-06-12T00:23:00","Gondomar","Porto","Norte",-8.510507,41.105816
-25512703,"Muro","Area M. Porto",309,"2025-06-12T00:04:00",25512703,"Em conclusão","3103","Incêndio rural",0,4,0,18,"2025-06-12T00:04:00","Trofa","Porto","Norte",-8.589628,41.290477
-25512726,"Benedita","Oeste",311,"2025-06-12T00:10:00",25512726,"Em conclusão","2101","Incêndio em edifícios habitacionais",0,5,0,14,"2025-06-12T00:10:00","Alcobaça","Leiria","Centro",-8.978683,39.435502
-25512666,"Estrela","Grande Lisboa",311,"2025-06-11T23:39:00",25512666,"Em despacho","2403","Colisão rodoviária",0,2,0,5,"2025-06-11T23:39:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.160959,38.714352
+25512909,"Canedo","Alto Tâmega e Barroso",309,"2025-06-12T02:35:00",25512909,"Em curso","3103","Incêndio rural",0,7,0,29,"2025-06-12T02:35:00","Ribeira De Pena","Vila Real","Norte",-7.735265,41.612128
+25512703,"Muro","Area M. Porto",309,"2025-06-12T00:04:00",25512703,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-06-12T00:04:00","Trofa","Porto","Norte",-8.589628,41.290477
+25512862,"Laranjeiro e Feijó","Península de Setúbal",311,"2025-06-12T01:53:00",25512862,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,6,"2025-06-12T01:53:00","Almada","Setúbal","Área Metropolitana De Lisboa",-9.14635,38.65042
+25512894,"Tropeço","Area M. Porto",309,"2025-06-12T02:14:00",25512894,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,9,"2025-06-12T02:14:00","Arouca","Aveiro","Norte",-8.300565,40.940632
