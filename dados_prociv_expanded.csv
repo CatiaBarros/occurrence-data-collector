@@ -1,5 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25517106,"São Teotónio","Alentejo Litoral",312,"2025-06-12T21:17:00",25517106,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-06-12T21:17:00","Odemira","Beja","Alentejo",-8.787202,37.541725
-25517732,"Canedo, Vale e Vila Maior","Area M. Porto",309,"2025-06-13T02:20:00",25517732,"Em resolução","3103","Incêndio rural",0,4,0,14,"2025-06-13T02:20:00","Santa Maria Da Feira","Aveiro","Norte",-8.468452,41.04207
-25517866,"Guia","Algarve",313,"2025-06-13T04:25:00",25517866,"Em curso","2407","Despiste",0,6,0,17,"2025-06-13T04:25:00","Albufeira","Faro","Algarve",-8.287199,37.110608
+25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
+25517906,"Poceirão e Marateca","Península de Setúbal",311,"2025-06-13T04:54:00",25517906,"Em despacho","2407","Despiste",0,2,0,8,"2025-06-13T04:54:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.683933,38.578852
+25517732,"Canedo, Vale e Vila Maior","Area M. Porto",309,"2025-06-13T02:20:00",25517732,"Em conclusão","3103","Incêndio rural",0,4,0,14,"2025-06-13T02:20:00","Santa Maria Da Feira","Aveiro","Norte",-8.468452,41.04207
+25517866,"Guia","Algarve",313,"2025-06-13T04:25:00",25517866,"Em curso","2407","Despiste",0,6,0,17,"2025-06-13T04:25:00","Albufeira","Faro","Algarve",-8.302755,37.110003
+25517882,"Proença-a-Nova e Peral","Beira Baixa",310,"2025-06-13T04:43:00",25517882,"Em curso","2407","Despiste",0,5,0,13,"2025-06-13T04:43:00","Proença-a-Nova","Castelo Branco","Centro",-7.92291,39.73781
