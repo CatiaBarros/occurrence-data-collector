@@ -2,4 +2,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25521065,Couto de Baixo e Couto de Cima,Viseu Dão Lafões,310,2025-06-13T17:18:00Z,25521065,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-13T17:18:00Z,Viseu,Viseu,Centro,-8.004938,40.699787
 25521376,Campanhã,Area M. Porto,309,2025-06-13T18:39:00Z,25521376,Em curso,3103,Incêndio rural,0,1,0,5,2025-06-13T18:39:00Z,Porto,Porto,Norte,-8.57558,41.17631
 25520907,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-13T16:44:00Z,25520907,Em conclusão,3105,Incêndio rural,0,10,0,32,2025-06-13T16:44:00Z,Serpa,Beja,Alentejo,-7.59766,37.935948
-25522143,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-13T21:59:00Z,25522143,Em despacho,3105,Incêndio rural,0,0,0,0,2025-06-13T21:59:00Z,Beja,Beja,Alentejo,-7.859577,38.02722
+25522143,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-13T21:59:00Z,25522143,Em resolução,3105,Incêndio rural,0,5,0,19,2025-06-13T21:59:00Z,Beja,Beja,Alentejo,-7.859577,38.02722
+25522172,Ribeirão,Ave,309,2025-06-13T21:58:00Z,25522172,Em resolução,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-13T21:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.573667,41.352955
