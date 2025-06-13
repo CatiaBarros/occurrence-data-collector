@@ -1,3 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25518030,"Seia, São Romão e Lapa Dos Dinheiros",Beiras e Serra da Estrela,310,2025-06-13T06:55:00Z,25518030,Em despacho,3203,Detritos confinados,0,1,0,5,2025-06-13T06:55:00Z,Seia,Guarda,Centro,-7.706579,40.420381
-25518018,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-06-13T06:51:00Z,25518018,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-13T06:51:00Z,Vila Nova De Gaia,Porto,Norte,-8.63062,41.12172
+25518018,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-06-13T06:51:00Z,25518018,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-13T06:51:00Z,Vila Nova De Gaia,Porto,Norte,-8.63062,41.12172
+25518106,Vila Franca de Xira,Grande Lisboa,311,2025-06-13T07:29:00Z,25518106,Em curso,3111,Queima,0,1,0,5,2025-06-13T07:29:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.988099,38.968862
