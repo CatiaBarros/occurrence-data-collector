@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25517792,Pardilhó,Região de Aveiro,310,2025-06-13T03:19:00Z,25517792,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-13T03:19:00Z,Estarreja,Aveiro,Centro,-8.622438,40.79677
-25517732,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-13T02:20:00Z,25517732,Em curso,3103,Incêndio rural,0,3,0,12,2025-06-13T02:20:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.461508,41.03386
+25517732,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-13T02:20:00Z,25517732,Em resolução,3103,Incêndio rural,0,4,0,14,2025-06-13T02:20:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.468452,41.04207

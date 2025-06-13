@@ -1,6 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25517106,"São Teotónio","Alentejo Litoral",312,"2025-06-12T21:17:00",25517106,"Em resolução","2403","Colisão rodoviária",0,2,0,4,"2025-06-12T21:17:00","Odemira","Beja","Alentejo",-8.787202,37.541725
-25517792,"Pardilhó","Região de Aveiro",310,"2025-06-13T03:19:00",25517792,"Em despacho","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-06-13T03:19:00","Estarreja","Aveiro","Centro",-8.622438,40.79677
-25517781,"São João de Ver","Area M. Porto",309,"2025-06-13T02:51:00",25517781,"Em conclusão","2513","Fuga de gás em conduta",0,1,0,5,"2025-06-13T02:51:00","Santa Maria Da Feira","Aveiro","Norte",-8.550029,40.955305
-25517732,"Canedo, Vale e Vila Maior","Area M. Porto",309,"2025-06-13T02:20:00",25517732,"Em curso","3103","Incêndio rural",0,3,0,12,"2025-06-13T02:20:00","Santa Maria Da Feira","Aveiro","Norte",-8.461508,41.03386
+25517732,"Canedo, Vale e Vila Maior","Area M. Porto",309,"2025-06-13T02:20:00",25517732,"Em resolução","3103","Incêndio rural",0,4,0,14,"2025-06-13T02:20:00","Santa Maria Da Feira","Aveiro","Norte",-8.468452,41.04207
+25517866,"Guia","Algarve",313,"2025-06-13T04:25:00",25517866,"Em curso","2407","Despiste",0,6,0,17,"2025-06-13T04:25:00","Albufeira","Faro","Algarve",-8.287199,37.110608
