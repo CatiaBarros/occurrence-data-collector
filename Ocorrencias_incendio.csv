@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25518018,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-06-13T06:51:00Z,25518018,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-13T06:51:00Z,Vila Nova De Gaia,Porto,Norte,-8.63062,41.12172
-25518106,Vila Franca de Xira,Grande Lisboa,311,2025-06-13T07:29:00Z,25518106,Em curso,3111,Queima,0,1,0,5,2025-06-13T07:29:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.988099,38.968862
+25518018,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-06-13T06:51:00Z,25518018,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-13T06:51:00Z,Vila Nova De Gaia,Porto,Norte,-8.63062,41.12172
+25518228,"Enxara do Bispo, Gradil e Vila Franca do Rosário",Grande Lisboa,311,2025-06-13T08:01:00Z,25518228,Em despacho,3101,Incêndio rural,0,2,0,7,2025-06-13T08:01:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.249023,38.979266
+25518106,Vila Franca de Xira,Grande Lisboa,311,2025-06-13T07:29:00Z,25518106,Em conclusão,3111,Queima,0,2,0,7,2025-06-13T07:29:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.988099,38.968862
