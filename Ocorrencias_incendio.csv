@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25518228,"Enxara do Bispo, Gradil e Vila Franca do Rosário",Grande Lisboa,311,2025-06-13T08:01:00Z,25518228,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-13T08:01:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.249023,38.979266
+25518284,Igreja Nova e Cheleiros,Grande Lisboa,311,2025-06-13T08:19:00Z,25518284,Em resolução,3103,Incêndio rural,0,3,0,12,2025-06-13T08:19:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.313933,38.922495
 25518296,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-06-13T08:12:00Z,25518296,Em resolução,2101,Incêndio em edifícios habitacionais,0,2,0,6,2025-06-13T08:12:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.057483,38.873483
-25518284,Igreja Nova e Cheleiros,Grande Lisboa,311,2025-06-13T08:19:00Z,25518284,Em resolução,3103,Incêndio rural,0,3,0,12,2025-06-13T08:19:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.303761,38.937588
+25518391,Gaio-Rosário e Sarilhos Pequenos,Península de Setúbal,311,2025-06-13T08:38:00Z,25518391,Em conclusão,3201,Detritos não confinados,0,1,0,5,2025-06-13T08:38:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.97777,38.68159
+25518228,"Enxara do Bispo, Gradil e Vila Franca do Rosário",Grande Lisboa,311,2025-06-13T08:01:00Z,25518228,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-13T08:01:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.249023,38.979266
