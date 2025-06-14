@@ -1,13 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25524479,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-14T12:48:00Z,25524479,Em conclusão,3105,Incêndio rural,0,5,0,17,2025-06-14T12:48:00Z,Beja,Beja,Alentejo,-7.860455,38.026057
-25524712,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-06-14T13:49:00Z,25524712,Em conclusão,3111,Queima,0,2,0,7,2025-06-14T13:49:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.258323,38.91072
-25524778,Perre,Alto Minho,309,2025-06-14T14:00:00Z,25524778,Em conclusão,3111,Queima,0,1,0,5,2025-06-14T14:00:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.781695,41.727607
-25524812,Cascais e Estoril,Grande Lisboa,311,2025-06-14T14:12:00Z,25524812,Em conclusão,3201,Detritos não confinados,0,2,0,6,2025-06-14T14:12:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.445618,38.69815
-25524821,"Ponte da Barca, V. N. Muía e Paço Vedro Magalhães",Alto Minho,309,2025-06-14T14:13:00Z,25524821,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-14T14:13:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.395763,41.802427
-25524835,Quiaios,Região de Coimbra,310,2025-06-14T14:17:00Z,25524835,Em resolução,3105,Incêndio rural,0,3,0,12,2025-06-14T14:17:00Z,Figueira Da Foz,Coimbra,Centro,-8.853222,40.215389
-25524869,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-14T14:17:00Z,25524869,Em despacho,3203,Detritos confinados,0,2,0,5,2025-06-14T14:17:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.093217,38.806807
-25524752,Pombal,Região de Leiria,310,2025-06-14T13:59:00Z,25524752,Em conclusão,3105,Incêndio rural,0,7,0,28,2025-06-14T13:59:00Z,Pombal,Leiria,Centro,-8.64212,39.91923
+25524752,Pombal,Região de Leiria,310,2025-06-14T13:59:00Z,25524752,Em conclusão,3105,Incêndio rural,0,5,0,18,2025-06-14T13:59:00Z,Pombal,Leiria,Centro,-8.64212,39.91923
+25524479,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-14T12:48:00Z,25524479,Em conclusão,3105,Incêndio rural,0,3,0,12,2025-06-14T12:48:00Z,Beja,Beja,Alentejo,-7.860455,38.026057
+25524897,Barão de São Miguel,Algarve,313,2025-06-14T14:33:00Z,25524897,Em despacho,3103,Incêndio rural,1,5,0,26,2025-06-14T14:33:00Z,Vila Do Bispo,Faro,Algarve,-8.79432,37.10684
 25524571,Ermelo e Pardelhas,Ave,309,2025-06-14T13:13:00Z,25524571,Em resolução,3103,Incêndio rural,1,2,0,13,2025-06-14T13:13:00Z,Mondim De Basto,Vila Real,Norte,-7.835478,41.355555
-25524738,Degracias e Pombalinho,Região de Coimbra,310,2025-06-14T13:56:00Z,25524738,Em curso,3103,Incêndio rural,1,5,0,25,2025-06-14T13:56:00Z,Soure,Coimbra,Centro,-8.527692,39.990011
+25524738,Degracias e Pombalinho,Região de Coimbra,310,2025-06-14T13:56:00Z,25524738,Em resolução,3103,Incêndio rural,1,5,0,25,2025-06-14T13:56:00Z,Soure,Coimbra,Centro,-8.527692,39.990011
 25524775,Benespera,Beiras e Serra da Estrela,310,2025-06-14T14:04:00Z,25524775,Em curso,3103,Incêndio rural,0,4,0,20,2025-06-14T14:04:00Z,Guarda,Guarda,Centro,-7.28198,40.4246
-25524808,Alcabideche,Grande Lisboa,311,2025-06-14T14:11:00Z,25524808,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-14T14:11:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40913,38.7234
+25524808,Alcabideche,Grande Lisboa,311,2025-06-14T14:11:00Z,25524808,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-14T14:11:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40913,38.7234
+25524778,Perre,Alto Minho,309,2025-06-14T14:00:00Z,25524778,Em conclusão,3111,Queima,0,1,0,5,2025-06-14T14:00:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.781695,41.727607
+25524821,"Ponte da Barca, V. N. Muía e Paço Vedro Magalhães",Alto Minho,309,2025-06-14T14:13:00Z,25524821,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-14T14:13:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.395763,41.802427
+25524835,Quiaios,Região de Coimbra,310,2025-06-14T14:17:00Z,25524835,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-14T14:17:00Z,Figueira Da Foz,Coimbra,Centro,-8.834507,40.197811
+25524869,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-14T14:17:00Z,25524869,Em conclusão,3203,Detritos confinados,0,2,0,5,2025-06-14T14:17:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.093217,38.806807
+25524951,Alcoentre,Lezíria do Tejo,311,2025-06-14T14:47:00Z,25524951,Em curso,3101,Incêndio rural,1,6,0,27,2025-06-14T14:47:00Z,Azambuja,Lisboa,Alentejo,-8.968984,39.206794
