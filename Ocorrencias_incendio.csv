@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25524161,Alcains,Beira Baixa,310,2025-06-14T11:33:00Z,25524161,Em conclusão,3103,Incêndio rural,0,6,0,20,2025-06-14T11:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.47596,39.9087
-25524415,Ericeira,Grande Lisboa,311,2025-06-14T12:25:00Z,25524415,Em curso,3103,Incêndio rural,0,0,0,0,2025-06-14T12:25:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.403318,38.960573
 25524074,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-14T11:09:00Z,25524074,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-14T11:09:00Z,Serpa,Beja,Alentejo,-7.592695,37.943796
-25523789,Rebordelo,Terras de Trás-os-Montes,309,2025-06-14T10:13:00Z,25523789,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,3,0,8,2025-06-14T10:13:00Z,Vinhais,Bragança,Norte,-7.164225,41.742539
+25524161,Alcains,Beira Baixa,310,2025-06-14T11:33:00Z,25524161,Em conclusão,3103,Incêndio rural,0,5,0,18,2025-06-14T11:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.47596,39.9087
 25524389,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-06-14T12:24:00Z,25524389,Em despacho,2101,Incêndio em edifícios habitacionais,0,3,0,12,2025-06-14T12:24:00Z,Porto,Porto,Norte,-8.633056,41.15306
 25524405,Alcabideche,Grande Lisboa,311,2025-06-14T12:18:00Z,25524405,Em curso,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-14T12:18:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.430278,38.730587
-25524407,Penafiel,Tâmega e Sousa,309,2025-06-14T12:25:00Z,25524407,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-14T12:25:00Z,Penafiel,Porto,Norte,-8.273828,41.209
+25524407,Penafiel,Tâmega e Sousa,309,2025-06-14T12:25:00Z,25524407,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-14T12:25:00Z,Paredes,Porto,Norte,-8.33804,41.199702
+25524415,Ericeira,Grande Lisboa,311,2025-06-14T12:25:00Z,25524415,Em resolução,3103,Incêndio rural,0,4,0,12,2025-06-14T12:25:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.403318,38.960573
+25524479,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-14T12:48:00Z,25524479,Em despacho,3105,Incêndio rural,0,0,0,0,2025-06-14T12:48:00Z,Beja,Beja,Alentejo,-7.859067,38.02214
