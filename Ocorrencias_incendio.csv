@@ -1,17 +1,16 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25524738,Degracias e Pombalinho,Região de Coimbra,310,2025-06-14T13:56:00Z,25524738,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-14T13:56:00Z,Soure,Coimbra,Centro,-8.53111,39.99417
-25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em resolução,3105,Incêndio rural,3,28,0,77,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
-25525393,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-06-14T16:42:00Z,25525393,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-14T16:42:00Z,Coimbra,Coimbra,Centro,-8.490049,40.180159
-25525842,Dois Portos e Runa,Oeste,311,2025-06-14T18:22:00Z,25525842,Em conclusão,3201,Detritos não confinados,0,2,0,7,2025-06-14T18:22:00Z,Torres Vedras,Lisboa,Centro,-9.173743,39.039411
 25524479,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-14T12:48:00Z,25524479,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-14T12:48:00Z,Beja,Beja,Alentejo,-7.860455,38.026057
 25525049,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-14T15:10:00Z,25525049,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-14T15:10:00Z,Beja,Beja,Alentejo,-7.860185,38.027045
 25525702,Poceirão e Marateca,Península de Setúbal,311,2025-06-14T18:01:00Z,25525702,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-14T18:01:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.702358,38.586871
-25525735,Alfragide,Grande Lisboa,311,2025-06-14T18:06:00Z,25525735,Em despacho,3201,Detritos não confinados,0,1,0,6,2025-06-14T18:06:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
-25525851,Vinhós,Ave,309,2025-06-14T18:43:00Z,25525851,Em despacho,3103,Incêndio rural,1,1,0,11,2025-06-14T18:43:00Z,Fafe,Braga,Norte,-8.176231,41.48282
+25525735,Alfragide,Grande Lisboa,311,2025-06-14T18:06:00Z,25525735,Em resolução,3201,Detritos não confinados,0,1,0,6,2025-06-14T18:06:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225704,38.738085
+25525851,Vinhós,Ave,309,2025-06-14T18:43:00Z,25525851,Em resolução,3103,Incêndio rural,0,2,0,10,2025-06-14T18:43:00Z,Fafe,Braga,Norte,-8.176231,41.48282
+25524738,Degracias e Pombalinho,Região de Coimbra,310,2025-06-14T13:56:00Z,25524738,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-14T13:56:00Z,Soure,Coimbra,Centro,-8.53111,39.99417
+25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em resolução,3105,Incêndio rural,0,28,0,73,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
+25525393,São Martinho do Bispo e Ribeira de Frades,Região de Coimbra,310,2025-06-14T16:42:00Z,25525393,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-14T16:42:00Z,Coimbra,Coimbra,Centro,-8.490049,40.180159
+25525983,Maxial e Monte Redondo,Oeste,311,2025-06-14T19:13:00Z,25525983,Em despacho,3101,Incêndio rural,0,2,0,7,2025-06-14T19:13:00Z,Torres Vedras,Lisboa,Centro,-9.18331,39.139305
 25525481,Avintes,Area M. Porto,309,2025-06-14T17:05:00Z,25525481,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-14T17:05:00Z,Vila Nova De Gaia,Porto,Norte,-8.55397,41.11626
-25525740,Campanhã,Area M. Porto,309,2025-06-14T18:16:00Z,25525740,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-14T18:16:00Z,Porto,Porto,Norte,-8.575998,41.17446
-25525353,Estremoz (Santa Maria e Santo André),Alentejo Central,312,2025-06-14T16:29:00Z,25525353,Em conclusão,3105,Incêndio rural,0,5,0,16,2025-06-14T16:29:00Z,Estremoz,Évora,Alentejo,-7.580707,38.850877
-25525696,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-14T18:06:00Z,25525696,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-14T18:06:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.078047,38.842764
-25525773,Pedroso e Seixezelo,Area M. Porto,309,2025-06-14T18:21:00Z,25525773,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-14T18:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.55728,41.067659
-25525883,Sesimbra (Castelo),Península de Setúbal,311,2025-06-14T18:45:00Z,25525883,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-14T18:45:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.106828,38.452682
 25525879,Ermelo e Pardelhas,Ave,309,2025-06-14T18:47:00Z,25525879,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-14T18:47:00Z,Mondim De Basto,Vila Real,Norte,-7.835478,41.355555
+25525906,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-14T18:58:00Z,25525906,Em curso,3103,Incêndio rural,1,6,0,30,2025-06-14T18:58:00Z,Lagos,Faro,Algarve,-8.691346,37.144531
+25525353,Estremoz (Santa Maria e Santo André),Alentejo Central,312,2025-06-14T16:29:00Z,25525353,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-14T16:29:00Z,Estremoz,Évora,Alentejo,-7.580707,38.850877
+25525773,Pedroso e Seixezelo,Area M. Porto,309,2025-06-14T18:21:00Z,25525773,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-14T18:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.55728,41.067659
+25525915,"Póvoa de Varzim, Beiriz e Argivai",Area M. Porto,309,2025-06-14T18:30:00Z,25525915,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-14T18:30:00Z,Póvoa De Varzim,Porto,Norte,-8.741711,41.385553
