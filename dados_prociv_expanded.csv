@@ -1,9 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25525916,"Águas Belas","Beiras e Serra da Estrela",310,"2025-06-14T19:00:00",25525916,"Em resolução","4327","Busca e resgate terrestre de pessoas",0,4,0,8,"2025-06-14T19:00:00","Sabugal","Guarda","Centro",-7.142847,40.375509
-25526597,"Vilar de Andorinho","Area M. Porto",309,"2025-06-14T21:59:00",25526597,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,2,0,5,"2025-06-14T21:59:00","Vila Nova De Gaia","Porto","Norte",-8.57418,41.09994
 25527218,"Monchique","Algarve",313,"2025-06-15T02:28:00",25527218,"Em conclusão","3103","Incêndio rural",0,6,0,12,"2025-06-15T02:28:00","Monchique","Faro","Algarve",-8.551402,37.272837
-25527291,"Conceição e Estoi","Algarve",313,"2025-06-15T03:30:00",25527291,"Em resolução","3103","Incêndio rural",0,11,0,34,"2025-06-15T03:30:00","Faro","Faro","Algarve",-7.898036,37.074437
+25527291,"Conceição e Estoi","Algarve",313,"2025-06-15T03:30:00",25527291,"Em conclusão","3103","Incêndio rural",0,11,0,34,"2025-06-15T03:30:00","Faro","Faro","Algarve",-7.898036,37.074437
+25526597,"Vilar de Andorinho","Area M. Porto",309,"2025-06-14T21:59:00",25526597,"Em conclusão","4327","Busca e resgate terrestre de pessoas",0,2,0,5,"2025-06-14T21:59:00","Vila Nova De Gaia","Porto","Norte",-8.57418,41.09994
+25527383,"Rio de Mouro","Grande Lisboa",311,"2025-06-15T04:46:00",25527383,"Em conclusão","2403","Colisão rodoviária",0,3,0,9,"2025-06-15T04:46:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.344476,38.75673
+25527394,"Rio Maior","Lezíria do Tejo",311,"2025-06-15T05:04:00",25527394,"Em resolução","2407","Despiste",0,3,0,9,"2025-06-15T05:04:00",NA,NA,NA,-9.547658,39.540628
+25525916,"Águas Belas","Beiras e Serra da Estrela",310,"2025-06-14T19:00:00",25525916,"Em resolução","4327","Busca e resgate terrestre de pessoas",0,4,0,8,"2025-06-14T19:00:00","Sabugal","Guarda","Centro",-7.142847,40.375509
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25525290,"Selmes","Baixo Alentejo",312,"2025-06-14T16:14:00",25525290,"Em conclusão","3105","Incêndio rural",0,5,0,17,"2025-06-14T16:14:00","Vidigueira","Beja","Alentejo",-7.724372,38.135682
+25525290,"Selmes","Baixo Alentejo",312,"2025-06-14T16:14:00",25525290,"Em conclusão","3105","Incêndio rural",0,2,0,10,"2025-06-14T16:14:00","Vidigueira","Beja","Alentejo",-7.724372,38.135682
 25527332,"Bonfim","Area M. Porto",309,"2025-06-15T04:09:00",25527332,"Em resolução","2403","Colisão rodoviária",0,6,0,18,"2025-06-15T04:09:00","Porto","Porto","Norte",-8.601071,41.15945
-25527363,"Vieira do Minho","Ave",309,"2025-06-15T04:34:00",25527363,"Em despacho","2407","Despiste",0,4,0,13,"2025-06-15T04:34:00","Vieira Do Minho","Braga","Norte",-8.15003,41.63541
+25527363,"Vieira do Minho","Ave",309,"2025-06-15T04:34:00",25527363,"Em resolução","2403","Colisão rodoviária",0,4,0,13,"2025-06-15T04:34:00","Vieira Do Minho","Braga","Norte",-8.15003,41.63541
