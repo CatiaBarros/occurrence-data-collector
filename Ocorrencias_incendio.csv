@@ -1,15 +1,16 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25529623,Montoito,Alentejo Central,312,2025-06-15T15:49:00Z,25529623,Em conclusão,3105,Incêndio rural,0,6,0,17,2025-06-15T15:49:00Z,Redondo,Évora,Alentejo,-7.599715,38.511263
+25530361,Palmela,Península de Setúbal,311,2025-06-15T19:09:00Z,25530361,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,4,2025-06-15T19:09:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.90531,38.58551
 25530109,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-15T17:50:00Z,25530109,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-15T17:50:00Z,Amarante,Porto,Norte,-8.063538,41.23013
 25530077,Santo Estêvão,Lezíria do Tejo,311,2025-06-15T17:52:00Z,25530077,Em resolução,3201,Detritos não confinados,0,3,0,9,2025-06-15T17:52:00Z,Benavente,Santarém,Alentejo,-8.751982,38.871883
-25530286,Conceição e Estoi,Algarve,313,2025-06-15T18:48:00Z,25530286,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-15T18:48:00Z,Faro,Faro,Algarve,-7.866332,37.07769
-25529121,Conceição e Estoi,Algarve,313,2025-06-15T13:46:00Z,25529121,Em resolução,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,0,0,0,2025-06-15T13:46:00Z,Faro,Faro,Algarve,-7.930714,37.049267
-25529532,"Lebução, Fiães e Nozelos",Alto Tâmega e Barroso,309,2025-06-15T15:25:00Z,25529532,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-15T15:25:00Z,Valpaços,Vila Real,Norte,-7.249313,41.74617
-25530279,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-06-15T18:45:00Z,25530279,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-15T18:45:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.076599,38.84844
-25530231,Mirandela,Terras de Trás-os-Montes,309,2025-06-15T18:33:00Z,25530231,Em curso,2201,Incêndio em equipamentos ou produtos,0,1,0,2,2025-06-15T18:33:00Z,Mirandela,Bragança,Norte,-7.197006,41.50675
-25530263,Pegões,Península de Setúbal,311,2025-06-15T18:35:00Z,25530263,Em despacho,3103,Incêndio rural,0,2,0,7,2025-06-15T18:35:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.618044,38.678234
-25529826,Terena (São Pedro),Alentejo Central,312,2025-06-15T16:42:00Z,25529826,Em conclusão,3105,Incêndio rural,0,5,0,19,2025-06-15T16:42:00Z,Alandroal,Évora,Alentejo,-7.383257,38.588342
+25530286,Conceição e Estoi,Algarve,313,2025-06-15T18:48:00Z,25530286,Em conclusão,3103,Incêndio rural,0,6,0,24,2025-06-15T18:48:00Z,Faro,Faro,Algarve,-7.866332,37.07769
+25530375,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-15T19:13:00Z,25530375,Em despacho,3201,Detritos não confinados,0,1,0,4,2025-06-15T19:13:00Z,Gondomar,Porto,Norte,-8.541919,41.16986
+25530279,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-06-15T18:45:00Z,25530279,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-15T18:45:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.076599,38.84844
+25530231,Mirandela,Terras de Trás-os-Montes,309,2025-06-15T18:33:00Z,25530231,Em resolução,2201,Incêndio em equipamentos ou produtos,0,2,0,4,2025-06-15T18:33:00Z,Mirandela,Bragança,Norte,-7.197006,41.50675
+25529826,Terena (São Pedro),Alentejo Central,312,2025-06-15T16:42:00Z,25529826,Em conclusão,3105,Incêndio rural,0,3,0,9,2025-06-15T16:42:00Z,Alandroal,Évora,Alentejo,-7.383257,38.588342
 25530015,Sacavém e Prior Velho,Grande Lisboa,311,2025-06-15T17:33:00Z,25530015,Em conclusão,3201,Detritos não confinados,0,4,0,14,2025-06-15T17:33:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.1155,38.80052
+25530301,Monsaraz,Alentejo Central,312,2025-06-15T18:51:00Z,25530301,Em curso,3103,Incêndio rural,0,11,0,37,2025-06-15T18:51:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.351348,38.446672
 25527511,Ermelo e Pardelhas,Ave,309,2025-06-15T07:09:00Z,25527511,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,3,0,12,2025-06-15T07:09:00Z,Mondim De Basto,Vila Real,Norte,-7.835478,41.355555
-25529453,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-15T15:09:00Z,25529453,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-15T15:09:00Z,Moura,Beja,Alentejo,-7.465677,38.133067
-25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,2,0,5,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
+25529453,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-15T15:09:00Z,25529453,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-15T15:09:00Z,Moura,Beja,Alentejo,-7.465677,38.133067
+25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,1,0,3,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
+25530370,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-06-15T19:07:00Z,25530370,Em despacho,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-15T19:07:00Z,Porto,Porto,Norte,-8.615939,41.15359
+25530340,"Nossa Senhora do Pópulo, Coto e São Gregório",Oeste,311,2025-06-15T18:58:00Z,25530340,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-15T18:58:00Z,Caldas Da Rainha,Leiria,Centro,-9.138658,39.407527
