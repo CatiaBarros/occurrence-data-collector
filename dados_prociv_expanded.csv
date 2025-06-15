@@ -1,15 +1,16 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25527889,"Loureiro","Area M. Porto",309,"2025-06-15T08:41:00",25527889,"Em resolução","2407","Despiste",0,2,0,4,"2025-06-15T08:41:00","Oliveira De Azeméis","Aveiro","Norte",-8.524957,40.802939
-25527973,"São Félix da Marinha","Area M. Porto",309,"2025-06-15T09:00:00",25527973,"Em conclusão","2111","Incêndio em edifícios hospitalares e lares de idosos",0,2,0,6,"2025-06-15T09:00:00","Vila Nova De Gaia","Porto","Norte",-8.629189,41.030125
-25528021,"Valpaços e Sanfins","Alto Tâmega e Barroso",309,"2025-06-15T09:15:00",25528021,"Em resolução","2301","Incêndio em transporte rodoviário",0,3,0,7,"2025-06-15T09:15:00","Valpaços","Vila Real","Norte",-7.323311,41.61412
-25527963,"Silvares","Beiras e Serra da Estrela",310,"2025-06-15T08:55:00",25527963,"Em resolução","2407","Despiste",0,7,0,17,"2025-06-15T08:55:00","Fundão","Castelo Branco","Centro",-7.669775,40.14273
+25528178,"Carvalhal","Oeste",311,"2025-06-15T09:50:00",25528178,"Em despacho","3111","Queima",0,1,0,5,"2025-06-15T09:50:00","Bombarral","Leiria","Centro",-9.1455,39.29427
+25528021,"Valpaços e Sanfins","Alto Tâmega e Barroso",309,"2025-06-15T09:15:00",25528021,"Em conclusão","2301","Incêndio em transporte rodoviário",0,3,0,7,"2025-06-15T09:15:00","Valpaços","Vila Real","Norte",-7.323311,41.61412
+25527963,"Silvares","Beiras e Serra da Estrela",310,"2025-06-15T08:55:00",25527963,"Em conclusão","2407","Despiste",0,7,0,17,"2025-06-15T08:55:00","Fundão","Castelo Branco","Centro",-7.669775,40.14273
 25528018,"Tocha","Região de Coimbra",310,"2025-06-15T09:11:00",25528018,"Em resolução","2407","Despiste",0,2,0,4,"2025-06-15T09:11:00","Cantanhede","Coimbra","Centro",-8.782308,40.341926
 25527979,"Quarteira","Algarve",313,"2025-06-15T09:06:00",25527979,"Em conclusão","3203","Detritos confinados",0,1,0,5,"2025-06-15T09:06:00","Loulé","Faro","Algarve",-8.0812,37.05835
 25527511,"Ermelo e Pardelhas","Ave",309,"2025-06-15T07:09:00",25527511,"Em resolução","3107","Consolidação de rescaldo de incêndio rural",0,3,0,12,"2025-06-15T07:09:00","Mondim De Basto","Vila Real","Norte",-7.835478,41.355555
 25527863,"Azinhal","Algarve",313,"2025-06-15T08:44:00",25527863,"Em conclusão","2407","Despiste",0,3,0,9,"2025-06-15T08:44:00","Castro Marim","Faro","Algarve",-7.449618,37.29526
-25528030,"Palmela","Península de Setúbal",311,"2025-06-15T09:15:00",25528030,"Em conclusão","3103","Incêndio rural",1,3,0,22,"2025-06-15T09:15:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.844505,38.569877
+25528030,"Palmela","Península de Setúbal",311,"2025-06-15T09:15:00",25528030,"Em conclusão","3103","Incêndio rural",0,5,0,19,"2025-06-15T09:15:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.82423,38.652798
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25527614,"Grijó e Sermonde","Area M. Porto",309,"2025-06-15T07:41:00",25527614,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-15T07:41:00","Vila Nova De Gaia","Porto","Norte",-8.579955,41.030201
 25525290,"Selmes","Baixo Alentejo",312,"2025-06-14T16:14:00",25525290,"Em conclusão","3105","Incêndio rural",0,1,0,2,"2025-06-14T16:14:00","Vidigueira","Beja","Alentejo",-7.724372,38.135682
-25528064,"Glória e Vera Cruz","Região de Aveiro",310,"2025-06-15T09:24:00",25528064,"Em curso","2403","Colisão rodoviária",0,2,0,7,"2025-06-15T09:24:00","Aveiro","Aveiro","Centro",-8.637882,40.637983
+25528064,"Glória e Vera Cruz","Região de Aveiro",310,"2025-06-15T09:24:00",25528064,"Em resolução","2403","Colisão rodoviária",0,2,0,7,"2025-06-15T09:24:00","Aveiro","Aveiro","Centro",-8.637882,40.637983
 25527482,"Faro (Sé e São Pedro)","Algarve",313,"2025-06-15T06:38:00",25527482,"Em conclusão","2129","Incêndio em edifícios degradados ou devolutos",0,4,0,7,"2025-06-15T06:38:00","Faro","Faro","Algarve",-7.924065,37.014114
+25528199,"Fajões","Area M. Porto",309,"2025-06-15T09:45:00",25528199,"Em despacho","2407","Despiste",0,2,0,7,"2025-06-15T09:45:00","Oliveira De Azeméis","Aveiro","Norte",-8.420898,40.917021
