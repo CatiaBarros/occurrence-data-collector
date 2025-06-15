@@ -1,16 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25530843,São Bento do Mato,Alentejo Central,312,2025-06-15T21:22:00Z,25530843,Em despacho,3105,Incêndio rural,0,6,0,22,2025-06-15T21:22:00Z,Évora,Évora,Alentejo,-7.76058,38.68712
-25530109,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-15T17:50:00Z,25530109,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-15T17:50:00Z,Amarante,Porto,Norte,-8.063538,41.23013
-25530668,Teixoso e Sarzedo,Beiras e Serra da Estrela,310,2025-06-15T20:33:00Z,25530668,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-15T20:33:00Z,Covilhã,Castelo Branco,Centro,-7.459322,40.312373
+25530843,São Bento do Mato,Alentejo Central,312,2025-06-15T21:22:00Z,25530843,Em despacho,3105,Incêndio rural,0,6,0,24,2025-06-15T21:22:00Z,Évora,Évora,Alentejo,-7.76058,38.68712
 25530561,Castelejo,Beiras e Serra da Estrela,310,2025-06-15T20:03:00Z,25530561,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,9,2025-06-15T20:03:00Z,Fundão,Castelo Branco,Centro,-7.576503,40.123245
-25530813,Mirandela,Terras de Trás-os-Montes,309,2025-06-15T21:15:00Z,25530813,Em despacho,2201,Incêndio em equipamentos ou produtos,0,1,0,4,2025-06-15T21:15:00Z,Mirandela,Bragança,Norte,-7.196519,41.50589
-25530830,Seroa,Tâmega e Sousa,309,2025-06-15T21:21:00Z,25530830,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-15T21:21:00Z,Paços De Ferreira,Porto,Norte,-8.42964,41.26311
-25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,1,0,3,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
-25529453,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-15T15:09:00Z,25529453,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-15T15:09:00Z,Moura,Beja,Alentejo,-7.465677,38.133067
-25530806,Quarteira,Algarve,313,2025-06-15T21:13:00Z,25530806,Em conclusão,3103,Incêndio rural,0,5,0,22,2025-06-15T21:13:00Z,Loulé,Faro,Algarve,-8.079857,37.072228
-25530688,Penafiel,Tâmega e Sousa,309,2025-06-15T20:08:00Z,25530688,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-15T20:08:00Z,Penafiel,Porto,Norte,-8.255315,41.231415
-25530301,Monsaraz,Alentejo Central,312,2025-06-15T18:51:00Z,25530301,Em conclusão,3103,Incêndio rural,0,12,0,38,2025-06-15T18:51:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.351348,38.446672
-25527511,Ermelo e Pardelhas,Ave,309,2025-06-15T07:09:00Z,25527511,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,3,0,12,2025-06-15T07:09:00Z,Mondim De Basto,Vila Real,Norte,-7.835478,41.355555
-25530658,Quarteira,Algarve,313,2025-06-15T20:15:00Z,25530658,Em conclusão,3203,Detritos confinados,0,1,0,1,2025-06-15T20:15:00Z,Loulé,Faro,Algarve,-8.1072,37.074665
-25530015,Sacavém e Prior Velho,Grande Lisboa,311,2025-06-15T17:33:00Z,25530015,Em conclusão,3201,Detritos não confinados,0,0,0,0,2025-06-15T17:33:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.1155,38.80052
 25530586,Macedo de Cavaleiros,Terras de Trás-os-Montes,309,2025-06-15T20:11:00Z,25530586,Em conclusão,2101,Incêndio em edifícios habitacionais,0,5,0,13,2025-06-15T20:11:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.94502,41.52809
+25530813,Mirandela,Terras de Trás-os-Montes,309,2025-06-15T21:15:00Z,25530813,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,4,2025-06-15T21:15:00Z,Mirandela,Bragança,Norte,-7.196519,41.50589
+25530830,Seroa,Tâmega e Sousa,309,2025-06-15T21:21:00Z,25530830,Em resolução,3103,Incêndio rural,0,3,0,15,2025-06-15T21:21:00Z,Paços De Ferreira,Porto,Norte,-8.42964,41.26311
+25530301,Monsaraz,Alentejo Central,312,2025-06-15T18:51:00Z,25530301,Em conclusão,3103,Incêndio rural,0,12,0,38,2025-06-15T18:51:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.351348,38.446672
+25527511,Ermelo e Pardelhas,Ave,309,2025-06-15T07:09:00Z,25527511,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-15T07:09:00Z,Mondim De Basto,Vila Real,Norte,-7.835478,41.355555
+25530015,Sacavém e Prior Velho,Grande Lisboa,311,2025-06-15T17:33:00Z,25530015,Em conclusão,3201,Detritos não confinados,0,0,0,0,2025-06-15T17:33:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.1155,38.80052
+25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,1,0,3,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
+25530806,Quarteira,Algarve,313,2025-06-15T21:13:00Z,25530806,Em conclusão,3103,Incêndio rural,0,5,0,19,2025-06-15T21:13:00Z,Loulé,Faro,Algarve,-8.079857,37.072228
+25530688,Penafiel,Tâmega e Sousa,309,2025-06-15T20:08:00Z,25530688,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-15T20:08:00Z,Penafiel,Porto,Norte,-8.255315,41.231415
