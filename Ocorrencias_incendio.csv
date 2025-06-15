@@ -1,6 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25527426,Panoias e Conceição,Baixo Alentejo,312,2025-06-15T05:44:00Z,25527426,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-15T05:44:00Z,Ourique,Beja,Alentejo,-8.242588,37.788822
-25527218,Monchique,Algarve,313,2025-06-15T02:28:00Z,25527218,Em conclusão,3103,Incêndio rural,0,6,0,12,2025-06-15T02:28:00Z,Monchique,Faro,Algarve,-8.551402,37.272837
-25527291,Conceição e Estoi,Algarve,313,2025-06-15T03:30:00Z,25527291,Em conclusão,3103,Incêndio rural,0,4,0,10,2025-06-15T03:30:00Z,Faro,Faro,Algarve,-7.888693,37.071193
-25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,2,0,10,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
-25527482,Faro (Sé e São Pedro),Algarve,313,2025-06-15T06:38:00Z,25527482,Em curso,2129,Incêndio em edifícios degradados ou devolutos,0,4,0,9,2025-06-15T06:38:00Z,Faro,Faro,Algarve,-7.919022,37.01583
+25527291,Conceição e Estoi,Algarve,313,2025-06-15T03:30:00Z,25527291,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-15T03:30:00Z,Faro,Faro,Algarve,-7.888693,37.071193
+25527511,Ermelo e Pardelhas,Ave,309,2025-06-15T07:09:00Z,25527511,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,3,0,12,2025-06-15T07:09:00Z,Mondim De Basto,Vila Real,Norte,-7.835478,41.355555
+25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
+25527482,Faro (Sé e São Pedro),Algarve,313,2025-06-15T06:38:00Z,25527482,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,6,0,13,2025-06-15T06:38:00Z,Faro,Faro,Algarve,-7.924065,37.014114
