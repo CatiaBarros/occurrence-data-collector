@@ -1,8 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25531264,Buarcos,Região de Coimbra,310,2025-06-15T23:54:00Z,25531264,Em despacho,3203,Detritos confinados,0,0,0,0,2025-06-15T23:54:00Z,Figueira Da Foz,Coimbra,Centro,-8.85781,40.15131
+25531283,São Domingos de Rana,Grande Lisboa,311,2025-06-16T00:03:00Z,25531283,Em curso,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-16T00:03:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.357503,38.70375
+25531264,Buarcos,Região de Coimbra,310,2025-06-15T23:54:00Z,25531264,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-15T23:54:00Z,Figueira Da Foz,Coimbra,Centro,-8.85781,40.15131
+25531317,Ceivães e Badim,Alto Minho,309,2025-06-16T00:14:00Z,25531317,Em curso,3103,Incêndio rural,0,3,0,7,2025-06-16T00:14:00Z,Monção,Viana Do Castelo,Norte,-8.367111,42.06089
+25531295,Braga (São Vicente),Cávado,309,2025-06-15T23:54:00Z,25531295,Em conclusão,3201,Detritos não confinados,0,3,0,10,2025-06-15T23:54:00Z,Braga,Braga,Norte,-8.419631,41.563364
+25531345,Jugueiros,Tâmega e Sousa,309,2025-06-16T00:00:00Z,25531345,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-16T00:00:00Z,Felgueiras,Porto,Norte,-8.190532,41.391455
+25530301,Monsaraz,Alentejo Central,312,2025-06-15T18:51:00Z,25530301,Em conclusão,3103,Incêndio rural,0,8,0,28,2025-06-15T18:51:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.351348,38.446672
 25530987,Vila Nova da Barquinha,Médio Tejo,311,2025-06-15T22:02:00Z,25530987,Em resolução,3103,Incêndio rural,0,8,0,26,2025-06-15T22:02:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.42498,39.45721
-25531153,Cacia,Região de Aveiro,310,2025-06-15T23:02:00Z,25531153,Em conclusão,3111,Queima,0,2,0,7,2025-06-15T23:02:00Z,Aveiro,Aveiro,Centro,-8.608593,40.67549
-25530301,Monsaraz,Alentejo Central,312,2025-06-15T18:51:00Z,25530301,Em conclusão,3103,Incêndio rural,0,10,0,35,2025-06-15T18:51:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.351348,38.446672
-25531068,Ramalde,Area M. Porto,309,2025-06-15T22:32:00Z,25531068,Em despacho,2101,Incêndio em edifícios habitacionais,0,5,0,18,2025-06-15T22:32:00Z,Porto,Porto,Norte,-8.64542,41.16476
-25531259,Vila Nova da Baronia,Baixo Alentejo,312,2025-06-15T23:45:00Z,25531259,Em curso,3105,Incêndio rural,0,2,0,6,2025-06-15T23:45:00Z,Alvito,Beja,Alentejo,-8.079343,38.26725
+25531341,Ferrel,Oeste,311,2025-06-16T00:19:00Z,25531341,Em despacho,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-16T00:19:00Z,Peniche,Leiria,Centro,-9.330682,39.372062
+25531259,Vila Nova da Baronia,Baixo Alentejo,312,2025-06-15T23:45:00Z,25531259,Em conclusão,3105,Incêndio rural,0,3,0,8,2025-06-15T23:45:00Z,Alvito,Beja,Alentejo,-8.051917,38.277222
 25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
