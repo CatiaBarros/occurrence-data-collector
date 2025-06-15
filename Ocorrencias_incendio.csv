@@ -1,5 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25527817,Buarcos,Região de Coimbra,310,2025-06-15T08:37:00Z,25527817,Em curso,3203,Detritos confinados,0,3,0,13,2025-06-15T08:37:00Z,Figueira Da Foz,Coimbra,Centro,-8.880897,40.168384
+25527973,São Félix da Marinha,Area M. Porto,309,2025-06-15T09:00:00Z,25527973,Em conclusão,2111,Incêndio em edifícios hospitalares e lares de idosos,0,2,0,6,2025-06-15T09:00:00Z,Vila Nova De Gaia,Porto,Norte,-8.629189,41.030125
+25528021,Valpaços e Sanfins,Alto Tâmega e Barroso,309,2025-06-15T09:15:00Z,25528021,Em resolução,2301,Incêndio em transporte rodoviário,0,3,0,7,2025-06-15T09:15:00Z,Valpaços,Vila Real,Norte,-7.323311,41.61412
+25527979,Quarteira,Algarve,313,2025-06-15T09:06:00Z,25527979,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-15T09:06:00Z,Loulé,Faro,Algarve,-8.0812,37.05835
 25527511,Ermelo e Pardelhas,Ave,309,2025-06-15T07:09:00Z,25527511,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,3,0,12,2025-06-15T07:09:00Z,Mondim De Basto,Vila Real,Norte,-7.835478,41.355555
+25528030,Palmela,Península de Setúbal,311,2025-06-15T09:15:00Z,25528030,Em conclusão,3103,Incêndio rural,1,3,0,22,2025-06-15T09:15:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.844505,38.569877
 25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
 25527482,Faro (Sé e São Pedro),Algarve,313,2025-06-15T06:38:00Z,25527482,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,4,0,7,2025-06-15T06:38:00Z,Faro,Faro,Algarve,-7.924065,37.014114
