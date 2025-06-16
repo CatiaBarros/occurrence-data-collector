@@ -1,11 +1,10 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25531750,"Querença, Tôr e Benafim","Algarve",313,"2025-06-16T06:46:00",25531750,"Em curso","3111","Queima",0,2,0,7,"2025-06-16T06:46:00","Loulé","Faro","Algarve",-8.009147,37.209762
-25531704,"Benedita","Oeste",311,"2025-06-16T06:04:00",25531704,"Em conclusão","3103","Incêndio rural",0,1,0,4,"2025-06-16T06:04:00","Alcobaça","Leiria","Centro",-8.972563,39.409426
-25531722,"Lordelo do Ouro e Massarelos","Area M. Porto",309,"2025-06-16T06:30:00",25531722,"Em despacho","3201","Detritos não confinados",0,2,0,10,"2025-06-16T06:30:00","Porto","Porto","Norte",-8.64946,41.15808
+25531750,"Querença, Tôr e Benafim","Algarve",313,"2025-06-16T06:46:00",25531750,"Em conclusão","3111","Queima",0,0,0,0,"2025-06-16T06:46:00","Loulé","Faro","Algarve",-7.992045,37.212173
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25531259,"Vila Nova da Baronia","Baixo Alentejo",312,"2025-06-15T23:45:00",25531259,"Em conclusão","3105","Incêndio rural",0,1,0,2,"2025-06-15T23:45:00","Alvito","Beja","Alentejo",-8.051917,38.277222
 25525290,"Selmes","Baixo Alentejo",312,"2025-06-14T16:14:00",25525290,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-06-14T16:14:00","Vidigueira","Beja","Alentejo",-7.724372,38.135682
+25531376,"Moreira","Area M. Porto",309,"2025-06-16T00:55:00",25531376,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,12,0,34,"2025-06-16T00:55:00","Maia","Porto","Norte",-8.64631,41.257387
 25531624,"Ceivães e Badim","Alto Minho",309,"2025-06-16T05:00:00",25531624,"Em curso","3103","Incêndio rural",0,7,0,23,"2025-06-16T05:00:00","Monção","Viana Do Castelo","Norte",-8.375257,42.073545
-25531376,"Moreira","Area M. Porto",309,"2025-06-16T00:55:00",25531376,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,15,0,43,"2025-06-16T00:55:00","Maia","Porto","Norte",-8.64631,41.257387
-25531689,"Querença, Tôr e Benafim","Algarve",313,"2025-06-16T06:05:00",25531689,"Em curso","3103","Incêndio rural",0,2,0,10,"2025-06-16T06:05:00","Loulé","Faro","Algarve",-8.009147,37.209762
-25531714,"Montargil","Alto Alentejo",312,"2025-06-16T06:21:00",25531714,"Em curso","2407","Despiste",0,6,0,15,"2025-06-16T06:21:00","Ponte De Sor","Portalegre","Alentejo",-8.069633,39.182933
+25531722,"Lordelo do Ouro e Massarelos","Area M. Porto",309,"2025-06-16T06:30:00",25531722,"Em despacho","3201","Detritos não confinados",0,2,0,10,"2025-06-16T06:30:00","Porto","Porto","Norte",-8.64946,41.15808
+25531689,"Querença, Tôr e Benafim","Algarve",313,"2025-06-16T06:05:00",25531689,"Em conclusão","3103","Incêndio rural",0,2,0,10,"2025-06-16T06:05:00","Loulé","Faro","Algarve",-7.992045,37.212173
+25531714,"Montargil","Alto Alentejo",312,"2025-06-16T06:21:00",25531714,"Em resolução","2407","Despiste",0,7,0,16,"2025-06-16T06:21:00","Ponte De Sor","Portalegre","Alentejo",-8.069633,39.182933
+25531762,"Vade","Cávado",309,"2025-06-16T06:44:00",25531762,"Em curso","2407","Despiste",0,1,0,2,"2025-06-16T06:44:00","Vila Verde","Braga","Norte",-8.428804,41.733615
