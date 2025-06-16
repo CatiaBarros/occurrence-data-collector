@@ -1,15 +1,21 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25532818,Penafiel,Tâmega e Sousa,309,2025-06-16T10:35:00Z,25532818,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,10,2025-06-16T10:35:00Z,Penafiel,Porto,Norte,-8.255315,41.231415
-25533043,Miranda do Douro,Terras de Trás-os-Montes,309,2025-06-16T11:10:00Z,25533043,Em resolução,3103,Incêndio rural,0,6,0,16,2025-06-16T11:10:00Z,Miranda Do Douro,Bragança,Norte,-6.268542,41.527568
-25533350,Colares,Grande Lisboa,311,2025-06-16T12:07:00Z,25533350,Em despacho,3103,Incêndio rural,0,3,0,12,2025-06-16T12:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.4777,38.81354
 25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,1,0,4,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
 25531624,Ceivães e Badim,Alto Minho,309,2025-06-16T05:00:00Z,25531624,Em conclusão,3103,Incêndio rural,0,8,0,23,2025-06-16T05:00:00Z,Monção,Viana Do Castelo,Norte,-8.375257,42.073545
 25533196,Palmeira de Faro e Curvos,Cávado,309,2025-06-16T11:39:00Z,25533196,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-16T11:39:00Z,Esposende,Braga,Norte,-8.738412,41.540758
-25533329,"Cristelos, Boim e Ordem",Tâmega e Sousa,309,2025-06-16T12:01:00Z,25533329,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-16T12:01:00Z,Lousada,Porto,Norte,-8.284685,41.263011
-25533362,Pinhal Novo,Península de Setúbal,311,2025-06-16T12:10:00Z,25533362,Em despacho,3101,Incêndio rural,0,1,0,5,2025-06-16T12:10:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.866448,38.610777
+25533329,"Cristelos, Boim e Ordem",Tâmega e Sousa,309,2025-06-16T12:01:00Z,25533329,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-16T12:01:00Z,Lousada,Porto,Norte,-8.284685,41.263011
+25533362,Pinhal Novo,Península de Setúbal,311,2025-06-16T12:10:00Z,25533362,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-16T12:10:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.866448,38.610777
+25533448,"N.s. Conceição, S. Brás Matos, Juromenha",Alentejo Central,312,2025-06-16T12:26:00Z,25533448,Em curso,3105,Incêndio rural,0,4,0,17,2025-06-16T12:26:00Z,Alandroal,Évora,Alentejo,-7.367564,38.694763
+25532818,Penafiel,Tâmega e Sousa,309,2025-06-16T10:35:00Z,25532818,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,10,2025-06-16T10:35:00Z,Penafiel,Porto,Norte,-8.255315,41.231415
+25533043,Miranda do Douro,Terras de Trás-os-Montes,309,2025-06-16T11:10:00Z,25533043,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-16T11:10:00Z,Miranda Do Douro,Bragança,Norte,-6.268542,41.527568
+25533350,Colares,Grande Lisboa,311,2025-06-16T12:07:00Z,25533350,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-16T12:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.4777,38.81354
+25533409,Colares,Grande Lisboa,311,2025-06-16T12:10:00Z,25533409,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-16T12:10:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.461385,38.815988
+25533434,Beduído e Veiros,Região de Aveiro,310,2025-06-16T12:26:00Z,25533434,Em curso,3101,Incêndio rural,1,5,0,23,2025-06-16T12:26:00Z,Estarreja,Aveiro,Centro,-8.595597,40.761187
+25533452,Massamá e Monte Abraão,Grande Lisboa,311,2025-06-16T12:21:00Z,25533452,Em resolução,2101,Incêndio em edifícios habitacionais,0,4,0,12,2025-06-16T12:21:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.280008,38.753778
+25533491,Ferreira do Alentejo e Canhestros,Baixo Alentejo,312,2025-06-16T12:38:00Z,25533491,Em despacho,3105,Incêndio rural,0,0,0,0,2025-06-16T12:38:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.31214,38.05075
 25532434,Ermelo e Pardelhas,Ave,309,2025-06-16T09:30:00Z,25532434,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,4,0,15,2025-06-16T09:30:00Z,Mondim De Basto,Vila Real,Norte,-7.844007,41.359233
-25532518,Almeida,Beiras e Serra da Estrela,310,2025-06-16T09:47:00Z,25532518,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,2,2025-06-16T09:47:00Z,Almeida,Guarda,Centro,-6.905285,40.730197
-25533187,Mujães,Alto Minho,309,2025-06-16T11:38:00Z,25533187,Em curso,3105,Incêndio rural,0,3,0,8,2025-06-16T11:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.706502,41.670222
-25533305,São Brás de Alportel,Algarve,313,2025-06-16T11:59:00Z,25533305,Em curso,3203,Detritos confinados,0,1,0,4,2025-06-16T11:59:00Z,São Brás De Alportel,Faro,Algarve,-7.873889,37.13833
-25533249,Arazede,Região de Coimbra,310,2025-06-16T11:40:00Z,25533249,Em resolução,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-16T11:40:00Z,Montemor-o-Velho,Coimbra,Centro,-8.656413,40.285792
-25533367,Bodiosa,Viseu Dão Lafões,310,2025-06-16T12:10:00Z,25533367,Em despacho,3103,Incêndio rural,1,5,0,23,2025-06-16T12:10:00Z,Viseu,Viseu,Centro,-7.992287,40.717351
+25533187,Mujães,Alto Minho,309,2025-06-16T11:38:00Z,25533187,Em conclusão,3105,Incêndio rural,0,3,0,8,2025-06-16T11:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.706502,41.670222
+25533305,São Brás de Alportel,Algarve,313,2025-06-16T11:59:00Z,25533305,Em conclusão,3203,Detritos confinados,0,3,0,7,2025-06-16T11:59:00Z,São Brás De Alportel,Faro,Algarve,-7.873889,37.13833
+25533470,Lanheses,Alto Minho,309,2025-06-16T12:33:00Z,25533470,Em despacho,3103,Incêndio rural,1,1,0,10,2025-06-16T12:33:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.683662,41.72724
+25533249,Arazede,Região de Coimbra,310,2025-06-16T11:40:00Z,25533249,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-16T11:40:00Z,Montemor-o-Velho,Coimbra,Centro,-8.656413,40.285792
+25533367,Bodiosa,Viseu Dão Lafões,310,2025-06-16T12:10:00Z,25533367,Em curso,3103,Incêndio rural,1,5,0,23,2025-06-16T12:10:00Z,Viseu,Viseu,Centro,-7.992287,40.717351
+25533519,Viseu,Viseu Dão Lafões,310,2025-06-16T12:40:00Z,25533519,Em despacho,3203,Detritos confinados,0,1,0,2,2025-06-16T12:40:00Z,Viseu,Viseu,Centro,-7.90012,40.674879
