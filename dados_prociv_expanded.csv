@@ -1,7 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25531512,"Maçãs de Dona Maria","Região de Leiria",310,"2025-06-16T02:50:00",25531512,"Em resolução","2101","Incêndio em edifícios habitacionais",0,1,0,2,"2025-06-16T02:50:00","Alvaiázere","Leiria","Centro",-8.32555,39.86688
-25531376,"Moreira","Area M. Porto",309,"2025-06-16T00:55:00",25531376,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,20,0,53,"2025-06-16T00:55:00","Maia","Porto","Norte",-8.64631,41.257387
+25531376,"Moreira","Area M. Porto",309,"2025-06-16T00:55:00",25531376,"Em conclusão","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,15,0,43,"2025-06-16T00:55:00","Maia","Porto","Norte",-8.64631,41.257387
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25531259,"Vila Nova da Baronia","Baixo Alentejo",312,"2025-06-15T23:45:00",25531259,"Em conclusão","3105","Incêndio rural",0,1,0,2,"2025-06-15T23:45:00","Alvito","Beja","Alentejo",-8.051917,38.277222
 25525290,"Selmes","Baixo Alentejo",312,"2025-06-14T16:14:00",25525290,"Em conclusão","3105","Incêndio rural",0,0,0,0,"2025-06-14T16:14:00","Vidigueira","Beja","Alentejo",-7.724372,38.135682
-25531624,"Ceivães e Badim","Alto Minho",309,"2025-06-16T05:00:00",25531624,"Em despacho","3107","Consolidação de rescaldo de incêndio rural",0,3,0,7,"2025-06-16T05:00:00","Monção","Viana Do Castelo","Norte",-8.367111,42.06089
+25531624,"Ceivães e Badim","Alto Minho",309,"2025-06-16T05:00:00",25531624,"Em curso","3103","Incêndio rural",0,3,0,7,"2025-06-16T05:00:00","Monção","Viana Do Castelo","Norte",-8.375257,42.073545
