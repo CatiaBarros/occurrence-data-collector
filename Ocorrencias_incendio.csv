@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25531947,Oliveira do Conde,Viseu Dão Lafões,310,2025-06-16T08:03:00Z,25531947,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-16T08:03:00Z,Carregal Do Sal,Viseu,Centro,-7.968109,40.440859
+25531947,Oliveira do Conde,Viseu Dão Lafões,310,2025-06-16T08:03:00Z,25531947,Em conclusão,3103,Incêndio rural,0,5,0,18,2025-06-16T08:03:00Z,Carregal Do Sal,Viseu,Centro,-7.968109,40.440859
 25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
 25531376,Moreira,Area M. Porto,309,2025-06-16T00:55:00Z,25531376,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,8,0,17,2025-06-16T00:55:00Z,Maia,Porto,Norte,-8.64631,41.257387
 25531624,Ceivães e Badim,Alto Minho,309,2025-06-16T05:00:00Z,25531624,Em conclusão,3103,Incêndio rural,0,9,0,27,2025-06-16T05:00:00Z,Monção,Viana Do Castelo,Norte,-8.375257,42.073545
+25532242,Souselas e Botão,Região de Coimbra,310,2025-06-16T08:57:00Z,25532242,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-16T08:57:00Z,Coimbra,Coimbra,Centro,-8.42946,40.286598
