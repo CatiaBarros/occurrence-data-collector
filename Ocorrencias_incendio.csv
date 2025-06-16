@@ -1,5 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25531947,Oliveira do Conde,Viseu Dão Lafões,310,2025-06-16T08:03:00Z,25531947,Em resolução,3103,Incêndio rural,0,3,0,12,2025-06-16T08:03:00Z,Carregal Do Sal,Viseu,Centro,-7.968109,40.440859
 25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
 25531376,Moreira,Area M. Porto,309,2025-06-16T00:55:00Z,25531376,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,10,0,24,2025-06-16T00:55:00Z,Maia,Porto,Norte,-8.64631,41.257387
-25531624,Ceivães e Badim,Alto Minho,309,2025-06-16T05:00:00Z,25531624,Em resolução,3103,Incêndio rural,0,7,0,23,2025-06-16T05:00:00Z,Monção,Viana Do Castelo,Norte,-8.375257,42.073545
+25531624,Ceivães e Badim,Alto Minho,309,2025-06-16T05:00:00Z,25531624,Em conclusão,3103,Incêndio rural,0,8,0,25,2025-06-16T05:00:00Z,Monção,Viana Do Castelo,Norte,-8.375257,42.073545
 25531791,Freixo de Cima e de Baixo,Tâmega e Sousa,309,2025-06-16T07:10:00Z,25531791,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-16T07:10:00Z,Amarante,Porto,Norte,-8.127822,41.31411
+25531928,Buarcos,Região de Coimbra,310,2025-06-16T07:55:00Z,25531928,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-16T07:55:00Z,Figueira Da Foz,Coimbra,Centro,-8.861923,40.150493
