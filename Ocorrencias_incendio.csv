@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25531376,Moreira,Area M. Porto,309,2025-06-16T00:55:00Z,25531376,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,1,0,5,2025-06-16T00:55:00Z,Maia,Porto,Norte,-8.6461,41.25695
-25531375,Nossa Senhora da Expectação,Alto Alentejo,312,2025-06-16T00:50:00Z,25531375,Em resolução,3105,Incêndio rural,0,2,0,5,2025-06-16T00:50:00Z,Campo Maior,Portalegre,Alentejo,-7.068153,39.008738
-25531341,Ferrel,Oeste,311,2025-06-16T00:19:00Z,25531341,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-16T00:19:00Z,Peniche,Leiria,Centro,-9.330682,39.372062
-25531356,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-16T00:38:00Z,25531356,Em despacho,2125,"Incêndio em edifícios prisionais, militares, ou de força de segurança",0,2,0,7,2025-06-16T00:38:00Z,Felgueiras,Porto,Norte,-8.208433,41.365733
+25531497,Campo de Ourique,Grande Lisboa,311,2025-06-16T02:35:00Z,25531497,Em despacho,2115,Incêndio em edifícios hoteleiros e de restauração,0,1,0,5,2025-06-16T02:35:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.16979,38.71924
+25530987,Vila Nova da Barquinha,Médio Tejo,311,2025-06-15T22:02:00Z,25530987,Em conclusão,3103,Incêndio rural,0,5,0,15,2025-06-15T22:02:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.424217,39.457045
+25531512,Maçãs de Dona Maria,Região de Leiria,310,2025-06-16T02:50:00Z,25531512,Em curso,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-16T02:50:00Z,Alvaiázere,Leiria,Centro,-8.32555,39.86688
 25531259,Vila Nova da Baronia,Baixo Alentejo,312,2025-06-15T23:45:00Z,25531259,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-15T23:45:00Z,Alvito,Beja,Alentejo,-8.051917,38.277222
 25525290,Selmes,Baixo Alentejo,312,2025-06-14T16:14:00Z,25525290,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-14T16:14:00Z,Vidigueira,Beja,Alentejo,-7.724372,38.135682
-25531317,Ceivães e Badim,Alto Minho,309,2025-06-16T00:14:00Z,25531317,Em resolução,3103,Incêndio rural,0,3,0,7,2025-06-16T00:14:00Z,Monção,Viana Do Castelo,Norte,-8.37492,42.073457
-25531345,Jugueiros,Tâmega e Sousa,309,2025-06-16T00:00:00Z,25531345,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-16T00:00:00Z,Felgueiras,Porto,Norte,-8.190532,41.391455
-25530987,Vila Nova da Barquinha,Médio Tejo,311,2025-06-15T22:02:00Z,25530987,Em resolução,3103,Incêndio rural,0,8,0,26,2025-06-15T22:02:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.42498,39.45721
+25531510,Carregado e Cadafais,Oeste,311,2025-06-16T02:44:00Z,25531510,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-16T02:44:00Z,Alenquer,Lisboa,Centro,-8.95722,39.01639
+25531491,Castelo Branco,Beira Baixa,310,2025-06-16T02:31:00Z,25531491,Em conclusão,2101,Incêndio em edifícios habitacionais,0,5,0,13,2025-06-16T02:31:00Z,Castelo Branco,Castelo Branco,Centro,-7.491105,39.827808
+25531376,Moreira,Area M. Porto,309,2025-06-16T00:55:00Z,25531376,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,19,0,55,2025-06-16T00:55:00Z,Maia,Porto,Norte,-8.64631,41.257387
+25531509,Cacém e São Marcos,Grande Lisboa,311,2025-06-16T02:48:00Z,25531509,Em curso,2201,Incêndio em equipamentos ou produtos,0,1,0,4,2025-06-16T02:48:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.3061140000000009,38.7728
