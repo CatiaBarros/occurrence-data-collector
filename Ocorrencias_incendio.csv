@@ -1,23 +1,22 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25533546,Capelins (Santo António),Alentejo Central,312,2025-06-16T12:49:00Z,25533546,Em conclusão,3103,Incêndio rural,0,14,0,36,2025-06-16T12:49:00Z,Alandroal,Évora,Alentejo,-7.336945,38.553132
+25536824,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-06-17T05:48:00Z,25536824,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-17T05:48:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
+25537409,Azambuja,Lezíria do Tejo,311,2025-06-17T09:02:00Z,25537409,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-17T09:02:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
+25537826,Couto de Baixo e Couto de Cima,Viseu Dão Lafões,310,2025-06-17T10:08:00Z,25537826,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-17T10:08:00Z,Viseu,Viseu,Centro,-7.991145,40.697539
+25538176,Ermelo e Pardelhas,Ave,309,2025-06-17T11:12:00Z,25538176,Em resolução,3103,Incêndio rural,0,7,0,29,2025-06-17T11:12:00Z,Mondim De Basto,Vila Real,Norte,-7.836727,41.358133
+25538262,Lomba,Area M. Porto,309,2025-06-17T11:24:00Z,25538262,Em conclusão,3101,Incêndio rural,0,4,0,17,2025-06-17T11:24:00Z,Gondomar,Porto,Norte,-8.405995,41.052477
+25537199,Carregosa,Area M. Porto,309,2025-06-17T08:25:00Z,25537199,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-17T08:25:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.412088,40.890188
+25538434,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-17T11:54:00Z,25538434,Em conclusão,2117,Incêndio em edifícios comerciais e gares de transporte,0,3,0,6,2025-06-17T11:54:00Z,Lagos,Faro,Algarve,-8.67412,37.10578
+25538585,Água Revés e Crasto,Alto Tâmega e Barroso,309,2025-06-17T12:24:00Z,25538585,Em curso,3103,Incêndio rural,1,4,0,21,2025-06-17T12:24:00Z,Valpaços,Vila Real,Norte,-7.310077,41.546777
 25534277,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-16T15:11:00Z,25534277,Em conclusão,3101,Incêndio rural,0,3,0,11,2025-06-16T15:11:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.486413,40.939453
 25534804,Alvares,Região de Coimbra,310,2025-06-16T17:00:00Z,25534804,Em conclusão,3101,Incêndio rural,0,0,0,0,2025-06-16T17:00:00Z,Góis,Coimbra,Centro,-8.08667,40.05333
 25535747,Alvares,Região de Coimbra,310,2025-06-16T20:38:00Z,25535747,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-16T20:38:00Z,Góis,Coimbra,Centro,-8.07249,40.03204
-25538248,Ourique,Baixo Alentejo,312,2025-06-17T11:23:00Z,25538248,Em conclusão,3105,Incêndio rural,0,7,0,23,2025-06-17T11:23:00Z,Ourique,Beja,Alentejo,-8.198932,37.656918
-25538580,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-17T12:21:00Z,25538580,Em despacho,3101,Incêndio rural,0,1,0,5,2025-06-17T12:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.545846,41.046266
-25538607,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-17T12:13:00Z,25538607,Em despacho,3111,Queima,0,3,0,12,2025-06-17T12:13:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
-25537199,Carregosa,Area M. Porto,309,2025-06-17T08:25:00Z,25537199,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-17T08:25:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.412088,40.890188
-25538434,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-17T11:54:00Z,25538434,Em conclusão,2117,Incêndio em edifícios comerciais e gares de transporte,0,4,0,11,2025-06-17T11:54:00Z,Lagos,Faro,Algarve,-8.67412,37.10578
-25538585,Água Revés e Crasto,Alto Tâmega e Barroso,309,2025-06-17T12:24:00Z,25538585,Em despacho,3103,Incêndio rural,1,1,0,6,2025-06-17T12:24:00Z,Valpaços,Vila Real,Norte,-7.330234,41.53944
-25533546,Capelins (Santo António),Alentejo Central,312,2025-06-16T12:49:00Z,25533546,Em conclusão,3103,Incêndio rural,0,14,0,36,2025-06-16T12:49:00Z,Alandroal,Évora,Alentejo,-7.336945,38.553132
-25536824,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-06-17T05:48:00Z,25536824,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-17T05:48:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
-25536871,Fornelos,Tâmega e Sousa,309,2025-06-17T06:46:00Z,25536871,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-17T06:46:00Z,Cinfães,Viseu,Norte,-8.196822,41.043427
-25537409,Azambuja,Lezíria do Tejo,311,2025-06-17T09:02:00Z,25537409,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-17T09:02:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
-25537826,Couto de Baixo e Couto de Cima,Viseu Dão Lafões,310,2025-06-17T10:08:00Z,25537826,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-17T10:08:00Z,Viseu,Viseu,Centro,-7.991145,40.697539
-25538176,Ermelo e Pardelhas,Ave,309,2025-06-17T11:12:00Z,25538176,Em resolução,3103,Incêndio rural,2,6,0,35,2025-06-17T11:12:00Z,Mondim De Basto,Vila Real,Norte,-7.836727,41.358133
-25538262,Lomba,Area M. Porto,309,2025-06-17T11:24:00Z,25538262,Em conclusão,3101,Incêndio rural,0,4,0,17,2025-06-17T11:24:00Z,Gondomar,Porto,Norte,-8.405995,41.052477
-25538362,Alvalade,Alentejo Litoral,312,2025-06-17T11:33:00Z,25538362,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,4,2025-06-17T11:33:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390182,37.92538
+25538248,Ourique,Baixo Alentejo,312,2025-06-17T11:23:00Z,25538248,Em conclusão,3105,Incêndio rural,0,6,0,18,2025-06-17T11:23:00Z,Ourique,Beja,Alentejo,-8.198932,37.656918
+25538580,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-17T12:21:00Z,25538580,Em curso,3101,Incêndio rural,0,1,0,5,2025-06-17T12:21:00Z,Vila Nova De Gaia,Porto,Norte,-8.545846,41.046266
+25538607,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-17T12:13:00Z,25538607,Em conclusão,3111,Queima,0,3,0,12,2025-06-17T12:13:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.04265,38.541479
+25538675,Fátima,Médio Tejo,311,2025-06-17T12:42:00Z,25538675,Em despacho,2301,Incêndio em transporte rodoviário,0,4,0,10,2025-06-17T12:42:00Z,Ourém,Santarém,Centro,-8.67959,39.60958
 25533960,Nossa Senhora da Tourega e Nossa Senhora de Guadalupe,Alentejo Central,312,2025-06-16T14:13:00Z,25533960,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-16T14:13:00Z,Évora,Évora,Alentejo,-8.04123,38.527212
 25538129,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-06-17T11:03:00Z,25538129,Em despacho,3105,Incêndio rural,0,1,0,2,2025-06-17T11:03:00Z,Évora,Évora,Alentejo,-7.92086,38.58066
-25538299,Corroios,Península de Setúbal,311,2025-06-17T11:29:00Z,25538299,Em conclusão,3101,Incêndio rural,1,8,0,31,2025-06-17T11:29:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.150233,38.645558
+25538299,Corroios,Península de Setúbal,311,2025-06-17T11:29:00Z,25538299,Em conclusão,3101,Incêndio rural,1,4,0,18,2025-06-17T11:29:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.150233,38.645558
 25538340,Almeirim,Lezíria do Tejo,311,2025-06-17T11:36:00Z,25538340,Em conclusão,3105,Incêndio rural,0,4,0,14,2025-06-17T11:36:00Z,Almeirim,Santarém,Alentejo,-8.639667,39.224597
-25538397,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-17T11:47:00Z,25538397,Em curso,2101,Incêndio em edifícios habitacionais,0,5,0,16,2025-06-17T11:47:00Z,Vila Nova De Gaia,Porto,Norte,-8.59794,41.10507
+25538397,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-17T11:47:00Z,25538397,Em conclusão,2101,Incêndio em edifícios habitacionais,0,5,0,16,2025-06-17T11:47:00Z,Vila Nova De Gaia,Porto,Norte,-8.59794,41.10507
