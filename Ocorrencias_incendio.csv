@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25539765,Adeganha e Cardanha,Douro,309,2025-06-17T16:15:00Z,25539765,Em conclusão,3103,Incêndio rural,0,21,0,64,2025-06-17T16:15:00Z,Torre De Moncorvo,Bragança,Norte,-7.078435,41.281168
-25541794,Nossa Senhora da Expectação,Alto Alentejo,312,2025-06-18T01:50:00Z,25541794,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,6,2025-06-18T01:50:00Z,Campo Maior,Portalegre,Alentejo,-7.066115,39.014985
+25541985,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-06-18T05:22:00Z,25541985,Em resolução,2117,Incêndio em edifícios comerciais e gares de transporte,0,2,0,10,2025-06-18T05:22:00Z,Matosinhos,Porto,Norte,-8.65464,41.18083
+25542005,Ferrel,Oeste,311,2025-06-18T05:48:00Z,25542005,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-18T05:48:00Z,Peniche,Leiria,Centro,-9.311546,39.36778
+25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.429132,41.03151
+25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,11,0,26,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
 25539166,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-17T14:15:00Z,25539166,Em conclusão,3101,Incêndio rural,0,2,0,6,2025-06-17T14:15:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.468336,41.006898
 25539427,"Guia, Ilha e Mata Mourisca",Região de Leiria,310,2025-06-17T15:07:00Z,25539427,Em conclusão,3101,Incêndio rural,0,1,0,2,2025-06-17T15:07:00Z,Pombal,Leiria,Centro,-8.875093,39.958584
-25541874,Casais e Alviobeira,Médio Tejo,311,2025-06-18T03:02:00Z,25541874,Em conclusão,2101,Incêndio em edifícios habitacionais,0,6,0,16,2025-06-18T03:02:00Z,Tomar,Santarém,Centro,-8.346697,39.655653
-25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.429132,41.03151
-25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,13,0,28,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
