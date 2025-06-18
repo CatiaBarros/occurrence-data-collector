@@ -1,20 +1,21 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,3,0,6,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
+25546236,Gandra e Taião,Alto Minho,309,2025-06-18T21:11:00Z,25546236,Em resolução,3103,Incêndio rural,0,3,0,9,2025-06-18T21:11:00Z,Valença,Viana Do Castelo,Norte,-8.618729,42.00637
+25546386,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-06-18T21:51:00Z,25546386,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-18T21:51:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.3538,38.763839
+25546447,Nogueira do Cravo e Pindelo,Area M. Porto,309,2025-06-18T22:11:00Z,25546447,Em resolução,2101,Incêndio em edifícios habitacionais,0,3,0,9,2025-06-18T22:11:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.45768,40.88689
+25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.404698,41.035962
+25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,0,0,1,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
+25544590,Benquerenças,Beira Baixa,310,2025-06-18T15:17:00Z,25544590,Em conclusão,3103,Incêndio rural,0,6,0,18,2025-06-18T15:17:00Z,Castelo Branco,Castelo Branco,Centro,-7.59037,39.839717
+25546151,Valpaços e Sanfins,Alto Tâmega e Barroso,309,2025-06-18T20:52:00Z,25546151,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-18T20:52:00Z,Valpaços,Vila Real,Norte,-7.323311,41.61412
+25546378,Paramos,Area M. Porto,309,2025-06-18T21:52:00Z,25546378,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,2,2025-06-18T21:52:00Z,Espinho,Aveiro,Norte,-8.62626,40.96977
+25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
 25546272,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-06-18T21:20:00Z,25546272,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-18T21:20:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.143018,38.828005
-25546375,Conde e Gandarela,Ave,309,2025-06-18T21:51:00Z,25546375,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-18T21:51:00Z,Guimarães,Braga,Norte,-8.339596,41.394277
+25546375,Conde e Gandarela,Ave,309,2025-06-18T21:51:00Z,25546375,Em resolução,3201,Detritos não confinados,0,1,0,5,2025-06-18T21:51:00Z,Guimarães,Braga,Norte,-8.339596,41.394277
 25539765,Adeganha e Cardanha,Douro,309,2025-06-17T16:15:00Z,25539765,Em conclusão,3103,Incêndio rural,0,8,0,20,2025-06-17T16:15:00Z,Torre De Moncorvo,Bragança,Norte,-7.078435,41.281168
 25544627,Paranhos,Beiras e Serra da Estrela,310,2025-06-18T15:24:00Z,25544627,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-18T15:24:00Z,Seia,Guarda,Centro,-7.791577,40.489716
 25545714,Ferreira-a-Nova,Região de Coimbra,310,2025-06-18T19:02:00Z,25545714,Em conclusão,3101,Incêndio rural,0,4,0,17,2025-06-18T19:02:00Z,Figueira Da Foz,Coimbra,Centro,-8.75306,40.27694
-25546163,Alcaria Ruiva,Baixo Alentejo,312,2025-06-18T20:55:00Z,25546163,Em conclusão,3105,Incêndio rural,0,11,0,30,2025-06-18T20:55:00Z,Mértola,Beja,Alentejo,-7.804643,37.749783
-25546197,"Aldoar, Foz do Douro e Nevogilde",Area M. Porto,309,2025-06-18T21:02:00Z,25546197,Em curso,2101,Incêndio em edifícios habitacionais,0,5,0,18,2025-06-18T21:02:00Z,Porto,Porto,Norte,-8.6651,41.14802
+25546163,Alcaria Ruiva,Baixo Alentejo,312,2025-06-18T20:55:00Z,25546163,Em conclusão,3105,Incêndio rural,0,9,0,20,2025-06-18T20:55:00Z,Mértola,Beja,Alentejo,-7.804643,37.749783
 25546198,Mujães,Alto Minho,309,2025-06-18T21:02:00Z,25546198,Em conclusão,3105,Incêndio rural,0,2,0,10,2025-06-18T21:02:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.705718,41.670645
-25546168,Longomel,Alto Alentejo,312,2025-06-18T20:48:00Z,25546168,Em conclusão,3103,Incêndio rural,0,5,0,17,2025-06-18T20:48:00Z,Ponte De Sor,Portalegre,Alentejo,-7.998562,39.332224
-25546236,Gandra e Taião,Alto Minho,309,2025-06-18T21:11:00Z,25546236,Em curso,3103,Incêndio rural,0,2,0,7,2025-06-18T21:11:00Z,Valença,Viana Do Castelo,Norte,-8.618729,42.00637
-25546386,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-06-18T21:51:00Z,25546386,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-18T21:51:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.3538,38.763839
-25546350,Paranhos,Beiras e Serra da Estrela,310,2025-06-18T21:41:00Z,25546350,Em curso,3103,Incêndio rural,0,4,0,17,2025-06-18T21:41:00Z,Seia,Guarda,Centro,-7.78305,40.47821
-25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.404698,41.035962
-25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,0,0,1,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
-25544590,Benquerenças,Beira Baixa,310,2025-06-18T15:17:00Z,25544590,Em conclusão,3103,Incêndio rural,0,9,0,33,2025-06-18T15:17:00Z,Castelo Branco,Castelo Branco,Centro,-7.59037,39.839717
-25546101,Balazar,Area M. Porto,309,2025-06-18T20:37:00Z,25546101,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,11,2025-06-18T20:37:00Z,Póvoa De Varzim,Porto,Norte,-8.64682,41.414657
-25546151,Valpaços e Sanfins,Alto Tâmega e Barroso,309,2025-06-18T20:52:00Z,25546151,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-18T20:52:00Z,Valpaços,Vila Real,Norte,-7.323311,41.61412
-25546378,Paramos,Area M. Porto,309,2025-06-18T21:52:00Z,25546378,Em despacho,2101,Incêndio em edifícios habitacionais,0,3,0,9,2025-06-18T21:52:00Z,Espinho,Aveiro,Norte,-8.62626,40.96977
+25546350,Paranhos,Beiras e Serra da Estrela,310,2025-06-18T21:41:00Z,25546350,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,3,0,12,2025-06-18T21:41:00Z,Seia,Guarda,Centro,-7.78327,40.478285
+25546400,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-18T21:49:00Z,25546400,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-18T21:49:00Z,Felgueiras,Porto,Norte,-8.203285,41.376048
+25546416,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-06-18T22:03:00Z,25546416,Em curso,2101,Incêndio em edifícios habitacionais,0,5,0,16,2025-06-18T22:03:00Z,Matosinhos,Porto,Norte,-8.675883,41.22025
+25546450,Ramada e Caneças,Grande Lisboa,311,2025-06-18T22:06:00Z,25546450,Em resolução,3203,Detritos confinados,0,1,0,5,2025-06-18T22:06:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
