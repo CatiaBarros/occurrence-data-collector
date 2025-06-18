@@ -1,16 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25542595,Alfena,Area M. Porto,309,2025-06-18T09:15:00Z,25542595,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-18T09:15:00Z,Valongo,Porto,Norte,-8.523192,41.237236
+25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,5,0,21,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.404698,41.035962
+25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,3,0,10,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
+25543193,Mexilhoeira Grande,Algarve,313,2025-06-18T10:56:00Z,25543193,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-18T10:56:00Z,Portimão,Faro,Algarve,-8.639443,37.20462
+25539427,"Guia, Ilha e Mata Mourisca",Região de Leiria,310,2025-06-17T15:07:00Z,25539427,Em conclusão,3101,Incêndio rural,0,1,0,2,2025-06-17T15:07:00Z,Pombal,Leiria,Centro,-8.875093,39.958584
+25542901,"Crato e Mártires, Flor da Rosa e Vale do Peso",Alto Alentejo,312,2025-06-18T10:09:00Z,25542901,Em conclusão,3105,Incêndio rural,0,4,0,14,2025-06-18T10:09:00Z,Crato,Portalegre,Alentejo,-7.592782,39.28319
 25539765,Adeganha e Cardanha,Douro,309,2025-06-17T16:15:00Z,25539765,Em conclusão,3103,Incêndio rural,0,26,0,78,2025-06-17T16:15:00Z,Torre De Moncorvo,Bragança,Norte,-7.078435,41.281168
 25542421,Vila Nova da Rainha,Lezíria do Tejo,311,2025-06-18T08:43:00Z,25542421,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-18T08:43:00Z,Azambuja,Lisboa,Alentejo,-8.94271,39.035841
 25542623,São Jorge e Ermelo,Alto Minho,309,2025-06-18T09:17:00Z,25542623,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-18T09:17:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.351282,41.823442
-25542640,Ermelo e Pardelhas,Ave,309,2025-06-18T09:26:00Z,25542640,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-18T09:26:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
+25542640,Ermelo e Pardelhas,Ave,309,2025-06-18T09:26:00Z,25542640,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-18T09:26:00Z,Mondim De Basto,Vila Real,Norte,-7.837513,41.35855
 25542739,Carregosa,Area M. Porto,309,2025-06-18T09:40:00Z,25542739,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-18T09:40:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.413127,40.881882
-25542874,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-06-18T10:03:00Z,25542874,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-18T10:03:00Z,Gondomar,Porto,Norte,-8.51986,41.1044
-25542595,Alfena,Area M. Porto,309,2025-06-18T09:15:00Z,25542595,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-18T09:15:00Z,Valongo,Porto,Norte,-8.523192,41.237236
-25542597,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-18T09:22:00Z,25542597,Em conclusão,3105,Incêndio rural,0,3,0,6,2025-06-18T09:22:00Z,Serpa,Beja,Alentejo,-7.594452,37.932932
-25542897,Sines,Alentejo Litoral,312,2025-06-18T09:57:00Z,25542897,Em conclusão,3103,Incêndio rural,0,3,0,8,2025-06-18T09:57:00Z,Sines,Setúbal,Alentejo,-8.854536,37.963534
-25539427,"Guia, Ilha e Mata Mourisca",Região de Leiria,310,2025-06-17T15:07:00Z,25539427,Em conclusão,3101,Incêndio rural,0,1,0,2,2025-06-17T15:07:00Z,Pombal,Leiria,Centro,-8.875093,39.958584
-25542592,Casais e Alviobeira,Médio Tejo,311,2025-06-18T09:21:00Z,25542592,Em despacho,3109,Gestão de combustível,0,1,0,2,2025-06-18T09:21:00Z,Tomar,Santarém,Centro,-8.382448,39.652676
-25542901,"Crato e Mártires, Flor da Rosa e Vale do Peso",Alto Alentejo,312,2025-06-18T10:09:00Z,25542901,Em conclusão,3105,Incêndio rural,0,5,0,19,2025-06-18T10:09:00Z,Crato,Portalegre,Alentejo,-7.592782,39.28319
-25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,5,0,21,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.404698,41.035962
-25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
-25542875,"Esposende, Marinhas e Gandra",Cávado,309,2025-06-18T10:04:00Z,25542875,Em resolução,2301,Incêndio em transporte rodoviário,0,2,0,6,2025-06-18T10:04:00Z,Esposende,Braga,Norte,-8.759138,41.541053
+25542874,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-06-18T10:03:00Z,25542874,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-18T10:03:00Z,Gondomar,Porto,Norte,-8.51986,41.1044
