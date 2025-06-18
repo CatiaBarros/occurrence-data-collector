@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.429132,41.03151
+25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,5,0,14,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
+25542080,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-06-18T06:51:00Z,25542080,Em despacho,2115,Incêndio em edifícios hoteleiros e de restauração,0,2,0,6,2025-06-18T06:51:00Z,Felgueiras,Porto,Norte,-8.18831,41.36216
 25539765,Adeganha e Cardanha,Douro,309,2025-06-17T16:15:00Z,25539765,Em conclusão,3103,Incêndio rural,0,21,0,64,2025-06-17T16:15:00Z,Torre De Moncorvo,Bragança,Norte,-7.078435,41.281168
 25539166,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-17T14:15:00Z,25539166,Em conclusão,3101,Incêndio rural,0,2,0,6,2025-06-17T14:15:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.468336,41.006898
 25539427,"Guia, Ilha e Mata Mourisca",Região de Leiria,310,2025-06-17T15:07:00Z,25539427,Em conclusão,3101,Incêndio rural,0,1,0,2,2025-06-17T15:07:00Z,Pombal,Leiria,Centro,-8.875093,39.958584
-25542058,Cibões e Brufe,Cávado,309,2025-06-18T06:39:00Z,25542058,Em curso,3103,Incêndio rural,0,1,0,5,2025-06-18T06:39:00Z,Terras De Bouro,Braga,Norte,-8.25768,41.766276
-25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.429132,41.03151
-25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,5,0,14,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
+25542058,Cibões e Brufe,Cávado,309,2025-06-18T06:39:00Z,25542058,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-18T06:39:00Z,Terras De Bouro,Braga,Norte,-8.261573,41.766383
+25542090,Alhos Vedros,Península de Setúbal,311,2025-06-18T06:49:00Z,25542090,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-18T06:49:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.026889,38.657804
