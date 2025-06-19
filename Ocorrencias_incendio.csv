@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
+25546851,"Silvares, Pias, Nogueira e Alvarenga",Tâmega e Sousa,309,2025-06-19T00:44:00Z,25546851,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-19T00:44:00Z,Lousada,Porto,Norte,-8.26385,41.275387
+25547116,Juncal,Região de Leiria,310,2025-06-19T04:00:00Z,25547116,Em resolução,3103,Incêndio rural,0,9,0,26,2025-06-19T04:00:00Z,Alcobaça,Leiria,Centro,-8.924453,39.58853
 25539267,Lomba,Area M. Porto,309,2025-06-17T14:37:00Z,25539267,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-17T14:37:00Z,Gondomar,Porto,Norte,-8.404698,41.035962
 25539742,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-06-17T16:12:00Z,25539742,Em conclusão,3105,Incêndio rural,0,0,0,1,2025-06-17T16:12:00Z,Serpa,Beja,Alentejo,-7.563295,37.92675
 25544590,Benquerenças,Beira Baixa,310,2025-06-18T15:17:00Z,25544590,Em conclusão,3103,Incêndio rural,0,4,0,11,2025-06-18T15:17:00Z,Castelo Branco,Castelo Branco,Centro,-7.59037,39.839717
 25547112,Faro (Sé e São Pedro),Algarve,313,2025-06-19T04:00:00Z,25547112,Em conclusão,3203,Detritos confinados,0,0,0,0,2025-06-19T04:00:00Z,Faro,Faro,Algarve,-7.93614,37.01795
-25547137,Falagueira-Venda Nova,Grande Lisboa,311,2025-06-19T04:19:00Z,25547137,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,8,2025-06-19T04:19:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.225107,38.76047
-25546851,"Silvares, Pias, Nogueira e Alvarenga",Tâmega e Sousa,309,2025-06-19T00:44:00Z,25546851,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-19T00:44:00Z,Lousada,Porto,Norte,-8.26385,41.275387
-25547116,Juncal,Região de Leiria,310,2025-06-19T04:00:00Z,25547116,Em resolução,3103,Incêndio rural,0,9,0,26,2025-06-19T04:00:00Z,Alcobaça,Leiria,Centro,-8.924453,39.58853
+25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
+25547191,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-06-19T05:18:00Z,25547191,Em despacho,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-19T05:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.41357,38.85837
