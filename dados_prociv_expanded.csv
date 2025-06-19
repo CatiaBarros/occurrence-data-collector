@@ -1,16 +1,16 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
+25544135,"Toulões","Beira Baixa",310,"2025-06-18T13:59:00",25544135,"Em conclusão","3105","Incêndio rural",0,2,0,4,"2025-06-18T13:59:00","Idanha-a-Nova","Castelo Branco","Centro",-7.056978,39.904387
+25547176,"Campanhã","Area M. Porto",309,"2025-06-19T04:58:00",25547176,"Em despacho","2513","Fuga de gás em conduta",0,5,0,17,"2025-06-19T04:58:00","Porto","Porto","Norte",-8.575994,41.158637
+25547191,"São João Das Lampas e Terrugem","Grande Lisboa",311,"2025-06-19T05:18:00",25547191,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,2,0,6,"2025-06-19T05:18:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.41357,38.85837
+25539267,"Lomba","Area M. Porto",309,"2025-06-17T14:37:00",25539267,"Em conclusão","3101","Incêndio rural",0,1,0,5,"2025-06-17T14:37:00","Gondomar","Porto","Norte",-8.404698,41.035962
+25539742,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-06-17T16:12:00",25539742,"Em conclusão","3105","Incêndio rural",0,0,0,1,"2025-06-17T16:12:00","Serpa","Beja","Alentejo",-7.563295,37.92675
+25544590,"Benquerenças","Beira Baixa",310,"2025-06-18T15:17:00",25544590,"Em conclusão","3103","Incêndio rural",0,4,0,11,"2025-06-18T15:17:00","Castelo Branco","Castelo Branco","Centro",-7.59037,39.839717
+25547112,"Faro (Sé e São Pedro)","Algarve",313,"2025-06-19T04:00:00",25547112,"Em conclusão","3203","Detritos confinados",0,0,0,0,"2025-06-19T04:00:00","Faro","Faro","Algarve",-7.93614,37.01795
 25545959,"Alpedrinha","Beiras e Serra da Estrela",310,"2025-06-18T20:01:00",25545959,"Em conclusão","2413","Abalroamento ferroviário",0,6,0,15,"2025-06-18T20:01:00","Fundão","Castelo Branco","Centro",-7.46175,40.09959
-25547222,"Moita","Península de Setúbal",311,"2025-06-19T05:37:00",25547222,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-06-19T05:37:00","Moita","Setúbal","Área Metropolitana De Lisboa",-8.985364,38.643702
-25547229,"Marrazes e Barosa","Região de Leiria",310,"2025-06-19T05:42:00",25547229,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-06-19T05:42:00","Leiria","Leiria","Centro",-8.823695,39.764442
+25547229,"Marrazes e Barosa","Região de Leiria",310,"2025-06-19T05:42:00",25547229,"Em curso","2403","Colisão rodoviária",0,2,0,4,"2025-06-19T05:42:00","Leiria","Leiria","Centro",-8.823695,39.764442
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25546851,"Silvares, Pias, Nogueira e Alvarenga","Tâmega e Sousa",309,"2025-06-19T00:44:00",25546851,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-06-19T00:44:00","Lousada","Porto","Norte",-8.26385,41.275387
 25547101,"Aguçadoura e Navais","Area M. Porto",309,"2025-06-19T03:27:00",25547101,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-06-19T03:27:00","Póvoa De Varzim","Porto","Norte",-8.768995,41.428809
 25547116,"Juncal","Região de Leiria",310,"2025-06-19T04:00:00",25547116,"Em resolução","3103","Incêndio rural",0,9,0,26,"2025-06-19T04:00:00","Alcobaça","Leiria","Centro",-8.924453,39.58853
 25547183,"Moita","Região de Leiria",310,"2025-06-19T05:02:00",25547183,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-06-19T05:02:00","Marinha Grande","Leiria","Centro",-8.94346,39.702349
-25539267,"Lomba","Area M. Porto",309,"2025-06-17T14:37:00",25539267,"Em conclusão","3101","Incêndio rural",0,1,0,5,"2025-06-17T14:37:00","Gondomar","Porto","Norte",-8.404698,41.035962
-25539742,"Serpa (Salvador e Santa Maria)","Baixo Alentejo",312,"2025-06-17T16:12:00",25539742,"Em conclusão","3105","Incêndio rural",0,0,0,1,"2025-06-17T16:12:00","Serpa","Beja","Alentejo",-7.563295,37.92675
-25544590,"Benquerenças","Beira Baixa",310,"2025-06-18T15:17:00",25544590,"Em conclusão","3103","Incêndio rural",0,4,0,11,"2025-06-18T15:17:00","Castelo Branco","Castelo Branco","Centro",-7.59037,39.839717
-25547112,"Faro (Sé e São Pedro)","Algarve",313,"2025-06-19T04:00:00",25547112,"Em conclusão","3203","Detritos confinados",0,0,0,0,"2025-06-19T04:00:00","Faro","Faro","Algarve",-7.93614,37.01795
-25544135,"Toulões","Beira Baixa",310,"2025-06-18T13:59:00",25544135,"Em conclusão","3105","Incêndio rural",0,2,0,4,"2025-06-18T13:59:00","Idanha-a-Nova","Castelo Branco","Centro",-7.056978,39.904387
-25547176,"Campanhã","Area M. Porto",309,"2025-06-19T04:58:00",25547176,"Em despacho","2513","Fuga de gás em conduta",0,5,0,17,"2025-06-19T04:58:00","Porto","Porto","Norte",-8.575994,41.158637
-25547191,"São João Das Lampas e Terrugem","Grande Lisboa",311,"2025-06-19T05:18:00",25547191,"Em despacho","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2025-06-19T05:18:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.41357,38.85837
+25547235,"Santa Maria de Sardoura","Tâmega e Sousa",309,"2025-06-19T05:52:00",25547235,"Em despacho","3101","Incêndio rural",0,3,0,12,"2025-06-19T05:52:00","Castelo De Paiva","Aveiro","Norte",-8.29028,41.06118
