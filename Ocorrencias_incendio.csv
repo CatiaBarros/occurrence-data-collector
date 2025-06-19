@@ -1,10 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25549454,Cabeça Boa,Douro,309,2025-06-19T16:08:00Z,25549454,Em conclusão,3103,Incêndio rural,0,3,0,14,2025-06-19T16:08:00Z,Torre De Moncorvo,Bragança,Norte,-7.15936,41.196307
-25550847,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-19T22:40:00Z,25550847,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-19T22:40:00Z,Fafe,Braga,Norte,-8.131885,41.3866
-25551040,Fornos,Tâmega e Sousa,309,2025-06-19T23:53:00Z,25551040,Em despacho,3103,Incêndio rural,0,3,0,12,2025-06-19T23:53:00Z,Castelo De Paiva,Aveiro,Norte,-8.255654,41.055046
-25550911,"Silvares, Pias, Nogueira e Alvarenga",Tâmega e Sousa,309,2025-06-19T23:07:00Z,25550911,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-19T23:07:00Z,Lousada,Porto,Norte,-8.269768,41.276733
+25549454,Cabeça Boa,Douro,309,2025-06-19T16:08:00Z,25549454,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-19T16:08:00Z,Torre De Moncorvo,Bragança,Norte,-7.15936,41.196307
+25550982,Carapito,Viseu Dão Lafões,310,2025-06-19T23:28:00Z,25550982,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,8,0,23,2025-06-19T23:28:00Z,Aguiar Da Beira,Guarda,Centro,-7.474373,40.771847
+25551039,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-06-19T23:54:00Z,25551039,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-19T23:54:00Z,Matosinhos,Porto,Norte,-8.641957,41.206713
+25551057,Sabadim,Alto Minho,309,2025-06-20T00:04:00Z,25551057,Em curso,3103,Incêndio rural,0,1,0,5,2025-06-20T00:04:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.4599,41.90728
+25551082,Pontinha e Famões,Grande Lisboa,311,2025-06-20T00:16:00Z,25551082,Em conclusão,3203,Detritos confinados,0,2,0,10,2025-06-20T00:16:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.195177,38.773496
 25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
-25550386,Lomba,Area M. Porto,309,2025-06-19T20:17:00Z,25550386,Em conclusão,3101,Incêndio rural,0,2,0,8,2025-06-19T20:17:00Z,Gondomar,Porto,Norte,-8.404195,41.033718
-25551005,Nossa Senhora da Expectação,Alto Alentejo,312,2025-06-19T23:35:00Z,25551005,Em resolução,3105,Incêndio rural,0,0,0,0,2025-06-19T23:35:00Z,Campo Maior,Portalegre,Alentejo,-7.070842,39.007593
-25550982,Carapito,Viseu Dão Lafões,310,2025-06-19T23:28:00Z,25550982,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,7,0,20,2025-06-19T23:28:00Z,Aguiar Da Beira,Guarda,Centro,-7.46437,40.76336
-25551039,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-06-19T23:54:00Z,25551039,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-19T23:54:00Z,Matosinhos,Porto,Norte,-8.64288,41.20743
+25550386,Lomba,Area M. Porto,309,2025-06-19T20:17:00Z,25550386,Em conclusão,3101,Incêndio rural,0,1,0,3,2025-06-19T20:17:00Z,Gondomar,Porto,Norte,-8.404195,41.033718
