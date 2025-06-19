@@ -1,7 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25544590,Benquerenças,Beira Baixa,310,2025-06-18T15:17:00Z,25544590,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-18T15:17:00Z,Castelo Branco,Castelo Branco,Centro,-7.59037,39.839717
+25547898,Ermelo e Pardelhas,Ave,309,2025-06-19T09:55:00Z,25547898,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-19T09:55:00Z,Mondim De Basto,Vila Real,Norte,-7.836727,41.358133
 25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
 25547679,Alvorninha,Oeste,311,2025-06-19T08:59:00Z,25547679,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-19T08:59:00Z,Caldas Da Rainha,Leiria,Centro,-9.016028,39.406538
-25544590,Benquerenças,Beira Baixa,310,2025-06-18T15:17:00Z,25544590,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-18T15:17:00Z,Castelo Branco,Castelo Branco,Centro,-7.59037,39.839717
 25547116,"Coz, Alpedriz e Montes",Oeste,311,2025-06-19T04:00:00Z,25547116,Em conclusão,3103,Incêndio rural,0,10,0,20,2025-06-19T04:00:00Z,Alcobaça,Leiria,Centro,-8.924453,39.58853
-25547263,Angeja,Região de Aveiro,310,2025-06-19T06:20:00Z,25547263,Em conclusão,3105,Incêndio rural,0,1,0,1,2025-06-19T06:20:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.567228,40.681215
-25547540,Vilar de Ferreiros,Ave,309,2025-06-19T08:27:00Z,25547540,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-19T08:27:00Z,Mondim De Basto,Vila Real,Norte,-7.923438,41.419548
+25547920,Ervões,Alto Tâmega e Barroso,309,2025-06-19T09:59:00Z,25547920,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-19T09:59:00Z,Valpaços,Vila Real,Norte,-7.328997,41.63937
+25547936,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-19T10:05:00Z,25547936,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-19T10:05:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.19507,38.64971
