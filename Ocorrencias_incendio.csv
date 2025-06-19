@@ -1,21 +1,20 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25549812,"Izeda, Calvelhe e Paradinha Nova",Terras de Trás-os-Montes,309,2025-06-19T17:50:00Z,25549812,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-19T17:50:00Z,Bragança,Bragança,Norte,-6.71284,41.60629
-25549973,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-19T18:34:00Z,25549973,Em conclusão,3103,Incêndio rural,0,2,0,3,2025-06-19T18:34:00Z,Vila Nova De Gaia,Porto,Norte,-8.628438,41.10744
-25549980,Assunção,Alto Alentejo,312,2025-06-19T18:35:00Z,25549980,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,12,2025-06-19T18:35:00Z,Arronches,Portalegre,Alentejo,-7.201293,39.106105
-25550164,Soalheira,Beiras e Serra da Estrela,310,2025-06-19T19:18:00Z,25550164,Em conclusão,3103,Incêndio rural,1,8,0,40,2025-06-19T19:18:00Z,Fundão,Castelo Branco,Centro,-7.47974,40.03315
-25550255,Lindoso,Alto Minho,309,2025-06-19T19:30:00Z,25550255,Em despacho,3105,Incêndio rural,0,1,0,3,2025-06-19T19:30:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.202552,41.841879
-25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
-25549967,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-06-19T18:21:00Z,25549967,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-19T18:21:00Z,Trofa,Porto,Norte,-8.5596,41.334902
-25550149,Ribeira de Nisa e Carreiras,Alto Alentejo,312,2025-06-19T19:14:00Z,25550149,Em conclusão,2301,Incêndio em transporte rodoviário,0,5,0,15,2025-06-19T19:14:00Z,Portalegre,Portalegre,Alentejo,-7.42386,39.36567
 25549140,Lomba,Area M. Porto,309,2025-06-19T14:47:00Z,25549140,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-19T14:47:00Z,Gondomar,Porto,Norte,-8.404618,41.033438
 25549358,Vila Chã (São João Baptista e Santiago),Alto Minho,309,2025-06-19T15:49:00Z,25549358,Em conclusão,3103,Incêndio rural,0,10,0,21,2025-06-19T15:49:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.321927,41.809178
 25549425,Perre,Alto Minho,309,2025-06-19T16:04:00Z,25549425,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-19T16:04:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.781872,41.726893
-25549825,São Martinho da Gândara,Area M. Porto,309,2025-06-19T17:53:00Z,25549825,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-19T17:53:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.53105,40.838695
+25549825,São Martinho da Gândara,Area M. Porto,309,2025-06-19T17:53:00Z,25549825,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-19T17:53:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.53105,40.838695
 25550027,Pinelo,Terras de Trás-os-Montes,309,2025-06-19T18:46:00Z,25550027,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-19T18:46:00Z,Bragança,Bragança,Norte,-6.568358,41.79637
 25544590,Benquerenças,Beira Baixa,310,2025-06-18T15:17:00Z,25544590,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-18T15:17:00Z,Castelo Branco,Castelo Branco,Centro,-7.59037,39.839717
 25549454,Cabeça Boa,Douro,309,2025-06-19T16:08:00Z,25549454,Em conclusão,3103,Incêndio rural,0,13,0,41,2025-06-19T16:08:00Z,Torre De Moncorvo,Bragança,Norte,-7.15936,41.196307
 25549863,Enxames,Beiras e Serra da Estrela,310,2025-06-19T18:02:00Z,25549863,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-19T18:02:00Z,Fundão,Castelo Branco,Centro,-7.393867,40.178077
 25550038,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-06-19T18:38:00Z,25550038,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-19T18:38:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.482939,40.836334
-25550122,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-19T19:08:00Z,25550122,Em conclusão,3201,Detritos não confinados,0,2,0,8,2025-06-19T19:08:00Z,Vila Nova De Gaia,Porto,Norte,-8.61484,41.11324
-25550154,Boliqueime,Algarve,313,2025-06-19T19:15:00Z,25550154,Em conclusão,2301,Incêndio em transporte rodoviário,0,5,0,13,2025-06-19T19:15:00Z,Loulé,Faro,Algarve,-8.15138,37.1291
-25550263,Buarcos,Região de Coimbra,310,2025-06-19T19:43:00Z,25550263,Em despacho,2101,Incêndio em edifícios habitacionais,0,4,0,14,2025-06-19T19:43:00Z,Figueira Da Foz,Coimbra,Centro,-8.866125,40.15283
+25550122,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-19T19:08:00Z,25550122,Em conclusão,3201,Detritos não confinados,0,1,0,3,2025-06-19T19:08:00Z,Vila Nova De Gaia,Porto,Norte,-8.61484,41.11324
+25550154,Boliqueime,Algarve,313,2025-06-19T19:15:00Z,25550154,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,9,2025-06-19T19:15:00Z,Loulé,Faro,Algarve,-8.15138,37.1291
+25550263,Buarcos,Região de Coimbra,310,2025-06-19T19:43:00Z,25550263,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,14,2025-06-19T19:43:00Z,Figueira Da Foz,Coimbra,Centro,-8.866125,40.15283
+25549812,"Izeda, Calvelhe e Paradinha Nova",Terras de Trás-os-Montes,309,2025-06-19T17:50:00Z,25549812,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-19T17:50:00Z,Bragança,Bragança,Norte,-6.71284,41.60629
+25549973,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-19T18:34:00Z,25549973,Em conclusão,3103,Incêndio rural,0,2,0,3,2025-06-19T18:34:00Z,Vila Nova De Gaia,Porto,Norte,-8.628438,41.10744
+25550164,Soalheira,Beiras e Serra da Estrela,310,2025-06-19T19:18:00Z,25550164,Em curso,3201,Detritos não confinados,0,6,0,24,2025-06-19T19:18:00Z,Fundão,Castelo Branco,Centro,-7.47974,40.03315
+25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
+25550149,Ribeira de Nisa e Carreiras,Alto Alentejo,312,2025-06-19T19:14:00Z,25550149,Em conclusão,2301,Incêndio em transporte rodoviário,0,5,0,15,2025-06-19T19:14:00Z,Portalegre,Portalegre,Alentejo,-7.42386,39.36567
+25550303,Albufeira e Olhos de Água,Algarve,313,2025-06-19T19:52:00Z,25550303,Em curso,3111,Queima,0,1,0,3,2025-06-19T19:52:00Z,Albufeira,Faro,Algarve,-8.252292,37.091727
+25550255,Lindoso,Alto Minho,309,2025-06-19T19:30:00Z,25550255,Em despacho,3105,Incêndio rural,0,1,0,3,2025-06-19T19:30:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.202552,41.841879
