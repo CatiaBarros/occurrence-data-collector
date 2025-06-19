@@ -1,13 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25549124,Lanheses,Alto Minho,309,2025-06-19T14:34:00Z,25549124,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,8,2025-06-19T14:34:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.685695,41.725963
-25549140,Lomba,Area M. Porto,309,2025-06-19T14:47:00Z,25549140,Em resolução,3103,Incêndio rural,1,5,0,28,2025-06-19T14:47:00Z,Gondomar,Porto,Norte,-8.404618,41.033438
+25549140,Lomba,Area M. Porto,309,2025-06-19T14:47:00Z,25549140,Em conclusão,3103,Incêndio rural,1,6,0,30,2025-06-19T14:47:00Z,Gondomar,Porto,Norte,-8.404618,41.033438
 25549223,"Esposende, Marinhas e Gandra",Cávado,309,2025-06-19T15:06:00Z,25549223,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,6,2025-06-19T15:06:00Z,Esposende,Braga,Norte,-8.77323,41.541808
+25549342,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-19T15:32:00Z,25549342,Em conclusão,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-19T15:32:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.139208,38.802817
+25549358,Vila Chã (São João Baptista e Santiago),Alto Minho,309,2025-06-19T15:49:00Z,25549358,Em despacho,3103,Incêndio rural,1,0,0,6,2025-06-19T15:49:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.321554,41.789773
 25544135,Toulões,Beira Baixa,310,2025-06-18T13:59:00Z,25544135,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-18T13:59:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.056978,39.904387
-25548949,Carregosa,Area M. Porto,309,2025-06-19T14:00:00Z,25548949,Em resolução,3103,Incêndio rural,0,6,0,21,2025-06-19T14:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.404607,40.905317
+25548949,Carregosa,Area M. Porto,309,2025-06-19T14:00:00Z,25548949,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-19T14:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.404607,40.905317
+25548962,Ourique,Baixo Alentejo,312,2025-06-19T14:09:00Z,25548962,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-19T14:09:00Z,Ourique,Beja,Alentejo,-8.259358,37.582908
+25549012,Rio Douro,Ave,309,2025-06-19T14:16:00Z,25549012,Em conclusão,3103,Incêndio rural,0,3,0,16,2025-06-19T14:16:00Z,Cabeceiras De Basto,Braga,Norte,-7.928768,41.579147
 25544590,Benquerenças,Beira Baixa,310,2025-06-18T15:17:00Z,25544590,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-18T15:17:00Z,Castelo Branco,Castelo Branco,Centro,-7.59037,39.839717
 25547898,Ermelo e Pardelhas,Ave,309,2025-06-19T09:55:00Z,25547898,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-19T09:55:00Z,Mondim De Basto,Vila Real,Norte,-7.836727,41.358133
-25549036,Aricera e Goujoim,Douro,309,2025-06-19T14:13:00Z,25549036,Em curso,2101,Incêndio em edifícios habitacionais,0,6,0,18,2025-06-19T14:13:00Z,Armamar,Viseu,Norte,-7.6327,41.090865
-25549059,São Gens,Ave,309,2025-06-19T14:26:00Z,25549059,Em resolução,3103,Incêndio rural,1,6,0,26,2025-06-19T14:26:00Z,Fafe,Braga,Norte,-8.111542,41.443125
+25549036,Aricera e Goujoim,Douro,309,2025-06-19T14:13:00Z,25549036,Em resolução,2101,Incêndio em edifícios habitacionais,0,6,0,18,2025-06-19T14:13:00Z,Armamar,Viseu,Norte,-7.6327,41.090865
+25549059,São Gens,Ave,309,2025-06-19T14:26:00Z,25549059,Em conclusão,3103,Incêndio rural,0,7,0,22,2025-06-19T14:26:00Z,Fafe,Braga,Norte,-8.111542,41.443125
 25549070,Cidade da Maia,Area M. Porto,309,2025-06-19T14:30:00Z,25549070,Em conclusão,3105,Incêndio rural,0,2,0,6,2025-06-19T14:30:00Z,Maia,Porto,Norte,-8.600907,41.241723
-25548962,Ourique,Baixo Alentejo,312,2025-06-19T14:09:00Z,25548962,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-19T14:09:00Z,Ourique,Beja,Alentejo,-8.259358,37.582908
-25549012,Rio Douro,Ave,309,2025-06-19T14:16:00Z,25549012,Em conclusão,3103,Incêndio rural,0,4,0,21,2025-06-19T14:16:00Z,Cabeceiras De Basto,Braga,Norte,-7.928768,41.579147
