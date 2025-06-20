@@ -1,18 +1,19 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3105,Incêndio rural,0,51,0,148,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
-25554935,Tentúgal,Região de Coimbra,310,2025-06-20T18:24:00Z,25554935,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-20T18:24:00Z,Montemor-o-Velho,Coimbra,Centro,-8.59028,40.27694
-25555753,Serrazes,Viseu Dão Lafões,310,2025-06-20T21:15:00Z,25555753,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,7,2025-06-20T21:15:00Z,São Pedro Do Sul,Viseu,Centro,-8.087435,40.738705
-25555778,Santana do Mato,Lezíria do Tejo,311,2025-06-20T21:24:00Z,25555778,Em despacho,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,10,2025-06-20T21:24:00Z,Coruche,Santarém,Alentejo,-8.478535,38.821057
-25555794,Alpedrinha,Beiras e Serra da Estrela,310,2025-06-20T21:32:00Z,25555794,Em despacho,2129,Incêndio em edifícios degradados ou devolutos,0,1,0,5,2025-06-20T21:32:00Z,Fundão,Castelo Branco,Centro,-7.472874,40.098685
+25553364,Carregosa,Area M. Porto,309,2025-06-20T13:00:00Z,25553364,Em conclusão,3101,Incêndio rural,0,3,0,8,2025-06-20T13:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.413127,40.881882
+25553875,Ermelo e Pardelhas,Ave,309,2025-06-20T14:38:00Z,25553875,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,5,0,16,2025-06-20T14:38:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
+25555052,Costa da Caparica,Península de Setúbal,311,2025-06-20T18:45:00Z,25555052,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-20T18:45:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.229553,38.644078
 25553679,Lomba,Area M. Porto,309,2025-06-20T14:12:00Z,25553679,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-20T14:12:00Z,Gondomar,Porto,Norte,-8.405722,41.033878
 25554613,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-06-20T17:13:00Z,25554613,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-20T17:13:00Z,Coruche,Santarém,Alentejo,-8.506234,38.95908
 25554799,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-06-20T17:57:00Z,25554799,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-20T17:57:00Z,Coruche,Santarém,Alentejo,-8.529788,38.979722
 25555015,Castro Vicente,Terras de Trás-os-Montes,309,2025-06-20T18:36:00Z,25555015,Em conclusão,3105,Incêndio rural,0,3,0,12,2025-06-20T18:36:00Z,Mogadouro,Bragança,Norte,-6.826056,41.404268
 25555029,Rego,Tâmega e Sousa,309,2025-06-20T18:42:00Z,25555029,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-20T18:42:00Z,Celorico De Basto,Braga,Norte,-8.055957,41.431612
 25553468,Benquerenças,Beira Baixa,310,2025-06-20T13:26:00Z,25553468,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-20T13:26:00Z,Castelo Branco,Castelo Branco,Centro,-7.5872,39.840847
-25554419,Ruivães e Novais,Ave,309,2025-06-20T16:29:00Z,25554419,Em conclusão,3103,Incêndio rural,0,3,0,13,2025-06-20T16:29:00Z,Vila Nova De Famalicão,Braga,Norte,-8.426537,41.395645
+25554419,Ruivães e Novais,Ave,309,2025-06-20T16:29:00Z,25554419,Em conclusão,3103,Incêndio rural,0,1,0,3,2025-06-20T16:29:00Z,Vila Nova De Famalicão,Braga,Norte,-8.426537,41.395645
 25554773,Cativelos,Beiras e Serra da Estrela,310,2025-06-20T17:46:00Z,25554773,Em conclusão,3103,Incêndio rural,0,11,0,36,2025-06-20T17:46:00Z,Gouveia,Guarda,Centro,-7.702992,40.53306
-25553364,Carregosa,Area M. Porto,309,2025-06-20T13:00:00Z,25553364,Em conclusão,3101,Incêndio rural,0,3,0,8,2025-06-20T13:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.413127,40.881882
-25553875,Ermelo e Pardelhas,Ave,309,2025-06-20T14:38:00Z,25553875,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,5,0,16,2025-06-20T14:38:00Z,Mondim De Basto,Vila Real,Norte,-7.870974,41.353823
-25555052,Costa da Caparica,Península de Setúbal,311,2025-06-20T18:45:00Z,25555052,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-20T18:45:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.229553,38.644078
-25555552,Santo Estêvão,Alto Tâmega e Barroso,309,2025-06-20T20:29:00Z,25555552,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-20T20:29:00Z,Chaves,Vila Real,Norte,-7.435035,41.768563
+25555840,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-06-20T21:43:00Z,25555840,Em despacho,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-20T21:43:00Z,Elvas,Portalegre,Alentejo,-7.15864,38.90624
+25555874,Moimenta,Cávado,309,2025-06-20T21:40:00Z,25555874,Em despacho,3111,Queima,0,1,0,5,2025-06-20T21:40:00Z,Terras De Bouro,Braga,Norte,-8.299811,41.717789
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,51,0,148,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25554935,Tentúgal,Região de Coimbra,310,2025-06-20T18:24:00Z,25554935,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-20T18:24:00Z,Montemor-o-Velho,Coimbra,Centro,-8.59028,40.27694
+25555753,Serrazes,Viseu Dão Lafões,310,2025-06-20T21:15:00Z,25555753,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,7,2025-06-20T21:15:00Z,São Pedro Do Sul,Viseu,Centro,-8.087435,40.738705
+25555778,Santana do Mato,Lezíria do Tejo,311,2025-06-20T21:24:00Z,25555778,Em despacho,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,10,2025-06-20T21:24:00Z,Coruche,Santarém,Alentejo,-8.478535,38.821057
+25555794,Alpedrinha,Beiras e Serra da Estrela,310,2025-06-20T21:32:00Z,25555794,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,7,0,22,2025-06-20T21:32:00Z,Fundão,Castelo Branco,Centro,-7.472874,40.098685
