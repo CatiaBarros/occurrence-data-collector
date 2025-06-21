@@ -1,14 +1,16 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25558349,Benavila e Valongo,Alto Alentejo,312,2025-06-21T12:39:00Z,25558349,Em conclusão,3105,Incêndio rural,0,19,0,60,2025-06-21T12:39:00Z,Avis,Portalegre,Alentejo,-7.917383,39.142285
+25560204,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-21T20:05:00Z,25560204,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-21T20:05:00Z,Amarante,Porto,Norte,-8.063752,41.229785
+25560604,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-21T22:02:00Z,25560604,Em conclusão,3103,Incêndio rural,0,4,0,17,2025-06-21T22:02:00Z,Vila Nova De Gaia,Porto,Norte,-8.530968,41.068435
+25559762,Gulpilhares e Valadares,Area M. Porto,309,2025-06-21T18:28:00Z,25559762,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,11,2025-06-21T18:28:00Z,Vila Nova De Gaia,Porto,Norte,-8.63144,41.10258
+25560446,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-21T21:18:00Z,25560446,Em resolução,3103,Incêndio rural,0,3,0,12,2025-06-21T21:18:00Z,Fafe,Braga,Norte,-8.11128,41.401127
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,1,0,3,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25560290,Vila Verde e Barbudo,Cávado,309,2025-06-21T20:38:00Z,25560290,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-21T20:38:00Z,Vila Verde,Braga,Norte,-8.425742,41.637927
+25560508,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-21T21:32:00Z,25560508,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-21T21:32:00Z,Beja,Beja,Alentejo,-7.849378,38.024297
+25560651,Moreira de Cónegos,Ave,309,2025-06-21T22:16:00Z,25560651,Em resolução,3105,Incêndio rural,0,1,0,5,2025-06-21T22:16:00Z,Guimarães,Braga,Norte,-8.341103,41.379353
+25560660,Lustosa e Barrosas (Santo Estêvão),Tâmega e Sousa,309,2025-06-21T22:20:00Z,25560660,Em despacho,3103,Incêndio rural,0,4,0,20,2025-06-21T22:20:00Z,Lousada,Porto,Norte,-8.30251,41.33873
 25559128,Ermelo e Pardelhas,Ave,309,2025-06-21T15:50:00Z,25559128,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-21T15:50:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
 25560443,Tentúgal,Região de Coimbra,310,2025-06-21T21:16:00Z,25560443,Em conclusão,3105,Incêndio rural,0,3,0,12,2025-06-21T21:16:00Z,Montemor-o-Velho,Coimbra,Centro,-8.595527,40.233804
 25560534,Mafra,Grande Lisboa,311,2025-06-21T21:42:00Z,25560534,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-21T21:42:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.358636,38.94181
-25560609,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-06-21T22:03:00Z,25560609,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,5,2025-06-21T22:03:00Z,Covilhã,Castelo Branco,Centro,-7.519359,40.276354
-25558349,Benavila e Valongo,Alto Alentejo,312,2025-06-21T12:39:00Z,25558349,Em conclusão,3105,Incêndio rural,0,22,0,66,2025-06-21T12:39:00Z,Avis,Portalegre,Alentejo,-7.917383,39.142285
-25560204,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-21T20:05:00Z,25560204,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-21T20:05:00Z,Amarante,Porto,Norte,-8.063752,41.229785
-25560604,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-06-21T22:02:00Z,25560604,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-21T22:02:00Z,Vila Nova De Gaia,Porto,Norte,-8.53129,41.06852
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
-25559917,Cebolais de Cima e Retaxo,Beira Baixa,310,2025-06-21T19:12:00Z,25559917,Em conclusão,3105,Incêndio rural,0,3,0,12,2025-06-21T19:12:00Z,Castelo Branco,Castelo Branco,Centro,-7.5821,39.754073
-25560290,Vila Verde e Barbudo,Cávado,309,2025-06-21T20:38:00Z,25560290,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-21T20:38:00Z,Vila Verde,Braga,Norte,-8.425742,41.637927
-25560508,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-21T21:32:00Z,25560508,Em conclusão,3105,Incêndio rural,0,5,0,20,2025-06-21T21:32:00Z,Beja,Beja,Alentejo,-7.849378,38.024297
-25559762,Gulpilhares e Valadares,Area M. Porto,309,2025-06-21T18:28:00Z,25559762,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,11,2025-06-21T18:28:00Z,Vila Nova De Gaia,Porto,Norte,-8.63144,41.10258
-25560446,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-21T21:18:00Z,25560446,Em curso,3103,Incêndio rural,0,4,0,17,2025-06-21T21:18:00Z,Fafe,Braga,Norte,-8.11128,41.401127
+25560609,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-06-21T22:03:00Z,25560609,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,7,2025-06-21T22:03:00Z,Covilhã,Castelo Branco,Centro,-7.502577,40.282325
+25560675,Ribeiradio,Viseu Dão Lafões,310,2025-06-21T22:14:00Z,25560675,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-21T22:14:00Z,Oliveira De Frades,Viseu,Centro,-8.32014,40.724486
