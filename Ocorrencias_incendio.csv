@@ -1,12 +1,16 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25554773,Cativelos,Beiras e Serra da Estrela,310,2025-06-20T17:46:00Z,25554773,Em conclusão,3103,Incêndio rural,0,3,0,10,2025-06-20T17:46:00Z,Gouveia,Guarda,Centro,-7.702992,40.53306
-25557696,Ceivães e Badim,Alto Minho,309,2025-06-21T10:14:00Z,25557696,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-21T10:14:00Z,Monção,Viana Do Castelo,Norte,-8.37627,42.074267
-25557715,Alferce,Algarve,313,2025-06-21T10:17:00Z,25557715,Em curso,3103,Incêndio rural,1,6,0,27,2025-06-21T10:17:00Z,Monchique,Faro,Algarve,-8.481853,37.325811
-25557501,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-06-21T09:32:00Z,25557501,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-21T09:32:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.166994,39.835369
 25557685,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-21T10:05:00Z,25557685,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-21T10:05:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.484018,40.93849
-25557353,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-21T09:06:00Z,25557353,Em resolução,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-21T09:06:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.12381,38.80385
-25557573,Sabadim,Alto Minho,309,2025-06-21T09:49:00Z,25557573,Em curso,3101,Incêndio rural,1,1,0,11,2025-06-21T09:49:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461803,41.907022
+25557819,Eiriz,Tâmega e Sousa,309,2025-06-21T10:40:00Z,25557819,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-21T10:40:00Z,Paços De Ferreira,Porto,Norte,-8.388735,41.322253
+25557835,Jugueiros,Tâmega e Sousa,309,2025-06-21T10:42:00Z,25557835,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-21T10:42:00Z,Felgueiras,Porto,Norte,-8.190972,41.392017
+25557853,Benquerenças,Beira Baixa,310,2025-06-21T10:45:00Z,25557853,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-21T10:45:00Z,Castelo Branco,Castelo Branco,Centro,-7.5872,39.840847
+25557860,Salto,Alto Tâmega e Barroso,309,2025-06-21T10:49:00Z,25557860,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-21T10:49:00Z,Montalegre,Vila Real,Norte,-7.953108,41.639334
 25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,7,0,19,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
 25557532,Ruivães e Novais,Ave,309,2025-06-21T09:40:00Z,25557532,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,2,2025-06-21T09:40:00Z,Vila Nova De Famalicão,Braga,Norte,-8.426976,41.394524
-25557741,Gafanha da Encarnação,Região de Aveiro,310,2025-06-21T10:27:00Z,25557741,Em despacho,3105,Incêndio rural,0,3,0,9,2025-06-21T10:27:00Z,Ílhavo,Aveiro,Centro,-8.731788,40.61799
-25557759,Navió e Vitorino Dos Piães,Alto Minho,309,2025-06-21T10:30:00Z,25557759,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-21T10:30:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.617013,41.6809
+25557741,Gafanha da Encarnação,Região de Aveiro,310,2025-06-21T10:27:00Z,25557741,Em curso,3105,Incêndio rural,0,4,0,14,2025-06-21T10:27:00Z,Ílhavo,Aveiro,Centro,-8.731788,40.61799
+25557759,Navió e Vitorino Dos Piães,Alto Minho,309,2025-06-21T10:30:00Z,25557759,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-21T10:30:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.617013,41.6809
+25557353,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-21T09:06:00Z,25557353,Em resolução,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-21T09:06:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.12381,38.80385
+25557573,Sabadim,Alto Minho,309,2025-06-21T09:49:00Z,25557573,Em resolução,3101,Incêndio rural,1,1,0,11,2025-06-21T09:49:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461803,41.907022
+25554773,Cativelos,Beiras e Serra da Estrela,310,2025-06-20T17:46:00Z,25554773,Em conclusão,3103,Incêndio rural,0,3,0,10,2025-06-20T17:46:00Z,Gouveia,Guarda,Centro,-7.702992,40.53306
+25557696,Ceivães e Badim,Alto Minho,309,2025-06-21T10:14:00Z,25557696,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-21T10:14:00Z,Monção,Viana Do Castelo,Norte,-8.37627,42.074267
+25557715,Alferce,Algarve,313,2025-06-21T10:17:00Z,25557715,Em conclusão,3103,Incêndio rural,1,7,0,29,2025-06-21T10:17:00Z,Monchique,Faro,Algarve,-8.483698,37.269673
+25557846,Perre,Alto Minho,309,2025-06-21T10:32:00Z,25557846,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,3,2025-06-21T10:32:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.781872,41.726893
