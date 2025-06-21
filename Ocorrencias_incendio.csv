@@ -1,16 +1,16 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,7,0,19,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
 25557532,Ruivães e Novais,Ave,309,2025-06-21T09:40:00Z,25557532,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,2,2025-06-21T09:40:00Z,Vila Nova De Famalicão,Braga,Norte,-8.426976,41.394524
-25558922,Rossas,Ave,309,2025-06-21T15:06:00Z,25558922,Em resolução,3103,Incêndio rural,0,5,0,22,2025-06-21T15:06:00Z,Vieira Do Minho,Braga,Norte,-8.120137,41.594117
-25559097,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-21T15:43:00Z,25559097,Em conclusão,3103,Incêndio rural,0,7,0,22,2025-06-21T15:43:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.112833,38.809
+25558922,Rossas,Ave,309,2025-06-21T15:06:00Z,25558922,Em conclusão,3103,Incêndio rural,0,5,0,22,2025-06-21T15:06:00Z,Vieira Do Minho,Braga,Norte,-8.120137,41.594117
+25559097,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-21T15:43:00Z,25559097,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-21T15:43:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.112833,38.809
+25558064,Pedroso e Seixezelo,Area M. Porto,309,2025-06-21T11:36:00Z,25558064,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,2,2025-06-21T11:36:00Z,Vila Nova De Gaia,Porto,Norte,-8.53661,41.07239
+25558349,Benavila e Valongo,Alto Alentejo,312,2025-06-21T12:39:00Z,25558349,Em conclusão,3105,Incêndio rural,0,33,0,105,2025-06-21T12:39:00Z,Avis,Portalegre,Alentejo,-7.917383,39.142285
+25558901,Pegões,Península de Setúbal,311,2025-06-21T15:00:00Z,25558901,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,11,2025-06-21T15:00:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.725004,38.689987
 25558948,Sabadim,Alto Minho,309,2025-06-21T15:10:00Z,25558948,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-21T15:10:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461803,41.907022
-25559128,Ermelo e Pardelhas,Ave,309,2025-06-21T15:50:00Z,25559128,Em resolução,3103,Incêndio rural,2,4,0,28,2025-06-21T15:50:00Z,Mondim De Basto,Vila Real,Norte,-7.83472,41.35778
-25559223,São Félix da Marinha,Area M. Porto,309,2025-06-21T16:13:00Z,25559223,Em curso,3201,Detritos não confinados,0,2,0,9,2025-06-21T16:13:00Z,Vila Nova De Gaia,Porto,Norte,-8.627823,41.034236
+25559128,Ermelo e Pardelhas,Ave,309,2025-06-21T15:50:00Z,25559128,Em conclusão,3103,Incêndio rural,1,5,0,24,2025-06-21T15:50:00Z,Mondim De Basto,Vila Real,Norte,-7.83472,41.35778
+25559223,São Félix da Marinha,Area M. Porto,309,2025-06-21T16:13:00Z,25559223,Em resolução,3201,Detritos não confinados,0,2,0,9,2025-06-21T16:13:00Z,Vila Nova De Gaia,Porto,Norte,-8.627823,41.034236
 25558391,Lomba,Area M. Porto,309,2025-06-21T12:52:00Z,25558391,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-21T12:52:00Z,Gondomar,Porto,Norte,-8.425652,41.03171
 25558524,Sacavém e Prior Velho,Grande Lisboa,311,2025-06-21T13:24:00Z,25558524,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-21T13:24:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.118444,38.789185
 25558642,Válega,Região de Aveiro,310,2025-06-21T13:57:00Z,25558642,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-21T13:57:00Z,Ovar,Aveiro,Centro,-8.555833,40.845
 25558758,Loures,Grande Lisboa,311,2025-06-21T14:20:00Z,25558758,Em resolução,3103,Incêndio rural,0,7,0,22,2025-06-21T14:20:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.222627,38.838098
 25559277,Creixomil,Ave,309,2025-06-21T16:26:00Z,25559277,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-21T16:26:00Z,Guimarães,Braga,Norte,-8.312208,41.438348
-25558064,Pedroso e Seixezelo,Area M. Porto,309,2025-06-21T11:36:00Z,25558064,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,2,2025-06-21T11:36:00Z,Vila Nova De Gaia,Porto,Norte,-8.53661,41.07239
-25558349,Benavila e Valongo,Alto Alentejo,312,2025-06-21T12:39:00Z,25558349,Em conclusão,3105,Incêndio rural,0,33,0,105,2025-06-21T12:39:00Z,Avis,Portalegre,Alentejo,-7.917383,39.142285
-25558901,Pegões,Península de Setúbal,311,2025-06-21T15:00:00Z,25558901,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,11,2025-06-21T15:00:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.725004,38.689987
