@@ -1,3 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,10,0,27,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25557532,Ruivães e Novais,Ave,309,2025-06-21T09:40:00Z,25557532,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,2,2025-06-21T09:40:00Z,Vila Nova De Famalicão,Braga,Norte,-8.426976,41.394524
 25554773,Cativelos,Beiras e Serra da Estrela,310,2025-06-20T17:46:00Z,25554773,Em conclusão,3103,Incêndio rural,0,5,0,18,2025-06-20T17:46:00Z,Gouveia,Guarda,Centro,-7.702992,40.53306
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,13,0,39,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25557501,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-06-21T09:32:00Z,25557501,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-21T09:32:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.166994,39.835369
+25557353,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-21T09:06:00Z,25557353,Em resolução,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-21T09:06:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.12381,38.80385
+25557455,Sabadim,Alto Minho,309,2025-06-21T09:23:00Z,25557455,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,2,2025-06-21T09:23:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.465439,41.906862
