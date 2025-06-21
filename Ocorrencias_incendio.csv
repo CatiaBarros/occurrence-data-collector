@@ -1,16 +1,16 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,5,0,15,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
-25559665,Jugueiros,Tâmega e Sousa,309,2025-06-21T18:09:00Z,25559665,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-21T18:09:00Z,Felgueiras,Porto,Norte,-8.189248,41.391587
-25559917,Cebolais de Cima e Retaxo,Beira Baixa,310,2025-06-21T19:12:00Z,25559917,Em conclusão,3105,Incêndio rural,0,6,0,21,2025-06-21T19:12:00Z,Castelo Branco,Castelo Branco,Centro,-7.5821,39.754073
-25558349,Benavila e Valongo,Alto Alentejo,312,2025-06-21T12:39:00Z,25558349,Em conclusão,3105,Incêndio rural,0,30,0,95,2025-06-21T12:39:00Z,Avis,Portalegre,Alentejo,-7.917383,39.142285
 25559128,Ermelo e Pardelhas,Ave,309,2025-06-21T15:50:00Z,25559128,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-21T15:50:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
 25559707,Ribeiradio,Viseu Dão Lafões,310,2025-06-21T18:13:00Z,25559707,Em conclusão,3103,Incêndio rural,0,4,0,16,2025-06-21T18:13:00Z,Oliveira De Frades,Viseu,Centro,-8.319787,40.731513
-25559850,Ribeira do Neiva,Cávado,309,2025-06-21T18:57:00Z,25559850,Em conclusão,3103,Incêndio rural,0,5,0,19,2025-06-21T18:57:00Z,Vila Verde,Braga,Norte,-8.5075,41.729443
-25559889,São José da Lamarosa,Lezíria do Tejo,311,2025-06-21T19:07:00Z,25559889,Em conclusão,3103,Incêndio rural,0,6,0,21,2025-06-21T19:07:00Z,Coruche,Santarém,Alentejo,-8.49193,39.060268
+25559850,Ribeira do Neiva,Cávado,309,2025-06-21T18:57:00Z,25559850,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-21T18:57:00Z,Vila Verde,Braga,Norte,-8.5075,41.729443
+25559889,São José da Lamarosa,Lezíria do Tejo,311,2025-06-21T19:07:00Z,25559889,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-21T19:07:00Z,Coruche,Santarém,Alentejo,-8.49193,39.060268
+25560089,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-21T19:52:00Z,25560089,Em curso,3105,Incêndio rural,0,0,0,0,2025-06-21T19:52:00Z,Beja,Beja,Alentejo,-7.857487,38.018587
+25560141,Benavente,Lezíria do Tejo,311,2025-06-21T20:06:00Z,25560141,Em conclusão,3103,Incêndio rural,0,6,0,24,2025-06-21T20:06:00Z,Benavente,Santarém,Alentejo,-8.699483,38.928645
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,4,0,10,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25559917,Cebolais de Cima e Retaxo,Beira Baixa,310,2025-06-21T19:12:00Z,25559917,Em conclusão,3105,Incêndio rural,0,6,0,21,2025-06-21T19:12:00Z,Castelo Branco,Castelo Branco,Centro,-7.5821,39.754073
+25558349,Benavila e Valongo,Alto Alentejo,312,2025-06-21T12:39:00Z,25558349,Em conclusão,3105,Incêndio rural,0,25,0,74,2025-06-21T12:39:00Z,Avis,Portalegre,Alentejo,-7.917383,39.142285
+25560204,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-21T20:05:00Z,25560204,Em curso,3103,Incêndio rural,0,2,0,7,2025-06-21T20:05:00Z,Amarante,Porto,Norte,-8.047493,41.217125
+25560253,Águas Livres,Grande Lisboa,311,2025-06-21T20:20:00Z,25560253,Em despacho,2101,Incêndio em edifícios habitacionais,0,1,0,6,2025-06-21T20:20:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.219508,38.745534
 25558391,Lomba,Area M. Porto,309,2025-06-21T12:52:00Z,25558391,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-21T12:52:00Z,Gondomar,Porto,Norte,-8.425652,41.03171
 25559762,Gulpilhares e Valadares,Area M. Porto,309,2025-06-21T18:28:00Z,25559762,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,5,0,13,2025-06-21T18:28:00Z,Vila Nova De Gaia,Porto,Norte,-8.63144,41.10258
 25559777,Vilas Boas e Vilarinho Das Azenhas,Terras de Trás-os-Montes,309,2025-06-21T18:33:00Z,25559777,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-21T18:33:00Z,Vila Flor,Bragança,Norte,-7.19389,41.34556
-25559862,Assumar,Alto Alentejo,312,2025-06-21T18:56:00Z,25559862,Em conclusão,3105,Incêndio rural,0,6,0,19,2025-06-21T18:56:00Z,Monforte,Portalegre,Alentejo,-7.387218,39.14348
-25559912,Campo de Ourique,Grande Lisboa,311,2025-06-21T19:10:00Z,25559912,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,1,0,4,2025-06-21T19:10:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.17358,38.71667
-25560089,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-21T19:52:00Z,25560089,Em despacho,3105,Incêndio rural,0,3,0,12,2025-06-21T19:52:00Z,Beja,Beja,Alentejo,-7.857487,38.018587
-25560141,Biscainho,Lezíria do Tejo,311,2025-06-21T20:06:00Z,25560141,Em despacho,3103,Incêndio rural,0,4,0,17,2025-06-21T20:06:00Z,Coruche,Santarém,Alentejo,-8.7265,38.94458
+25559862,Assumar,Alto Alentejo,312,2025-06-21T18:56:00Z,25559862,Em conclusão,3105,Incêndio rural,0,2,0,4,2025-06-21T18:56:00Z,Monforte,Portalegre,Alentejo,-7.387218,39.14348
