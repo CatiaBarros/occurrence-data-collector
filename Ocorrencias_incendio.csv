@@ -1,11 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25562513,Sabadim,Alto Minho,309,2025-06-22T10:40:00Z,25562513,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:40:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461803,41.907022
-25562579,Panoias e Conceição,Baixo Alentejo,312,2025-06-22T10:56:00Z,25562579,Em conclusão,3105,Incêndio rural,0,4,0,16,2025-06-22T10:56:00Z,Ourique,Beja,Alentejo,-8.338978,37.790687
-25562588,Quinta do Anjo,Península de Setúbal,311,2025-06-22T10:56:00Z,25562588,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:56:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.98579,38.59944
-25562400,Praia do Ribatejo,Médio Tejo,311,2025-06-22T10:18:00Z,25562400,Em conclusão,3103,Incêndio rural,0,6,0,23,2025-06-22T10:18:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.362677,39.465732
-25562568,Mujães,Alto Minho,309,2025-06-22T10:52:00Z,25562568,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-22T10:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.70929,41.657470000000004
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
-25562682,Benquerenças,Beira Baixa,310,2025-06-22T11:14:00Z,25562682,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T11:14:00Z,Castelo Branco,Castelo Branco,Centro,-7.5872,39.840847
-25562773,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:38:00Z,25562773,Em despacho,3103,Incêndio rural,1,0,0,1,2025-06-22T11:38:00Z,Abrantes,Santarém,Centro,-8.175298,39.49477
 25562144,"Oliveira de Frades, Souto de Lafões e Sejães",Viseu Dão Lafões,310,2025-06-22T09:26:00Z,25562144,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T09:26:00Z,Oliveira De Frades,Viseu,Centro,-8.160352,40.733641
-25562675,Travanca,Terras de Trás-os-Montes,309,2025-06-22T11:14:00Z,25562675,Em resolução,3103,Incêndio rural,1,5,0,25,2025-06-22T11:14:00Z,Mogadouro,Bragança,Norte,-6.543001,41.389903
+25562675,Travanca,Terras de Trás-os-Montes,309,2025-06-22T11:14:00Z,25562675,Em conclusão,3103,Incêndio rural,1,4,0,20,2025-06-22T11:14:00Z,Mogadouro,Bragança,Norte,-6.548155,41.38742
+25562513,Sabadim,Alto Minho,309,2025-06-22T10:40:00Z,25562513,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:40:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461803,41.907022
+25562579,Panoias e Conceição,Baixo Alentejo,312,2025-06-22T10:56:00Z,25562579,Em conclusão,3105,Incêndio rural,0,3,0,11,2025-06-22T10:56:00Z,Ourique,Beja,Alentejo,-8.338978,37.790687
+25562588,Quinta do Anjo,Península de Setúbal,311,2025-06-22T10:56:00Z,25562588,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:56:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.98579,38.59944
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25562682,Benquerenças,Beira Baixa,310,2025-06-22T11:14:00Z,25562682,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T11:14:00Z,Castelo Branco,Castelo Branco,Centro,-7.5872,39.840847
+25562773,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:38:00Z,25562773,Em curso,3103,Incêndio rural,1,8,0,34,2025-06-22T11:38:00Z,Abrantes,Santarém,Centro,-8.175298,39.49477
+25562400,Praia do Ribatejo,Médio Tejo,311,2025-06-22T10:18:00Z,25562400,Em conclusão,3103,Incêndio rural,0,6,0,23,2025-06-22T10:18:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.362677,39.465732
+25562568,Mujães,Alto Minho,309,2025-06-22T10:52:00Z,25562568,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,3,2025-06-22T10:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.70929,41.657470000000004
+25562851,Bairro,Ave,309,2025-06-22T11:58:00Z,25562851,Em despacho,3103,Incêndio rural,1,0,0,1,2025-06-22T11:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.43789,41.36462
