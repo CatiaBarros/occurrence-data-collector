@@ -1,13 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25562400,Praia do Ribatejo,Médio Tejo,311,2025-06-22T10:18:00Z,25562400,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-22T10:18:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.362677,39.465732
-25562568,Mujães,Alto Minho,309,2025-06-22T10:52:00Z,25562568,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,3,2025-06-22T10:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.70929,41.657470000000004
-25562851,Bairro,Ave,309,2025-06-22T11:58:00Z,25562851,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-22T11:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.437845,41.364488
 25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
-25562773,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:38:00Z,25562773,Em resolução,3103,Incêndio rural,0,3,0,9,2025-06-22T11:38:00Z,Abrantes,Santarém,Centro,-8.168725,39.502112
-25562875,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:53:00Z,25562875,Em conclusão,3103,Incêndio rural,0,5,0,22,2025-06-22T11:53:00Z,Abrantes,Santarém,Centro,-8.167058,39.50649
+25562773,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:38:00Z,25562773,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-22T11:38:00Z,Abrantes,Santarém,Centro,-8.168725,39.502112
+25562875,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:53:00Z,25562875,Em conclusão,3103,Incêndio rural,0,4,0,17,2025-06-22T11:53:00Z,Abrantes,Santarém,Centro,-8.167058,39.50649
+25563164,Landim,Ave,309,2025-06-22T13:05:00Z,25563164,Em despacho,3201,Detritos não confinados,0,1,0,2,2025-06-22T13:05:00Z,Vila Nova De Famalicão,Braga,Norte,-8.461502,41.385198
 25562513,Sabadim,Alto Minho,309,2025-06-22T10:40:00Z,25562513,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:40:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461803,41.907022
 25562579,Panoias e Conceição,Baixo Alentejo,312,2025-06-22T10:56:00Z,25562579,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-22T10:56:00Z,Ourique,Beja,Alentejo,-8.338978,37.790687
 25562588,Quinta do Anjo,Península de Setúbal,311,2025-06-22T10:56:00Z,25562588,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:56:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.98579,38.59944
-25562874,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T12:00:00Z,25562874,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-22T12:00:00Z,Abrantes,Santarém,Centro,-8.198588,39.497773
+25562874,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T12:00:00Z,25562874,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-22T12:00:00Z,Abrantes,Santarém,Centro,-8.198588,39.497773
+25563142,Vila Nova de Foz Côa,Douro,309,2025-06-22T13:01:00Z,25563142,Em despacho,3103,Incêndio rural,1,1,0,11,2025-06-22T13:01:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.123346,41.15791
+25562400,Praia do Ribatejo,Médio Tejo,311,2025-06-22T10:18:00Z,25562400,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-22T10:18:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.362677,39.465732
+25562568,Mujães,Alto Minho,309,2025-06-22T10:52:00Z,25562568,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-22T10:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.70929,41.657470000000004
+25562851,Bairro,Ave,309,2025-06-22T11:58:00Z,25562851,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T11:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.437845,41.364488
 25562675,Travanca,Terras de Trás-os-Montes,309,2025-06-22T11:14:00Z,25562675,Em conclusão,3103,Incêndio rural,0,3,0,8,2025-06-22T11:14:00Z,Mogadouro,Bragança,Norte,-6.548155,41.38742
-25563011,Estômbar e Parchal,Algarve,313,2025-06-22T12:27:00Z,25563011,Em conclusão,3103,Incêndio rural,0,4,0,16,2025-06-22T12:27:00Z,Lagoa,Faro,Algarve,-8.528147,37.138193
+25563011,Estômbar e Parchal,Algarve,313,2025-06-22T12:27:00Z,25563011,Em conclusão,3103,Incêndio rural,0,1,0,1,2025-06-22T12:27:00Z,Lagoa,Faro,Algarve,-8.528147,37.138193
+25563146,Paredes,Area M. Porto,309,2025-06-22T12:46:00Z,25563146,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-22T12:46:00Z,Paredes,Porto,Norte,-8.347423,41.227775
+25563176,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-06-22T12:45:00Z,25563176,Em despacho,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-22T12:45:00Z,Porto,Porto,Norte,-8.647749,41.149405
