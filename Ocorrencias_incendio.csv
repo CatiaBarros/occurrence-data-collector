@@ -1,20 +1,19 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25562675,Travanca,Terras de Trás-os-Montes,309,2025-06-22T11:14:00Z,25562675,Em conclusão,3103,Incêndio rural,0,3,0,8,2025-06-22T11:14:00Z,Mogadouro,Bragança,Norte,-6.548155,41.38742
-25563230,Carvalhal,Oeste,311,2025-06-22T13:21:00Z,25563230,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,11,2025-06-22T13:21:00Z,Bombarral,Leiria,Centro,-9.13148,39.29221
-25563330,São Pedro D'Arcos,Alto Minho,309,2025-06-22T13:47:00Z,25563330,Em conclusão,3103,Incêndio rural,1,1,0,11,2025-06-22T13:47:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.644868,41.775442
-25563562,Vilas Boas e Vilarinho Das Azenhas,Terras de Trás-os-Montes,309,2025-06-22T14:41:00Z,25563562,Em despacho,3103,Incêndio rural,0,3,0,11,2025-06-22T14:41:00Z,Vila Flor,Bragança,Norte,-7.191617,41.346611
 25563320,Ermelo e Pardelhas,Ave,309,2025-06-22T13:41:00Z,25563320,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T13:41:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
-25563369,Valtorno e Mourão,Terras de Trás-os-Montes,309,2025-06-22T13:55:00Z,25563369,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,0,0,0,2025-06-22T13:55:00Z,Vila Flor,Bragança,Norte,-7.204443,41.271338
 25563456,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-22T14:16:00Z,25563456,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T14:16:00Z,Fafe,Braga,Norte,-8.11128,41.401127
-25563555,Agualva e Mira-Sintra,Grande Lisboa,311,2025-06-22T14:32:00Z,25563555,Em despacho,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-22T14:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.297451,38.765315
+25563555,Agualva e Mira-Sintra,Grande Lisboa,311,2025-06-22T14:32:00Z,25563555,Em conclusão,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-22T14:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.297451,38.765315
 25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,1,0,3,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
 25562773,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:38:00Z,25562773,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-22T11:38:00Z,Abrantes,Santarém,Centro,-8.168725,39.502112
-25562875,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:53:00Z,25562875,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-22T11:53:00Z,Abrantes,Santarém,Centro,-8.167058,39.50649
+25562875,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:53:00Z,25562875,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T11:53:00Z,Abrantes,Santarém,Centro,-8.167058,39.50649
 25563218,Bustelo,Tâmega e Sousa,309,2025-06-22T13:15:00Z,25563218,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-22T13:15:00Z,Penafiel,Porto,Norte,-8.279702,41.233327
 25563234,Vila Nova de Milfontes,Alentejo Litoral,312,2025-06-22T13:15:00Z,25563234,Em resolução,3203,Detritos confinados,0,2,0,5,2025-06-22T13:15:00Z,Odemira,Beja,Alentejo,-8.778137,37.732102
 25563452,Mesão Frio (Santo André),Douro,309,2025-06-22T14:10:00Z,25563452,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-22T14:10:00Z,Mesão Frio,Vila Real,Norte,-7.891345,41.17354
-25563502,Campanhã,Area M. Porto,309,2025-06-22T14:27:00Z,25563502,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-22T14:27:00Z,Porto,Porto,Norte,-8.581138,41.14446
+25562675,Travanca,Terras de Trás-os-Montes,309,2025-06-22T11:14:00Z,25562675,Em conclusão,3103,Incêndio rural,0,3,0,8,2025-06-22T11:14:00Z,Mogadouro,Bragança,Norte,-6.548155,41.38742
+25563330,São Pedro D'Arcos,Alto Minho,309,2025-06-22T13:47:00Z,25563330,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T13:47:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.644868,41.775442
+25563562,Vilas Boas e Vilarinho Das Azenhas,Terras de Trás-os-Montes,309,2025-06-22T14:41:00Z,25563562,Em resolução,3103,Incêndio rural,1,4,0,23,2025-06-22T14:41:00Z,Vila Flor,Bragança,Norte,-7.200678,41.347508
+25563648,Penamaior,Tâmega e Sousa,309,2025-06-22T15:00:00Z,25563648,Em despacho,2111,Incêndio em edifícios hospitalares e lares de idosos,0,0,0,0,2025-06-22T15:00:00Z,Paços De Ferreira,Porto,Norte,-8.4147,41.2796
 25562874,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T12:00:00Z,25562874,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-22T12:00:00Z,Abrantes,Santarém,Centro,-8.198588,39.497773
-25563142,Cabeça Boa,Douro,309,2025-06-22T13:01:00Z,25563142,Em curso,3103,Incêndio rural,0,17,0,64,2025-06-22T13:01:00Z,Torre De Moncorvo,Bragança,Norte,-7.113017,41.148432
-25563190,Sines,Alentejo Litoral,312,2025-06-22T13:09:00Z,25563190,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,7,0,16,2025-06-22T13:09:00Z,Sines,Setúbal,Alentejo,-8.847822,37.955695
-25563533,Lomba,Area M. Porto,309,2025-06-22T14:34:00Z,25563533,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-22T14:34:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
+25563142,Cabeça Boa,Douro,309,2025-06-22T13:01:00Z,25563142,Em resolução,3103,Incêndio rural,0,17,0,64,2025-06-22T13:01:00Z,Torre De Moncorvo,Bragança,Norte,-7.113017,41.148432
+25563190,Sines,Alentejo Litoral,312,2025-06-22T13:09:00Z,25563190,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,5,0,9,2025-06-22T13:09:00Z,Sines,Setúbal,Alentejo,-8.847822,37.955695
+25563533,Lomba,Area M. Porto,309,2025-06-22T14:34:00Z,25563533,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-22T14:34:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
+25563633,Arruda Dos Vinhos,Oeste,311,2025-06-22T14:50:00Z,25563633,Em despacho,3103,Incêndio rural,0,2,0,7,2025-06-22T14:50:00Z,Arruda Dos Vinhos,Lisboa,Centro,-9.075983,38.983497
