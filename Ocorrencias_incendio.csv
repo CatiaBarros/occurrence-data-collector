@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25561943,Faro (Sé e São Pedro),Algarve,313,2025-06-22T08:46:00Z,25561943,Em conclusão,2111,Incêndio em edifícios hospitalares e lares de idosos,0,5,0,15,2025-06-22T08:46:00Z,Faro,Faro,Algarve,-7.9307,37.01416
-25562144,"Oliveira de Frades, Souto de Lafões e Sejães",Viseu Dão Lafões,310,2025-06-22T09:26:00Z,25562144,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T09:26:00Z,Oliveira De Frades,Viseu,Centro,-8.160352,40.733641
-25561986,Guia,Algarve,313,2025-06-22T08:55:00Z,25561986,Em conclusão,2301,Incêndio em transporte rodoviário,0,6,0,16,2025-06-22T08:55:00Z,Albufeira,Faro,Algarve,-8.26218,37.13863
+25561986,Guia,Algarve,313,2025-06-22T08:55:00Z,25561986,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,4,2025-06-22T08:55:00Z,Albufeira,Faro,Algarve,-8.26218,37.13863
 25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25562289,Carnaxide e Queijas,Grande Lisboa,311,2025-06-22T09:52:00Z,25562289,Em curso,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-22T09:52:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.233587,38.727201
+25562144,"Oliveira de Frades, Souto de Lafões e Sejães",Viseu Dão Lafões,310,2025-06-22T09:26:00Z,25562144,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T09:26:00Z,Oliveira De Frades,Viseu,Centro,-8.160352,40.733641
