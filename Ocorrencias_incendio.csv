@@ -1,7 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25562400,Praia do Ribatejo,Médio Tejo,311,2025-06-22T10:18:00Z,25562400,Em resolução,3103,Incêndio rural,1,6,0,29,2025-06-22T10:18:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.362677,39.465732
+25562568,Mujães,Alto Minho,309,2025-06-22T10:52:00Z,25562568,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-22T10:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.70929,41.657470000000004
 25562513,Sabadim,Alto Minho,309,2025-06-22T10:40:00Z,25562513,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:40:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461803,41.907022
+25562579,Panoias e Conceição,Baixo Alentejo,312,2025-06-22T10:56:00Z,25562579,Em despacho,3103,Incêndio rural,0,5,0,18,2025-06-22T10:56:00Z,Ourique,Beja,Alentejo,-8.330867,37.78867
+25562588,Quinta do Anjo,Península de Setúbal,311,2025-06-22T10:56:00Z,25562588,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T10:56:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.98579,38.59944
+25562624,Rio de Mouro,Grande Lisboa,311,2025-06-22T10:54:00Z,25562624,Em conclusão,3201,Detritos não confinados,0,1,0,5,2025-06-22T10:54:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.321906,38.783084
 25562144,"Oliveira de Frades, Souto de Lafões e Sejães",Viseu Dão Lafões,310,2025-06-22T09:26:00Z,25562144,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T09:26:00Z,Oliveira De Frades,Viseu,Centro,-8.160352,40.733641
 25562324,Moreira,Area M. Porto,309,2025-06-22T09:59:00Z,25562324,Em conclusão,3203,Detritos confinados,0,1,0,4,2025-06-22T09:59:00Z,Maia,Porto,Norte,-8.651156,41.243233
-25562400,Praia do Ribatejo,Médio Tejo,311,2025-06-22T10:18:00Z,25562400,Em resolução,3103,Incêndio rural,1,6,0,29,2025-06-22T10:18:00Z,Vila Nova Da Barquinha,Santarém,Centro,-8.362677,39.465732
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
-25562507,Portimão,Algarve,313,2025-06-22T10:40:00Z,25562507,Em despacho,3203,Detritos confinados,0,0,0,0,2025-06-22T10:40:00Z,Portimão,Faro,Algarve,-8.54051,37.12529
