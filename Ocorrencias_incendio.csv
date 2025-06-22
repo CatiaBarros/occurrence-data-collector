@@ -1,26 +1,21 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25563330,São Pedro D'Arcos,Alto Minho,309,2025-06-22T13:47:00Z,25563330,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-22T13:47:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.644868,41.775442
-25563714,Campanhã,Area M. Porto,309,2025-06-22T15:16:00Z,25563714,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T15:16:00Z,Porto,Porto,Norte,-8.566389,41.16361
-25563897,Conceição e Cabanas de Tavira,Algarve,313,2025-06-22T15:53:00Z,25563897,Em conclusão,3103,Incêndio rural,0,4,0,16,2025-06-22T15:53:00Z,Tavira,Faro,Algarve,-7.621322,37.156898
-25563982,Alenquer (Santo Estêvão e Triana),Oeste,311,2025-06-22T16:16:00Z,25563982,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-22T16:16:00Z,Alenquer,Lisboa,Centro,-8.989469,39.082345
-25564014,Campanhã,Area M. Porto,309,2025-06-22T16:29:00Z,25564014,Em despacho,2129,Incêndio em edifícios degradados ou devolutos,0,0,0,0,2025-06-22T16:29:00Z,Porto,Porto,Norte,-8.58509,41.16678
 25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,1,0,3,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
 25562773,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:38:00Z,25562773,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-22T11:38:00Z,Abrantes,Santarém,Centro,-8.168725,39.502112
 25562875,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T11:53:00Z,25562875,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-22T11:53:00Z,Abrantes,Santarém,Centro,-8.167058,39.50649
 25563218,Bustelo,Tâmega e Sousa,309,2025-06-22T13:15:00Z,25563218,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-22T13:15:00Z,Penafiel,Porto,Norte,-8.279702,41.233327
-25563686,Évora Monte (Santa Maria),Alentejo Central,312,2025-06-22T15:09:00Z,25563686,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,10,2025-06-22T15:09:00Z,Estremoz,Évora,Alentejo,-7.681537,38.786803
-25563725,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-06-22T15:14:00Z,25563725,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-22T15:14:00Z,Vila Nova De Gaia,Porto,Norte,-8.596217,41.103352
 25563732,São João Baptista,Médio Tejo,311,2025-06-22T15:23:00Z,25563732,Em resolução,3103,Incêndio rural,0,3,0,11,2025-06-22T15:23:00Z,Entroncamento,Santarém,Centro,-8.461936,39.460037
-25563320,Ermelo e Pardelhas,Ave,309,2025-06-22T13:41:00Z,25563320,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T13:41:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
+25564025,Fernão Ferro,Península de Setúbal,311,2025-06-22T16:26:00Z,25564025,Em conclusão,3201,Detritos não confinados,0,4,0,11,2025-06-22T16:26:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.115329,38.572419
+25563714,Campanhã,Area M. Porto,309,2025-06-22T15:16:00Z,25563714,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T15:16:00Z,Porto,Porto,Norte,-8.566389,41.16361
+25563897,Conceição e Cabanas de Tavira,Algarve,313,2025-06-22T15:53:00Z,25563897,Em conclusão,3103,Incêndio rural,0,4,0,16,2025-06-22T15:53:00Z,Tavira,Faro,Algarve,-7.621322,37.156898
+25564014,Campanhã,Area M. Porto,309,2025-06-22T16:29:00Z,25564014,Em curso,2129,Incêndio em edifícios degradados ou devolutos,0,3,0,12,2025-06-22T16:29:00Z,Porto,Porto,Norte,-8.58509,41.16678
+25564095,Alcobaça e Vestiaria,Oeste,311,2025-06-22T16:53:00Z,25564095,Em despacho,3103,Incêndio rural,0,3,0,9,2025-06-22T16:53:00Z,Alcobaça,Leiria,Centro,-8.970766,39.549944000000004
+25563320,Ermelo e Pardelhas,Ave,309,2025-06-22T13:41:00Z,25563320,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-22T13:41:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
 25563754,Turquel,Oeste,311,2025-06-22T15:24:00Z,25563754,Em conclusão,3105,Incêndio rural,0,4,0,9,2025-06-22T15:24:00Z,Alcobaça,Leiria,Centro,-8.942722,39.439361
-25563772,Cendufe,Alto Minho,309,2025-06-22T15:33:00Z,25563772,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-22T15:33:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.48539,41.800983
-25563788,"Braga (Maximinos, Sé e Cividade)",Cávado,309,2025-06-22T15:33:00Z,25563788,Em resolução,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-22T15:33:00Z,Braga,Braga,Norte,-8.434048,41.538463
+25563772,Cendufe,Alto Minho,309,2025-06-22T15:33:00Z,25563772,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T15:33:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.48539,41.800983
 25563823,Santana da Serra,Baixo Alentejo,312,2025-06-22T15:41:00Z,25563823,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,6,2025-06-22T15:41:00Z,Ourique,Beja,Alentejo,-8.227052,37.442827
-25563840,Castelões,Viseu Dão Lafões,310,2025-06-22T15:39:00Z,25563840,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,8,2025-06-22T15:39:00Z,Tondela,Viseu,Centro,-8.126862,40.543912
 25562874,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-22T12:00:00Z,25562874,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-22T12:00:00Z,Abrantes,Santarém,Centro,-8.198588,39.497773
-25563142,Cabeça Boa,Douro,309,2025-06-22T13:01:00Z,25563142,Em conclusão,3103,Incêndio rural,0,16,0,53,2025-06-22T13:01:00Z,Torre De Moncorvo,Bragança,Norte,-7.113017,41.148432
+25563142,Torre de Moncorvo,Douro,309,2025-06-22T13:01:00Z,25563142,Em conclusão,3103,Incêndio rural,0,16,0,53,2025-06-22T13:01:00Z,Torre De Moncorvo,Bragança,Norte,-7.110335,41.147253
 25563533,Lomba,Area M. Porto,309,2025-06-22T14:34:00Z,25563533,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T14:34:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
-25563767,Bemposta,Médio Tejo,311,2025-06-22T15:29:00Z,25563767,Em curso,3103,Incêndio rural,8,37,0,146,2025-06-22T15:29:00Z,Abrantes,Santarém,Centro,-8.173193,39.277957
+25563767,Bemposta,Médio Tejo,311,2025-06-22T15:29:00Z,25563767,Em curso,3103,Incêndio rural,8,43,0,162,2025-06-22T15:29:00Z,Abrantes,Santarém,Centro,-8.173193,39.277957
 25563819,São Francisco da Serra,Alentejo Litoral,312,2025-06-22T15:41:00Z,25563819,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,4,2025-06-22T15:41:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.66402,38.071045
 25563867,Santa Clara-a-Nova e Gomes Aires,Baixo Alentejo,312,2025-06-22T15:48:00Z,25563867,Em despacho,3103,Incêndio rural,0,1,0,1,2025-06-22T15:48:00Z,Almodôvar,Beja,Alentejo,-8.168165,37.479786
-25564025,Fernão Ferro,Península de Setúbal,311,2025-06-22T16:26:00Z,25564025,Em conclusão,3201,Detritos não confinados,0,2,0,7,2025-06-22T16:26:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.115329,38.572419
