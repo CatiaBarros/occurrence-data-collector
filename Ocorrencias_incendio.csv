@@ -1,15 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
-25564802,Lobrigos (S. Miguel e S. João Baptista) e Sanhoane,Douro,309,2025-06-22T20:10:00Z,25564802,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,5,0,16,2025-06-22T20:10:00Z,Peso Da Régua,Vila Real,Norte,-7.802208,41.185538
-25565104,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-22T21:32:00Z,25565104,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-22T21:32:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17671,38.60531
 25564514,Alte,Algarve,313,2025-06-22T18:45:00Z,25564514,Em resolução,3103,Incêndio rural,0,5,0,17,2025-06-22T18:45:00Z,Loulé,Faro,Algarve,-8.18059,37.233453
-25564832,Priscos,Cávado,309,2025-06-22T20:17:00Z,25564832,Em conclusão,3111,Queima,0,1,0,5,2025-06-22T20:17:00Z,Braga,Braga,Norte,-8.472324,41.5034
-25564851,Tabuaço,Douro,309,2025-06-22T20:19:00Z,25564851,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,2,0,8,2025-06-22T20:19:00Z,Tabuaço,Viseu,Norte,-7.56467,41.11801
+25565149,Bustelo,Tâmega e Sousa,309,2025-06-22T21:36:00Z,25565149,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-22T21:36:00Z,Penafiel,Porto,Norte,-8.279702,41.233327
 25563320,Ermelo e Pardelhas,Ave,309,2025-06-22T13:41:00Z,25563320,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,4,0,17,2025-06-22T13:41:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
 25564923,Vale de Azares,Beiras e Serra da Estrela,310,2025-06-22T20:40:00Z,25564923,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-22T20:40:00Z,Celorico Da Beira,Guarda,Centro,-7.364163,40.60459
 25565042,Seiça,Médio Tejo,311,2025-06-22T21:12:00Z,25565042,Em conclusão,3105,Incêndio rural,0,3,0,9,2025-06-22T21:12:00Z,Ourém,Santarém,Centro,-8.533243,39.668105
+25565140,Nossa Senhora da Expectação,Alto Alentejo,312,2025-06-22T21:36:00Z,25565140,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-22T21:36:00Z,Campo Maior,Portalegre,Alentejo,-7.07164,39.007728
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25564802,Lobrigos (S. Miguel e S. João Baptista) e Sanhoane,Douro,309,2025-06-22T20:10:00Z,25564802,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,5,0,16,2025-06-22T20:10:00Z,Peso Da Régua,Vila Real,Norte,-7.802208,41.185538
+25565104,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-22T21:32:00Z,25565104,Em despacho,3103,Incêndio rural,0,4,0,17,2025-06-22T21:32:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.17671,38.60531
 25563142,Torre de Moncorvo,Douro,309,2025-06-22T13:01:00Z,25563142,Em conclusão,3103,Incêndio rural,0,5,0,15,2025-06-22T13:01:00Z,Torre De Moncorvo,Bragança,Norte,-7.110335,41.147253
-25563767,Bemposta,Médio Tejo,311,2025-06-22T15:29:00Z,25563767,Em conclusão,3103,Incêndio rural,0,35,0,124,2025-06-22T15:29:00Z,Abrantes,Santarém,Centro,-8.173193,39.277957
-25564880,Vila Nova da Rainha,Lezíria do Tejo,311,2025-06-22T20:32:00Z,25564880,Em conclusão,3101,Incêndio rural,0,3,0,12,2025-06-22T20:32:00Z,Azambuja,Lisboa,Alentejo,-8.944418,39.044555
-25564987,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-22T20:59:00Z,25564987,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-22T20:59:00Z,Santo Tirso,Porto,Norte,-8.497977,41.351053
-25565080,Sabadim,Alto Minho,309,2025-06-22T21:22:00Z,25565080,Em curso,3103,Incêndio rural,0,2,0,10,2025-06-22T21:22:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461232,41.907405
+25563767,Bemposta,Médio Tejo,311,2025-06-22T15:29:00Z,25563767,Em conclusão,3103,Incêndio rural,0,29,0,104,2025-06-22T15:29:00Z,Abrantes,Santarém,Centro,-8.173193,39.277957
+25565080,Sabadim,Alto Minho,309,2025-06-22T21:22:00Z,25565080,Em curso,3103,Incêndio rural,0,4,0,14,2025-06-22T21:22:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461232,41.907405
+25565105,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-06-22T21:33:00Z,25565105,Em despacho,3203,Detritos confinados,0,2,0,7,2025-06-22T21:33:00Z,Évora,Évora,Alentejo,-7.909364,38.560124
