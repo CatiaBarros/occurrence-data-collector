@@ -1,11 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25567803,Fornos,Tâmega e Sousa,309,2025-06-23T12:57:00Z,25567803,Em resolução,2201,Incêndio em equipamentos ou produtos,0,2,0,7,2025-06-23T12:57:00Z,Castelo De Paiva,Aveiro,Norte,-8.255654,41.055046
-25567953,Sabadim,Alto Minho,309,2025-06-23T13:31:00Z,25567953,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-23T13:31:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.476208,41.90564
-25568405,Setúbal (São Sebastião),Península de Setúbal,311,2025-06-23T14:54:00Z,25568405,Em despacho,3203,Detritos confinados,0,1,0,5,2025-06-23T14:54:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.88203,38.52769
+25568515,Porches,Algarve,313,2025-06-23T15:13:00Z,25568515,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-23T15:13:00Z,Lagoa,Faro,Algarve,-8.398631,37.124827
+25568579,Loulé (São Sebastião),Algarve,313,2025-06-23T15:28:00Z,25568579,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-23T15:28:00Z,Loulé,Faro,Algarve,-8.053183,37.111585
+25568606,São Vicente de Lafões,Viseu Dão Lafões,310,2025-06-23T15:34:00Z,25568606,Em despacho,3201,Detritos não confinados,0,2,0,10,2025-06-23T15:34:00Z,Oliveira De Frades,Viseu,Centro,-8.17321,40.70396
+25567953,Sabadim,Alto Minho,309,2025-06-23T13:31:00Z,25567953,Em conclusão,3103,Incêndio rural,0,1,0,4,2025-06-23T13:31:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.476208,41.90564
 25567558,Lindoso,Alto Minho,309,2025-06-23T12:09:00Z,25567558,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-23T12:09:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.24117,41.861232
 25567641,Ermelo e Pardelhas,Ave,309,2025-06-23T12:29:00Z,25567641,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-23T12:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
 25567709,Agilde,Tâmega e Sousa,309,2025-06-23T12:49:00Z,25567709,Em curso,3103,Incêndio rural,1,7,0,33,2025-06-23T12:49:00Z,Celorico De Basto,Braga,Norte,-8.120197,41.374492
+25568491,Porches,Algarve,313,2025-06-23T15:09:00Z,25568491,Em conclusão,2301,Incêndio em transporte rodoviário,0,7,0,18,2025-06-23T15:09:00Z,Lagoa,Faro,Algarve,-8.395271,37.13868
 25568034,Cervães,Cávado,309,2025-06-23T13:48:00Z,25568034,Em conclusão,3103,Incêndio rural,0,4,0,17,2025-06-23T13:48:00Z,Vila Verde,Braga,Norte,-8.512877,41.596525
-25568116,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-23T14:03:00Z,25568116,Em resolução,3103,Incêndio rural,0,3,0,15,2025-06-23T14:03:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.484641,40.93974
-25568252,Barreiro e Lavradio,Península de Setúbal,311,2025-06-23T14:27:00Z,25568252,Em conclusão,3201,Detritos não confinados,0,1,0,5,2025-06-23T14:27:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.06216,38.66308
-25568286,Sendim,Tâmega e Sousa,309,2025-06-23T14:34:00Z,25568286,Em curso,3103,Incêndio rural,1,7,0,30,2025-06-23T14:34:00Z,Felgueiras,Porto,Norte,-8.189135,41.391572
+25568116,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-23T14:03:00Z,25568116,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-23T14:03:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.484641,40.93974
+25568286,Sendim,Tâmega e Sousa,309,2025-06-23T14:34:00Z,25568286,Em curso,3103,Incêndio rural,1,9,0,37,2025-06-23T14:34:00Z,Felgueiras,Porto,Norte,-8.189135,41.391572
+25568585,Oiã,Região de Aveiro,310,2025-06-23T15:21:00Z,25568585,Em curso,2301,Incêndio em transporte rodoviário,0,1,0,4,2025-06-23T15:21:00Z,Oliveira Do Bairro,Aveiro,Centro,-8.543186,40.537438
+25568643,Monteiras,Viseu Dão Lafões,310,2025-06-23T15:41:00Z,25568643,Em despacho,3201,Detritos não confinados,0,0,0,0,2025-06-23T15:41:00Z,Castro Daire,Viseu,Centro,-7.89042,40.96261
