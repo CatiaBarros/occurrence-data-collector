@@ -1,7 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25563823,Santana da Serra,Baixo Alentejo,312,2025-06-22T15:41:00Z,25563823,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-22T15:41:00Z,Ourique,Beja,Alentejo,-8.227052,37.442827
 25567047,Agilde,Tâmega e Sousa,309,2025-06-23T10:30:00Z,25567047,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-23T10:30:00Z,Celorico De Basto,Braga,Norte,-8.129673,41.373433
-25567563,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-23T12:10:00Z,25567563,Em curso,3105,Incêndio rural,0,5,0,18,2025-06-23T12:10:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.10924,38.80642
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25567631,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-23T12:20:00Z,25567631,Em resolução,3101,Incêndio rural,0,1,0,5,2025-06-23T12:20:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.448673,41.011004
+25567783,Sabadim,Alto Minho,309,2025-06-23T12:57:00Z,25567783,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-23T12:57:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.465439,41.906862
+25567563,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-23T12:10:00Z,25567563,Em conclusão,3105,Incêndio rural,0,6,0,20,2025-06-23T12:10:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.113624,38.809677
 25566638,Cabeça Boa,Douro,309,2025-06-23T09:27:00Z,25566638,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-23T09:27:00Z,Torre De Moncorvo,Bragança,Norte,-7.152123,41.191413
-25567558,Lindoso,Alto Minho,309,2025-06-23T12:09:00Z,25567558,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-23T12:09:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.242327,41.861655
+25567558,Lindoso,Alto Minho,309,2025-06-23T12:09:00Z,25567558,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-23T12:09:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.24117,41.861232
 25567641,Ermelo e Pardelhas,Ave,309,2025-06-23T12:29:00Z,25567641,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-23T12:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
+25567709,Agilde,Tâmega e Sousa,309,2025-06-23T12:49:00Z,25567709,Em despacho,3103,Incêndio rural,1,1,0,6,2025-06-23T12:49:00Z,Celorico De Basto,Braga,Norte,-8.116667,41.36988
+25567759,Regilde,Tâmega e Sousa,309,2025-06-23T12:58:00Z,25567759,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-23T12:58:00Z,Felgueiras,Porto,Norte,-8.2655,41.36671
