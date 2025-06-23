@@ -1,15 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25569555,Ferreira de Aves,Viseu Dão Lafões,310,2025-06-23T18:42:00Z,25569555,Em resolução,3103,Incêndio rural,0,6,0,20,2025-06-23T18:42:00Z,Sátão,Viseu,Centro,-7.705354,40.799492
-25569940,Laranjeiro e Feijó,Península de Setúbal,311,2025-06-23T20:07:00Z,25569940,Em conclusão,3103,Incêndio rural,0,7,0,24,2025-06-23T20:07:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.168398,38.658767
-25569954,Belmonte e Colmeal da Torre,Beiras e Serra da Estrela,310,2025-06-23T20:08:00Z,25569954,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-23T20:08:00Z,Belmonte,Castelo Branco,Centro,-7.32448,40.340007
-25569047,Fregim,Tâmega e Sousa,309,2025-06-23T17:00:00Z,25569047,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,12,2025-06-23T17:00:00Z,Amarante,Porto,Norte,-8.128398,41.268953
-25569749,Paços de Ferreira,Tâmega e Sousa,309,2025-06-23T19:22:00Z,25569749,Em resolução,2101,Incêndio em edifícios habitacionais,0,5,0,18,2025-06-23T19:22:00Z,Paços De Ferreira,Porto,Norte,-8.370348,41.272258
-25570017,Marrazes e Barosa,Região de Leiria,310,2025-06-23T20:28:00Z,25570017,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,4,2025-06-23T20:28:00Z,Leiria,Leiria,Centro,-8.82544,39.76467
-25570036,"S.pedro e Santiago, S.maria e S.miguel e Matacães",Oeste,311,2025-06-23T20:24:00Z,25570036,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-23T20:24:00Z,Torres Vedras,Lisboa,Centro,-9.251952,39.091829
-25570070,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-23T20:41:00Z,25570070,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-23T20:41:00Z,Ribeira De Pena,Vila Real,Norte,-7.781863,41.567812000000004
-25570095,Chamoim e Vilar,Cávado,309,2025-06-23T20:49:00Z,25570095,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-23T20:49:00Z,Terras De Bouro,Braga,Norte,-8.243012,41.730129
+25569940,Laranjeiro e Feijó,Península de Setúbal,311,2025-06-23T20:07:00Z,25569940,Em conclusão,3103,Incêndio rural,0,3,0,10,2025-06-23T20:07:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.168398,38.658767
+25570123,Rossas,Ave,309,2025-06-23T20:57:00Z,25570123,Em curso,3103,Incêndio rural,0,6,0,27,2025-06-23T20:57:00Z,Vieira Do Minho,Braga,Norte,-8.073845,41.586948
+25570188,Cervães,Cávado,309,2025-06-23T21:10:00Z,25570188,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-23T21:10:00Z,Vila Verde,Braga,Norte,-8.52222,41.59469
+25570070,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-23T20:41:00Z,25570070,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-23T20:41:00Z,Ribeira De Pena,Vila Real,Norte,-7.781863,41.567812000000004
+25570095,Chamoim e Vilar,Cávado,309,2025-06-23T20:49:00Z,25570095,Em resolução,3103,Incêndio rural,0,6,0,26,2025-06-23T20:49:00Z,Terras De Bouro,Braga,Norte,-8.256667,41.721188
+25570252,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-06-23T21:30:00Z,25570252,Em despacho,3101,Incêndio rural,0,0,0,0,2025-06-23T21:30:00Z,Vila Nova De Gaia,Porto,Norte,-8.60879,41.1389
+25570279,"N. S. da Vila, N. S. do Bispo e Silveiras",Alentejo Central,312,2025-06-23T21:36:00Z,25570279,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-23T21:36:00Z,Montemor-o-Novo,Évora,Alentejo,-8.17003,38.64626
 25567709,Agilde,Tâmega e Sousa,309,2025-06-23T12:49:00Z,25567709,Em conclusão,3103,Incêndio rural,0,6,0,21,2025-06-23T12:49:00Z,Celorico De Basto,Braga,Norte,-8.120197,41.374492
-25569846,Adoufe e Vilarinho de Samardã,Douro,309,2025-06-23T19:44:00Z,25569846,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-23T19:44:00Z,Vila Real,Vila Real,Norte,-7.7186,41.333212
-25569964,Moledo e Cristelo,Alto Minho,309,2025-06-23T20:19:00Z,25569964,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-23T20:19:00Z,Caminha,Viana Do Castelo,Norte,-8.869672,41.839332
-25570096,Queluz e Belas,Grande Lisboa,311,2025-06-23T20:50:00Z,25570096,Em despacho,2101,Incêndio em edifícios habitacionais,0,0,0,0,2025-06-23T20:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.256039,38.765721
-25570098,Ferreira de Aves,Viseu Dão Lafões,310,2025-06-23T20:49:00Z,25570098,Em despacho,3103,Incêndio rural,0,1,0,3,2025-06-23T20:49:00Z,Sátão,Viseu,Centro,-7.702856,40.819294
+25569846,Adoufe e Vilarinho de Samardã,Douro,309,2025-06-23T19:44:00Z,25569846,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-23T19:44:00Z,Vila Real,Vila Real,Norte,-7.7186,41.333212
+25570096,Queluz e Belas,Grande Lisboa,311,2025-06-23T20:50:00Z,25570096,Em conclusão,2101,Incêndio em edifícios habitacionais,0,3,0,10,2025-06-23T20:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.256039,38.765721
+25570098,Ferreira de Aves,Viseu Dão Lafões,310,2025-06-23T20:49:00Z,25570098,Em conclusão,3103,Incêndio rural,0,1,0,3,2025-06-23T20:49:00Z,Sátão,Viseu,Centro,-7.702856,40.819294
+25569047,Fregim,Tâmega e Sousa,309,2025-06-23T17:00:00Z,25569047,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,12,2025-06-23T17:00:00Z,Amarante,Porto,Norte,-8.128398,41.268953
+25569749,Paços de Ferreira,Tâmega e Sousa,309,2025-06-23T19:22:00Z,25569749,Em resolução,2101,Incêndio em edifícios habitacionais,0,1,0,2,2025-06-23T19:22:00Z,Paços De Ferreira,Porto,Norte,-8.370348,41.272258
+25570017,Marrazes e Barosa,Região de Leiria,310,2025-06-23T20:28:00Z,25570017,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-23T20:28:00Z,Leiria,Leiria,Centro,-8.82544,39.76467
+25570194,Fátima,Médio Tejo,311,2025-06-23T21:13:00Z,25570194,Em curso,3103,Incêndio rural,0,6,0,23,2025-06-23T21:13:00Z,Ourém,Santarém,Centro,-8.670851,39.581444
