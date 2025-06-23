@@ -1,13 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25568821,"Real, Dume e Semelhe",Cávado,309,2025-06-23T16:15:00Z,25568821,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-23T16:15:00Z,Braga,Braga,Norte,-8.442552,41.57112
+25569314,Palmela,Península de Setúbal,311,2025-06-23T17:58:00Z,25569314,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-23T17:58:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.893278,38.591877
+25569541,Canidelo,Area M. Porto,309,2025-06-23T18:40:00Z,25569541,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,10,2025-06-23T18:40:00Z,Vila Nova De Gaia,Porto,Norte,-8.635716,41.1295
+25569550,Santo Isidoro,Grande Lisboa,311,2025-06-23T18:41:00Z,25569550,Em despacho,2301,Incêndio em transporte rodoviário,0,3,0,12,2025-06-23T18:41:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.42024,39.01167
+25567641,Ermelo e Pardelhas,Ave,309,2025-06-23T12:29:00Z,25567641,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-23T12:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
+25567709,Agilde,Tâmega e Sousa,309,2025-06-23T12:49:00Z,25567709,Em conclusão,3103,Incêndio rural,0,9,0,32,2025-06-23T12:49:00Z,Celorico De Basto,Braga,Norte,-8.120197,41.374492
+25569531,Ermesinde,Area M. Porto,309,2025-06-23T18:37:00Z,25569531,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-23T18:37:00Z,Valongo,Porto,Norte,-8.5569,41.21359
 25569047,Fregim,Tâmega e Sousa,309,2025-06-23T17:00:00Z,25569047,Em resolução,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,12,2025-06-23T17:00:00Z,Amarante,Porto,Norte,-8.128398,41.268953
 25569176,Lavos,Região de Coimbra,310,2025-06-23T17:26:00Z,25569176,Em conclusão,3103,Incêndio rural,0,3,0,13,2025-06-23T17:26:00Z,Figueira Da Foz,Coimbra,Centro,-8.85389,40.08833
-25569358,Pinhal Novo,Península de Setúbal,311,2025-06-23T18:00:00Z,25569358,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-23T18:00:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.91294,38.637902
 25568286,Sendim,Tâmega e Sousa,309,2025-06-23T14:34:00Z,25568286,Em conclusão,3103,Incêndio rural,0,9,0,31,2025-06-23T14:34:00Z,Felgueiras,Porto,Norte,-8.189135,41.391572
-25569269,Samora Correia,Lezíria do Tejo,311,2025-06-23T17:48:00Z,25569269,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-23T17:48:00Z,Benavente,Santarém,Alentejo,-8.88232,38.923645
 25569336,Baltar,Area M. Porto,309,2025-06-23T17:58:00Z,25569336,Em curso,2201,Incêndio em equipamentos ou produtos,0,1,0,2,2025-06-23T17:58:00Z,Paredes,Porto,Norte,-8.388213,41.188993
-25569453,Marrazes e Barosa,Região de Leiria,310,2025-06-23T18:19:00Z,25569453,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-23T18:19:00Z,Leiria,Leiria,Centro,-8.823695,39.764442
-25569454,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-06-23T18:11:00Z,25569454,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-23T18:11:00Z,Covilhã,Castelo Branco,Centro,-7.519359,40.276354
-25568821,"Real, Dume e Semelhe",Cávado,309,2025-06-23T16:15:00Z,25568821,Em resolução,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-23T16:15:00Z,Braga,Braga,Norte,-8.442552,41.57112
-25569314,Palmela,Península de Setúbal,311,2025-06-23T17:58:00Z,25569314,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-23T17:58:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.893278,38.591877
-25567641,Ermelo e Pardelhas,Ave,309,2025-06-23T12:29:00Z,25567641,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-23T12:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
-25567709,Agilde,Tâmega e Sousa,309,2025-06-23T12:49:00Z,25567709,Em resolução,3103,Incêndio rural,0,9,0,32,2025-06-23T12:49:00Z,Celorico De Basto,Braga,Norte,-8.120197,41.374492
+25569454,Covilhã e Canhoso,Beiras e Serra da Estrela,310,2025-06-23T18:11:00Z,25569454,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,2,2025-06-23T18:11:00Z,Covilhã,Castelo Branco,Centro,-7.519359,40.276354
+25569555,Queiriga,Viseu Dão Lafões,310,2025-06-23T18:42:00Z,25569555,Em despacho,3103,Incêndio rural,1,6,0,29,2025-06-23T18:42:00Z,Vila Nova De Paiva,Viseu,Centro,-7.73803,40.77627
+25569569,Bensafrim e Barão de São João,Algarve,313,2025-06-23T18:43:00Z,25569569,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-23T18:43:00Z,Lagos,Faro,Algarve,-8.766807,37.150458
