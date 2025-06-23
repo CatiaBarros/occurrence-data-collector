@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
 25563767,Bemposta,Médio Tejo,311,2025-06-22T15:29:00Z,25563767,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-22T15:29:00Z,Abrantes,Santarém,Centro,-8.173193,39.277957
+25553154,Pedrógão,Baixo Alentejo,312,2025-06-20T12:23:00Z,25553154,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-20T12:23:00Z,Vidigueira,Beja,Alentejo,-7.549947,38.179912
+25565888,Faro (Sé e São Pedro),Algarve,313,2025-06-23T05:36:00Z,25565888,Em curso,2129,Incêndio em edifícios degradados ou devolutos,0,5,0,11,2025-06-23T05:36:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+25565890,Cervães,Cávado,309,2025-06-23T05:42:00Z,25565890,Em despacho,3103,Incêndio rural,0,4,0,17,2025-06-23T05:42:00Z,Vila Verde,Braga,Norte,-8.52222,41.59469
