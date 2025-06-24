@@ -1,12 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25574259,Rossas,Ave,309,2025-06-24T17:03:00Z,25574259,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-24T17:03:00Z,Vieira Do Minho,Braga,Norte,-8.118495,41.598417
-25574208,Ribeirão,Ave,309,2025-06-24T16:51:00Z,25574208,Em conclusão,3103,Incêndio rural,0,3,0,10,2025-06-24T16:51:00Z,Vila Nova De Famalicão,Braga,Norte,-8.582528,41.360623
-25573842,Nossa Senhora da Piedade,Médio Tejo,311,2025-06-24T15:26:00Z,25573842,Em conclusão,3111,Queima,0,0,0,0,2025-06-24T15:26:00Z,Ourém,Santarém,Centro,-8.57387,39.657825
-25574568,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-06-24T18:11:00Z,25574568,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-24T18:11:00Z,Matosinhos,Porto,Norte,-8.699522,41.236271
-25574284,Avintes,Area M. Porto,309,2025-06-24T17:09:00Z,25574284,Em resolução,3103,Incêndio rural,0,3,0,10,2025-06-24T17:09:00Z,Vila Nova De Gaia,Porto,Norte,-8.55742,41.10291
-25574601,Eixo e Eirol,Região de Aveiro,310,2025-06-24T18:29:00Z,25574601,Em despacho,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-24T18:29:00Z,Aveiro,Aveiro,Centro,-8.553114,40.62441
-25574100,Fermentelos,Região de Aveiro,310,2025-06-24T16:24:00Z,25574100,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-24T16:24:00Z,Águeda,Aveiro,Centro,-8.529693,40.558005
-25574295,Vila Velha de Ródão,Beira Baixa,310,2025-06-24T17:08:00Z,25574295,Em conclusão,2301,Incêndio em transporte rodoviário,0,6,0,15,2025-06-24T17:08:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.655218,39.6417
-25574253,Lomba,Area M. Porto,309,2025-06-24T16:59:00Z,25574253,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-24T16:59:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
-25574178,Cavernães,Viseu Dão Lafões,310,2025-06-24T16:42:00Z,25574178,Em resolução,3105,Incêndio rural,0,1,0,2,2025-06-24T16:42:00Z,Viseu,Viseu,Centro,-7.84516,40.709392
+25574716,Campanhã,Area M. Porto,309,2025-06-24T18:53:00Z,25574716,Em despacho,3201,Detritos não confinados,0,0,0,0,2025-06-24T18:53:00Z,Porto,Porto,Norte,-8.575809,41.17717
 25574055,Coronado (São Romão e São Mamede),Area M. Porto,309,2025-06-24T16:07:00Z,25574055,Em conclusão,3101,Incêndio rural,0,9,0,27,2025-06-24T16:07:00Z,Trofa,Porto,Norte,-8.575562,41.283106
+25574253,Lomba,Area M. Porto,309,2025-06-24T16:59:00Z,25574253,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-24T16:59:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
+25574259,Rossas,Ave,309,2025-06-24T17:03:00Z,25574259,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-24T17:03:00Z,Vieira Do Minho,Braga,Norte,-8.118495,41.598417
+25573842,Nossa Senhora da Piedade,Médio Tejo,311,2025-06-24T15:26:00Z,25573842,Em conclusão,3111,Queima,0,0,0,0,2025-06-24T15:26:00Z,Ourém,Santarém,Centro,-8.57387,39.657825
+25574208,Ribeirão,Ave,309,2025-06-24T16:51:00Z,25574208,Em conclusão,3103,Incêndio rural,0,3,0,10,2025-06-24T16:51:00Z,Vila Nova De Famalicão,Braga,Norte,-8.582528,41.360623
+25574295,Vila Velha de Ródão,Beira Baixa,310,2025-06-24T17:08:00Z,25574295,Em conclusão,2301,Incêndio em transporte rodoviário,0,6,0,15,2025-06-24T17:08:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.655218,39.6417
+25574568,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-06-24T18:11:00Z,25574568,Em conclusão,3201,Detritos não confinados,0,1,0,5,2025-06-24T18:11:00Z,Matosinhos,Porto,Norte,-8.699522,41.236271
+25574284,Avintes,Area M. Porto,309,2025-06-24T17:09:00Z,25574284,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-24T17:09:00Z,Vila Nova De Gaia,Porto,Norte,-8.55742,41.10291
+25574601,Eixo e Eirol,Região de Aveiro,310,2025-06-24T18:29:00Z,25574601,Em curso,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-24T18:29:00Z,Aveiro,Aveiro,Centro,-8.553114,40.62441
