@@ -1,12 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25573529,"Sé Nova, Santa Cruz, Almedina e São Bartolomeu",Região de Coimbra,310,2025-06-24T14:21:00Z,25573529,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,2,0,8,2025-06-24T14:21:00Z,Coimbra,Coimbra,Centro,-8.425582,40.205556
-25573145,Nespereira,Ave,309,2025-06-24T12:59:00Z,25573145,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-24T12:59:00Z,Guimarães,Braga,Norte,-8.328117,41.411398
-25572508,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-24T10:55:00Z,25572508,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-24T10:55:00Z,Amarante,Porto,Norte,-8.06252,41.23046
-25573260,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-06-24T13:37:00Z,25573260,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-24T13:37:00Z,Aljustrel,Beja,Alentejo,-8.169328,37.896
 25573630,Sendim,Tâmega e Sousa,309,2025-06-24T14:37:00Z,25573630,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-24T14:37:00Z,Felgueiras,Porto,Norte,-8.189135,41.391572
 25573868,Cristelo,Area M. Porto,309,2025-06-24T15:25:00Z,25573868,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-24T15:25:00Z,Paredes,Porto,Norte,-8.358551,41.228673
-25573498,Fernão Ferro,Península de Setúbal,311,2025-06-24T14:22:00Z,25573498,Em conclusão,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-24T14:22:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.087621,38.571409
-25573791,Matosinhos e Leça da Palmeira,Area M. Porto,309,2025-06-24T15:16:00Z,25573791,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,6,2025-06-24T15:16:00Z,Matosinhos,Porto,Norte,-8.71404,41.203360000000004
+25573891,Campanhã,Area M. Porto,309,2025-06-24T15:38:00Z,25573891,Em curso,3201,Detritos não confinados,0,2,0,11,2025-06-24T15:38:00Z,Porto,Porto,Norte,-8.571785,41.17672
 25573658,Colares,Grande Lisboa,311,2025-06-24T14:42:00Z,25573658,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,11,2025-06-24T14:42:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.461505,38.840719
 25573842,Nossa Senhora da Piedade,Médio Tejo,311,2025-06-24T15:26:00Z,25573842,Em resolução,3111,Queima,0,2,0,7,2025-06-24T15:26:00Z,Ourém,Santarém,Centro,-8.577082,39.6611
-25573595,"São Pedro do Sul, Várzea e Baiões",Viseu Dão Lafões,310,2025-06-24T14:35:00Z,25573595,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,4,0,13,2025-06-24T14:35:00Z,São Pedro Do Sul,Viseu,Centro,-8.082212,40.746241
+25573926,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-24T15:46:00Z,25573926,Em curso,3105,Incêndio rural,0,5,0,19,2025-06-24T15:46:00Z,Beja,Beja,Alentejo,-7.86332,38.02806
+25572508,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-24T10:55:00Z,25572508,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-24T10:55:00Z,Amarante,Porto,Norte,-8.06252,41.23046
+25573944,Romeira e Várzea,Lezíria do Tejo,311,2025-06-24T15:54:00Z,25573944,Em curso,3103,Incêndio rural,1,3,0,15,2025-06-24T15:54:00Z,Santarém,Santarém,Alentejo,-8.718338,39.25924
+25573260,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-06-24T13:37:00Z,25573260,Em conclusão,3105,Incêndio rural,0,1,0,2,2025-06-24T13:37:00Z,Aljustrel,Beja,Alentejo,-8.169328,37.896
+25573595,"São Pedro do Sul, Várzea e Baiões",Viseu Dão Lafões,310,2025-06-24T14:35:00Z,25573595,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,2,0,4,2025-06-24T14:35:00Z,São Pedro Do Sul,Viseu,Centro,-8.082212,40.746241
+25573145,Nespereira,Ave,309,2025-06-24T12:59:00Z,25573145,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-24T12:59:00Z,Guimarães,Braga,Norte,-8.328117,41.411398
