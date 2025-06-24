@@ -1,18 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25570070,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-23T20:41:00Z,25570070,Em conclusão,3103,Incêndio rural,0,5,0,17,2025-06-23T20:41:00Z,Ribeira De Pena,Vila Real,Norte,-7.773593,41.567535
-25570420,Portimão,Algarve,313,2025-06-23T22:10:00Z,25570420,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-23T22:10:00Z,Portimão,Faro,Algarve,-8.539293,37.125328
-25570595,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-23T22:59:00Z,25570595,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-23T22:59:00Z,Gondomar,Porto,Norte,-8.483392,41.08891
-25570620,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-06-23T23:07:00Z,25570620,Em despacho,3203,Detritos confinados,0,1,0,2,2025-06-23T23:07:00Z,Matosinhos,Porto,Norte,-8.65766,41.19129
-25570713,Anta e Guetim,Area M. Porto,309,2025-06-23T23:39:00Z,25570713,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-23T23:39:00Z,Espinho,Aveiro,Norte,-8.633458,41.01489
-25570768,Sobrosa,Area M. Porto,309,2025-06-23T23:55:00Z,25570768,Em despacho,3103,Incêndio rural,0,1,0,3,2025-06-23T23:55:00Z,Paredes,Porto,Norte,-8.359816,41.249381
-25570779,Paredes de Viadores e Manhuncelos,Tâmega e Sousa,309,2025-06-24T00:01:00Z,25570779,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-24T00:01:00Z,Marco De Canaveses,Porto,Norte,-8.141593,41.137453
-25570872,Arcozelo,Area M. Porto,309,2025-06-24T00:24:00Z,25570872,Em conclusão,3111,Queima,0,1,0,5,2025-06-24T00:24:00Z,Vila Nova De Gaia,Porto,Norte,-8.640388,41.056331
-25570895,Bonfim,Area M. Porto,309,2025-06-24T00:44:00Z,25570895,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-24T00:44:00Z,Porto,Porto,Norte,-8.596119,41.151713
-25570610,Lordelo,Area M. Porto,309,2025-06-23T23:05:00Z,25570610,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-23T23:05:00Z,Paredes,Porto,Norte,-8.434205,41.24914
-25570712,Nespereira,Ave,309,2025-06-23T23:38:00Z,25570712,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-23T23:38:00Z,Guimarães,Braga,Norte,-8.328117,41.411398
-25570810,Mira de Aire,Região de Leiria,310,2025-06-24T00:10:00Z,25570810,Em conclusão,3101,Incêndio rural,0,5,0,16,2025-06-24T00:10:00Z,Porto De Mós,Leiria,Centro,-8.706335,39.541667
-25570878,Paranhos,Area M. Porto,309,2025-06-24T00:41:00Z,25570878,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-24T00:41:00Z,Porto,Porto,Norte,-8.60673,41.18558
-25570894,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-06-24T00:39:00Z,25570894,Em despacho,3103,Incêndio rural,0,1,0,4,2025-06-24T00:39:00Z,Gondomar,Porto,Norte,-8.542001,41.19305
+25570473,Gulpilhares e Valadares,Area M. Porto,309,2025-06-23T22:27:00Z,25570473,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-23T22:27:00Z,Vila Nova De Gaia,Porto,Norte,-8.62242,41.07509
+25570592,Arnóia,Tâmega e Sousa,309,2025-06-23T22:58:00Z,25570592,Em resolução,3103,Incêndio rural,0,4,0,16,2025-06-23T22:58:00Z,Celorico De Basto,Braga,Norte,-8.02752,41.387942
+25570624,Tarouquela,Tâmega e Sousa,309,2025-06-23T23:04:00Z,25570624,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-23T23:04:00Z,Cinfães,Viseu,Norte,-8.176833,41.073495
+25570823,Nogueira da Regedoura,Area M. Porto,309,2025-06-23T23:39:00Z,25570823,Em resolução,3103,Incêndio rural,0,2,0,10,2025-06-23T23:39:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.588364,41.002884
+25570826,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-24T00:22:00Z,25570826,Em conclusão,3103,Incêndio rural,0,1,0,4,2025-06-24T00:22:00Z,Gondomar,Porto,Norte,-8.548889,41.15639
+25570856,Paranhos,Area M. Porto,309,2025-06-24T00:34:00Z,25570856,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-24T00:34:00Z,Porto,Porto,Norte,-8.610264,41.18496
+25570858,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-06-24T00:34:00Z,25570858,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,2,0,7,2025-06-24T00:34:00Z,Vila Nova De Gaia,Porto,Norte,-8.623739,41.14142
+25570893,Melres e Medas,Area M. Porto,309,2025-06-24T00:47:00Z,25570893,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-24T00:47:00Z,Gondomar,Porto,Norte,-8.40115,41.06745
+25570908,Braga (São José de São Lázaro e São João do Souto),Cávado,309,2025-06-24T00:55:00Z,25570908,Em despacho,2101,Incêndio em edifícios habitacionais,0,3,0,10,2025-06-24T00:55:00Z,Braga,Braga,Norte,-8.42215,41.5518
+25570925,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-06-24T00:56:00Z,25570925,Em despacho,3201,Detritos não confinados,0,1,0,6,2025-06-24T00:56:00Z,Matosinhos,Porto,Norte,-8.630369,41.188957
 25567641,Ermelo e Pardelhas,Ave,309,2025-06-23T12:29:00Z,25567641,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-23T12:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
 25567709,Agilde,Tâmega e Sousa,309,2025-06-23T12:49:00Z,25567709,Em conclusão,3103,Incêndio rural,0,3,0,7,2025-06-23T12:49:00Z,Celorico De Basto,Braga,Norte,-8.120197,41.374492
 25570331,Castêlo da Maia,Area M. Porto,309,2025-06-23T21:47:00Z,25570331,Em conclusão,3103,Incêndio rural,0,2,0,9,2025-06-23T21:47:00Z,Maia,Porto,Norte,-8.602073,41.246792
@@ -20,17 +16,21 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25570567,Louredo,Area M. Porto,309,2025-06-23T22:48:00Z,25570567,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-23T22:48:00Z,Paredes,Porto,Norte,-8.337111,41.237718
 25570599,Gulpilhares e Valadares,Area M. Porto,309,2025-06-23T22:55:00Z,25570599,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-23T22:55:00Z,Vila Nova De Gaia,Porto,Norte,-8.635397,41.091832
 25570681,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-23T23:26:00Z,25570681,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-23T23:26:00Z,Gondomar,Porto,Norte,-8.507245,41.14244
-25570731,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-06-23T23:46:00Z,25570731,Em curso,3103,Incêndio rural,0,2,0,7,2025-06-23T23:46:00Z,Vila Nova De Gaia,Porto,Norte,-8.60221,41.13795
 25570734,"Cedofeita, Ildefonso, Sé, Miragaia, Nicolau e Vitória",Area M. Porto,309,2025-06-23T23:40:00Z,25570734,Em despacho,2101,Incêndio em edifícios habitacionais,0,3,0,12,2025-06-23T23:40:00Z,Porto,Porto,Norte,-8.62143,41.1444
-25570338,Bucelas,Grande Lisboa,311,2025-06-23T21:42:00Z,25570338,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,2,2025-06-23T21:42:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.110652,38.903044
-25570473,Gulpilhares e Valadares,Area M. Porto,309,2025-06-23T22:27:00Z,25570473,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,5,2025-06-23T22:27:00Z,Vila Nova De Gaia,Porto,Norte,-8.62242,41.07509
-25570592,Arnóia,Tâmega e Sousa,309,2025-06-23T22:58:00Z,25570592,Em resolução,3103,Incêndio rural,0,4,0,16,2025-06-23T22:58:00Z,Celorico De Basto,Braga,Norte,-8.02752,41.387942
-25570624,Tarouquela,Tâmega e Sousa,309,2025-06-23T23:04:00Z,25570624,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-23T23:04:00Z,Cinfães,Viseu,Norte,-8.176833,41.073495
-25570823,Nogueira da Regedoura,Area M. Porto,309,2025-06-23T23:39:00Z,25570823,Em resolução,3103,Incêndio rural,0,2,0,10,2025-06-23T23:39:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.588364,41.002884
-25570826,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-24T00:22:00Z,25570826,Em despacho,3103,Incêndio rural,0,1,0,4,2025-06-24T00:22:00Z,Gondomar,Porto,Norte,-8.548889,41.15639
-25570856,Paranhos,Area M. Porto,309,2025-06-24T00:34:00Z,25570856,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-24T00:34:00Z,Porto,Porto,Norte,-8.610264,41.18496
 25570781,Bougado (São Martinho e Santiago),Area M. Porto,309,2025-06-23T23:58:00Z,25570781,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-23T23:58:00Z,Trofa,Porto,Norte,-8.575079,41.325288
-25570815,Grijó e Sermonde,Area M. Porto,309,2025-06-24T00:17:00Z,25570815,Em curso,3103,Incêndio rural,0,1,0,5,2025-06-24T00:17:00Z,Vila Nova De Gaia,Porto,Norte,-8.579955,41.030201
+25570815,Grijó e Sermonde,Area M. Porto,309,2025-06-24T00:17:00Z,25570815,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-24T00:17:00Z,Vila Nova De Gaia,Porto,Norte,-8.579955,41.030201
+25570070,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-23T20:41:00Z,25570070,Em conclusão,3103,Incêndio rural,0,3,0,10,2025-06-23T20:41:00Z,Ribeira De Pena,Vila Real,Norte,-7.773593,41.567535
+25570420,Portimão,Algarve,313,2025-06-23T22:10:00Z,25570420,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-23T22:10:00Z,Portimão,Faro,Algarve,-8.539293,37.125328
+25570595,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-23T22:59:00Z,25570595,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-23T22:59:00Z,Gondomar,Porto,Norte,-8.483392,41.08891
+25570620,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-06-23T23:07:00Z,25570620,Em despacho,3203,Detritos confinados,0,1,0,2,2025-06-23T23:07:00Z,Matosinhos,Porto,Norte,-8.65766,41.19129
+25570713,Anta e Guetim,Area M. Porto,309,2025-06-23T23:39:00Z,25570713,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-23T23:39:00Z,Espinho,Aveiro,Norte,-8.633458,41.01489
+25570768,Sobrosa,Area M. Porto,309,2025-06-23T23:55:00Z,25570768,Em despacho,3103,Incêndio rural,0,1,0,3,2025-06-23T23:55:00Z,Paredes,Porto,Norte,-8.359816,41.249381
+25570872,Arcozelo,Area M. Porto,309,2025-06-24T00:24:00Z,25570872,Em conclusão,3111,Queima,0,1,0,5,2025-06-24T00:24:00Z,Vila Nova De Gaia,Porto,Norte,-8.640388,41.056331
+25570911,Vila Chã,Area M. Porto,309,2025-06-24T00:48:00Z,25570911,Em despacho,3203,Detritos confinados,0,1,0,5,2025-06-24T00:48:00Z,Vila Do Conde,Porto,Norte,-8.732506,41.299363
+25570712,Nespereira,Ave,309,2025-06-23T23:38:00Z,25570712,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-23T23:38:00Z,Guimarães,Braga,Norte,-8.328117,41.411398
+25570810,Mira de Aire,Região de Leiria,310,2025-06-24T00:10:00Z,25570810,Em conclusão,3105,Incêndio rural,0,3,0,9,2025-06-24T00:10:00Z,Porto De Mós,Leiria,Centro,-8.706335,39.541667
+25570878,Paranhos,Area M. Porto,309,2025-06-24T00:41:00Z,25570878,Em conclusão,3103,Incêndio rural,0,1,0,3,2025-06-24T00:41:00Z,Porto,Porto,Norte,-8.60673,41.18558
+25570894,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-06-24T00:39:00Z,25570894,Em resolução,3103,Incêndio rural,0,1,0,4,2025-06-24T00:39:00Z,Gondomar,Porto,Norte,-8.542001,41.19305
 25570832,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-23T23:59:00Z,25570832,Em resolução,3103,Incêndio rural,0,1,0,3,2025-06-23T23:59:00Z,Gondomar,Porto,Norte,-8.511531,41.155311
 25570849,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-06-24T00:32:00Z,25570849,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,6,2025-06-24T00:32:00Z,Gondomar,Porto,Norte,-8.533628,41.12963
-25570866,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-06-24T00:37:00Z,25570866,Em despacho,3203,Detritos confinados,0,1,0,4,2025-06-24T00:37:00Z,Matosinhos,Porto,Norte,-8.644425,41.20457
+25570866,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-06-24T00:37:00Z,25570866,Em conclusão,3203,Detritos confinados,0,1,0,4,2025-06-24T00:37:00Z,Matosinhos,Porto,Norte,-8.644425,41.20457
