@@ -1,5 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25571708,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-24T08:30:00Z,25571708,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-24T08:30:00Z,Ribeira De Pena,Vila Real,Norte,-7.781863,41.567812000000004
-25571682,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-06-24T08:27:00Z,25571682,Em conclusão,3203,Detritos confinados,0,1,0,4,2025-06-24T08:27:00Z,Matosinhos,Porto,Norte,-8.725035,41.26257
+25572092,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-06-24T09:36:00Z,25572092,Em curso,2201,Incêndio em equipamentos ou produtos,0,2,0,7,2025-06-24T09:36:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.098065,38.824783
+25571982,Ferreira de Aves,Viseu Dão Lafões,310,2025-06-24T09:25:00Z,25571982,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,6,2025-06-24T09:25:00Z,Sátão,Viseu,Centro,-7.705354,40.799492
+25571771,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-24T08:43:00Z,25571771,Em resolução,3103,Incêndio rural,0,1,0,4,2025-06-24T08:43:00Z,Gondomar,Porto,Norte,-8.494985,41.14291
 25571448,Azambuja,Lezíria do Tejo,311,2025-06-24T07:17:00Z,25571448,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-24T07:17:00Z,Azambuja,Lisboa,Alentejo,-8.864506,39.067885
+25572041,Rebordosa,Area M. Porto,309,2025-06-24T09:29:00Z,25572041,Em conclusão,3103,Incêndio rural,0,2,0,4,2025-06-24T09:29:00Z,Paredes,Porto,Norte,-8.387338,41.223758
+25571682,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-06-24T08:27:00Z,25571682,Em conclusão,3203,Detritos confinados,0,1,0,4,2025-06-24T08:27:00Z,Matosinhos,Porto,Norte,-8.725035,41.26257
+25571818,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-06-24T08:52:00Z,25571818,Em curso,3103,Incêndio rural,0,5,0,17,2025-06-24T08:52:00Z,Gondomar,Porto,Norte,-8.50782,41.15192
 25571786,Mourão,Alentejo Central,312,2025-06-24T08:45:00Z,25571786,Em despacho,3111,Queima,0,2,0,7,2025-06-24T08:45:00Z,Mourão,Évora,Alentejo,-7.350227,38.385667
