@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25576134,Eja,Tâmega e Sousa,309,2025-06-25T06:56:00Z,25576134,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-25T06:56:00Z,Penafiel,Porto,Norte,-8.302305,41.088628
-25576186,Alfragide,Grande Lisboa,311,2025-06-25T07:19:00Z,25576186,Em curso,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-25T07:19:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.21252,38.7242
-25576243,Portimão,Algarve,313,2025-06-25T07:38:00Z,25576243,Em curso,2101,Incêndio em edifícios habitacionais,0,4,0,11,2025-06-25T07:38:00Z,Portimão,Faro,Algarve,-8.547685,37.13488
+25576329,Albufeira e Olhos de Água,Algarve,313,2025-06-25T08:05:00Z,25576329,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-25T08:05:00Z,Albufeira,Faro,Algarve,-8.22566,37.09237
+25576186,Alfragide,Grande Lisboa,311,2025-06-25T07:19:00Z,25576186,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,10,2025-06-25T07:19:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.21252,38.7242
+25576243,Portimão,Algarve,313,2025-06-25T07:38:00Z,25576243,Em resolução,2101,Incêndio em edifícios habitacionais,0,4,0,11,2025-06-25T07:38:00Z,Portimão,Faro,Algarve,-8.547685,37.13488
+25576293,Aveiras de Baixo,Lezíria do Tejo,311,2025-06-25T07:56:00Z,25576293,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-25T07:56:00Z,Azambuja,Lisboa,Alentejo,-8.826556,39.086132
