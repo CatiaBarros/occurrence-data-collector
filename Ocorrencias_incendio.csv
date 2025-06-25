@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25575692,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-24T23:56:00Z,25575692,Em conclusão,3105,Incêndio rural,0,2,0,7,2025-06-24T23:56:00Z,Moura,Beja,Alentejo,-7.46704,38.132933
-25575772,Santa Joana,Região de Aveiro,310,2025-06-25T00:31:00Z,25575772,Em curso,3203,Detritos confinados,0,1,0,5,2025-06-25T00:31:00Z,Aveiro,Aveiro,Centro,-8.616608,40.631861
-25575722,Asseiceira,Médio Tejo,311,2025-06-25T00:14:00Z,25575722,Em curso,2301,Incêndio em transporte rodoviário,0,4,0,10,2025-06-25T00:14:00Z,Tomar,Santarém,Centro,-8.38863,39.54108
-25575386,Este (São Pedro e São Mamede),Cávado,309,2025-06-24T22:04:00Z,25575386,Em conclusão,3103,Incêndio rural,0,12,0,49,2025-06-24T22:04:00Z,Braga,Braga,Norte,-8.3601,41.55987
+25575868,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-06-25T01:43:00Z,25575868,Em conclusão,3103,Incêndio rural,0,1,0,4,2025-06-25T01:43:00Z,Gondomar,Porto,Norte,-8.505587,41.112837
+25575960,Ermesinde,Area M. Porto,309,2025-06-25T03:19:00Z,25575960,Em despacho,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-25T03:19:00Z,Valongo,Porto,Norte,-8.548324,41.20528
+25575722,Asseiceira,Médio Tejo,311,2025-06-25T00:14:00Z,25575722,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,10,2025-06-25T00:14:00Z,Tomar,Santarém,Centro,-8.38863,39.54108
+25575856,Nossa Senhora Das Neves,Baixo Alentejo,312,2025-06-25T01:32:00Z,25575856,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-25T01:32:00Z,Beja,Beja,Alentejo,-7.80618,38.010457
+25575870,Eja,Tâmega e Sousa,309,2025-06-25T01:46:00Z,25575870,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-25T01:46:00Z,Penafiel,Porto,Norte,-8.300588,41.088347
