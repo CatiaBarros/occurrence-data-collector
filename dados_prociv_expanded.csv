@@ -1,11 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25575868,"Gondomar (São Cosme), Valbom e Jovim","Area M. Porto",309,"2025-06-25T01:43:00",25575868,"Em conclusão","3103","Incêndio rural",0,1,0,4,"2025-06-25T01:43:00","Gondomar","Porto","Norte",-8.505587,41.112837
-25575892,"Almancil","Algarve",313,"2025-06-25T01:58:00",25575892,"Em conclusão","2407","Despiste",0,3,0,8,"2025-06-25T01:58:00","Loulé","Faro","Algarve",-8.031876,37.059307
-25575901,"Amiais de Baixo","Lezíria do Tejo",311,"2025-06-25T02:15:00",25575901,"Em conclusão","2407","Despiste",0,2,0,7,"2025-06-25T02:15:00","Santarém","Santarém","Alentejo",-8.736875,39.443725
-25575960,"Ermesinde","Area M. Porto",309,"2025-06-25T03:19:00",25575960,"Em despacho","2301","Incêndio em transporte rodoviário",0,0,0,0,"2025-06-25T03:19:00","Valongo","Porto","Norte",-8.548324,41.20528
-25575722,"Asseiceira","Médio Tejo",311,"2025-06-25T00:14:00",25575722,"Em conclusão","2301","Incêndio em transporte rodoviário",0,4,0,10,"2025-06-25T00:14:00","Tomar","Santarém","Centro",-8.38863,39.54108
 25575856,"Nossa Senhora Das Neves","Baixo Alentejo",312,"2025-06-25T01:32:00",25575856,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-06-25T01:32:00","Beja","Beja","Alentejo",-7.80618,38.010457
-25575870,"Eja","Tâmega e Sousa",309,"2025-06-25T01:46:00",25575870,"Em conclusão","3103","Incêndio rural",0,3,0,15,"2025-06-25T01:46:00","Penafiel","Porto","Norte",-8.300588,41.088347
+25575870,"Eja","Tâmega e Sousa",309,"2025-06-25T01:46:00",25575870,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-06-25T01:46:00","Penafiel","Porto","Norte",-8.300588,41.088347
+25575892,"Almancil","Algarve",313,"2025-06-25T01:58:00",25575892,"Em conclusão","2407","Despiste",0,3,0,8,"2025-06-25T01:58:00","Loulé","Faro","Algarve",-8.031876,37.059307
+25575996,"Benavente","Lezíria do Tejo",311,"2025-06-25T04:03:00",25575996,"Em resolução","3101","Incêndio rural",0,4,0,14,"2025-06-25T04:03:00","Benavente","Santarém","Alentejo",-8.786637,38.937427
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25574660,"Paredes","Area M. Porto",309,"2025-06-24T18:39:00",25574660,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-24T18:39:00","Paredes","Porto","Norte",-8.340526,41.21359
-25575932,"Rio de Mouro","Grande Lisboa",311,"2025-06-25T02:44:00",25575932,"Em despacho","3321","Dano na rede de fornecimento de eletricidade ",0,1,0,2,"2025-06-25T02:44:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.338855,38.74744
