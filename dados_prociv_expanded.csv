@@ -1,5 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25575870,"Eja","Tâmega e Sousa",309,"2025-06-25T01:46:00",25575870,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-06-25T01:46:00","Penafiel","Porto","Norte",-8.300588,41.088347
+25576267,"Peniche","Oeste",311,"2025-06-25T07:38:00",25576267,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-25T07:38:00","Peniche","Leiria","Centro",-9.376833,39.357166
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25576102,"Destriz e Reigoso","Viseu Dão Lafões",310,"2025-06-25T06:32:00",25576102,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,1,"2025-06-25T06:32:00","Oliveira De Frades","Viseu","Centro",-8.276166,40.671374
-25576134,"Eja","Tâmega e Sousa",309,"2025-06-25T06:56:00",25576134,"Em despacho","3103","Incêndio rural",0,0,0,0,"2025-06-25T06:56:00","Penafiel","Porto","Norte",-8.30232,41.08636
+25576134,"Eja","Tâmega e Sousa",309,"2025-06-25T06:56:00",25576134,"Em conclusão","3103","Incêndio rural",0,0,0,0,"2025-06-25T06:56:00","Penafiel","Porto","Norte",-8.302305,41.088628
+25576186,"Alfragide","Grande Lisboa",311,"2025-06-25T07:19:00",25576186,"Em curso","2301","Incêndio em transporte rodoviário",0,3,0,10,"2025-06-25T07:19:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.21252,38.7242
+25576243,"Portimão","Algarve",313,"2025-06-25T07:38:00",25576243,"Em curso","2101","Incêndio em edifícios habitacionais",0,4,0,11,"2025-06-25T07:38:00","Portimão","Faro","Algarve",-8.547685,37.13488
