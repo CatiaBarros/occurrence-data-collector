@@ -1,7 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25577437,Penude,Douro,309,2025-06-25T11:15:00Z,25577437,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-25T11:15:00Z,Lamego,Viseu,Norte,-7.868872,41.067995
-25576293,Aveiras de Baixo,Lezíria do Tejo,311,2025-06-25T07:56:00Z,25576293,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-25T07:56:00Z,Azambuja,Lisboa,Alentejo,-8.826556,39.086132
+25577896,Loures,Grande Lisboa,311,2025-06-25T12:44:00Z,25577896,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-25T12:44:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.19127,38.86238
 25577461,"Coruche, Fajarda e Erra",Lezíria do Tejo,311,2025-06-25T11:21:00Z,25577461,Em conclusão,3101,Incêndio rural,0,2,0,7,2025-06-25T11:21:00Z,Coruche,Santarém,Alentejo,-8.522068,38.974268
 25577645,Vila Nova do Ceira,Região de Coimbra,310,2025-06-25T11:50:00Z,25577645,Em conclusão,3111,Queima,0,3,0,11,2025-06-25T11:50:00Z,Góis,Coimbra,Centro,-8.16944,40.17361
 25577728,Coronado (São Romão e São Mamede),Area M. Porto,309,2025-06-25T12:00:00Z,25577728,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-25T12:00:00Z,Trofa,Porto,Norte,-8.569239,41.280597
-25577776,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-25T12:16:00Z,25577776,Em conclusão,3101,Incêndio rural,0,3,0,13,2025-06-25T12:16:00Z,Gondomar,Porto,Norte,-8.499458,41.111486
+25577776,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-25T12:16:00Z,25577776,Em conclusão,3101,Incêndio rural,0,1,0,4,2025-06-25T12:16:00Z,Gondomar,Porto,Norte,-8.499458,41.111486
+25577900,Lomba,Area M. Porto,309,2025-06-25T12:44:00Z,25577900,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-25T12:44:00Z,Gondomar,Porto,Norte,-8.42609,41.03179
+25577902,"Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",Beiras e Serra da Estrela,310,2025-06-25T12:39:00Z,25577902,Em curso,2301,Incêndio em transporte rodoviário,0,5,0,19,2025-06-25T12:39:00Z,Fundão,Castelo Branco,Centro,-7.505345,40.138491
+25577919,Linhares,Beiras e Serra da Estrela,310,2025-06-25T12:50:00Z,25577919,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-25T12:50:00Z,Celorico Da Beira,Guarda,Centro,-7.46222,40.53988
