@@ -1,20 +1,21 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25584463,São Pedro da Cadeira,Oeste,311,2025-06-26T18:39:00Z,25584463,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-26T18:39:00Z,Torres Vedras,Lisboa,Centro,-9.419108,39.075213
-25584612,Cortes do Meio,Beiras e Serra da Estrela,310,2025-06-26T19:22:00Z,25584612,Em conclusão,3103,Incêndio rural,0,8,0,26,2025-06-26T19:22:00Z,Covilhã,Castelo Branco,Centro,-7.605067,40.232878
-25584694,Sabadim,Alto Minho,309,2025-06-26T19:46:00Z,25584694,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,3,2025-06-26T19:46:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.465439,41.906862
-25583871,Pardilhó,Região de Aveiro,310,2025-06-26T16:20:00Z,25583871,Em conclusão,3103,Incêndio rural,0,4,0,9,2025-06-26T16:20:00Z,Estarreja,Aveiro,Centro,-8.601957,40.787833
+25584612,Cortes do Meio,Beiras e Serra da Estrela,310,2025-06-26T19:22:00Z,25584612,Em conclusão,3105,Incêndio rural,0,6,0,20,2025-06-26T19:22:00Z,Covilhã,Castelo Branco,Centro,-7.605067,40.232878
+25584694,Sabadim,Alto Minho,309,2025-06-26T19:46:00Z,25584694,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-26T19:46:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.465439,41.906862
+25583871,Pardilhó,Região de Aveiro,310,2025-06-26T16:20:00Z,25583871,Em conclusão,3103,Incêndio rural,0,3,0,7,2025-06-26T16:20:00Z,Estarreja,Aveiro,Centro,-8.601957,40.787833
 25584255,Seiça,Médio Tejo,311,2025-06-26T17:53:00Z,25584255,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-26T17:53:00Z,Ourém,Santarém,Centro,-8.550232,39.653094
-25584457,"Messegães, Valadares e Sá",Alto Minho,309,2025-06-26T18:45:00Z,25584457,Em resolução,3103,Incêndio rural,1,4,0,16,2025-06-26T18:45:00Z,Monção,Viana Do Castelo,Norte,-8.374895,42.075813
+25584457,"Messegães, Valadares e Sá",Alto Minho,309,2025-06-26T18:45:00Z,25584457,Em resolução,3103,Incêndio rural,0,5,0,14,2025-06-26T18:45:00Z,Monção,Viana Do Castelo,Norte,-8.374895,42.075813
 25584648,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-06-26T19:31:00Z,25584648,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-26T19:31:00Z,Beja,Beja,Alentejo,-7.865752,38.029935
+25584777,Milheirós,Area M. Porto,309,2025-06-26T20:12:00Z,25584777,Em conclusão,3103,Incêndio rural,0,3,0,11,2025-06-26T20:12:00Z,Maia,Porto,Norte,-8.587602,41.2189
 25583887,Alfaiates,Beiras e Serra da Estrela,310,2025-06-26T16:25:00Z,25583887,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-26T16:25:00Z,Sabugal,Guarda,Centro,-6.948192,40.392977
-25584002,Ruivães e Novais,Ave,309,2025-06-26T16:56:00Z,25584002,Em conclusão,3103,Incêndio rural,0,2,0,9,2025-06-26T16:56:00Z,Vila Nova De Famalicão,Braga,Norte,-8.427715,41.394348
-25584103,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-26T17:12:00Z,25584103,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-26T17:12:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.444468,41.01122
+25584002,Ruivães e Novais,Ave,309,2025-06-26T16:56:00Z,25584002,Em conclusão,3103,Incêndio rural,0,3,0,11,2025-06-26T16:56:00Z,Vila Nova De Famalicão,Braga,Norte,-8.427715,41.394348
 25584385,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-06-26T18:20:00Z,25584385,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-26T18:20:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.172622,38.674612
 25584553,Marmelete,Algarve,313,2025-06-26T19:07:00Z,25584553,Em conclusão,3103,Incêndio rural,0,6,0,21,2025-06-26T19:07:00Z,Monchique,Faro,Algarve,-8.688339,37.348177
 25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
 25583390,Reguengos de Monsaraz,Alentejo Central,312,2025-06-26T14:40:00Z,25583390,Em conclusão,3105,Incêndio rural,0,10,0,29,2025-06-26T14:40:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.569853,38.418395
 25583929,Vau,Oeste,311,2025-06-26T16:37:00Z,25583929,Em conclusão,3101,Incêndio rural,0,5,0,18,2025-06-26T16:37:00Z,Óbidos,Leiria,Centro,-9.228133,39.416313
 25583983,Seiça,Médio Tejo,311,2025-06-26T16:48:00Z,25583983,Em conclusão,3103,Incêndio rural,0,13,0,42,2025-06-26T16:48:00Z,Ourém,Santarém,Centro,-8.550232,39.653094
-25584474,Silgueiros,Viseu Dão Lafões,310,2025-06-26T18:49:00Z,25584474,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,4,2025-06-26T18:49:00Z,Viseu,Viseu,Centro,-7.975187,40.555807
-25584617,Redondelo,Alto Tâmega e Barroso,309,2025-06-26T19:23:00Z,25584617,Em conclusão,3103,Incêndio rural,1,4,0,24,2025-06-26T19:23:00Z,Chaves,Vila Real,Norte,-7.564833,41.712678
-25584717,Barreiro de Besteiros e Tourigo,Viseu Dão Lafões,310,2025-06-26T19:51:00Z,25584717,Em resolução,3103,Incêndio rural,1,6,0,25,2025-06-26T19:51:00Z,Tondela,Viseu,Centro,-8.1664,40.51504
+25584617,Redondelo,Alto Tâmega e Barroso,309,2025-06-26T19:23:00Z,25584617,Em conclusão,3103,Incêndio rural,0,3,0,13,2025-06-26T19:23:00Z,Chaves,Vila Real,Norte,-7.564833,41.712678
+25584717,Barreiro de Besteiros e Tourigo,Viseu Dão Lafões,310,2025-06-26T19:51:00Z,25584717,Em resolução,3103,Incêndio rural,0,5,0,19,2025-06-26T19:51:00Z,Tondela,Viseu,Centro,-8.167743,40.516343
+25584788,Cabanelas,Cávado,309,2025-06-26T20:16:00Z,25584788,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-26T20:16:00Z,Vila Verde,Braga,Norte,-8.486263,41.59424
+25584819,Sabadim,Alto Minho,309,2025-06-26T20:19:00Z,25584819,Em resolução,3103,Incêndio rural,0,2,0,4,2025-06-26T20:19:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.461548,41.906218
+25584838,Estremoz (Santa Maria e Santo André),Alentejo Central,312,2025-06-26T20:28:00Z,25584838,Em despacho,3103,Incêndio rural,0,2,0,7,2025-06-26T20:28:00Z,Estremoz,Évora,Alentejo,-7.57887,38.84467
