@@ -1,13 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
-25585342,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-26T22:33:00Z,25585342,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-26T22:33:00Z,Gondomar,Porto,Norte,-8.498568,41.11365
-25585403,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-26T22:56:00Z,25585403,Em curso,3103,Incêndio rural,0,2,0,10,2025-06-26T22:56:00Z,Santo Tirso,Porto,Norte,-8.49978,41.35172
-25585417,Coronado (São Romão e São Mamede),Area M. Porto,309,2025-06-26T22:55:00Z,25585417,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-26T22:55:00Z,Trofa,Porto,Norte,-8.58197,41.27948
-25585373,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-26T22:44:00Z,25585373,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-26T22:44:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.185875,38.61023
-25585488,Castelo Branco,Beira Baixa,310,2025-06-26T23:25:00Z,25585488,Em resolução,3103,Incêndio rural,0,3,0,12,2025-06-26T23:25:00Z,Castelo Branco,Castelo Branco,Centro,-7.511017,39.82022
 25584457,"Messegães, Valadares e Sá",Alto Minho,309,2025-06-26T18:45:00Z,25584457,Em conclusão,3103,Incêndio rural,0,6,0,16,2025-06-26T18:45:00Z,Monção,Viana Do Castelo,Norte,-8.374895,42.075813
-25585100,Labruja,Alto Minho,309,2025-06-26T21:10:00Z,25585100,Em conclusão,3101,Incêndio rural,0,1,0,2,2025-06-26T21:10:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.591375,41.835232
-25585309,Ancede e Ribadouro,Tâmega e Sousa,309,2025-06-26T22:17:00Z,25585309,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-26T22:17:00Z,Baião,Porto,Norte,-8.059632,41.1072
-25585502,Sebal e Belide,Região de Coimbra,310,2025-06-26T23:29:00Z,25585502,Em despacho,3101,Incêndio rural,0,4,0,14,2025-06-26T23:29:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.536649,40.118765
+25585100,Labruja,Alto Minho,309,2025-06-26T21:10:00Z,25585100,Em conclusão,3101,Incêndio rural,0,0,0,0,2025-06-26T21:10:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.591375,41.835232
+25585502,Sebal e Belide,Região de Coimbra,310,2025-06-26T23:29:00Z,25585502,Em conclusão,3111,Queima,0,2,0,7,2025-06-26T23:29:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.536649,40.118765
+25585534,Olhão,Algarve,313,2025-06-26T23:39:00Z,25585534,Em resolução,3103,Incêndio rural,0,1,0,1,2025-06-26T23:39:00Z,Olhão,Faro,Algarve,-7.843133,37.022054
 25585329,Carvalhais e Candal,Viseu Dão Lafões,310,2025-06-26T22:28:00Z,25585329,Em resolução,3103,Incêndio rural,0,7,0,22,2025-06-26T22:28:00Z,São Pedro Do Sul,Viseu,Centro,-8.115548,40.793175
 25585498,Faro (Sé e São Pedro),Algarve,313,2025-06-26T23:26:00Z,25585498,Em despacho,2129,Incêndio em edifícios degradados ou devolutos,0,4,0,10,2025-06-26T23:26:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
+25585342,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-26T22:33:00Z,25585342,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-26T22:33:00Z,Gondomar,Porto,Norte,-8.498568,41.11365
+25585403,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-26T22:56:00Z,25585403,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-26T22:56:00Z,Santo Tirso,Porto,Norte,-8.49978,41.35172
+25585417,Coronado (São Romão e São Mamede),Area M. Porto,309,2025-06-26T22:55:00Z,25585417,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-26T22:55:00Z,Trofa,Porto,Norte,-8.58197,41.27948
+25585373,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-06-26T22:44:00Z,25585373,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-26T22:44:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.185875,38.61023
+25585488,Castelo Branco,Beira Baixa,310,2025-06-26T23:25:00Z,25585488,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-26T23:25:00Z,Castelo Branco,Castelo Branco,Centro,-7.51228,39.821857
+25585572,Sobral de Monte Agraço,Oeste,311,2025-06-26T23:54:00Z,25585572,Em curso,2129,Incêndio em edifícios degradados ou devolutos,0,4,0,12,2025-06-26T23:54:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.151478,39.017089
