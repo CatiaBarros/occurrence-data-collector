@@ -1,12 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25582165,Mancelos,Tâmega e Sousa,309,2025-06-26T10:40:00Z,25582165,Em despacho,3101,Incêndio rural,0,1,0,5,2025-06-26T10:40:00Z,Amarante,Porto,Norte,-8.160586,41.275715
+25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
+25582018,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-06-26T10:11:00Z,25582018,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-26T10:11:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.116117,38.88138
+25582027,Silvalde,Area M. Porto,309,2025-06-26T10:20:00Z,25582027,Em despacho,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-26T10:20:00Z,Espinho,Aveiro,Norte,-8.6403199999999991,40.99543
+25582141,Parada de Todeia,Area M. Porto,309,2025-06-26T10:37:00Z,25582141,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-26T10:37:00Z,Paredes,Porto,Norte,-8.3751,41.17024
+25582165,Mancelos,Tâmega e Sousa,309,2025-06-26T10:40:00Z,25582165,Em resolução,3101,Incêndio rural,0,1,0,5,2025-06-26T10:40:00Z,Amarante,Porto,Norte,-8.151085,41.270132
+25582249,Casal de Cambra,Grande Lisboa,311,2025-06-26T10:57:00Z,25582249,Em despacho,2201,Incêndio em equipamentos ou produtos,0,0,0,0,2025-06-26T10:57:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.228704,38.798545
+25581054,Beringel,Baixo Alentejo,312,2025-06-26T06:48:00Z,25581054,Em conclusão,2301,Incêndio em transporte rodoviário,0,11,0,27,2025-06-26T06:48:00Z,Beja,Beja,Alentejo,-8.009313,38.05808
+25582057,Carregosa,Area M. Porto,309,2025-06-26T10:24:00Z,25582057,Em conclusão,3103,Incêndio rural,1,3,0,21,2025-06-26T10:24:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.413127,40.881882
+25582107,Alvarelhos e Guidões,Area M. Porto,309,2025-06-26T10:32:00Z,25582107,Em despacho,3103,Incêndio rural,1,5,0,28,2025-06-26T10:32:00Z,Trofa,Porto,Norte,-8.609605,41.309843
+25582240,Lagoa e Carvoeiro,Algarve,313,2025-06-26T10:54:00Z,25582240,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,4,2025-06-26T10:54:00Z,Lagoa,Faro,Algarve,-8.449309,37.134614
 25581392,Távora (Santa Maria e São Vicente),Alto Minho,309,2025-06-26T08:33:00Z,25581392,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,3,0,7,2025-06-26T08:33:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.454568,41.813907
 25581724,Reguengo do Fetal,Região de Leiria,310,2025-06-26T09:33:00Z,25581724,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,4,2025-06-26T09:33:00Z,Batalha,Leiria,Centro,-8.725862,39.656713
-25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
-25581573,Rio Mau,Tâmega e Sousa,309,2025-06-26T09:08:00Z,25581573,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,2,0,7,2025-06-26T09:08:00Z,Penafiel,Porto,Norte,-8.369792,41.052555
-25582018,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-06-26T10:11:00Z,25582018,Em curso,3103,Incêndio rural,0,2,0,6,2025-06-26T10:11:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.116117,38.88138
-25582027,Silvalde,Area M. Porto,309,2025-06-26T10:20:00Z,25582027,Em despacho,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-26T10:20:00Z,Espinho,Aveiro,Norte,-8.6403199999999991,40.99543
-25582141,Parada de Todeia,Area M. Porto,309,2025-06-26T10:37:00Z,25582141,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-26T10:37:00Z,Paredes,Porto,Norte,-8.3751,41.17024
-25581054,Beringel,Baixo Alentejo,312,2025-06-26T06:48:00Z,25581054,Em conclusão,2301,Incêndio em transporte rodoviário,0,12,0,29,2025-06-26T06:48:00Z,Beja,Beja,Alentejo,-8.009313,38.05808
-25582057,Carregosa,Area M. Porto,309,2025-06-26T10:24:00Z,25582057,Em curso,3103,Incêndio rural,1,3,0,21,2025-06-26T10:24:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.413127,40.881882
-25582107,Alvarelhos e Guidões,Area M. Porto,309,2025-06-26T10:32:00Z,25582107,Em despacho,3103,Incêndio rural,1,0,0,6,2025-06-26T10:32:00Z,Trofa,Porto,Norte,-8.609605,41.309843
