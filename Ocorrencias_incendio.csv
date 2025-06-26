@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25580847,Redondelo,Alto Tâmega e Barroso,309,2025-06-26T02:55:00Z,25580847,Em curso,3103,Incêndio rural,0,3,0,15,2025-06-26T02:55:00Z,Chaves,Vila Real,Norte,-7.564263,41.712628
-25580823,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-06-26T02:35:00Z,25580823,Em conclusão,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,3,0,10,2025-06-26T02:35:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.386625,38.864375
-25580864,Barreiro e Lavradio,Península de Setúbal,311,2025-06-26T03:25:00Z,25580864,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-26T03:25:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.054663,38.66848
-25580677,Vila Nova da Baronia,Baixo Alentejo,312,2025-06-26T00:42:00Z,25580677,Em conclusão,3105,Incêndio rural,0,9,0,28,2025-06-26T00:42:00Z,Alvito,Beja,Alentejo,-8.062068,38.269747
+25580847,Redondelo,Alto Tâmega e Barroso,309,2025-06-26T02:55:00Z,25580847,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-26T02:55:00Z,Chaves,Vila Real,Norte,-7.564263,41.712628
+25580931,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-06-26T04:35:00Z,25580931,Em despacho,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,11,2025-06-26T04:35:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.790194,39.028695
