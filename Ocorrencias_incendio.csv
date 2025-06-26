@@ -1,15 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25582780,Esgueira,Região de Aveiro,310,2025-06-26T12:38:00Z,25582780,Em resolução,3111,Queima,0,1,0,4,2025-06-26T12:38:00Z,Aveiro,Aveiro,Centro,-8.602257,40.651293
-25582628,Coura,Alto Minho,309,2025-06-26T12:07:00Z,25582628,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,3,2025-06-26T12:07:00Z,Paredes De Coura,Viana Do Castelo,Norte,-8.652671,41.877205
-25582719,"Azinhal, Peva e Valverde",Beiras e Serra da Estrela,310,2025-06-26T12:28:00Z,25582719,Em conclusão,3103,Incêndio rural,1,3,0,15,2025-06-26T12:28:00Z,Almeida,Guarda,Centro,-6.96825,40.64631
-25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
-25582141,Parada de Todeia,Area M. Porto,309,2025-06-26T10:37:00Z,25582141,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-26T10:37:00Z,Paredes,Porto,Norte,-8.37966,41.170285
-25582684,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-06-26T12:15:00Z,25582684,Em despacho,3203,Detritos confinados,0,1,0,5,2025-06-26T12:15:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955
-25582686,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-26T12:21:00Z,25582686,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,6,2025-06-26T12:21:00Z,Moura,Beja,Alentejo,-7.451535,38.144782
+25582780,Esgueira,Região de Aveiro,310,2025-06-26T12:38:00Z,25582780,Em conclusão,3111,Queima,0,1,0,4,2025-06-26T12:38:00Z,Aveiro,Aveiro,Centro,-8.602257,40.651293
 25581054,Beringel,Baixo Alentejo,312,2025-06-26T06:48:00Z,25581054,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,5,2025-06-26T06:48:00Z,Beja,Beja,Alentejo,-8.009313,38.05808
-25582057,Carregosa,Area M. Porto,309,2025-06-26T10:24:00Z,25582057,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-26T10:24:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.413127,40.881882
 25582107,Alvarelhos e Guidões,Area M. Porto,309,2025-06-26T10:32:00Z,25582107,Em conclusão,3103,Incêndio rural,0,4,0,17,2025-06-26T10:32:00Z,Trofa,Porto,Norte,-8.616612,41.314995
 25582458,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-26T11:28:00Z,25582458,Em conclusão,3101,Incêndio rural,0,1,0,4,2025-06-26T11:28:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.489392,40.943803
 25582505,Gulpilhares e Valadares,Area M. Porto,309,2025-06-26T09:18:00Z,25582505,Em conclusão,3103,Incêndio rural,0,1,0,2,2025-06-26T09:18:00Z,Vila Nova De Gaia,Porto,Norte,-8.635397,41.091832
 25582755,Cendufe,Alto Minho,309,2025-06-26T12:34:00Z,25582755,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-26T12:34:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.495175,41.814215
-25582825,Cabanelas,Cávado,309,2025-06-26T12:49:00Z,25582825,Em despacho,3111,Queima,0,0,0,0,2025-06-26T12:49:00Z,Vila Verde,Braga,Norte,-8.48574,41.59424
+25582825,Cabanelas,Cávado,309,2025-06-26T12:49:00Z,25582825,Em despacho,3111,Queima,0,2,0,7,2025-06-26T12:49:00Z,Vila Verde,Braga,Norte,-8.48574,41.59424
+25582873,Rossas,Ave,309,2025-06-26T12:59:00Z,25582873,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-26T12:59:00Z,Vieira Do Minho,Braga,Norte,-8.118495,41.598417
+25582875,Chã,Alto Tâmega e Barroso,309,2025-06-26T12:51:00Z,25582875,Em despacho,3103,Incêndio rural,1,4,0,26,2025-06-26T12:51:00Z,Montalegre,Vila Real,Norte,-7.8119440000000004,41.788484
+25582628,Coura,Alto Minho,309,2025-06-26T12:07:00Z,25582628,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,3,2025-06-26T12:07:00Z,Paredes De Coura,Viana Do Castelo,Norte,-8.652671,41.877205
+25582719,"Azinhal, Peva e Valverde",Beiras e Serra da Estrela,310,2025-06-26T12:28:00Z,25582719,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-26T12:28:00Z,Almeida,Guarda,Centro,-6.96825,40.64631
+25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
+25582141,Parada de Todeia,Area M. Porto,309,2025-06-26T10:37:00Z,25582141,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-26T10:37:00Z,Paredes,Porto,Norte,-8.37966,41.170285
+25582686,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-06-26T12:21:00Z,25582686,Em conclusão,2301,Incêndio em transporte rodoviário,0,0,0,0,2025-06-26T12:21:00Z,Moura,Beja,Alentejo,-7.451535,38.144782
