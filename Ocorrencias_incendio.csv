@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25581677,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-06-26T09:25:00Z,25581677,Em conclusão,3201,Detritos não confinados,0,2,0,8,2025-06-26T09:25:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1542,38.67292
+25581054,Beringel,Baixo Alentejo,312,2025-06-26T06:48:00Z,25581054,Em conclusão,2301,Incêndio em transporte rodoviário,0,11,0,28,2025-06-26T06:48:00Z,Beja,Beja,Alentejo,-8.009313,38.05808
+25581392,Távora (Santa Maria e São Vicente),Alto Minho,309,2025-06-26T08:33:00Z,25581392,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,3,0,7,2025-06-26T08:33:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.454568,41.813907
+25581640,Faro (Sé e São Pedro),Algarve,313,2025-06-26T09:18:00Z,25581640,Em conclusão,2129,Incêndio em edifícios degradados ou devolutos,0,3,0,5,2025-06-26T09:18:00Z,Faro,Faro,Algarve,-7.942032,37.01865
+25581724,Reguengo do Fetal,Região de Leiria,310,2025-06-26T09:33:00Z,25581724,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-26T09:33:00Z,Batalha,Leiria,Centro,-8.725862,39.656713
 25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
 25581573,Rio Mau,Tâmega e Sousa,309,2025-06-26T09:08:00Z,25581573,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-26T09:08:00Z,Penafiel,Porto,Norte,-8.37243,41.05241
-25581392,Távora (Santa Maria e São Vicente),Alto Minho,309,2025-06-26T08:33:00Z,25581392,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,3,0,7,2025-06-26T08:33:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.454568,41.813907
-25581640,Faro (Sé e São Pedro),Algarve,313,2025-06-26T09:18:00Z,25581640,Em curso,2129,Incêndio em edifícios degradados ou devolutos,0,5,0,11,2025-06-26T09:18:00Z,Faro,Faro,Algarve,-7.942032,37.01865
-25581724,Reguengo do Fetal,Região de Leiria,310,2025-06-26T09:33:00Z,25581724,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-26T09:33:00Z,Batalha,Leiria,Centro,-8.76388,39.65707
-25581054,Beringel,Baixo Alentejo,312,2025-06-26T06:48:00Z,25581054,Em conclusão,2301,Incêndio em transporte rodoviário,0,9,0,26,2025-06-26T06:48:00Z,Beja,Beja,Alentejo,-8.009313,38.05808
-25581677,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-06-26T09:25:00Z,25581677,Em conclusão,3201,Detritos não confinados,0,2,0,8,2025-06-26T09:25:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.1542,38.67292
