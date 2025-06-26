@@ -1,7 +1,7 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
-25580847,"Redondelo","Alto Tâmega e Barroso",309,"2025-06-26T02:55:00",25580847,"Em conclusão","3103","Incêndio rural",0,2,0,7,"2025-06-26T02:55:00","Chaves","Vila Real","Norte",-7.564263,41.712628
-25580931,"Salvaterra de Magos e Foros de Salvaterra","Lezíria do Tejo",311,"2025-06-26T04:35:00",25580931,"Em despacho","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,4,0,11,"2025-06-26T04:35:00","Salvaterra De Magos","Santarém","Alentejo",-8.790194,39.028695
+25580931,"Salvaterra de Magos e Foros de Salvaterra","Lezíria do Tejo",311,"2025-06-26T04:35:00",25580931,"Em resolução","2201","Incêndio em equipamentos ou produtos",0,3,0,9,"2025-06-26T04:35:00","Salvaterra De Magos","Santarém","Alentejo",-8.772628,39.018252
 25580348,"Nazaré","Oeste",311,"2025-06-25T22:07:00",25580348,"Em conclusão","2401","Atropelamento rodoviário",0,1,0,2,"2025-06-25T22:07:00","Nazaré","Leiria","Centro",-9.038195,39.619499
 25580921,"Paranhos","Area M. Porto",309,"2025-06-26T04:24:00",25580921,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,5,"2025-06-26T04:24:00","Porto","Porto","Norte",-8.61696,41.16869
-25580941,"Alvalade","Alentejo Litoral",312,"2025-06-26T04:36:00",25580941,"Em despacho","2407","Despiste",0,2,0,4,"2025-06-26T04:36:00","Santiago Do Cacém","Setúbal","Alentejo",-8.390153,37.933937
+25580941,"Alvalade","Alentejo Litoral",312,"2025-06-26T04:36:00",25580941,"Em resolução","2407","Despiste",0,2,0,4,"2025-06-26T04:36:00","Santiago Do Cacém","Setúbal","Alentejo",-8.382707,37.982093
+25580957,"Alvor","Algarve",313,"2025-06-26T05:03:00",25580957,"Em despacho","2407","Despiste",0,4,0,10,"2025-06-26T05:03:00","Portimão","Faro","Algarve",-8.594468,37.131433
