@@ -1,7 +1,9 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25586034,"Barcarena","Grande Lisboa",311,"2025-06-27T06:26:00",25586034,"Em despacho","3301","Queda de árvore",0,0,0,0,"2025-06-27T06:26:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.279885,38.73288
-25581155,"Azambuja","Lezíria do Tejo",311,"2025-06-26T07:29:00",25581155,"Em despacho","3109","Gestão de combustível",0,1,0,4,"2025-06-26T07:29:00","Azambuja","Lisboa","Alentejo",-8.898558,39.118107
+25586034,"Barcarena","Grande Lisboa",311,"2025-06-27T06:26:00",25586034,"Em despacho","3301","Queda de árvore",0,1,0,5,"2025-06-27T06:26:00","Oeiras","Lisboa","Área Metropolitana De Lisboa",-9.279885,38.73288
+25586079,"Canelas e Fermelã","Região de Aveiro",310,"2025-06-27T06:56:00",25586079,"Em despacho","2407","Despiste",0,2,0,4,"2025-06-27T06:56:00","Estarreja","Aveiro","Centro",-8.55866,40.71433
 25071496,"São Manços e São Vicente do Pigeiro","Alentejo Central",312,"2025-03-11T13:18:00",25071496,"Em conclusão","1101","Cheia",0,0,0,0,"2025-03-11T13:18:00","Évora","Évora","Alentejo",-7.713313,38.513673
 25584235,"Alverca do Ribatejo e Sobralinho","Grande Lisboa",311,"2025-06-26T17:49:00",25584235,"Em conclusão","2413","Abalroamento ferroviário",0,0,0,0,"2025-06-26T17:49:00","Vila Franca De Xira","Lisboa","Área Metropolitana De Lisboa",-9.021711,38.904872
 25586009,"Nossa Senhora do Pópulo, Coto e São Gregório","Oeste",311,"2025-06-27T05:59:00",25586009,"Em despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-06-27T05:59:00","Caldas Da Rainha","Leiria","Centro",-9.13621,39.40688
-25586041,"Ramalde","Area M. Porto",309,"2025-06-27T06:31:00",25586041,"Em despacho","3317","Inundação de estruturas por água canalizada",0,0,0,0,"2025-06-27T06:31:00","Porto","Porto","Norte",-8.64148,41.17581
+25586041,"Ramalde","Area M. Porto",309,"2025-06-27T06:31:00",25586041,"Em despacho","3317","Inundação de estruturas por água canalizada",0,1,0,5,"2025-06-27T06:31:00","Porto","Porto","Norte",-8.64148,41.17581
+25581155,"Azambuja","Lezíria do Tejo",311,"2025-06-26T07:29:00",25581155,"Em despacho","3109","Gestão de combustível",0,1,0,4,"2025-06-26T07:29:00","Azambuja","Lisboa","Alentejo",-8.898558,39.118107
+25586060,"São Gens","Ave",309,"2025-06-27T06:47:00",25586060,"Em despacho","3201","Detritos não confinados",0,1,0,5,"2025-06-27T06:47:00","Fafe","Braga","Norte",-8.111402,41.447595

@@ -1,2 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
+25586060,São Gens,Ave,309,2025-06-27T06:47:00Z,25586060,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-27T06:47:00Z,Fafe,Braga,Norte,-8.111402,41.447595
