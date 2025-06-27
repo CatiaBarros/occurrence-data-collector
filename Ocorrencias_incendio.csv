@@ -1,21 +1,22 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25588493,Ribeirão,Ave,309,2025-06-27T14:58:00Z,25588493,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-27T14:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
+25589254,Monforte,Alto Alentejo,312,2025-06-27T17:30:00Z,25589254,Em conclusão,3103,Incêndio rural,0,12,0,45,2025-06-27T17:30:00Z,Monforte,Portalegre,Alentejo,-7.370965,39.01471
+25589411,Vila Velha de Ródão,Beira Baixa,310,2025-06-27T18:03:00Z,25589411,Em resolução,3103,Incêndio rural,0,9,0,28,2025-06-27T18:03:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.707447,39.634637
+25589588,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-27T18:45:00Z,25589588,Em resolução,3103,Incêndio rural,2,7,0,44,2025-06-27T18:45:00Z,Fafe,Braga,Norte,-8.13644,41.3781
+25589749,Campanhã,Area M. Porto,309,2025-06-27T19:16:00Z,25589749,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,14,2025-06-27T19:16:00Z,Porto,Porto,Norte,-8.59132,41.15759
+25589915,São Cristóvão,Alentejo Central,312,2025-06-27T19:57:00Z,25589915,Em despacho,3105,Incêndio rural,0,4,0,17,2025-06-27T19:57:00Z,Montemor-o-Novo,Évora,Alentejo,-8.31184,38.469212
 25589480,Bom Sucesso,Região de Coimbra,310,2025-06-27T18:17:00Z,25589480,Em conclusão,2301,Incêndio em transporte rodoviário,0,6,0,23,2025-06-27T18:17:00Z,Figueira Da Foz,Coimbra,Centro,-8.78306,40.2425
 25589607,Fratel,Beira Baixa,310,2025-06-27T18:23:00Z,25589607,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-27T18:23:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.717527,39.624502
 25589646,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-06-27T18:00:00Z,25589646,Em resolução,3103,Incêndio rural,0,1,0,4,2025-06-27T18:00:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.496356,40.954077
-25589757,Palmela,Península de Setúbal,311,2025-06-27T19:18:00Z,25589757,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,8,2025-06-27T19:18:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.913248,38.56896
+25589957,Cascais e Estoril,Grande Lisboa,311,2025-06-27T19:59:00Z,25589957,Em despacho,2129,Incêndio em edifícios degradados ou devolutos,0,2,0,7,2025-06-27T19:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.467966,38.716651
 25587679,Vandoma,Area M. Porto,309,2025-06-27T12:15:00Z,25587679,Em conclusão,3101,Incêndio rural,0,3,0,7,2025-06-27T12:15:00Z,Paredes,Porto,Norte,-8.381562,41.206165
 25589115,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-27T17:04:00Z,25589115,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-27T17:04:00Z,Santo Tirso,Porto,Norte,-8.49937,41.35176
-25589502,Quinta do Anjo,Península de Setúbal,311,2025-06-27T18:22:00Z,25589502,Em conclusão,3105,Incêndio rural,0,5,0,17,2025-06-27T18:22:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.949972,38.572763
+25589502,Quinta do Anjo,Península de Setúbal,311,2025-06-27T18:22:00Z,25589502,Em conclusão,3105,Incêndio rural,0,4,0,12,2025-06-27T18:22:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.949972,38.572763
 25589702,"Celeirós, Aveleda e Vimieiro",Cávado,309,2025-06-27T19:04:00Z,25589702,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,3,0,12,2025-06-27T19:04:00Z,Braga,Braga,Norte,-8.450885,41.512742
-25589769,Alvorninha,Oeste,311,2025-06-27T19:16:00Z,25589769,Em despacho,3103,Incêndio rural,0,5,0,19,2025-06-27T19:16:00Z,Caldas Da Rainha,Leiria,Centro,-9.016553,39.399192
+25589769,Alvorninha,Oeste,311,2025-06-27T19:16:00Z,25589769,Em conclusão,3103,Incêndio rural,0,5,0,19,2025-06-27T19:16:00Z,Caldas Da Rainha,Leiria,Centro,-9.016553,39.399192
 25589818,Oliveirinha,Região de Aveiro,310,2025-06-27T19:33:00Z,25589818,Em conclusão,3203,Detritos confinados,0,1,0,2,2025-06-27T19:33:00Z,Aveiro,Aveiro,Centro,-8.60443,40.60243
-25589852,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-27T19:41:00Z,25589852,Em despacho,3201,Detritos não confinados,0,0,0,0,2025-06-27T19:41:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.016397,38.54074
+25589852,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-27T19:41:00Z,25589852,Em despacho,3201,Detritos não confinados,0,2,0,9,2025-06-27T19:41:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.016397,38.54074
 25589193,Ribeira do Neiva,Cávado,309,2025-06-27T17:18:00Z,25589193,Em conclusão,3103,Incêndio rural,0,6,0,20,2025-06-27T17:18:00Z,Vila Verde,Braga,Norte,-8.467598,41.72493
 25589226,Frazão Arreigada,Tâmega e Sousa,309,2025-06-27T17:25:00Z,25589226,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-27T17:25:00Z,Paços De Ferreira,Porto,Norte,-8.402468,41.246272
 25589408,Paião,Região de Coimbra,310,2025-06-27T18:03:00Z,25589408,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-27T18:03:00Z,Figueira Da Foz,Coimbra,Centro,-8.7987,40.0605
-25588493,Ribeirão,Ave,309,2025-06-27T14:58:00Z,25588493,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-27T14:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
-25589254,Monforte,Alto Alentejo,312,2025-06-27T17:30:00Z,25589254,Em conclusão,3103,Incêndio rural,0,12,0,45,2025-06-27T17:30:00Z,Monforte,Portalegre,Alentejo,-7.370965,39.01471
-25589411,Vila Velha de Ródão,Beira Baixa,310,2025-06-27T18:03:00Z,25589411,Em resolução,3103,Incêndio rural,0,8,0,26,2025-06-27T18:03:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.707447,39.634637
-25589554,"Amarante (São Gonçalo), Madalena, Cepelos e Gatão",Tâmega e Sousa,309,2025-06-27T18:34:00Z,25589554,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-27T18:34:00Z,Amarante,Porto,Norte,-8.083873,41.259177
-25589588,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-27T18:45:00Z,25589588,Em curso,3103,Incêndio rural,2,7,0,44,2025-06-27T18:45:00Z,Fafe,Braga,Norte,-8.13644,41.3781
-25589749,Campanhã,Area M. Porto,309,2025-06-27T19:16:00Z,25589749,Em conclusão,2101,Incêndio em edifícios habitacionais,0,5,0,19,2025-06-27T19:16:00Z,Porto,Porto,Norte,-8.59132,41.15759
+25589892,"Barcelos, V. Boa e V. Frescainha",Cávado,309,2025-06-27T19:51:00Z,25589892,Em curso,2101,Incêndio em edifícios habitacionais,0,5,0,12,2025-06-27T19:51:00Z,Barcelos,Braga,Norte,-8.647415,41.52884
