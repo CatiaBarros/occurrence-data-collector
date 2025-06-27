@@ -1,28 +1,26 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
+25588810,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-06-27T15:55:00Z,25588810,Em conclusão,2301,Incêndio em transporte rodoviário,0,1,0,5,2025-06-27T15:55:00Z,Santarém,Santarém,Alentejo,-8.70415,39.227962
+25589080,Castêlo da Maia,Area M. Porto,309,2025-06-27T16:51:00Z,25589080,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-27T16:51:00Z,Maia,Porto,Norte,-8.610917,41.270263
+25589321,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-06-27T17:35:00Z,25589321,Em conclusão,3203,Detritos confinados,0,2,0,7,2025-06-27T17:35:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.080109,38.86006
+25587679,Vandoma,Area M. Porto,309,2025-06-27T12:15:00Z,25587679,Em conclusão,3101,Incêndio rural,0,4,0,9,2025-06-27T12:15:00Z,Paredes,Porto,Norte,-8.381562,41.206165
+25588915,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-06-27T16:17:00Z,25588915,Em conclusão,3105,Incêndio rural,0,6,0,15,2025-06-27T16:17:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.226778,38.078578
+25589115,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-27T17:04:00Z,25589115,Em curso,3103,Incêndio rural,1,5,0,22,2025-06-27T17:04:00Z,Santo Tirso,Porto,Norte,-8.49937,41.35176
+25589151,Romariz,Area M. Porto,309,2025-06-27T17:04:00Z,25589151,Em conclusão,3103,Incêndio rural,0,1,0,4,2025-06-27T17:04:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.44801,40.953648
+25589233,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-06-27T17:16:00Z,25589233,Em conclusão,3201,Detritos não confinados,0,1,0,5,2025-06-27T17:16:00Z,Matosinhos,Porto,Norte,-8.699522,41.236271
 25588005,Carregosa,Area M. Porto,309,2025-06-27T13:21:00Z,25588005,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-27T13:21:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.403377,40.874262
 25588307,Sobrosa,Area M. Porto,309,2025-06-27T14:24:00Z,25588307,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-27T14:24:00Z,Paredes,Porto,Norte,-8.359266,41.25526
 25588792,Cidade da Maia,Area M. Porto,309,2025-06-27T15:54:00Z,25588792,Em conclusão,3103,Incêndio rural,0,2,0,5,2025-06-27T15:54:00Z,Maia,Porto,Norte,-8.59993,41.23342
 25589006,Algueirão-Mem Martins,Grande Lisboa,311,2025-06-27T16:35:00Z,25589006,Em conclusão,2101,Incêndio em edifícios habitacionais,0,9,0,20,2025-06-27T16:35:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.34887,38.78727
-25589176,Parada de Todeia,Area M. Porto,309,2025-06-27T17:07:00Z,25589176,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-27T17:07:00Z,Paredes,Porto,Norte,-8.380025,41.166787
-25589193,Ribeira do Neiva,Cávado,309,2025-06-27T17:18:00Z,25589193,Em despacho,3103,Incêndio rural,0,6,0,23,2025-06-27T17:18:00Z,Vila Verde,Braga,Norte,-8.467598,41.72493
-25589226,Frazão Arreigada,Tâmega e Sousa,309,2025-06-27T17:25:00Z,25589226,Em despacho,3105,Incêndio rural,0,1,0,5,2025-06-27T17:25:00Z,Paços De Ferreira,Porto,Norte,-8.403366,41.24475
-25589307,Cendufe,Alto Minho,309,2025-06-27T17:40:00Z,25589307,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-27T17:40:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.486333,41.801062
-25588810,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-06-27T15:55:00Z,25588810,Em conclusão,2301,Incêndio em transporte rodoviário,0,4,0,11,2025-06-27T15:55:00Z,Santarém,Santarém,Alentejo,-8.70415,39.227962
-25589080,Castêlo da Maia,Area M. Porto,309,2025-06-27T16:51:00Z,25589080,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-27T16:51:00Z,Maia,Porto,Norte,-8.610917,41.270263
-25589171,Turcifal,Oeste,311,2025-06-27T17:07:00Z,25589171,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-27T17:07:00Z,Torres Vedras,Lisboa,Centro,-9.272289,39.062809
-25589189,Vila Facaia,Região de Leiria,310,2025-06-27T17:18:00Z,25589189,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,9,2025-06-27T17:18:00Z,Pedrógão Grande,Leiria,Centro,-8.19922,39.92584
+25589176,Parada de Todeia,Area M. Porto,309,2025-06-27T17:07:00Z,25589176,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-27T17:07:00Z,Paredes,Porto,Norte,-8.380025,41.166787
+25589193,Ribeira do Neiva,Cávado,309,2025-06-27T17:18:00Z,25589193,Em curso,3103,Incêndio rural,1,7,0,31,2025-06-27T17:18:00Z,Vila Verde,Braga,Norte,-8.467598,41.72493
 25588493,Ribeirão,Ave,309,2025-06-27T14:58:00Z,25588493,Em conclusão,3103,Incêndio rural,0,6,0,27,2025-06-27T14:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
 25588661,Termas de São Vicente,Tâmega e Sousa,309,2025-06-27T15:29:00Z,25588661,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-27T15:29:00Z,Penafiel,Porto,Norte,-8.302562,41.125227
 25588879,Quinchães,Ave,309,2025-06-27T16:11:00Z,25588879,Em conclusão,3103,Incêndio rural,0,6,0,19,2025-06-27T16:11:00Z,Fafe,Braga,Norte,-8.135626,41.431551
-25588936,Ruivães e Novais,Ave,309,2025-06-27T16:22:00Z,25588936,Em resolução,3103,Incêndio rural,0,1,0,4,2025-06-27T16:22:00Z,Vila Nova De Famalicão,Braga,Norte,-8.427627,41.395017
-25589004,Castro Verde e Casével,Baixo Alentejo,312,2025-06-27T16:35:00Z,25589004,Em conclusão,3105,Incêndio rural,0,8,0,23,2025-06-27T16:35:00Z,Castro Verde,Beja,Alentejo,-8.161792,37.676728
-25587679,Vandoma,Area M. Porto,309,2025-06-27T12:15:00Z,25587679,Em conclusão,3101,Incêndio rural,0,4,0,9,2025-06-27T12:15:00Z,Paredes,Porto,Norte,-8.381562,41.206165
-25588915,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-06-27T16:17:00Z,25588915,Em conclusão,3105,Incêndio rural,0,7,0,20,2025-06-27T16:17:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.226778,38.078578
-25589084,São Gens,Ave,309,2025-06-27T16:52:00Z,25589084,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-27T16:52:00Z,Fafe,Braga,Norte,-8.112268,41.444087
-25589115,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-27T17:04:00Z,25589115,Em curso,3103,Incêndio rural,1,3,0,18,2025-06-27T17:04:00Z,Santo Tirso,Porto,Norte,-8.49937,41.35176
-25589151,Romariz,Area M. Porto,309,2025-06-27T17:04:00Z,25589151,Em resolução,3103,Incêndio rural,0,1,0,4,2025-06-27T17:04:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.460887,40.942987
-25589233,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-06-27T17:16:00Z,25589233,Em despacho,3201,Detritos não confinados,0,1,0,5,2025-06-27T17:16:00Z,Matosinhos,Porto,Norte,-8.699522,41.236271
-25589321,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-06-27T17:35:00Z,25589321,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-27T17:35:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.080109,38.86006
-25589045,Tamel (Santa Leocádia) e Vilar do Monte,Cávado,309,2025-06-27T16:44:00Z,25589045,Em conclusão,3103,Incêndio rural,0,5,0,19,2025-06-27T16:44:00Z,Barcelos,Braga,Norte,-8.656258,41.57426
-25589229,"Torres Novas (São Pedro), Lapas e Ribeira Branca",Médio Tejo,311,2025-06-27T17:25:00Z,25589229,Em conclusão,3203,Detritos confinados,0,2,0,7,2025-06-27T17:25:00Z,Torres Novas,Santarém,Centro,-8.545895,39.484788
-25589254,Monforte,Alto Alentejo,312,2025-06-27T17:30:00Z,25589254,Em curso,3103,Incêndio rural,0,8,0,34,2025-06-27T17:30:00Z,Monforte,Portalegre,Alentejo,-7.391945,39.004786
+25588936,Ruivães e Novais,Ave,309,2025-06-27T16:22:00Z,25588936,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-27T16:22:00Z,Vila Nova De Famalicão,Braga,Norte,-8.427627,41.395017
+25589004,Castro Verde e Casével,Baixo Alentejo,312,2025-06-27T16:35:00Z,25589004,Em conclusão,3105,Incêndio rural,0,6,0,19,2025-06-27T16:35:00Z,Castro Verde,Beja,Alentejo,-8.161792,37.676728
+25589045,Tamel (Santa Leocádia) e Vilar do Monte,Cávado,309,2025-06-27T16:44:00Z,25589045,Em conclusão,3103,Incêndio rural,0,6,0,21,2025-06-27T16:44:00Z,Barcelos,Braga,Norte,-8.656258,41.57426
+25589226,Frazão Arreigada,Tâmega e Sousa,309,2025-06-27T17:25:00Z,25589226,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-27T17:25:00Z,Paços De Ferreira,Porto,Norte,-8.403366,41.24475
+25589307,Cendufe,Alto Minho,309,2025-06-27T17:40:00Z,25589307,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-27T17:40:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.486333,41.801062
+25589408,Alqueidão,Região de Coimbra,310,2025-06-27T18:03:00Z,25589408,Em despacho,3105,Incêndio rural,0,0,0,0,2025-06-27T18:03:00Z,Figueira Da Foz,Coimbra,Centro,-8.76327,40.08888
+25589254,Monforte,Alto Alentejo,312,2025-06-27T17:30:00Z,25589254,Em curso,3103,Incêndio rural,0,13,0,50,2025-06-27T17:30:00Z,Monforte,Portalegre,Alentejo,-7.370965,39.01471
+25589411,Vila Velha de Ródão,Beira Baixa,310,2025-06-27T18:03:00Z,25589411,Em despacho,3103,Incêndio rural,2,1,0,7,2025-06-27T18:03:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.699634,39.658447
