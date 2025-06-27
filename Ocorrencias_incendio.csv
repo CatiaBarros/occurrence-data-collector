@@ -1,19 +1,20 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25588493,Ribeirão,Ave,309,2025-06-27T14:58:00Z,25588493,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-27T14:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
-25589254,Monforte,Alto Alentejo,312,2025-06-27T17:30:00Z,25589254,Em conclusão,3103,Incêndio rural,0,9,0,33,2025-06-27T17:30:00Z,Monforte,Portalegre,Alentejo,-7.370965,39.01471
-25589411,Vila Velha de Ródão,Beira Baixa,310,2025-06-27T18:03:00Z,25589411,Em resolução,3103,Incêndio rural,0,9,0,28,2025-06-27T18:03:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.707447,39.634637
-25589588,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-27T18:45:00Z,25589588,Em resolução,3103,Incêndio rural,0,6,0,27,2025-06-27T18:45:00Z,Fafe,Braga,Norte,-8.13644,41.3781
-25589915,São Cristóvão,Alentejo Central,312,2025-06-27T19:57:00Z,25589915,Em curso,3105,Incêndio rural,1,8,0,34,2025-06-27T19:57:00Z,Montemor-o-Novo,Évora,Alentejo,-8.31184,38.469212
+25589115,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-27T17:04:00Z,25589115,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-27T17:04:00Z,Santo Tirso,Porto,Norte,-8.49937,41.35176
+25589502,Quinta do Anjo,Península de Setúbal,311,2025-06-27T18:22:00Z,25589502,Em conclusão,3105,Incêndio rural,0,2,0,3,2025-06-27T18:22:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.949972,38.572763
+25589968,Ílhavo (São Salvador),Região de Aveiro,310,2025-06-27T20:08:00Z,25589968,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-27T20:08:00Z,Ílhavo,Aveiro,Centro,-8.640613,40.589215
+25589480,Bom Sucesso,Região de Coimbra,310,2025-06-27T18:17:00Z,25589480,Em conclusão,2301,Incêndio em transporte rodoviário,0,5,0,18,2025-06-27T18:17:00Z,Figueira Da Foz,Coimbra,Centro,-8.78306,40.2425
+25589607,Fratel,Beira Baixa,310,2025-06-27T18:23:00Z,25589607,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-27T18:23:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.717527,39.624502
+25589957,Cascais e Estoril,Grande Lisboa,311,2025-06-27T19:59:00Z,25589957,Em conclusão,3203,Detritos confinados,0,2,0,7,2025-06-27T19:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.467966,38.716651
+25590157,Croca,Tâmega e Sousa,309,2025-06-27T20:57:00Z,25590157,Em despacho,2115,Incêndio em edifícios hoteleiros e de restauração,0,0,0,0,2025-06-27T20:57:00Z,Penafiel,Porto,Norte,-8.25111,41.22012
 25589193,Ribeira do Neiva,Cávado,309,2025-06-27T17:18:00Z,25589193,Em conclusão,3103,Incêndio rural,0,6,0,20,2025-06-27T17:18:00Z,Vila Verde,Braga,Norte,-8.467598,41.72493
 25589408,Paião,Região de Coimbra,310,2025-06-27T18:03:00Z,25589408,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-27T18:03:00Z,Figueira Da Foz,Coimbra,Centro,-8.7987,40.0605
 25589892,"Barcelos, V. Boa e V. Frescainha",Cávado,309,2025-06-27T19:51:00Z,25589892,Em conclusão,2101,Incêndio em edifícios habitacionais,0,8,0,17,2025-06-27T19:51:00Z,Barcelos,Braga,Norte,-8.647415,41.52884
-25590042,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-06-27T20:27:00Z,25590042,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,2,2025-06-27T20:27:00Z,Bragança,Bragança,Norte,-6.7589,41.81979
-25589115,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-27T17:04:00Z,25589115,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-27T17:04:00Z,Santo Tirso,Porto,Norte,-8.49937,41.35176
-25589502,Quinta do Anjo,Península de Setúbal,311,2025-06-27T18:22:00Z,25589502,Em conclusão,3105,Incêndio rural,0,3,0,7,2025-06-27T18:22:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.949972,38.572763
-25589702,"Celeirós, Aveleda e Vimieiro",Cávado,309,2025-06-27T19:04:00Z,25589702,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,3,0,9,2025-06-27T19:04:00Z,Braga,Braga,Norte,-8.450885,41.512742
-25589769,Alvorninha,Oeste,311,2025-06-27T19:16:00Z,25589769,Em conclusão,3103,Incêndio rural,0,3,0,9,2025-06-27T19:16:00Z,Caldas Da Rainha,Leiria,Centro,-9.016553,39.399192
-25589852,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-06-27T19:41:00Z,25589852,Em resolução,3201,Detritos não confinados,0,2,0,9,2025-06-27T19:41:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.016397,38.54074
-25589968,Ílhavo (São Salvador),Região de Aveiro,310,2025-06-27T20:08:00Z,25589968,Em conclusão,3105,Incêndio rural,0,2,0,8,2025-06-27T20:08:00Z,Ílhavo,Aveiro,Centro,-8.63625,40.58671
-25589480,Bom Sucesso,Região de Coimbra,310,2025-06-27T18:17:00Z,25589480,Em conclusão,2301,Incêndio em transporte rodoviário,0,6,0,23,2025-06-27T18:17:00Z,Figueira Da Foz,Coimbra,Centro,-8.78306,40.2425
-25589607,Fratel,Beira Baixa,310,2025-06-27T18:23:00Z,25589607,Em conclusão,3103,Incêndio rural,0,5,0,16,2025-06-27T18:23:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.717527,39.624502
-25589957,Cascais e Estoril,Grande Lisboa,311,2025-06-27T19:59:00Z,25589957,Em resolução,3203,Detritos confinados,0,2,0,7,2025-06-27T19:59:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.467966,38.716651
+25590042,"Sé, Santa Maria e Meixedo",Terras de Trás-os-Montes,309,2025-06-27T20:27:00Z,25590042,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-27T20:27:00Z,Bragança,Bragança,Norte,-6.758447,41.819962
+25590060,Albufeira e Olhos de Água,Algarve,313,2025-06-27T20:32:00Z,25590060,Em despacho,3103,Incêndio rural,0,3,0,15,2025-06-27T20:32:00Z,Albufeira,Faro,Algarve,-8.25609,37.10461
+25590144,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-06-27T20:54:00Z,25590144,Em despacho,2101,Incêndio em edifícios habitacionais,0,5,0,12,2025-06-27T20:54:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.73342,39.006483
+25590161,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-27T20:44:00Z,25590161,Em despacho,2129,Incêndio em edifícios degradados ou devolutos,0,1,0,5,2025-06-27T20:44:00Z,Lagos,Faro,Algarve,-8.668524,37.100485
+25588493,Ribeirão,Ave,309,2025-06-27T14:58:00Z,25588493,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-27T14:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
+25589254,Monforte,Alto Alentejo,312,2025-06-27T17:30:00Z,25589254,Em conclusão,3103,Incêndio rural,0,8,0,31,2025-06-27T17:30:00Z,Monforte,Portalegre,Alentejo,-7.370965,39.01471
+25589411,Vila Velha de Ródão,Beira Baixa,310,2025-06-27T18:03:00Z,25589411,Em resolução,3103,Incêndio rural,0,8,0,25,2025-06-27T18:03:00Z,Vila Velha De Ródão,Castelo Branco,Centro,-7.707447,39.634637
+25589588,"Ardegão, Arnozela e Seidões",Ave,309,2025-06-27T18:45:00Z,25589588,Em conclusão,3103,Incêndio rural,0,5,0,22,2025-06-27T18:45:00Z,Fafe,Braga,Norte,-8.13644,41.3781
+25589915,São Cristóvão,Alentejo Central,312,2025-06-27T19:57:00Z,25589915,Em curso,3105,Incêndio rural,0,10,0,34,2025-06-27T19:57:00Z,Montemor-o-Novo,Évora,Alentejo,-8.316542,38.485307
