@@ -1,3 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25581155,Azambuja,Lezíria do Tejo,311,2025-06-26T07:29:00Z,25581155,Em despacho,3109,Gestão de combustível,0,1,0,4,2025-06-26T07:29:00Z,Azambuja,Lisboa,Alentejo,-8.898558,39.118107
-25586060,São Gens,Ave,309,2025-06-27T06:47:00Z,25586060,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-27T06:47:00Z,Fafe,Braga,Norte,-8.112268,41.444087
+25586060,São Gens,Ave,309,2025-06-27T06:47:00Z,25586060,Em resolução,3103,Incêndio rural,0,3,0,12,2025-06-27T06:47:00Z,Fafe,Braga,Norte,-8.112268,41.444087
+25586244,Monforte,Alto Alentejo,312,2025-06-27T07:40:00Z,25586244,Em resolução,3105,Incêndio rural,0,1,0,5,2025-06-27T07:40:00Z,Monforte,Portalegre,Alentejo,-7.421073,39.071883
+25586246,Vila de Cucujães,Area M. Porto,309,2025-06-27T07:48:00Z,25586246,Em despacho,3101,Incêndio rural,0,1,0,5,2025-06-27T07:48:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.507006,40.873108
+25586240,Cabanelas,Cávado,309,2025-06-27T07:56:00Z,25586240,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-27T07:56:00Z,Vila Verde,Braga,Norte,-8.486263,41.59424
