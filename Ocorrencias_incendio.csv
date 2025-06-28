@@ -1,10 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25591521,Cidade da Maia,Area M. Porto,309,2025-06-28T07:30:00Z,25591521,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-28T07:30:00Z,Maia,Porto,Norte,-8.598963,41.234208
 25591588,Sobrosa,Area M. Porto,309,2025-06-28T07:52:00Z,25591588,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-28T07:52:00Z,Paredes,Porto,Norte,-8.360032,41.256057
-25591722,Ribeirão,Ave,309,2025-06-28T08:22:00Z,25591722,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,2,2025-06-28T08:22:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
-25591299,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-06-28T04:22:00Z,25591299,Em resolução,3105,Incêndio rural,0,1,0,2,2025-06-28T04:22:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.488497,38.305077
-25591429,Tamel (Santa Leocádia) e Vilar do Monte,Cávado,309,2025-06-28T06:50:00Z,25591429,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-28T06:50:00Z,Barcelos,Braga,Norte,-8.66478,41.569249
-25591884,Alvalade,Alentejo Litoral,312,2025-06-28T08:40:00Z,25591884,Em despacho,2301,Incêndio em transporte rodoviário,0,1,0,3,2025-06-28T08:40:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390153,37.933937
+25591722,Ribeirão,Ave,309,2025-06-28T08:22:00Z,25591722,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,2,2025-06-28T08:22:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
+25591942,Folhadela,Douro,309,2025-06-28T08:59:00Z,25591942,Em despacho,2301,Incêndio em transporte rodoviário,0,2,0,10,2025-06-28T08:59:00Z,Vila Real,Vila Real,Norte,-7.739234,41.281351
+25591957,Meixomil,Tâmega e Sousa,309,2025-06-28T09:07:00Z,25591957,Em despacho,3105,Incêndio rural,0,0,0,0,2025-06-28T09:07:00Z,Paços De Ferreira,Porto,Norte,-8.394444,41.27417
 25591359,Labruja,Alto Minho,309,2025-06-28T05:31:00Z,25591359,Em conclusão,3103,Incêndio rural,0,4,0,9,2025-06-28T05:31:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.591233,41.835535
-25591403,Portimão,Algarve,313,2025-06-28T06:24:00Z,25591403,Em conclusão,2111,Incêndio em edifícios hospitalares e lares de idosos,0,1,0,1,2025-06-28T06:24:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
 25591494,Cabanelas,Cávado,309,2025-06-28T07:14:00Z,25591494,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-28T07:14:00Z,Vila Verde,Braga,Norte,-8.493397,41.588839
+25591299,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-06-28T04:22:00Z,25591299,Em resolução,3105,Incêndio rural,0,1,0,2,2025-06-28T04:22:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.488497,38.305077
+25591429,Tamel (Santa Leocádia) e Vilar do Monte,Cávado,309,2025-06-28T06:50:00Z,25591429,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-28T06:50:00Z,Barcelos,Braga,Norte,-8.66478,41.569249
+25591884,Alvalade,Alentejo Litoral,312,2025-06-28T08:40:00Z,25591884,Em despacho,2301,Incêndio em transporte rodoviário,0,3,0,9,2025-06-28T08:40:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390153,37.933937
