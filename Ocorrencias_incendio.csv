@@ -1,14 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25595088,Penacova,Tâmega e Sousa,309,2025-06-28T20:13:00Z,25595088,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-28T20:13:00Z,Felgueiras,Porto,Norte,-8.25192,41.369067
 25595436,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-06-28T21:35:00Z,25595436,Em conclusão,2101,Incêndio em edifícios habitacionais,0,0,0,0,2025-06-28T21:35:00Z,Lagos,Faro,Algarve,-8.67409,37.10506
-25595606,Sobreira,Area M. Porto,309,2025-06-28T22:20:00Z,25595606,Em conclusão,3103,Incêndio rural,0,3,0,11,2025-06-28T22:20:00Z,Paredes,Porto,Norte,-8.400975,41.109963
-25595779,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-28T23:02:00Z,25595779,Em curso,3103,Incêndio rural,0,1,0,5,2025-06-28T23:02:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.466124,41.0062
-25595799,Cadaval e Pêro Moniz,Oeste,311,2025-06-28T23:08:00Z,25595799,Em despacho,3101,Incêndio rural,0,0,0,0,2025-06-28T23:08:00Z,Cadaval,Lisboa,Centro,-9.101481,39.244497
+25595606,Sobreira,Area M. Porto,309,2025-06-28T22:20:00Z,25595606,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-28T22:20:00Z,Paredes,Porto,Norte,-8.400975,41.109963
+25595779,"Canedo, Vale e Vila Maior",Area M. Porto,309,2025-06-28T23:02:00Z,25595779,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-28T23:02:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.466124,41.0062
+25595686,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-28T22:40:00Z,25595686,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-28T22:40:00Z,Amarante,Porto,Norte,-8.063557,41.230262
+25595800,Alcoentre,Lezíria do Tejo,311,2025-06-28T23:08:00Z,25595800,Em resolução,3103,Incêndio rural,0,13,0,45,2025-06-28T23:08:00Z,Azambuja,Lisboa,Alentejo,-8.993035,39.211237
+25595537,Lomba,Area M. Porto,309,2025-06-28T21:59:00Z,25595537,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-28T21:59:00Z,Gondomar,Porto,Norte,-8.42548,41.031563
+25595832,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-06-28T23:24:00Z,25595832,Em conclusão,3103,Incêndio rural,0,5,0,15,2025-06-28T23:24:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.777863,39.010562
 25593470,Duas Igrejas,Tâmega e Sousa,309,2025-06-28T14:16:00Z,25593470,Em conclusão,3103,Incêndio rural,0,11,0,25,2025-06-28T14:16:00Z,Penafiel,Porto,Norte,-8.278005,41.170128
 25595527,Encarnação,Grande Lisboa,311,2025-06-28T21:57:00Z,25595527,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,3,0,8,2025-06-28T21:57:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.39815,39.05134
-25595676,Alcórrego e Maranhão,Alto Alentejo,312,2025-06-28T22:40:00Z,25595676,Em conclusão,3105,Incêndio rural,0,10,0,34,2025-06-28T22:40:00Z,Avis,Portalegre,Alentejo,-7.90853,38.999632
-25595686,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-28T22:40:00Z,25595686,Em resolução,3103,Incêndio rural,0,2,0,7,2025-06-28T22:40:00Z,Amarante,Porto,Norte,-8.063557,41.230262
-25595800,Alcoentre,Lezíria do Tejo,311,2025-06-28T23:08:00Z,25595800,Em curso,3103,Incêndio rural,0,13,0,45,2025-06-28T23:08:00Z,Azambuja,Lisboa,Alentejo,-8.993035,39.211237
-25595371,Sobral de Monte Agraço,Oeste,311,2025-06-28T21:18:00Z,25595371,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-28T21:18:00Z,Torres Vedras,Lisboa,Centro,-9.16975,39.014084
-25595537,Lomba,Area M. Porto,309,2025-06-28T21:59:00Z,25595537,Em resolução,3103,Incêndio rural,0,1,0,5,2025-06-28T21:59:00Z,Gondomar,Porto,Norte,-8.42548,41.031563
-25595832,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-06-28T23:24:00Z,25595832,Em curso,3103,Incêndio rural,0,7,0,25,2025-06-28T23:24:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.73342,39.006483
+25595676,Alcórrego e Maranhão,Alto Alentejo,312,2025-06-28T22:40:00Z,25595676,Em conclusão,3105,Incêndio rural,0,9,0,29,2025-06-28T22:40:00Z,Avis,Portalegre,Alentejo,-7.90853,38.999632
