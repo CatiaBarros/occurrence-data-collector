@@ -1,4 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25588493,Ribeirão,Ave,309,2025-06-27T14:58:00Z,25588493,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-27T14:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
-25590437,São Gens,Ave,309,2025-06-27T21:57:00Z,25590437,Em conclusão,3103,Incêndio rural,0,0,0,0,2025-06-27T21:57:00Z,Fafe,Braga,Norte,-8.112768,41.44477
+25591299,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-06-28T04:22:00Z,25591299,Em despacho,3103,Incêndio rural,0,2,0,6,2025-06-28T04:22:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.485184,38.299456
+25591314,Carvoeira e Carmões,Oeste,311,2025-06-28T05:00:00Z,25591314,Em despacho,3103,Incêndio rural,0,2,0,7,2025-06-28T05:00:00Z,Torres Vedras,Lisboa,Centro,-9.158293,39.089088
+25591291,"Querença, Tôr e Benafim",Algarve,313,2025-06-28T04:37:00Z,25591291,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-28T04:37:00Z,Loulé,Faro,Algarve,-7.994519,37.199835
+25591293,Padreiro (Salvador e Santa Cristina),Alto Minho,309,2025-06-28T04:43:00Z,25591293,Em curso,3103,Incêndio rural,0,2,0,10,2025-06-28T04:43:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.48252,41.80729
+25591316,"Querença, Tôr e Benafim",Algarve,313,2025-06-28T05:03:00Z,25591316,Em despacho,3203,Detritos confinados,0,2,0,7,2025-06-28T05:03:00Z,Loulé,Faro,Algarve,-7.994519,37.199835
 25591238,Teixoso e Sarzedo,Beiras e Serra da Estrela,310,2025-06-28T03:52:00Z,25591238,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,8,2025-06-28T03:52:00Z,Covilhã,Castelo Branco,Centro,-7.45723,40.3135
+25588493,Ribeirão,Ave,309,2025-06-27T14:58:00Z,25588493,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-27T14:58:00Z,Vila Nova De Famalicão,Braga,Norte,-8.558043,41.368877
