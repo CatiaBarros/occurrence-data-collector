@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25591359,Labruja,Alto Minho,309,2025-06-28T05:31:00Z,25591359,Em conclusão,3103,Incêndio rural,0,4,0,9,2025-06-28T05:31:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.591233,41.835535
-25591375,Penacova,Tâmega e Sousa,309,2025-06-28T06:01:00Z,25591375,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-28T06:01:00Z,Felgueiras,Porto,Norte,-8.251982,41.369287
-25591436,"Mação, Penhascoso e Aboboreira",Médio Tejo,311,2025-06-28T06:55:00Z,25591436,Em conclusão,2301,Incêndio em transporte rodoviário,0,3,0,9,2025-06-28T06:55:00Z,Mação,Santarém,Centro,-8.008515,39.56944
-25591521,Cidade da Maia,Area M. Porto,309,2025-06-28T07:30:00Z,25591521,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-28T07:30:00Z,Maia,Porto,Norte,-8.59899,41.23296
 25591403,Portimão,Algarve,313,2025-06-28T06:24:00Z,25591403,Em conclusão,2111,Incêndio em edifícios hospitalares e lares de idosos,0,2,0,6,2025-06-28T06:24:00Z,Portimão,Faro,Algarve,-8.532608,37.137966
 25591494,Cabanelas,Cávado,309,2025-06-28T07:14:00Z,25591494,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-28T07:14:00Z,Vila Verde,Braga,Norte,-8.493397,41.588839
+25591521,Cidade da Maia,Area M. Porto,309,2025-06-28T07:30:00Z,25591521,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-28T07:30:00Z,Maia,Porto,Norte,-8.59899,41.23296
+25591588,Sobrosa,Area M. Porto,309,2025-06-28T07:52:00Z,25591588,Em despacho,3103,Incêndio rural,0,1,0,5,2025-06-28T07:52:00Z,Paredes,Porto,Norte,-8.36311,41.25373
+25591359,Labruja,Alto Minho,309,2025-06-28T05:31:00Z,25591359,Em conclusão,3103,Incêndio rural,0,4,0,9,2025-06-28T05:31:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.591233,41.835535
+25591375,Penacova,Tâmega e Sousa,309,2025-06-28T06:01:00Z,25591375,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-28T06:01:00Z,Felgueiras,Porto,Norte,-8.251982,41.369287
 25591299,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-06-28T04:22:00Z,25591299,Em resolução,3105,Incêndio rural,0,1,0,2,2025-06-28T04:22:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.488497,38.305077
 25591429,Tamel (Santa Leocádia) e Vilar do Monte,Cávado,309,2025-06-28T06:50:00Z,25591429,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-28T06:50:00Z,Barcelos,Braga,Norte,-8.66478,41.569249
