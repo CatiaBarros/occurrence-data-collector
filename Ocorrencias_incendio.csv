@@ -1,8 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25592306,Vilarinho Dos Freires,Douro,309,2025-06-28T10:08:00Z,25592306,Em despacho,3103,Incêndio rural,1,3,0,21,2025-06-28T10:08:00Z,Peso Da Régua,Vila Real,Norte,-7.73215,41.20356
 25591521,Cidade da Maia,Area M. Porto,309,2025-06-28T07:30:00Z,25591521,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-28T07:30:00Z,Maia,Porto,Norte,-8.598963,41.234208
 25591942,Folhadela,Douro,309,2025-06-28T08:59:00Z,25591942,Em conclusão,2301,Incêndio em transporte rodoviário,0,2,0,7,2025-06-28T08:59:00Z,Vila Real,Vila Real,Norte,-7.739234,41.281351
-25592341,Lomba,Area M. Porto,309,2025-06-28T10:12:00Z,25592341,Em despacho,3103,Incêndio rural,0,2,0,10,2025-06-28T10:12:00Z,Gondomar,Porto,Norte,-8.411494,41.057475
+25592341,Lomba,Area M. Porto,309,2025-06-28T10:12:00Z,25592341,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-28T10:12:00Z,Gondomar,Porto,Norte,-8.411494,41.057475
 25591884,Alvalade,Alentejo Litoral,312,2025-06-28T08:40:00Z,25591884,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,2,0,4,2025-06-28T08:40:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390153,37.933937
 25592017,Quinchães,Ave,309,2025-06-28T09:11:00Z,25592017,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-28T09:11:00Z,Fafe,Braga,Norte,-8.135626,41.431551
-25592298,"Cernache do Bonjardim, Nesperal e Palhais",Beira Baixa,310,2025-06-28T10:07:00Z,25592298,Em conclusão,3101,Incêndio rural,1,7,0,34,2025-06-28T10:07:00Z,Sertã,Castelo Branco,Centro,-8.199498,39.785072
+25592298,"Cernache do Bonjardim, Nesperal e Palhais",Beira Baixa,310,2025-06-28T10:07:00Z,25592298,Em conclusão,3101,Incêndio rural,0,3,0,8,2025-06-28T10:07:00Z,Sertã,Castelo Branco,Centro,-8.199498,39.785072
+25592306,Vilarinho Dos Freires,Douro,309,2025-06-28T10:08:00Z,25592306,Em curso,3103,Incêndio rural,1,4,0,23,2025-06-28T10:08:00Z,Peso Da Régua,Vila Real,Norte,-7.73215,41.20356
+25592556,São Gregório e Santa Justa,Alentejo Central,312,2025-06-28T10:54:00Z,25592556,Em despacho,3105,Incêndio rural,0,1,0,5,2025-06-28T10:54:00Z,Arraiolos,Évora,Alentejo,-7.89711,38.779164
