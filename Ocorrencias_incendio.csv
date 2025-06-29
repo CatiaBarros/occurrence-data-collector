@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25596575,Válega,Região de Aveiro,310,2025-06-29T05:41:00Z,25596575,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,1,0,5,2025-06-29T05:41:00Z,Ovar,Aveiro,Centro,-8.563313,40.84501
-25596757,Marinha Grande,Região de Leiria,310,2025-06-29T07:26:00Z,25596757,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-29T07:26:00Z,Marinha Grande,Leiria,Centro,-8.921812,39.746629
+25596788,Palmela,Península de Setúbal,311,2025-06-29T07:47:00Z,25596788,Em despacho,3103,Incêndio rural,0,3,0,14,2025-06-29T07:47:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.93032,38.59737
 25596565,Silves,Algarve,313,2025-06-29T05:32:00Z,25596565,Em conclusão,3103,Incêndio rural,0,4,0,13,2025-06-29T05:32:00Z,Silves,Faro,Algarve,-8.518088,37.209803
-25596674,Amora,Península de Setúbal,311,2025-06-29T06:55:00Z,25596674,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-29T06:55:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.127,38.62405
+25596732,"Achete, Azoia de Baixo e Póvoa de Santarém",Lezíria do Tejo,311,2025-06-29T07:20:00Z,25596732,Em conclusão,3111,Queima,0,1,0,5,2025-06-29T07:20:00Z,Santarém,Santarém,Alentejo,-8.68437,39.341808
+25596757,Marinha Grande,Região de Leiria,310,2025-06-29T07:26:00Z,25596757,Em curso,2127,"Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,2025-06-29T07:26:00Z,Marinha Grande,Leiria,Centro,-8.921812,39.746629
 25593470,Duas Igrejas,Tâmega e Sousa,309,2025-06-28T14:16:00Z,25593470,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-28T14:16:00Z,Penafiel,Porto,Norte,-8.278005,41.170128

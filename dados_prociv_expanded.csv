@@ -1,12 +1,11 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude"
-25596672,"Alfragide","Grande Lisboa",311,"2025-06-29T06:44:00",25596672,"Em conclusão","2403","Colisão rodoviária",0,3,0,9,"2025-06-29T06:44:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.225704,38.738085
-25596575,"Válega","Região de Aveiro",310,"2025-06-29T05:41:00",25596575,"Em conclusão","2201","Incêndio em equipamentos ou produtos",0,1,0,5,"2025-06-29T05:41:00","Ovar","Aveiro","Centro",-8.563313,40.84501
-25596757,"Marinha Grande","Região de Leiria",310,"2025-06-29T07:26:00",25596757,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,"2025-06-29T07:26:00","Marinha Grande","Leiria","Centro",-8.921812,39.746629
-25596440,"Portimão","Algarve",313,"2025-06-29T03:51:00",25596440,"Em conclusão","2407","Despiste",0,1,0,2,"2025-06-29T03:51:00","Portimão","Faro","Algarve",-8.532608,37.137966
+25596672,"Alfragide","Grande Lisboa",311,"2025-06-29T06:44:00",25596672,"Em conclusão","2403","Colisão rodoviária",0,2,0,3,"2025-06-29T06:44:00","Amadora","Lisboa","Área Metropolitana De Lisboa",-9.225704,38.738085
+25596788,"Palmela","Península de Setúbal",311,"2025-06-29T07:47:00",25596788,"Em despacho","3103","Incêndio rural",0,3,0,14,"2025-06-29T07:47:00","Palmela","Setúbal","Área Metropolitana De Lisboa",-8.93032,38.59737
 25596565,"Silves","Algarve",313,"2025-06-29T05:32:00",25596565,"Em conclusão","3103","Incêndio rural",0,4,0,13,"2025-06-29T05:32:00","Silves","Faro","Algarve",-8.518088,37.209803
-25596626,"Olhão","Algarve",313,"2025-06-29T06:21:00",25596626,"Em conclusão","3321","Dano na rede de fornecimento de eletricidade ",0,0,0,0,"2025-06-29T06:21:00","Olhão","Faro","Algarve",-7.844667,37.03206
-25596674,"Amora","Península de Setúbal",311,"2025-06-29T06:55:00",25596674,"Em conclusão","3203","Detritos confinados",0,1,0,5,"2025-06-29T06:55:00","Seixal","Setúbal","Área Metropolitana De Lisboa",-9.127,38.62405
+25596732,"Achete, Azoia de Baixo e Póvoa de Santarém","Lezíria do Tejo",311,"2025-06-29T07:20:00",25596732,"Em conclusão","3111","Queima",0,1,0,5,"2025-06-29T07:20:00","Santarém","Santarém","Alentejo",-8.68437,39.341808
+25596757,"Marinha Grande","Região de Leiria",310,"2025-06-29T07:26:00",25596757,"Em curso","2127","Incêndio em edifícios e recintos industriais, oficinas e armazéns",0,2,0,7,"2025-06-29T07:26:00","Marinha Grande","Leiria","Centro",-8.921812,39.746629
 25593470,"Duas Igrejas","Tâmega e Sousa",309,"2025-06-28T14:16:00",25593470,"Em conclusão","3103","Incêndio rural",0,1,0,5,"2025-06-28T14:16:00","Penafiel","Porto","Norte",-8.278005,41.170128
-25596595,"Outeiro da Cortiçada e Arruda Dos Pisões","Lezíria do Tejo",311,"2025-06-29T05:55:00",25596595,"Em conclusão","2407","Despiste",0,2,0,5,"2025-06-29T05:55:00","Rio Maior","Santarém","Alentejo",-8.84081,39.305663
-25596680,"Silves","Algarve",313,"2025-06-29T06:53:00",25596680,"Em curso","2403","Colisão rodoviária",0,5,0,13,"2025-06-29T06:53:00","Silves","Faro","Algarve",-8.443919,37.192295
+25596680,"Silves","Algarve",313,"2025-06-29T06:53:00",25596680,"Em curso","2403","Colisão rodoviária",0,6,0,15,"2025-06-29T06:53:00","Silves","Faro","Algarve",-8.443919,37.192295
 25596714,"Estrela","Grande Lisboa",311,"2025-06-29T07:10:00",25596714,"Em despacho","2403","Colisão rodoviária",0,1,0,2,"2025-06-29T07:10:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.172272,38.701641
+25596812,"Alpiarça","Lezíria do Tejo",311,"2025-06-29T07:51:00",25596812,"Em despacho","3301","Queda de árvore",0,2,0,7,"2025-06-29T07:51:00","Alpiarça","Santarém","Alentejo",-8.570561,39.241131
+25596830,"Carvoeira e Carmões","Oeste",311,"2025-06-29T07:44:00",25596830,"Em despacho","2407","Despiste",0,3,0,9,"2025-06-29T07:44:00","Torres Vedras","Lisboa","Centro",-9.174326,39.079038
