@@ -1,17 +1,24 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25593470,Duas Igrejas,Tâmega e Sousa,309,2025-06-28T14:16:00Z,25593470,Em conclusão,3103,Incêndio rural,0,6,0,22,2025-06-28T14:16:00Z,Penafiel,Porto,Norte,-8.278005,41.170128
-25598450,Paderne,Algarve,313,2025-06-29T13:32:00Z,25598450,Em curso,3103,Incêndio rural,1,6,0,26,2025-06-29T13:32:00Z,Albufeira,Faro,Algarve,-8.18295,37.19609
-25598601,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-29T14:00:00Z,25598601,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,8,2025-06-29T14:00:00Z,Amarante,Porto,Norte,-8.063557,41.230262
 25597086,Labruja,Alto Minho,309,2025-06-29T08:51:00Z,25597086,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-29T08:51:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.591233,41.835535
 25598040,Gâmbia-Pontes-Alto da Guerra,Península de Setúbal,311,2025-06-29T11:57:00Z,25598040,Em conclusão,2115,Incêndio em edifícios hoteleiros e de restauração,0,1,0,5,2025-06-29T11:57:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.81212,38.53153
-25598343,Quinchães,Ave,309,2025-06-29T13:09:00Z,25598343,Em conclusão,3103,Incêndio rural,0,2,0,10,2025-06-29T13:09:00Z,Fafe,Braga,Norte,-8.138218,41.42015
-25598459,Maceira,Região de Leiria,310,2025-06-29T13:33:00Z,25598459,Em curso,3103,Incêndio rural,1,6,0,30,2025-06-29T13:33:00Z,Leiria,Leiria,Centro,-8.9196,39.67484
-25598491,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-29T13:37:00Z,25598491,Em curso,3101,Incêndio rural,0,4,0,16,2025-06-29T13:37:00Z,Gondomar,Porto,Norte,-8.498762,41.11378
-25598510,Cabreiro,Alto Minho,309,2025-06-29T13:41:00Z,25598510,Em curso,3101,Incêndio rural,1,2,0,15,2025-06-29T13:41:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.387308,41.945052
-25597502,Ermelo e Pardelhas,Ave,309,2025-06-29T10:09:00Z,25597502,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,3,0,11,2025-06-29T10:09:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
-25597711,Pombal,Região de Leiria,310,2025-06-29T10:57:00Z,25597711,Em conclusão,2101,Incêndio em edifícios habitacionais,0,4,0,10,2025-06-29T10:57:00Z,Pombal,Leiria,Centro,-8.620009,39.92306
-25598302,"Taveiro, Ameal e Arzila",Região de Coimbra,310,2025-06-29T12:53:00Z,25598302,Em conclusão,2201,Incêndio em equipamentos ou produtos,0,2,0,11,2025-06-29T12:53:00Z,Coimbra,Coimbra,Centro,-8.524887,40.186071
-25598557,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-06-29T13:41:00Z,25598557,Em curso,3201,Detritos não confinados,0,2,0,11,2025-06-29T13:41:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.06909,38.916668
+25598343,Quinchães,Ave,309,2025-06-29T13:09:00Z,25598343,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-29T13:09:00Z,Fafe,Braga,Norte,-8.138218,41.42015
+25598459,Maceira,Região de Leiria,310,2025-06-29T13:33:00Z,25598459,Em conclusão,3103,Incêndio rural,1,6,0,27,2025-06-29T13:33:00Z,Leiria,Leiria,Centro,-8.921728,39.668342
+25598491,Foz do Sousa e Covelo,Area M. Porto,309,2025-06-29T13:37:00Z,25598491,Em resolução,3101,Incêndio rural,0,3,0,11,2025-06-29T13:37:00Z,Gondomar,Porto,Norte,-8.498762,41.11378
+25598510,Cabreiro,Alto Minho,309,2025-06-29T13:41:00Z,25598510,Em resolução,3101,Incêndio rural,1,2,0,15,2025-06-29T13:41:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.387308,41.945052
+25598557,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-06-29T13:41:00Z,25598557,Em conclusão,3201,Detritos não confinados,0,4,0,15,2025-06-29T13:41:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.06909,38.916668
+25598708,Carvoeira e Carmões,Oeste,311,2025-06-29T14:26:00Z,25598708,Em despacho,3201,Detritos não confinados,0,5,0,16,2025-06-29T14:26:00Z,Torres Vedras,Lisboa,Centro,-9.16633,39.07668
 25597878,Resende,Tâmega e Sousa,309,2025-06-29T11:28:00Z,25597878,Em conclusão,3103,Incêndio rural,0,5,0,21,2025-06-29T11:28:00Z,São João Da Pesqueira,Viseu,Norte,-7.438257,41.095312
-25598196,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-06-29T12:39:00Z,25598196,Em conclusão,3103,Incêndio rural,0,4,0,14,2025-06-29T12:39:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.70635,39.053708
-25598498,Penacova,Tâmega e Sousa,309,2025-06-29T13:39:00Z,25598498,Em despacho,3101,Incêndio rural,0,1,0,5,2025-06-29T13:39:00Z,Felgueiras,Porto,Norte,-8.24735,41.37092
+25598196,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-06-29T12:39:00Z,25598196,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-29T12:39:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.70635,39.053708
+25598498,Penacova,Tâmega e Sousa,309,2025-06-29T13:39:00Z,25598498,Em curso,3101,Incêndio rural,0,1,0,5,2025-06-29T13:39:00Z,Felgueiras,Porto,Norte,-8.252675,41.368792
+25598703,Ramada e Caneças,Grande Lisboa,311,2025-06-29T14:19:00Z,25598703,Em conclusão,2101,Incêndio em edifícios habitacionais,0,2,0,7,2025-06-29T14:19:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.224517,38.811058
+25593470,Duas Igrejas,Tâmega e Sousa,309,2025-06-28T14:16:00Z,25593470,Em conclusão,3103,Incêndio rural,0,6,0,22,2025-06-28T14:16:00Z,Penafiel,Porto,Norte,-8.278005,41.170128
+25598450,Paderne,Algarve,313,2025-06-29T13:32:00Z,25598450,Em resolução,3103,Incêndio rural,0,8,0,24,2025-06-29T13:32:00Z,Albufeira,Faro,Algarve,-8.18295,37.19609
+25598601,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-29T14:00:00Z,25598601,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,8,2025-06-29T14:00:00Z,Amarante,Porto,Norte,-8.063557,41.230262
+25598634,Amora,Península de Setúbal,311,2025-06-29T14:11:00Z,25598634,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-29T14:11:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.12812,38.62391
+25598719,"Nogueira, Fraião e Lamaçães",Cávado,309,2025-06-29T14:29:00Z,25598719,Em despacho,2101,Incêndio em edifícios habitacionais,0,1,0,6,2025-06-29T14:29:00Z,Braga,Braga,Norte,-8.418693,41.53529
+25598735,Tarouca e Dálvares,Douro,309,2025-06-29T14:29:00Z,25598735,Em resolução,3103,Incêndio rural,1,1,0,11,2025-06-29T14:29:00Z,Tarouca,Viseu,Norte,-7.785035,41.023342
+25597502,Ermelo e Pardelhas,Ave,309,2025-06-29T10:09:00Z,25597502,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,4,0,12,2025-06-29T10:09:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
+25597711,Pombal,Região de Leiria,310,2025-06-29T10:57:00Z,25597711,Em conclusão,2101,Incêndio em edifícios habitacionais,0,1,0,2,2025-06-29T10:57:00Z,Pombal,Leiria,Centro,-8.620009,39.92306
+25598647,Vila Chã (São João Baptista e Santiago),Alto Minho,309,2025-06-29T14:14:00Z,25598647,Em curso,3103,Incêndio rural,1,5,0,25,2025-06-29T14:14:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.318865,41.787746
+25598670,Guarda,Beiras e Serra da Estrela,310,2025-06-29T14:18:00Z,25598670,Em resolução,3103,Incêndio rural,2,5,0,34,2025-06-29T14:18:00Z,Guarda,Guarda,Centro,-7.236113,40.528107
+25598704,Valongo,Area M. Porto,309,2025-06-29T14:26:00Z,25598704,Em resolução,3103,Incêndio rural,0,2,0,8,2025-06-29T14:26:00Z,Valongo,Porto,Norte,-8.503747,41.20704
