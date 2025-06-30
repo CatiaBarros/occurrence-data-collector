@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25600307,Ventosa e Cova,Ave,309,2025-06-29T20:36:00Z,25600307,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-29T20:36:00Z,Vieira Do Minho,Braga,Norte,-8.168892,41.676273
-25601423,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-06-30T04:33:00Z,25601423,Em conclusão,3103,Incêndio rural,0,3,0,12,2025-06-30T04:33:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.128352,38.818327
-25601424,Castelo Branco,Beira Baixa,310,2025-06-30T04:30:00Z,25601424,Em resolução,3201,Detritos não confinados,0,4,0,10,2025-06-30T04:30:00Z,Castelo Branco,Castelo Branco,Centro,-7.458488,39.781373
-25601144,Campia,Viseu Dão Lafões,310,2025-06-30T00:58:00Z,25601144,Em resolução,2301,Incêndio em transporte rodoviário,0,5,0,15,2025-06-30T00:58:00Z,Vouzela,Viseu,Centro,-8.231355,40.687353
-25601271,Castro Verde e Casével,Baixo Alentejo,312,2025-06-30T02:10:00Z,25601271,Em conclusão,3105,Incêndio rural,0,0,0,0,2025-06-30T02:10:00Z,Castro Verde,Beja,Alentejo,-8.088977,37.72785
+25599357,Alpalhão,Alto Alentejo,312,2025-06-29T16:55:00Z,25599357,Em conclusão,3103,Incêndio rural,0,9,0,28,2025-06-29T16:55:00Z,Nisa,Portalegre,Alentejo,-7.63684,39.452513
+25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em curso,3101,Incêndio rural,0,48,0,140,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97
 25599361,Chancelaria,Médio Tejo,311,2025-06-29T16:59:00Z,25599361,Em conclusão,3101,Incêndio rural,0,7,0,23,2025-06-29T16:59:00Z,Torres Novas,Santarém,Centro,-8.54621,39.518782
 25600833,Lomba,Area M. Porto,309,2025-06-29T22:43:00Z,25600833,Em conclusão,3203,Detritos confinados,0,1,0,5,2025-06-29T22:43:00Z,Gondomar,Porto,Norte,-8.412507,41.034023
-25599357,Alpalhão,Alto Alentejo,312,2025-06-29T16:55:00Z,25599357,Em conclusão,3103,Incêndio rural,0,9,0,28,2025-06-29T16:55:00Z,Nisa,Portalegre,Alentejo,-7.63684,39.452513
-25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em curso,3101,Incêndio rural,0,47,0,138,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97
+25601551,Corroios,Península de Setúbal,311,2025-06-30T06:35:00Z,25601551,Em despacho,2201,Incêndio em equipamentos ou produtos,0,0,0,0,2025-06-30T06:35:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15071,38.6427
+25601144,Campia,Viseu Dão Lafões,310,2025-06-30T00:58:00Z,25601144,Em resolução,2301,Incêndio em transporte rodoviário,0,5,0,15,2025-06-30T00:58:00Z,Vouzela,Viseu,Centro,-8.231355,40.687353
+25601548,"Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia",Beiras e Serra da Estrela,310,2025-06-30T06:33:00Z,25601548,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-30T06:33:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.08021,40.88406
+25601424,Castelo Branco,Beira Baixa,310,2025-06-30T04:30:00Z,25601424,Em conclusão,3201,Detritos não confinados,0,4,0,10,2025-06-30T04:30:00Z,Castelo Branco,Castelo Branco,Centro,-7.458488,39.781373
