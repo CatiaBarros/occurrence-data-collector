@@ -32,5 +32,6 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "actions@github.com"
-        git add dados_prociv_expanded.csv Ocorrencias_incendio.csv || true
+        git pull --rebase origin main || true
+        git add dados_prociv_expanded.csv Ocorrencias_incendio.csv metadata_prociv.json || true
         git diff --cached --quiet || (git commit -m "🔄 Atualização automática de dados ProCiv" && git push)
