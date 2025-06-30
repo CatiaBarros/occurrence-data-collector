@@ -66,7 +66,7 @@ if (status_code(response) == 200) {
     # === Criar coluna state_2 antes de salvar ===
     final_df$state_2 <- ifelse(
       final_df$state %in% c("Em resolução", "Em conclusão"),
-      "Em resolução/Em conclusão",
+      "Em resolução/conclusão",
       final_df$state
     )
     
@@ -88,8 +88,8 @@ if (file.exists("dados_prociv_expanded.csv")) {
 
 # === Criar coluna state_2 após leitura ===
 dados_prociv$state_2 <- ifelse(
-  dados_prociv$state %in% c("Em Resolução", "Em Conclusão"),
-  "Em Resolução/Em Conclusão",
+  dados_prociv$state %in% c("Em resolução", "Em conclusão"),
+  "Em resolução/conclusão",
   dados_prociv$state
 )
 
