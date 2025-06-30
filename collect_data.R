@@ -65,8 +65,8 @@ if (status_code(response) == 200) {
 
     # === Criar coluna state_2 antes de salvar ===
     final_df$state_2 <- ifelse(
-      final_df$state %in% c("Em Resolução", "Em Conclusão"),
-      "Em Resolução/Em Conclusão",
+      final_df$state %in% c("Em resolução", "Em conclusão"),
+      "Em resolução/Em conclusão",
       final_df$state
     )
     
