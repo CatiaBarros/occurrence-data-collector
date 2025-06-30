@@ -111,15 +111,25 @@ if (nrow(ocorrencias_incendio) == 0) {
   cat("✅ Ocorrencias_incendio.csv salvo com", nrow(ocorrencias_incendio), "linhas!\n")
 }
 
-# === Criar ficheiro JSON com a data/hora da última atualização ===
+# === Criar ficheiro JSON com explicação dos estados e data/hora da última atualização (sem <strong>) ===
+library(jsonlite)
+
 ultima_atualizacao <- format(Sys.time(), "%Hh%M de %d/%m/%Y")
+
+nota_html <- paste0(
+  "Nota:<br>",
+  "Em Despacho – Meios em trânsito para o teatro de operações<br>",
+  "Em Curso – Ocorrência em evolução sem limitação de área<br>",
+  "Em Resolução – Ocorrência sem perigo de propagação<br>",
+  "Em Conclusão – Ocorrência extinta, em observação<br><br>",
+  "Última atualização às ", ultima_atualizacao
+)
 
 metadata <- list(
   annotate = list(
-    notes = paste0("Última atualização às ", ultima_atualizacao)
+    notes = nota_html
   )
 )
 
 write_json(metadata, "metadata_prociv.json", pretty = TRUE, auto_unbox = TRUE)
 cat("✅ metadata_prociv.json criado com sucesso!\n")
-
