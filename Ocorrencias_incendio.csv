@@ -1,19 +1,18 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
-25599357,Alpalhão,Alto Alentejo,312,2025-06-29T16:55:00Z,25599357,Em conclusão,3103,Incêndio rural,1,15,0,54,2025-06-29T16:55:00Z,Nisa,Portalegre,Alentejo,-7.63684,39.452513
-25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em curso,3101,Incêndio rural,3,50,0,158,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97
-25601904,Ermelo e Pardelhas,Ave,309,2025-06-30T08:29:00Z,25601904,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-30T08:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
-25602047,Campos e Louredo,Ave,309,2025-06-30T08:54:00Z,25602047,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T08:54:00Z,Póvoa De Lanhoso,Braga,Norte,-8.294605,41.550835
-25602624,Lomba,Area M. Porto,309,2025-06-30T10:19:00Z,25602624,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-30T10:19:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
-25602783,Romarigães,Alto Minho,309,2025-06-30T10:43:00Z,25602783,Em resolução,3103,Incêndio rural,0,5,0,18,2025-06-30T10:43:00Z,Paredes De Coura,Viana Do Castelo,Norte,-8.624152,41.847172
-25599361,Chancelaria,Médio Tejo,311,2025-06-29T16:59:00Z,25599361,Em conclusão,3101,Incêndio rural,0,6,0,17,2025-06-29T16:59:00Z,Torres Novas,Santarém,Centro,-8.54621,39.518782
-25602321,Samora Correia,Lezíria do Tejo,311,2025-06-30T09:39:00Z,25602321,Em conclusão,3103,Incêndio rural,0,4,0,16,2025-06-30T09:39:00Z,Benavente,Santarém,Alentejo,-8.78115,38.81654
-25602519,Cousso,Alto Minho,309,2025-06-30T10:04:00Z,25602519,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T10:04:00Z,Melgaço,Viana Do Castelo,Norte,-8.27583,42.053508
+25599361,Chancelaria,Médio Tejo,311,2025-06-29T16:59:00Z,25599361,Em conclusão,3101,Incêndio rural,0,7,0,18,2025-06-29T16:59:00Z,Torres Novas,Santarém,Centro,-8.54621,39.518782
+25602519,Cousso,Alto Minho,309,2025-06-30T10:04:00Z,25602519,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,9,2025-06-30T10:04:00Z,Melgaço,Viana Do Castelo,Norte,-8.27583,42.053508
 25602886,Duas Igrejas,Tâmega e Sousa,309,2025-06-30T10:48:00Z,25602886,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T10:48:00Z,Penafiel,Porto,Norte,-8.278005,41.170128
+25603256,Ruivães e Novais,Ave,309,2025-06-30T12:01:00Z,25603256,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-30T12:01:00Z,Vila Nova De Famalicão,Braga,Norte,-8.427468,41.39519
+25602092,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-30T08:59:00Z,25602092,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,4,0,14,2025-06-30T08:59:00Z,Ribeira De Pena,Vila Real,Norte,-7.781975,41.547104
 25601698,Penamacor,Beira Baixa,310,2025-06-30T07:38:00Z,25601698,Em conclusão,3101,Incêndio rural,0,8,0,30,2025-06-30T07:38:00Z,Penamacor,Castelo Branco,Centro,-7.081393,40.1962
 25602539,Macieira de Cambra,Area M. Porto,309,2025-06-30T10:04:00Z,25602539,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-30T10:04:00Z,Vale De Cambra,Aveiro,Norte,-8.385739,40.855831
-25602634,Sobreira Formosa e Alvito da Beira,Beira Baixa,310,2025-06-30T10:17:00Z,25602634,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T10:17:00Z,Proença-a-Nova,Castelo Branco,Centro,-7.76818,39.73129
 25602673,Castro Verde e Casével,Baixo Alentejo,312,2025-06-30T10:26:00Z,25602673,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,2,2025-06-30T10:26:00Z,Castro Verde,Beja,Alentejo,-8.080915,37.697259
 25602873,Croca,Tâmega e Sousa,309,2025-06-30T10:47:00Z,25602873,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T10:47:00Z,Penafiel,Porto,Norte,-8.254618,41.21005
 25602932,Penacova,Tâmega e Sousa,309,2025-06-30T10:50:00Z,25602932,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T10:50:00Z,Felgueiras,Porto,Norte,-8.252675,41.368792
-25602092,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-30T08:59:00Z,25602092,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,4,0,14,2025-06-30T08:59:00Z,Ribeira De Pena,Vila Real,Norte,-7.781975,41.547104
-25603256,Ruivães e Novais,Ave,309,2025-06-30T12:01:00Z,25603256,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-30T12:01:00Z,Vila Nova De Famalicão,Braga,Norte,-8.42897,41.39289
+25603441,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-30T12:33:00Z,25603441,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-30T12:33:00Z,Santo Tirso,Porto,Norte,-8.47731,41.34088
+25603422,Vila Boa de Quires e Maureles,Tâmega e Sousa,309,2025-06-30T12:30:00Z,25603422,Em despacho,3101,Incêndio rural,1,2,0,16,2025-06-30T12:30:00Z,Marco De Canaveses,Porto,Norte,-8.212325,41.209832
+25599357,Alpalhão,Alto Alentejo,312,2025-06-29T16:55:00Z,25599357,Em conclusão,3103,Incêndio rural,1,17,0,62,2025-06-29T16:55:00Z,Nisa,Portalegre,Alentejo,-7.63684,39.452513
+25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em curso,3101,Incêndio rural,4,49,0,159,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97
+25601904,Ermelo e Pardelhas,Ave,309,2025-06-30T08:29:00Z,25601904,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-30T08:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
+25602624,Lomba,Area M. Porto,309,2025-06-30T10:19:00Z,25602624,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-30T10:19:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
+25602783,Romarigães,Alto Minho,309,2025-06-30T10:43:00Z,25602783,Em resolução,3103,Incêndio rural,0,5,0,18,2025-06-30T10:43:00Z,Paredes De Coura,Viana Do Castelo,Norte,-8.624152,41.847172
