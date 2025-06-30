@@ -80,13 +80,7 @@ if (file.exists("dados_prociv_expanded.csv")) {
 }
 
 # === Códigos de incêndio definidos manualmente ===
-codigos_incendio <- c(
-  "2101", "2103", "2105", "2107", "2109", "2111", "2113", 
-  "2115", "2117", "2119", "2121", "2123", "2125", "2127", 
-  "2129", "2201", "2203", "2301", "2303", "2305", "2307", 
-  "3101", "3103", "3105", "3107", "3109", "3111", "3201", "3203"
-)
-
+codigos_incendio <- c("3105", "3107", "3109", "3103", "3101", "3111")
 
 # === Garantir tipo e formato certo ===
 dados_prociv$nature <- trimws(as.character(dados_prociv$nature))
