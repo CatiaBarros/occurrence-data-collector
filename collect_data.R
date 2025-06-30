@@ -114,7 +114,13 @@ if (nrow(ocorrencias_incendio) == 0) {
 # === Criar ficheiro JSON com explicação dos estados e data/hora da última atualização (sem <strong>) ===
 library(jsonlite)
 
-ultima_atualizacao <- format(Sys.time(), "%Hh%M de %d/%m/%Y")
+library(lubridate)
+
+ultima_atualizacao <- format(
+  with_tz(Sys.time(), tzone = "Europe/Lisbon"),
+  "%Hh%M de %d/%m/%Y"
+)
+
 
 nota_html <- paste0(
   "Nota:<br>",
