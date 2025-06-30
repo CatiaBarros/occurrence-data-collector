@@ -62,6 +62,13 @@ if (status_code(response) == 200) {
     
     final_sf <- st_set_geometry(final_sf, NULL)
     final_df <- as.data.frame(final_sf)
+
+    # === Criar coluna state_2 antes de salvar ===
+    final_df$state_2 <- ifelse(
+      final_df$state %in% c("Em Resolução", "Em Conclusão"),
+      "Em Resolução/Em Conclusão",
+      final_df$state
+    )
     
     write.csv(final_df, "dados_prociv_expanded.csv", row.names = FALSE)
     cat("✅ Arquivo 'dados_prociv_expanded.csv' salvo com sucesso!\n")
@@ -78,6 +85,13 @@ if (file.exists("dados_prociv_expanded.csv")) {
 } else {
   stop("❌ Arquivo 'dados_prociv_expanded.csv' não encontrado.")
 }
+
+# === Criar coluna state_2 após leitura ===
+dados_prociv$state_2 <- ifelse(
+  dados_prociv$state %in% c("Em Resolução", "Em Conclusão"),
+  "Em Resolução/Em Conclusão",
+  dados_prociv$state
+)
 
 # === Códigos de incêndio definidos manualmente ===
 codigos_incendio <- c("3105", "3107", "3109", "3103", "3101", "3111")
@@ -96,4 +110,3 @@ if (nrow(ocorrencias_incendio) == 0) {
   write_csv(ocorrencias_incendio, "Ocorrencias_incendio.csv")
   cat("✅ Ocorrencias_incendio.csv salvo com", nrow(ocorrencias_incendio), "linhas!\n")
 }
-
