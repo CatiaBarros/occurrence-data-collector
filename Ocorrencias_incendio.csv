@@ -1,33 +1,36 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude
 25445507,Cabeça Gorda,Baixo Alentejo,312,2025-05-29T12:44:00Z,25445507,Em conclusão,3101,Incêndio rural,0,0,0,0,2025-05-29T12:44:00Z,Beja,Beja,Alentejo,-7.811333,37.900468
-25599361,Chancelaria,Médio Tejo,311,2025-06-29T16:59:00Z,25599361,Em conclusão,3101,Incêndio rural,0,6,0,19,2025-06-29T16:59:00Z,Torres Novas,Santarém,Centro,-8.54621,39.518782
+25599361,Chancelaria,Médio Tejo,311,2025-06-29T16:59:00Z,25599361,Em conclusão,3101,Incêndio rural,0,7,0,22,2025-06-29T16:59:00Z,Torres Novas,Santarém,Centro,-8.54621,39.518782
 25602519,Cousso,Alto Minho,309,2025-06-30T10:04:00Z,25602519,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,2,0,9,2025-06-30T10:04:00Z,Melgaço,Viana Do Castelo,Norte,-8.27583,42.053508
 25602886,Duas Igrejas,Tâmega e Sousa,309,2025-06-30T10:48:00Z,25602886,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T10:48:00Z,Penafiel,Porto,Norte,-8.278005,41.170128
 25603256,Ruivães e Novais,Ave,309,2025-06-30T12:01:00Z,25603256,Em conclusão,3107,Consolidação de rescaldo de incêndio rural,0,6,0,17,2025-06-30T12:01:00Z,Vila Nova De Famalicão,Braga,Norte,-8.427468,41.39519
-25603422,Vila Boa de Quires e Maureles,Tâmega e Sousa,309,2025-06-30T12:30:00Z,25603422,Em resolução,3101,Incêndio rural,0,2,0,10,2025-06-30T12:30:00Z,Marco De Canaveses,Porto,Norte,-8.213622,41.211297
+25603422,Vila Boa de Quires e Maureles,Tâmega e Sousa,309,2025-06-30T12:30:00Z,25603422,Em conclusão,3101,Incêndio rural,0,1,0,5,2025-06-30T12:30:00Z,Marco De Canaveses,Porto,Norte,-8.213622,41.211297
+25603690,Romariz,Area M. Porto,309,2025-06-30T13:23:00Z,25603690,Em conclusão,3103,Incêndio rural,0,5,0,17,2025-06-30T13:23:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.449163,40.954263
+25603938,Benavente,Lezíria do Tejo,311,2025-06-30T14:06:00Z,25603938,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-30T14:06:00Z,Benavente,Santarém,Alentejo,-8.816484,39.00062
+25604024,Gouveia (São Simão),Tâmega e Sousa,309,2025-06-30T14:15:00Z,25604024,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-30T14:15:00Z,Amarante,Porto,Norte,-8.063557,41.230262
+25604223,Campos e Louredo,Ave,309,2025-06-30T14:53:00Z,25604223,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T14:53:00Z,Póvoa De Lanhoso,Braga,Norte,-8.294605,41.550835
+25602092,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-30T08:59:00Z,25602092,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,3,0,9,2025-06-30T08:59:00Z,Ribeira De Pena,Vila Real,Norte,-7.781975,41.547104
+25603715,Santo André,Alentejo Litoral,312,2025-06-30T13:24:00Z,25603715,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,3,0,8,2025-06-30T13:24:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.751748,38.054211
+25603747,Paços de Ferreira,Tâmega e Sousa,309,2025-06-30T13:22:00Z,25603747,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,2,0,6,2025-06-30T13:22:00Z,Paços De Ferreira,Porto,Norte,-8.370658,41.278172
 25601698,Penamacor,Beira Baixa,310,2025-06-30T07:38:00Z,25601698,Em conclusão,3101,Incêndio rural,0,8,0,30,2025-06-30T07:38:00Z,Penamacor,Castelo Branco,Centro,-7.081393,40.1962
-25602673,Castro Verde e Casével,Baixo Alentejo,312,2025-06-30T10:26:00Z,25602673,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-30T10:26:00Z,Castro Verde,Beja,Alentejo,-8.080915,37.697259
 25602873,Croca,Tâmega e Sousa,309,2025-06-30T10:47:00Z,25602873,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T10:47:00Z,Penafiel,Porto,Norte,-8.254618,41.21005
 25603441,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-06-30T12:33:00Z,25603441,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-30T12:33:00Z,Santo Tirso,Porto,Norte,-8.495383,41.355088
 25603543,Alcoentre,Lezíria do Tejo,311,2025-06-30T12:52:00Z,25603543,Em despacho,3109,Gestão de combustível,0,1,0,3,2025-06-30T12:52:00Z,Azambuja,Lisboa,Alentejo,-8.968984,39.206794
-25603575,"Lavandeira, Beira Grande e Selores",Douro,309,2025-06-30T12:58:00Z,25603575,Em conclusão,3103,Incêndio rural,0,4,0,16,2025-06-30T12:58:00Z,Carrazeda De Ansiães,Bragança,Norte,-7.297288,41.20056
-25603618,Messejana,Baixo Alentejo,312,2025-06-30T13:09:00Z,25603618,Em curso,3101,Incêndio rural,4,21,0,71,2025-06-30T13:09:00Z,Aljustrel,Beja,Alentejo,-8.169013,37.814978
-25603620,Cabreiro,Alto Minho,309,2025-06-30T13:11:00Z,25603620,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,0,0,0,2025-06-30T13:11:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.386745,41.945518
-25603690,Romariz,Area M. Porto,309,2025-06-30T13:23:00Z,25603690,Em curso,3103,Incêndio rural,1,2,0,16,2025-06-30T13:23:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.446478,40.95543
-25603938,Benavente,Lezíria do Tejo,311,2025-06-30T14:06:00Z,25603938,Em conclusão,3103,Incêndio rural,0,4,0,11,2025-06-30T14:06:00Z,Benavente,Santarém,Alentejo,-8.816484,39.00062
-25603643,"Campo, S.salvador Campo, Negrelos",Area M. Porto,309,2025-06-30T13:16:00Z,25603643,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-30T13:16:00Z,Santo Tirso,Porto,Norte,-8.346735,41.356688
+25603575,"Lavandeira, Beira Grande e Selores",Douro,309,2025-06-30T12:58:00Z,25603575,Em conclusão,3103,Incêndio rural,0,2,0,6,2025-06-30T12:58:00Z,Carrazeda De Ansiães,Bragança,Norte,-7.297288,41.20056
+25603618,Messejana,Baixo Alentejo,312,2025-06-30T13:09:00Z,25603618,Em curso,3101,Incêndio rural,4,25,0,78,2025-06-30T13:09:00Z,Aljustrel,Beja,Alentejo,-8.169013,37.814978
 25603684,Vilarinho Dos Freires,Douro,309,2025-06-30T13:15:00Z,25603684,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,6,2025-06-30T13:15:00Z,Peso Da Régua,Vila Real,Norte,-7.731495,41.205995
-25603704,Moncarapacho e Fuseta,Algarve,313,2025-06-30T13:26:00Z,25603704,Em conclusão,3103,Incêndio rural,0,5,0,17,2025-06-30T13:26:00Z,Olhão,Faro,Algarve,-7.79949,37.06964
-25603845,Ota,Oeste,311,2025-06-30T13:53:00Z,25603845,Em despacho,3103,Incêndio rural,0,5,0,18,2025-06-30T13:53:00Z,Alenquer,Lisboa,Centro,-8.99176,39.11164
-25603854,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-30T13:55:00Z,25603854,Em conclusão,3103,Incêndio rural,0,6,0,24,2025-06-30T13:55:00Z,Abrantes,Santarém,Centro,-8.214017,39.476588
-25602092,Santa Marinha,Alto Tâmega e Barroso,309,2025-06-30T08:59:00Z,25602092,Em curso,3107,Consolidação de rescaldo de incêndio rural,0,3,0,9,2025-06-30T08:59:00Z,Ribeira De Pena,Vila Real,Norte,-7.781975,41.547104
-25603715,Santo André,Alentejo Litoral,312,2025-06-30T13:24:00Z,25603715,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,3,0,8,2025-06-30T13:24:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.751748,38.054211
-25603747,Paços de Ferreira,Tâmega e Sousa,309,2025-06-30T13:22:00Z,25603747,Em resolução,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T13:22:00Z,Paços De Ferreira,Porto,Norte,-8.370658,41.278172
-25603965,Cabreiro,Alto Minho,309,2025-06-30T14:10:00Z,25603965,Em curso,3103,Incêndio rural,1,2,0,15,2025-06-30T14:10:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.386745,41.945518
+25603965,Cabreiro,Alto Minho,309,2025-06-30T14:10:00Z,25603965,Em curso,3103,Incêndio rural,1,2,0,15,2025-06-30T14:10:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.385903,41.944667
+25604181,São João de Ver,Area M. Porto,309,2025-06-30T14:45:00Z,25604181,Em despacho,3103,Incêndio rural,0,0,0,0,2025-06-30T14:45:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.554135,40.95554
 25599357,Alpalhão,Alto Alentejo,312,2025-06-29T16:55:00Z,25599357,Em conclusão,3103,Incêndio rural,0,16,0,53,2025-06-29T16:55:00Z,Nisa,Portalegre,Alentejo,-7.63684,39.452513
-25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em resolução,3101,Incêndio rural,5,50,0,156,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97
+25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em resolução,3101,Incêndio rural,4,50,0,160,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97
 25601904,Ermelo e Pardelhas,Ave,309,2025-06-30T08:29:00Z,25601904,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,2,0,7,2025-06-30T08:29:00Z,Mondim De Basto,Vila Real,Norte,-7.835997,41.35894
-25602624,Lomba,Area M. Porto,309,2025-06-30T10:19:00Z,25602624,Em conclusão,3103,Incêndio rural,0,3,0,15,2025-06-30T10:19:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
+25602624,Lomba,Area M. Porto,309,2025-06-30T10:19:00Z,25602624,Em conclusão,3103,Incêndio rural,0,1,0,5,2025-06-30T10:19:00Z,Gondomar,Porto,Norte,-8.408252,41.034001
 25602783,Romarigães,Alto Minho,309,2025-06-30T10:43:00Z,25602783,Em conclusão,3103,Incêndio rural,0,6,0,21,2025-06-30T10:43:00Z,Paredes De Coura,Viana Do Castelo,Norte,-8.624152,41.847172
 25603669,Riba de Âncora,Alto Minho,309,2025-06-30T13:19:00Z,25603669,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,4,2025-06-30T13:19:00Z,Caminha,Viana Do Castelo,Norte,-8.803938,41.814638
-25603801,Almodôvar e Graça Dos Padrões,Baixo Alentejo,312,2025-06-30T13:35:00Z,25603801,Em curso,3105,Incêndio rural,1,16,0,48,2025-06-30T13:35:00Z,Almodôvar,Beja,Alentejo,-8.145521,37.558519
+25603801,Almodôvar e Graça Dos Padrões,Baixo Alentejo,312,2025-06-30T13:35:00Z,25603801,Em curso,3105,Incêndio rural,1,19,0,56,2025-06-30T13:35:00Z,Almodôvar,Beja,Alentejo,-8.121232,37.544488
+25603845,Ota,Oeste,311,2025-06-30T13:53:00Z,25603845,Em conclusão,3103,Incêndio rural,2,4,0,29,2025-06-30T13:53:00Z,Alenquer,Lisboa,Centro,-8.99176,39.11164
+25603854,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-06-30T13:55:00Z,25603854,Em conclusão,3103,Incêndio rural,0,2,0,7,2025-06-30T13:55:00Z,Abrantes,Santarém,Centro,-8.214017,39.476588
+25604086,Alvarenga,Area M. Porto,309,2025-06-30T14:23:00Z,25604086,Em curso,3103,Incêndio rural,4,4,0,30,2025-06-30T14:23:00Z,Arouca,Aveiro,Norte,-8.144899,40.967288
+25604093,Briteiros Santo Estêvão e Donim,Ave,309,2025-06-30T14:31:00Z,25604093,Em conclusão,3105,Incêndio rural,0,1,0,5,2025-06-30T14:31:00Z,Guimarães,Braga,Norte,-8.30805,41.521391
+25604220,Campo,Viseu Dão Lafões,310,2025-06-30T14:52:00Z,25604220,Em despacho,3107,Consolidação de rescaldo de incêndio rural,0,1,0,5,2025-06-30T14:52:00Z,Viseu,Viseu,Centro,-7.95445,40.690428
+25604069,Aldeia Velha,Alto Alentejo,312,2025-06-30T14:26:00Z,25604069,Em curso,3103,Incêndio rural,0,19,0,63,2025-06-30T14:26:00Z,Avis,Portalegre,Alentejo,-8.02458,39.09571
