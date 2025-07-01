@@ -1,11 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25599357,Alpalhão,Alto Alentejo,312,2025-06-29T16:55:00Z,25599357,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-06-29T16:55:00Z,Nisa,Portalegre,Alentejo,-7.63684,39.452513,Resolução/Conclusão
+25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em Resolução/Conclusão,3101,Incêndio rural,0,37,0,101,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97,Resolução/Conclusão
+25606759,São Miguel do Outeiro e Sabugosa,Viseu Dão Lafões,310,2025-07-01T00:26:00Z,25606759,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,1,2025-07-01T00:26:00Z,Tondela,Viseu,Centro,-8.056143,40.560622,Resolução/Conclusão
 25445507,Cabeça Gorda,Baixo Alentejo,312,2025-05-29T12:44:00Z,25445507,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-05-29T12:44:00Z,Beja,Beja,Alentejo,-7.811333,37.900468,Resolução/Conclusão
 25606941,Penafiel,Tâmega e Sousa,309,2025-07-01T02:31:00Z,25606941,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-01T02:31:00Z,Penafiel,Porto,Norte,-8.262955,41.20429,Resolução/Conclusão
 25607039,Lomba,Area M. Porto,309,2025-07-01T04:11:00Z,25607039,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-01T04:11:00Z,Gondomar,Porto,Norte,-8.425045,41.031572,Resolução/Conclusão
-25599357,Alpalhão,Alto Alentejo,312,2025-06-29T16:55:00Z,25599357,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-06-29T16:55:00Z,Nisa,Portalegre,Alentejo,-7.63684,39.452513,Resolução/Conclusão
-25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em Resolução/Conclusão,3101,Incêndio rural,0,37,0,100,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97,Resolução/Conclusão
-25606759,São Miguel do Outeiro e Sabugosa,Viseu Dão Lafões,310,2025-07-01T00:26:00Z,25606759,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,1,2025-07-01T00:26:00Z,Tondela,Viseu,Centro,-8.056143,40.560622,Resolução/Conclusão
-25603618,Messejana,Baixo Alentejo,312,2025-06-30T13:09:00Z,25603618,Em Resolução/Conclusão,3101,Incêndio rural,0,67,0,202,2025-06-30T13:09:00Z,Aljustrel,Beja,Alentejo,-8.169013,37.814978,Resolução/Conclusão
+25607207,Candoso São Tiago e Mascotelos,Ave,309,2025-07-01T06:51:00Z,25607207,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-07-01T06:51:00Z,Guimarães,Braga,Norte,-8.318402,41.424801,Despacho
+25603618,Messejana,Baixo Alentejo,312,2025-06-30T13:09:00Z,25603618,Em Resolução/Conclusão,3101,Incêndio rural,0,68,0,203,2025-06-30T13:09:00Z,Aljustrel,Beja,Alentejo,-8.169013,37.814978,Resolução/Conclusão
 25603684,Vilarinho Dos Freires,Douro,309,2025-06-30T13:15:00Z,25603684,Em Resolução/Conclusão,3107,Consolidação de rescaldo de incêndio rural,0,3,0,8,2025-06-30T13:15:00Z,Peso Da Régua,Vila Real,Norte,-7.731495,41.205995,Resolução/Conclusão
 25604086,Alvarenga,Area M. Porto,309,2025-06-30T14:23:00Z,25604086,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-06-30T14:23:00Z,Arouca,Aveiro,Norte,-8.16662,40.977807,Resolução/Conclusão
 25604815,Ermidas-Sado,Alentejo Litoral,312,2025-06-30T16:36:00Z,25604815,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,30,2025-06-30T16:36:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.353481,38.015813,Resolução/Conclusão
