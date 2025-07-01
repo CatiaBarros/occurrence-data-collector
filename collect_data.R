@@ -103,7 +103,7 @@ dados_prociv$state <- ifelse(
 dados_prociv$state_2 <- tools::toTitleCase(gsub("^Em ", "", dados_prociv$state))
 
 # === Códigos de incêndio definidos manualmente ===
-codigos_incendio <- c("3105", "3107", "3109", "3103", "3101", "3111")
+codigos_incendio <- c("3105", "3103", "3101", "3111")
 
 # === Garantir tipo e formato certo ===
 dados_prociv$nature <- trimws(as.character(dados_prociv$nature))
