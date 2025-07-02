@@ -129,7 +129,7 @@ ultima_atualizacao <- format(
 )
 
 nota_html <- paste0(
-"<details>"
+"<details>",
   "<summary>Nota: </summary><br>",
   "Em Despacho – Meios em trânsito para o teatro de operações<br>",
   "Em Curso – Ocorrência em evolução sem limitação de área<br>",
