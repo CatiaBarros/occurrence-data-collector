@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25611092,Barbacena e Vila Fernando,Alto Alentejo,312,2025-07-01T18:35:00Z,25611092,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-07-01T18:35:00Z,Elvas,Portalegre,Alentejo,-7.30867,38.937875,Resolução/Conclusão
 25610953,Barbacena e Vila Fernando,Alto Alentejo,312,2025-07-01T18:18:00Z,25610953,Em Resolução/Conclusão,3101,Incêndio rural,0,11,0,34,2025-07-01T18:18:00Z,Elvas,Portalegre,Alentejo,-7.318435,38.920227,Resolução/Conclusão
 25611301,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-07-01T19:25:00Z,25611301,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,62,2025-07-01T19:25:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.002512,40.960853,Resolução/Conclusão
 25603618,Messejana,Baixo Alentejo,312,2025-06-30T13:09:00Z,25603618,Em Resolução/Conclusão,3101,Incêndio rural,0,17,0,48,2025-06-30T13:09:00Z,Aljustrel,Beja,Alentejo,-8.169013,37.814978,Resolução/Conclusão
@@ -9,3 +8,5 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em Resolução/Conclusão,3101,Incêndio rural,0,15,0,44,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.65644,39.97,Resolução/Conclusão
 25612309,Portela e Extremo,Alto Minho,309,2025-07-01T23:31:00Z,25612309,Em Curso,3103,Incêndio rural,0,12,0,43,2025-07-01T23:31:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.46703,41.947547,Curso
 25612634,Venade e Azevedo,Alto Minho,309,2025-07-02T02:20:00Z,25612634,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-07-02T02:20:00Z,Caminha,Viana Do Castelo,Norte,-8.813995,41.845453,Resolução/Conclusão
+25612886,Alpiarça,Lezíria do Tejo,311,2025-07-02T06:52:00Z,25612886,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-07-02T06:52:00Z,Alpiarça,Santarém,Alentejo,-8.57821,39.24824,Despacho
+25611092,Barbacena e Vila Fernando,Alto Alentejo,312,2025-07-01T18:35:00Z,25611092,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-07-01T18:35:00Z,Elvas,Portalegre,Alentejo,-7.30867,38.937875,Resolução/Conclusão
