@@ -1,8 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25618080,Meinedo,Tâmega e Sousa,309,2025-07-03T02:54:00Z,25618080,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-03T02:54:00Z,Lousada,Porto,Norte,-8.241818,41.25173,Resolução/Conclusão
-25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,14,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.645695,39.962858,Resolução/Conclusão
-25618166,Paredes,Area M. Porto,309,2025-07-03T04:17:00Z,25618166,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-03T04:17:00Z,Paredes,Porto,Norte,-8.321586,41.231442,Resolução/Conclusão
 25605147,Vale do Côa,Beiras e Serra da Estrela,310,2025-06-30T17:42:00Z,25605147,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-06-30T17:42:00Z,Pinhel,Guarda,Centro,-7.114995,40.946045,Resolução/Conclusão
 25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
+25618208,Bom Sucesso,Região de Coimbra,310,2025-07-03T05:16:00Z,25618208,Em Despacho,3103,Incêndio rural,0,5,0,19,2025-07-03T05:16:00Z,Figueira Da Foz,Coimbra,Centro,-8.77968,40.26316,Despacho
+25618080,Meinedo,Tâmega e Sousa,309,2025-07-03T02:54:00Z,25618080,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-03T02:54:00Z,Lousada,Porto,Norte,-8.241818,41.25173,Resolução/Conclusão
+25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,14,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.645695,39.962858,Resolução/Conclusão
+25618166,Paredes,Area M. Porto,309,2025-07-03T04:17:00Z,25618166,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-03T04:17:00Z,Paredes,Porto,Norte,-8.321586,41.231442,Resolução/Conclusão
 25611301,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-07-01T19:25:00Z,25611301,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-01T19:25:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.002512,40.960853,Resolução/Conclusão
-25618170,Eiras e Mei,Alto Minho,309,2025-07-03T04:26:00Z,25618170,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-03T04:26:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.47015,41.93929,Despacho
+25618170,Eiras e Mei,Alto Minho,309,2025-07-03T04:26:00Z,25618170,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-03T04:26:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.47015,41.93929,Resolução/Conclusão
