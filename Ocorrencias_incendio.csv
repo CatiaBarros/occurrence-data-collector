@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25605147,Vale do Côa,Beiras e Serra da Estrela,310,2025-06-30T17:42:00Z,25605147,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-06-30T17:42:00Z,Pinhel,Guarda,Centro,-7.114995,40.946045,Resolução/Conclusão
-25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
-25618224,Campos e Louredo,Ave,309,2025-07-03T05:32:00Z,25618224,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,22,2025-07-03T05:32:00Z,Póvoa De Lanhoso,Braga,Norte,-8.29292,41.550203,Resolução/Conclusão
 25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,20,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.645695,39.962858,Resolução/Conclusão
 25618257,Torrão,Alentejo Litoral,312,2025-07-03T05:54:00Z,25618257,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,7,2025-07-03T05:54:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.281558,38.263325,Resolução/Conclusão
 25618307,Milheirós de Poiares,Area M. Porto,309,2025-07-03T06:40:00Z,25618307,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-03T06:40:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.483972,40.935257,Resolução/Conclusão
-25618452,Quinchães,Ave,309,2025-07-03T07:47:00Z,25618452,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-07-03T07:47:00Z,Fafe,Braga,Norte,-8.141984,41.436044,Despacho
+25618452,Quinchães,Ave,309,2025-07-03T07:47:00Z,25618452,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-03T07:47:00Z,Fafe,Braga,Norte,-8.141984,41.436044,Resolução/Conclusão
 25611301,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-07-01T19:25:00Z,25611301,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-01T19:25:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.002512,40.960853,Resolução/Conclusão
+25605147,Vale do Côa,Beiras e Serra da Estrela,310,2025-06-30T17:42:00Z,25605147,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-06-30T17:42:00Z,Pinhel,Guarda,Centro,-7.114995,40.946045,Resolução/Conclusão
+25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
+25618224,Campos e Louredo,Ave,309,2025-07-03T05:32:00Z,25618224,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,27,2025-07-03T05:32:00Z,Póvoa De Lanhoso,Braga,Norte,-8.29292,41.550203,Resolução/Conclusão
+25618544,Dornelas,Alto Tâmega e Barroso,309,2025-07-03T08:13:00Z,25618544,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-07-03T08:13:00Z,Boticas,Vila Real,Norte,-7.859488,41.640051,Despacho
