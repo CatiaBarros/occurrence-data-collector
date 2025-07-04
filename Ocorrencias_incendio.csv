@@ -1,10 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25623754,"Bustelo, Carneiro e Carvalho de Rei",Tâmega e Sousa,309,2025-07-04T06:01:00Z,25623754,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-04T06:01:00Z,Amarante,Porto,Norte,-8.01061,41.217165,Resolução/Conclusão
-25623610,Gestaçô,Tâmega e Sousa,309,2025-07-04T03:39:00Z,25623610,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,16,2025-07-04T03:39:00Z,Baião,Porto,Norte,-7.924063,41.166775,Resolução/Conclusão
 25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
 25620464,Cativelos,Beiras e Serra da Estrela,310,2025-07-03T13:45:00Z,25620464,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-03T13:45:00Z,Gouveia,Guarda,Centro,-7.704635,40.546025,Resolução/Conclusão
 25620664,Côja e Barril de Alva,Região de Coimbra,310,2025-07-03T14:22:00Z,25620664,Em Resolução/Conclusão,3101,Incêndio rural,0,17,0,45,2025-07-03T14:22:00Z,Arganil,Coimbra,Centro,-7.95667,40.2725,Resolução/Conclusão
 25623717,Ponte de Vagos e Santa Catarina,Região de Aveiro,310,2025-07-04T05:30:00Z,25623717,Em Resolução/Conclusão,3111,Queima,0,6,0,19,2025-07-04T05:30:00Z,Vagos,Aveiro,Centro,-8.672955,40.464483,Resolução/Conclusão
+25623908,Sanfins Lamoso Codessos,Tâmega e Sousa,309,2025-07-04T07:27:00Z,25623908,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-04T07:27:00Z,Paços De Ferreira,Porto,Norte,-8.380374,41.322271,Despacho
+25623754,"Bustelo, Carneiro e Carvalho de Rei",Tâmega e Sousa,309,2025-07-04T06:01:00Z,25623754,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-04T06:01:00Z,Amarante,Porto,Norte,-8.01061,41.217165,Resolução/Conclusão
+25623972,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-07-04T07:35:00Z,25623972,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-07-04T07:35:00Z,Gondomar,Porto,Norte,-8.535889,41.192197,Despacho
 25599382,Almaceda,Beira Baixa,310,2025-06-29T17:03:00Z,25599382,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-06-29T17:03:00Z,Castelo Branco,Castelo Branco,Centro,-7.645695,39.962858,Resolução/Conclusão
 25622185,Fornos,Tâmega e Sousa,309,2025-07-03T19:19:00Z,25622185,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,64,2025-07-03T19:19:00Z,Castelo De Paiva,Aveiro,Norte,-8.242889,41.047999,Resolução/Conclusão
-25622580,Ribeira do Neiva,Cávado,309,2025-07-03T20:50:00Z,25622580,Em Curso,3103,Incêndio rural,0,20,0,73,2025-07-03T20:50:00Z,Vila Verde,Braga,Norte,-8.51215,41.728757,Curso
+25622580,Ribeira do Neiva,Cávado,309,2025-07-03T20:50:00Z,25622580,Em Curso,3103,Incêndio rural,0,20,0,72,2025-07-03T20:50:00Z,Vila Verde,Braga,Norte,-8.51215,41.728757,Curso
