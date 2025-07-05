@@ -1,18 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25625983,Vilarinho,Area M. Porto,309,2025-07-04T13:45:00Z,25625983,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-04T13:45:00Z,Santo Tirso,Porto,Norte,-8.325352,41.343782,Resolução/Conclusão
+25632019,Espinho,Cávado,309,2025-07-05T16:08:00Z,25632019,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,27,2025-07-05T16:08:00Z,Braga,Braga,Norte,-8.365675,41.54728,Resolução/Conclusão
+25630756,Salto,Alto Tâmega e Barroso,309,2025-07-05T11:37:00Z,25630756,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-07-05T11:37:00Z,Montalegre,Vila Real,Norte,-7.982735,41.609423,Resolução/Conclusão
+25632042,Cidade da Maia,Area M. Porto,309,2025-07-05T16:13:00Z,25632042,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-05T16:13:00Z,Maia,Porto,Norte,-8.59919,41.23322,Resolução/Conclusão
+25632059,Almancil,Algarve,313,2025-07-05T16:20:00Z,25632059,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,18,2025-07-05T16:20:00Z,Loulé,Faro,Algarve,-8.046127,37.117308,Resolução/Conclusão
+25632161,Ansião,Região de Leiria,310,2025-07-05T16:35:00Z,25632161,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,21,2025-07-05T16:35:00Z,Ansião,Leiria,Centro,-8.452455,39.925399,Resolução/Conclusão
+25632261,Penafiel,Tâmega e Sousa,309,2025-07-05T16:59:00Z,25632261,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-05T16:59:00Z,Penafiel,Porto,Norte,-8.278449,41.203574,Resolução/Conclusão
+25632395,Ventosa e Cova,Ave,309,2025-07-05T17:30:00Z,25632395,Em Despacho,3103,Incêndio rural,2,1,0,7,2025-07-05T17:30:00Z,Vieira Do Minho,Braga,Norte,-8.166519,41.67774,Despacho
 25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
 25620664,Côja e Barril de Alva,Região de Coimbra,310,2025-07-03T14:22:00Z,25620664,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,11,2025-07-03T14:22:00Z,Arganil,Coimbra,Centro,-7.95667,40.2725,Resolução/Conclusão
-25631505,Penafiel,Tâmega e Sousa,309,2025-07-05T14:19:00Z,25631505,Em Curso,3103,Incêndio rural,2,16,0,56,2025-07-05T14:19:00Z,Penafiel,Porto,Norte,-8.26035,41.205925,Curso
-25631764,Boivães,Alto Minho,309,2025-07-05T15:12:00Z,25631764,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-07-05T15:12:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.44941,41.763282,Resolução/Conclusão
-25631780,Alvite,Douro,309,2025-07-05T15:17:00Z,25631780,Em Resolução/Conclusão,3103,Incêndio rural,2,10,0,36,2025-07-05T15:17:00Z,Moimenta Da Beira,Viseu,Norte,-7.692007,40.96958,Resolução/Conclusão
-25632062,Fornos de Maceira Dão,Viseu Dão Lafões,310,2025-07-05T16:16:00Z,25632062,Em Despacho,3103,Incêndio rural,0,4,0,20,2025-07-05T16:16:00Z,Mangualde,Viseu,Centro,-7.824503,40.63276,Despacho
-25632239,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-07-05T16:52:00Z,25632239,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,20,2025-07-05T16:52:00Z,Beja,Beja,Alentejo,-7.859943,38.027697,Resolução/Conclusão
-25631218,Lomba,Area M. Porto,309,2025-07-05T13:18:00Z,25631218,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-05T13:18:00Z,Gondomar,Porto,Norte,-8.418905,41.0309,Resolução/Conclusão
-25631661,Loulé (São Clemente),Algarve,313,2025-07-05T14:56:00Z,25631661,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-07-05T14:56:00Z,Loulé,Faro,Algarve,-8.024805,37.109672,Resolução/Conclusão
-25630756,Salto,Alto Tâmega e Barroso,309,2025-07-05T11:37:00Z,25630756,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-07-05T11:37:00Z,Montalegre,Vila Real,Norte,-7.982735,41.609423,Resolução/Conclusão
-25632042,Cidade da Maia,Area M. Porto,309,2025-07-05T16:13:00Z,25632042,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-07-05T16:13:00Z,Maia,Porto,Norte,-8.59919,41.23322,Resolução/Conclusão
-25632059,Almancil,Algarve,313,2025-07-05T16:20:00Z,25632059,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,18,2025-07-05T16:20:00Z,Loulé,Faro,Algarve,-8.046127,37.117308,Resolução/Conclusão
-25632161,Ansião,Região de Leiria,310,2025-07-05T16:35:00Z,25632161,Em Resolução/Conclusão,3101,Incêndio rural,1,6,0,27,2025-07-05T16:35:00Z,Ansião,Leiria,Centro,-8.452455,39.925399,Resolução/Conclusão
-25625983,Vilarinho,Area M. Porto,309,2025-07-04T13:45:00Z,25625983,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-04T13:45:00Z,Santo Tirso,Porto,Norte,-8.325352,41.343782,Resolução/Conclusão
-25632019,Espinho,Cávado,309,2025-07-05T16:08:00Z,25632019,Em Curso,3103,Incêndio rural,1,6,0,33,2025-07-05T16:08:00Z,Braga,Braga,Norte,-8.36496,41.54761,Curso
-25632261,Penafiel,Tâmega e Sousa,309,2025-07-05T16:59:00Z,25632261,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-05T16:59:00Z,Penafiel,Porto,Norte,-8.278449,41.203574,Resolução/Conclusão
-25632188,Moncarapacho e Fuseta,Algarve,313,2025-07-05T16:44:00Z,25632188,Em Resolução/Conclusão,3103,Incêndio rural,1,5,0,23,2025-07-05T16:44:00Z,Olhão,Faro,Algarve,-7.783391,37.12009,Resolução/Conclusão
+25631505,Penafiel,Tâmega e Sousa,309,2025-07-05T14:19:00Z,25631505,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,49,2025-07-05T14:19:00Z,Penafiel,Porto,Norte,-8.26035,41.205925,Resolução/Conclusão
+25631780,Alvite,Douro,309,2025-07-05T15:17:00Z,25631780,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,34,2025-07-05T15:17:00Z,Moimenta Da Beira,Viseu,Norte,-7.692007,40.96958,Resolução/Conclusão
+25632239,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-07-05T16:52:00Z,25632239,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-07-05T16:52:00Z,Beja,Beja,Alentejo,-7.859943,38.027697,Resolução/Conclusão
+25631661,Loulé (São Clemente),Algarve,313,2025-07-05T14:56:00Z,25631661,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-05T14:56:00Z,Loulé,Faro,Algarve,-8.024805,37.109672,Resolução/Conclusão
+25632188,Moncarapacho e Fuseta,Algarve,313,2025-07-05T16:44:00Z,25632188,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-07-05T16:44:00Z,Olhão,Faro,Algarve,-7.783391,37.12009,Resolução/Conclusão
+25632423,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-07-05T17:25:00Z,25632423,Em Despacho,3103,Incêndio rural,0,6,0,23,2025-07-05T17:25:00Z,Grândola,Setúbal,Alentejo,-8.520444,38.191964,Despacho
