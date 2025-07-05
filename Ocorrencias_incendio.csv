@@ -1,21 +1,20 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25625983,Vilarinho,Area M. Porto,309,2025-07-04T13:45:00Z,25625983,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-04T13:45:00Z,Santo Tirso,Porto,Norte,-8.325352,41.343782,Resolução/Conclusão
-25632019,Espinho,Cávado,309,2025-07-05T16:08:00Z,25632019,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-05T16:08:00Z,Braga,Braga,Norte,-8.365675,41.54728,Resolução/Conclusão
+25632019,Espinho,Cávado,309,2025-07-05T16:08:00Z,25632019,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-05T16:08:00Z,Braga,Braga,Norte,-8.365675,41.54728,Resolução/Conclusão
 25632451,Loureira,Cávado,309,2025-07-05T17:40:00Z,25632451,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,13,2025-07-05T17:40:00Z,Vila Verde,Braga,Norte,-8.43327,41.63609,Resolução/Conclusão
 25632753,Vila de Punhe,Alto Minho,309,2025-07-05T18:55:00Z,25632753,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-05T18:55:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.742252,41.662988,Resolução/Conclusão
-25633001,São Martinho Das Amoreiras,Alentejo Litoral,312,2025-07-05T19:54:00Z,25633001,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,11,2025-07-05T19:54:00Z,Odemira,Beja,Alentejo,-8.437427,37.705873,Resolução/Conclusão
-25633219,Quinchães,Ave,309,2025-07-05T20:47:00Z,25633219,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-05T20:47:00Z,Fafe,Braga,Norte,-8.138255,41.420758,Resolução/Conclusão
-25633322,Quinta do Anjo,Península de Setúbal,311,2025-07-05T21:11:00Z,25633322,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,18,2025-07-05T21:11:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.93331,38.59536,Resolução/Conclusão
-25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
-25620664,Côja e Barril de Alva,Região de Coimbra,310,2025-07-03T14:22:00Z,25620664,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,11,2025-07-03T14:22:00Z,Arganil,Coimbra,Centro,-7.95667,40.2725,Resolução/Conclusão
-25631505,Penafiel,Tâmega e Sousa,309,2025-07-05T14:19:00Z,25631505,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,27,2025-07-05T14:19:00Z,Penafiel,Porto,Norte,-8.26035,41.205925,Resolução/Conclusão
-25631780,Alvite,Douro,309,2025-07-05T15:17:00Z,25631780,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,24,2025-07-05T15:17:00Z,Moimenta Da Beira,Viseu,Norte,-7.692007,40.96958,Resolução/Conclusão
+25633219,Quinchães,Ave,309,2025-07-05T20:47:00Z,25633219,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-07-05T20:47:00Z,Fafe,Braga,Norte,-8.138255,41.420758,Resolução/Conclusão
+25633322,Quinta do Anjo,Península de Setúbal,311,2025-07-05T21:11:00Z,25633322,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,18,2025-07-05T21:11:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.937972,38.595253,Resolução/Conclusão
+25633453,Cervães,Cávado,309,2025-07-05T21:44:00Z,25633453,Em Despacho,3103,Incêndio rural,0,3,0,14,2025-07-05T21:44:00Z,Vila Verde,Braga,Norte,-8.51655,41.59488,Despacho
+25633072,Margem,Alto Alentejo,312,2025-07-05T20:13:00Z,25633072,Em Resolução/Conclusão,3101,Incêndio rural,0,12,0,34,2025-07-05T20:13:00Z,Gavião,Portalegre,Alentejo,-7.898582,39.358027,Resolução/Conclusão
+25633183,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-07-05T20:39:00Z,25633183,Em Despacho,3105,Incêndio rural,0,0,0,0,2025-07-05T20:39:00Z,Beja,Beja,Alentejo,-7.851597,38.02634,Despacho
+25633233,Sobrosa,Area M. Porto,309,2025-07-05T20:50:00Z,25633233,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-05T20:50:00Z,Paredes,Porto,Norte,-8.360562,41.256547,Resolução/Conclusão
+25633376,Carregado e Cadafais,Oeste,311,2025-07-05T21:27:00Z,25633376,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-05T21:27:00Z,Alenquer,Lisboa,Centro,-8.97813,39.02326,Resolução/Conclusão
 25632395,Ventosa e Cova,Ave,309,2025-07-05T17:30:00Z,25632395,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,20,2025-07-05T17:30:00Z,Vieira Do Minho,Braga,Norte,-8.165932,41.677758,Resolução/Conclusão
 25633178,Vilarinho Dos Freires,Douro,309,2025-07-05T20:38:00Z,25633178,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-05T20:38:00Z,Peso Da Régua,Vila Real,Norte,-7.74596,41.1775,Resolução/Conclusão
 25633312,Penafiel,Tâmega e Sousa,309,2025-07-05T21:09:00Z,25633312,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,3,2025-07-05T21:09:00Z,Penafiel,Porto,Norte,-8.287243,41.20648,Resolução/Conclusão
-25633362,Queluz e Belas,Grande Lisboa,311,2025-07-05T21:12:00Z,25633362,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-05T21:12:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.253541,38.753134,Resolução/Conclusão
-25633072,Margem,Alto Alentejo,312,2025-07-05T20:13:00Z,25633072,Em Resolução/Conclusão,3101,Incêndio rural,0,13,0,39,2025-07-05T20:13:00Z,Gavião,Portalegre,Alentejo,-7.898582,39.358027,Resolução/Conclusão
-25633183,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-07-05T20:39:00Z,25633183,Em Despacho,3105,Incêndio rural,0,2,0,7,2025-07-05T20:39:00Z,Beja,Beja,Alentejo,-7.851597,38.02634,Despacho
-25633233,Sobrosa,Area M. Porto,309,2025-07-05T20:50:00Z,25633233,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-05T20:50:00Z,Paredes,Porto,Norte,-8.360562,41.256547,Resolução/Conclusão
-25633376,Carregado e Cadafais,Oeste,311,2025-07-05T21:27:00Z,25633376,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-05T21:27:00Z,Alenquer,Lisboa,Centro,-8.97813,39.02326,Resolução/Conclusão
+25633463,São Francisco da Serra,Alentejo Litoral,312,2025-07-05T21:48:00Z,25633463,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-05T21:48:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.63825,38.08967,Despacho
+25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
+25620664,Côja e Barril de Alva,Região de Coimbra,310,2025-07-03T14:22:00Z,25620664,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,11,2025-07-03T14:22:00Z,Arganil,Coimbra,Centro,-7.95667,40.2725,Resolução/Conclusão
+25631780,Alvite,Douro,309,2025-07-05T15:17:00Z,25631780,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,24,2025-07-05T15:17:00Z,Moimenta Da Beira,Viseu,Norte,-7.692007,40.96958,Resolução/Conclusão
 25633350,Sines,Alentejo Litoral,312,2025-07-05T21:08:00Z,25633350,Em Despacho,3111,Queima,0,2,0,4,2025-07-05T21:08:00Z,Sines,Setúbal,Alentejo,-8.783423,37.950027,Despacho
