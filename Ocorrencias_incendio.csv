@@ -1,11 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25622185,Fornos,Tâmega e Sousa,309,2025-07-03T19:19:00Z,25622185,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-03T19:19:00Z,Castelo De Paiva,Aveiro,Norte,-8.242889,41.047999,Resolução/Conclusão
-25629021,Sebolido,Tâmega e Sousa,309,2025-07-05T00:48:00Z,25629021,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-05T00:48:00Z,Penafiel,Porto,Norte,-8.346948,41.047995,Resolução/Conclusão
+25625983,Vilarinho,Area M. Porto,309,2025-07-04T13:45:00Z,25625983,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-04T13:45:00Z,Santo Tirso,Porto,Norte,-8.325352,41.343782,Resolução/Conclusão
+25629027,Candosa,Região de Coimbra,310,2025-07-05T00:53:00Z,25629027,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-07-05T00:53:00Z,Tábua,Coimbra,Centro,-7.97333,40.34389,Resolução/Conclusão
 25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
 25620664,Côja e Barril de Alva,Região de Coimbra,310,2025-07-03T14:22:00Z,25620664,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,11,2025-07-03T14:22:00Z,Arganil,Coimbra,Centro,-7.95667,40.2725,Resolução/Conclusão
 25627000,Aião,Tâmega e Sousa,309,2025-07-04T16:45:00Z,25627000,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-04T16:45:00Z,Felgueiras,Porto,Norte,-8.204774,41.300006,Resolução/Conclusão
 25628804,a Dos Francos,Oeste,311,2025-07-04T23:22:00Z,25628804,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-04T23:22:00Z,Caldas Da Rainha,Leiria,Centro,-9.040347,39.31868,Resolução/Conclusão
-25628820,Agilde,Tâmega e Sousa,309,2025-07-04T23:34:00Z,25628820,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-07-04T23:34:00Z,Celorico De Basto,Braga,Norte,-8.110163,41.371155,Resolução/Conclusão
-25625983,Vilarinho,Area M. Porto,309,2025-07-04T13:45:00Z,25625983,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-04T13:45:00Z,Santo Tirso,Porto,Norte,-8.325352,41.343782,Resolução/Conclusão
-25627590,Correlhã,Alto Minho,309,2025-07-04T18:36:00Z,25627590,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-07-04T18:36:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.610418,41.754607,Resolução/Conclusão
-25629027,Candosa,Região de Coimbra,310,2025-07-05T00:53:00Z,25629027,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,16,2025-07-05T00:53:00Z,Tábua,Coimbra,Centro,-7.97333,40.34389,Resolução/Conclusão
