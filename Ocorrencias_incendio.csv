@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25635193,Pelmá,Região de Leiria,310,2025-07-06T09:19:00Z,25635193,Em Resolução/Conclusão,3105,Incêndio rural,1,2,0,13,2025-07-06T09:19:00Z,Alvaiázere,Leiria,Centro,-8.453685,39.771633,Resolução/Conclusão
-25635477,Orvalho,Beira Baixa,310,2025-07-06T10:16:00Z,25635477,Em Curso,3105,Incêndio rural,0,3,0,12,2025-07-06T10:16:00Z,Oleiros,Castelo Branco,Centro,-7.791058,40.022607,Curso
-25634532,"Braga (Maximinos, Sé e Cividade)",Cávado,309,2025-07-06T05:48:00Z,25634532,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-06T05:48:00Z,Braga,Braga,Norte,-8.471228,41.5518,Resolução/Conclusão
+25635486,Pussos São Pedro,Região de Leiria,310,2025-07-06T10:16:00Z,25635486,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-07-06T10:16:00Z,Alvaiázere,Leiria,Centro,-8.45575,39.772125,Resolução/Conclusão
 25634260,Lomba,Area M. Porto,309,2025-07-06T02:37:00Z,25634260,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-06T02:37:00Z,Gondomar,Porto,Norte,-8.406793,41.033087,Resolução/Conclusão
-25635014,Macinhata do Vouga,Região de Aveiro,310,2025-07-06T08:48:00Z,25635014,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-06T08:48:00Z,Águeda,Aveiro,Centro,-8.448905,40.6771,Despacho
+25635014,Macinhata do Vouga,Região de Aveiro,310,2025-07-06T08:48:00Z,25635014,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-06T08:48:00Z,Águeda,Aveiro,Centro,-8.448905,40.6771,Resolução/Conclusão
 25610143,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-07-01T15:32:00Z,25610143,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-01T15:32:00Z,Ourém,Santarém,Centro,-8.600277,39.655883,Resolução/Conclusão
+25635597,Agilde,Tâmega e Sousa,309,2025-07-06T10:39:00Z,25635597,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-06T10:39:00Z,Celorico De Basto,Braga,Norte,-8.11199,41.36374,Despacho
+25635193,Pelmá,Região de Leiria,310,2025-07-06T09:19:00Z,25635193,Em Resolução/Conclusão,3105,Incêndio rural,1,0,0,6,2025-07-06T09:19:00Z,Alvaiázere,Leiria,Centro,-8.453685,39.771633,Resolução/Conclusão
+25635477,Orvalho,Beira Baixa,310,2025-07-06T10:16:00Z,25635477,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-07-06T10:16:00Z,Oleiros,Castelo Branco,Centro,-7.789227,40.0244,Resolução/Conclusão
+25635577,Penafiel,Tâmega e Sousa,309,2025-07-06T10:36:00Z,25635577,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-07-06T10:36:00Z,Penafiel,Porto,Norte,-8.271463,41.218007,Despacho
