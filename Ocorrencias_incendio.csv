@@ -1,13 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25647385,Castelo Novo,Beiras e Serra da Estrela,310,2025-07-08T15:11:00Z,25647385,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-08T15:11:00Z,Fundão,Castelo Branco,Centro,-7.447838,40.023465,Resolução/Conclusão
-25656594,Alfena,Area M. Porto,309,2025-07-10T11:23:00Z,25656594,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-10T11:23:00Z,Valongo,Porto,Norte,-8.52508,41.22553,Resolução/Conclusão
-25656744,Quinta do Conde,Península de Setúbal,311,2025-07-10T11:49:00Z,25656744,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-10T11:49:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.03613,38.570355,Despacho
 25646909,Nespereira,Tâmega e Sousa,309,2025-07-08T13:53:00Z,25646909,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-08T13:53:00Z,Cinfães,Viseu,Norte,-8.122663,40.996095,Resolução/Conclusão
 25649968,Pussos São Pedro,Região de Leiria,310,2025-07-09T04:38:00Z,25649968,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-07-09T04:38:00Z,Alvaiázere,Leiria,Centro,-8.334062,39.841006,Resolução/Conclusão
 25653444,Lagares,Região de Coimbra,310,2025-07-09T17:45:00Z,25653444,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-09T17:45:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.84119,40.40041,Resolução/Conclusão
+25656853,Travanca,Tâmega e Sousa,309,2025-07-10T12:08:00Z,25656853,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-10T12:08:00Z,Cinfães,Viseu,Norte,-8.225891,41.037966,Despacho
 25647106,Tortosendo,Beiras e Serra da Estrela,310,2025-07-08T14:25:00Z,25647106,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-08T14:25:00Z,Covilhã,Castelo Branco,Centro,-7.508533,40.223705,Resolução/Conclusão
 25652972,Casal Vasco,Beiras e Serra da Estrela,310,2025-07-09T16:12:00Z,25652972,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-09T16:12:00Z,Fornos De Algodres,Guarda,Centro,-7.545148,40.650238,Resolução/Conclusão
 25655985,Ribas,Tâmega e Sousa,309,2025-07-10T09:42:00Z,25655985,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,17,2025-07-10T09:42:00Z,Celorico De Basto,Braga,Norte,-8.029637,41.439895,Resolução/Conclusão
+25647385,Castelo Novo,Beiras e Serra da Estrela,310,2025-07-08T15:11:00Z,25647385,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-08T15:11:00Z,Fundão,Castelo Branco,Centro,-7.447838,40.023465,Resolução/Conclusão
+25656594,Alfena,Area M. Porto,309,2025-07-10T11:23:00Z,25656594,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-10T11:23:00Z,Valongo,Porto,Norte,-8.52508,41.22553,Resolução/Conclusão
+25656860,Fornos,Tâmega e Sousa,309,2025-07-10T12:10:00Z,25656860,Em Curso,3103,Incêndio rural,0,1,0,5,2025-07-10T12:10:00Z,Castelo De Paiva,Aveiro,Norte,-8.247957,41.049745,Curso
 25646735,Campelo e Ovil,Tâmega e Sousa,309,2025-07-08T13:19:00Z,25646735,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-08T13:19:00Z,Baião,Porto,Norte,-8.00404,41.193612,Resolução/Conclusão
-25655854,Soajo,Alto Minho,309,2025-07-10T09:20:00Z,25655854,Em Curso,3103,Incêndio rural,0,6,0,21,2025-07-10T09:20:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.230447,41.877005,Curso
-25656765,Alfeizerão,Oeste,311,2025-07-10T11:57:00Z,25656765,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-10T11:57:00Z,Alcobaça,Leiria,Centro,-9.110157,39.47132,Despacho
+25655854,Soajo,Alto Minho,309,2025-07-10T09:20:00Z,25655854,Em Curso,3103,Incêndio rural,0,7,0,26,2025-07-10T09:20:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.230447,41.877005,Curso
+25656765,Alfeizerão,Oeste,311,2025-07-10T11:57:00Z,25656765,Em Resolução/Conclusão,3111,Queima,1,4,0,23,2025-07-10T11:57:00Z,Alcobaça,Leiria,Centro,-9.110157,39.47132,Resolução/Conclusão
