@@ -1,11 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25647106,Tortosendo,Beiras e Serra da Estrela,310,2025-07-08T14:25:00Z,25647106,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-08T14:25:00Z,Covilhã,Castelo Branco,Centro,-7.508533,40.223705,Resolução/Conclusão
-25661233,Malhada Sorda,Beiras e Serra da Estrela,310,2025-07-11T10:25:00Z,25661233,Em Resolução/Conclusão,3103,Incêndio rural,1,6,0,30,2025-07-11T10:25:00Z,Almeida,Guarda,Centro,-6.92684,40.537352,Resolução/Conclusão
-25661301,Sanguedo,Area M. Porto,309,2025-07-11T10:32:00Z,25661301,Em Despacho,3101,Incêndio rural,0,1,0,5,2025-07-11T10:32:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.520164,41.008901,Despacho
-25659678,Alvares,Região de Coimbra,310,2025-07-10T23:25:00Z,25659678,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-10T23:25:00Z,Góis,Coimbra,Centro,-8.08389,40.05417,Resolução/Conclusão
-25660111,Balazar,Area M. Porto,309,2025-07-11T04:58:00Z,25660111,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-11T04:58:00Z,Póvoa De Varzim,Porto,Norte,-8.62456,41.40089,Resolução/Conclusão
 25647385,Castelo Novo,Beiras e Serra da Estrela,310,2025-07-08T15:11:00Z,25647385,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-08T15:11:00Z,Fundão,Castelo Branco,Centro,-7.447838,40.023465,Resolução/Conclusão
 25660619,Soajo,Alto Minho,309,2025-07-11T08:45:00Z,25660619,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,13,2025-07-11T08:45:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.233768,41.874308,Resolução/Conclusão
 25660853,Castêlo da Maia,Area M. Porto,309,2025-07-11T09:27:00Z,25660853,Em Curso,3103,Incêndio rural,0,1,0,4,2025-07-11T09:27:00Z,Maia,Porto,Norte,-8.6366,41.27464,Curso
+25660111,Balazar,Area M. Porto,309,2025-07-11T04:58:00Z,25660111,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-11T04:58:00Z,Póvoa De Varzim,Porto,Norte,-8.62456,41.40089,Resolução/Conclusão
 25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
-25661068,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-07-11T09:53:00Z,25661068,Em Curso,3105,Incêndio rural,0,4,0,14,2025-07-11T09:53:00Z,Beja,Beja,Alentejo,-7.86682,38.027488,Curso
+25661068,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-07-11T09:53:00Z,25661068,Em Curso,3105,Incêndio rural,0,1,0,2,2025-07-11T09:53:00Z,Beja,Beja,Alentejo,-7.86682,38.027488,Curso
+25647106,Tortosendo,Beiras e Serra da Estrela,310,2025-07-08T14:25:00Z,25647106,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-08T14:25:00Z,Covilhã,Castelo Branco,Centro,-7.508533,40.223705,Resolução/Conclusão
+25661233,Malhada Sorda,Beiras e Serra da Estrela,310,2025-07-11T10:25:00Z,25661233,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-11T10:25:00Z,Almeida,Guarda,Centro,-6.92684,40.537352,Resolução/Conclusão
+25661301,Sanguedo,Area M. Porto,309,2025-07-11T10:32:00Z,25661301,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-11T10:32:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.520164,41.008901,Resolução/Conclusão
