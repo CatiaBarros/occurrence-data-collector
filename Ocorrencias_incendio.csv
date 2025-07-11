@@ -1,8 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25646909,Nespereira,Tâmega e Sousa,309,2025-07-08T13:53:00Z,25646909,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-08T13:53:00Z,Cinfães,Viseu,Norte,-8.122663,40.996095,Resolução/Conclusão
 25659678,Alvares,Região de Coimbra,310,2025-07-10T23:25:00Z,25659678,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-10T23:25:00Z,Góis,Coimbra,Centro,-8.08389,40.05417,Resolução/Conclusão
+25660111,Balazar,Area M. Porto,309,2025-07-11T04:58:00Z,25660111,Em Despacho,3103,Incêndio rural,0,2,0,7,2025-07-11T04:58:00Z,Póvoa De Varzim,Porto,Norte,-8.62456,41.40089,Despacho
 25647385,Castelo Novo,Beiras e Serra da Estrela,310,2025-07-08T15:11:00Z,25647385,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-08T15:11:00Z,Fundão,Castelo Branco,Centro,-7.447838,40.023465,Resolução/Conclusão
-25659986,Loivos da Ribeira e Tresouras,Tâmega e Sousa,309,2025-07-11T02:50:00Z,25659986,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-11T02:50:00Z,Baião,Porto,Norte,-7.929767,41.140982,Resolução/Conclusão
+25659986,Loivos da Ribeira e Tresouras,Tâmega e Sousa,309,2025-07-11T02:50:00Z,25659986,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-11T02:50:00Z,Baião,Porto,Norte,-7.929767,41.140982,Resolução/Conclusão
 25657081,"Eucisia, Gouveia e Valverde",Terras de Trás-os-Montes,309,2025-07-10T12:59:00Z,25657081,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-07-10T12:59:00Z,Alfândega Da Fé,Bragança,Norte,-6.992323,41.333105,Resolução/Conclusão
 25657735,São Cristóvão,Alentejo Central,312,2025-07-10T15:10:00Z,25657735,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,27,2025-07-10T15:10:00Z,Montemor-o-Novo,Évora,Alentejo,-8.251788,38.504227,Resolução/Conclusão
 25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
