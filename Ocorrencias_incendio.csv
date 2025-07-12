@@ -1,6 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
 25663324,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-07-11T17:04:00Z,25663324,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-11T17:04:00Z,Leiria,Leiria,Centro,-8.781488,39.733495,Resolução/Conclusão
-25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,1,10,0,35,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Curso
+25666900,Guarda,Beiras e Serra da Estrela,310,2025-07-12T12:54:00Z,25666900,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-07-12T12:54:00Z,Guarda,Guarda,Centro,-7.250192,40.537418,Resolução/Conclusão
+25666909,Serapicos,Alto Tâmega e Barroso,309,2025-07-12T12:57:00Z,25666909,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,10,2025-07-12T12:57:00Z,Valpaços,Vila Real,Norte,-7.436278,41.62024,Resolução/Conclusão
+25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,3,11,0,38,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Curso
 25666770,Gulpilhares e Valadares,Area M. Porto,309,2025-07-12T12:29:00Z,25666770,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-12T12:29:00Z,Vila Nova De Gaia,Porto,Norte,-8.629088,41.0868,Resolução/Conclusão
 25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,12,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
+25666969,São Pedro,Região de Coimbra,310,2025-07-12T13:16:00Z,25666969,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-07-12T13:16:00Z,Figueira Da Foz,Coimbra,Centro,-8.85219,40.12095,Despacho
+25666872,Lindoso,Alto Minho,309,2025-07-12T12:55:00Z,25666872,Em Curso,3103,Incêndio rural,1,0,0,6,2025-07-12T12:55:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.202552,41.841879,Curso
