@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
 25663324,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-07-11T17:04:00Z,25663324,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-11T17:04:00Z,Leiria,Leiria,Centro,-8.781488,39.733495,Resolução/Conclusão
-25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,2,9,0,32,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.24756,41.860898,Curso
-25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,16,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
+25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,2,9,0,32,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Curso
+25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
