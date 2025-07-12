@@ -1,14 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,11,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
-25667219,Gândaras,Região de Coimbra,310,2025-07-12T14:15:00Z,25667219,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-07-12T14:15:00Z,Lousã,Coimbra,Centro,-8.258541,40.120085,Resolução/Conclusão
-25667760,Alfena,Area M. Porto,309,2025-07-12T16:29:00Z,25667760,Em Curso,3103,Incêndio rural,1,3,0,21,2025-07-12T16:29:00Z,Valongo,Porto,Norte,-8.525688,41.225077,Curso
-25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.746199,39.7618,Resolução/Conclusão
-25667529,São Teotónio,Alentejo Litoral,312,2025-07-12T15:29:00Z,25667529,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,21,2025-07-12T15:29:00Z,Odemira,Beja,Alentejo,-8.736242,37.476913,Resolução/Conclusão
-25667663,Freamunde,Tâmega e Sousa,309,2025-07-12T16:00:00Z,25667663,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-07-12T16:00:00Z,Paços De Ferreira,Porto,Norte,-8.330758,41.288108,Resolução/Conclusão
 25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
 25667395,Capela,Tâmega e Sousa,309,2025-07-12T14:55:00Z,25667395,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-12T14:55:00Z,Penafiel,Porto,Norte,-8.347958,41.10616,Resolução/Conclusão
 25667561,"Areias, Sequeiró, Lama e Palmeira",Area M. Porto,309,2025-07-12T15:30:00Z,25667561,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,12,2025-07-12T15:30:00Z,Santo Tirso,Porto,Norte,-8.507982,41.358565,Resolução/Conclusão
-25667795,Associação de Freguesias do Vale do Neiva,Alto Minho,309,2025-07-12T16:43:00Z,25667795,Em Despacho,3103,Incêndio rural,1,0,0,6,2025-07-12T16:43:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.57149,41.63721,Despacho
-25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,5,16,0,58,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Curso
-25666872,Lindoso,Alto Minho,309,2025-07-12T12:55:00Z,25666872,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-07-12T12:55:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.236693,41.86297,Resolução/Conclusão
-25667691,Miranda do Corvo,Região de Coimbra,310,2025-07-12T16:10:00Z,25667691,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,16,2025-07-12T16:10:00Z,Miranda Do Corvo,Coimbra,Centro,-8.29417,40.07917,Resolução/Conclusão
+25667795,Panque,Cávado,309,2025-07-12T16:43:00Z,25667795,Em Curso,3103,Incêndio rural,1,2,0,16,2025-07-12T16:43:00Z,Barcelos,Braga,Norte,-8.579535,41.642698,Curso
+25667870,Nogueira e Ermida,Douro,309,2025-07-12T17:02:00Z,25667870,Em Despacho,3103,Incêndio rural,1,4,0,26,2025-07-12T17:02:00Z,Vila Real,Vila Real,Norte,-7.72877,41.23618,Despacho
+25667893,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-07-12T17:06:00Z,25667893,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-12T17:06:00Z,Vila Nova De Gaia,Porto,Norte,-8.599798,41.10579,Despacho
+25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.746199,39.7618,Resolução/Conclusão
+25667529,São Teotónio,Alentejo Litoral,312,2025-07-12T15:29:00Z,25667529,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,12,2025-07-12T15:29:00Z,Odemira,Beja,Alentejo,-8.736242,37.476913,Resolução/Conclusão
+25667867,Rates,Area M. Porto,309,2025-07-12T17:01:00Z,25667867,Em Despacho,3103,Incêndio rural,1,2,0,11,2025-07-12T17:01:00Z,Póvoa De Varzim,Porto,Norte,-8.682835,41.43504,Despacho
+25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,12,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
+25667760,Alfena,Area M. Porto,309,2025-07-12T16:29:00Z,25667760,Em Resolução/Conclusão,3103,Incêndio rural,1,3,0,21,2025-07-12T16:29:00Z,Valongo,Porto,Norte,-8.525688,41.225077,Resolução/Conclusão
+25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,7,16,0,60,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Curso
+25667823,Santa Marinha e São Pedro da Afurada,Area M. Porto,309,2025-07-12T16:49:00Z,25667823,Em Curso,3103,Incêndio rural,0,3,0,7,2025-07-12T16:49:00Z,Vila Nova De Gaia,Porto,Norte,-8.618101,41.1199,Curso
+25667872,Queluz e Belas,Grande Lisboa,311,2025-07-12T17:02:00Z,25667872,Em Curso,3103,Incêndio rural,0,4,0,17,2025-07-12T17:02:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.26534,38.77858,Curso
