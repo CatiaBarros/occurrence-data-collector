@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.761077,39.76109,Resolução/Conclusão
-25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,22,0,74,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
-25668275,Longos,Ave,309,2025-07-12T18:46:00Z,25668275,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-07-12T18:46:00Z,Guimarães,Braga,Norte,-8.37796,41.520118,Resolução/Conclusão
-25669142,Campo e Sobrado,Area M. Porto,309,2025-07-12T22:29:00Z,25669142,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-12T22:29:00Z,Valongo,Porto,Norte,-8.457037,41.188165,Resolução/Conclusão
-25669394,Pombeiro de Ribavizela,Tâmega e Sousa,309,2025-07-12T23:40:00Z,25669394,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-12T23:40:00Z,Felgueiras,Porto,Norte,-8.20597,41.382907,Resolução/Conclusão
-25669367,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-07-12T23:34:00Z,25669367,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-07-12T23:34:00Z,Matosinhos,Porto,Norte,-8.599646,41.19269,Resolução/Conclusão
 25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
 25669275,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-07-12T23:05:00Z,25669275,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-07-12T23:05:00Z,Beja,Beja,Alentejo,-7.864505,38.030453,Resolução/Conclusão
-25669432,Rossas,Ave,309,2025-07-13T00:02:00Z,25669432,Em Despacho,3103,Incêndio rural,0,4,0,19,2025-07-13T00:02:00Z,Vieira Do Minho,Braga,Norte,-8.073845,41.586948,Despacho
+25669432,Rossas,Ave,309,2025-07-13T00:02:00Z,25669432,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,20,2025-07-13T00:02:00Z,Vieira Do Minho,Braga,Norte,-8.073845,41.586948,Resolução/Conclusão
+25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,21,0,73,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
+25668275,Longos,Ave,309,2025-07-12T18:46:00Z,25668275,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-07-12T18:46:00Z,Guimarães,Braga,Norte,-8.37796,41.520118,Resolução/Conclusão
+25669142,Campo e Sobrado,Area M. Porto,309,2025-07-12T22:29:00Z,25669142,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-12T22:29:00Z,Valongo,Porto,Norte,-8.457037,41.188165,Resolução/Conclusão
+25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.761077,39.76109,Resolução/Conclusão
+25669485,"S. Mig. Pinheiro, S. Pedro Solis e S. Sebastião Carros",Baixo Alentejo,312,2025-07-13T00:20:00Z,25669485,Em Despacho,3103,Incêndio rural,0,5,0,19,2025-07-13T00:20:00Z,Mértola,Beja,Alentejo,-7.897872,37.491614,Despacho
+25669535,São Martinho de Angueira,Terras de Trás-os-Montes,309,2025-07-13T00:45:00Z,25669535,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-07-13T00:45:00Z,Miranda Do Douro,Bragança,Norte,-6.346076,41.639104,Despacho
