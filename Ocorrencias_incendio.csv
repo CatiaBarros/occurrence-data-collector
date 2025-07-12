@@ -1,9 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25647385,Castelo Novo,Beiras e Serra da Estrela,310,2025-07-08T15:11:00Z,25647385,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-08T15:11:00Z,Fundão,Castelo Branco,Centro,-7.447838,40.023465,Resolução/Conclusão
-25664750,Cinfães,Tâmega e Sousa,309,2025-07-11T23:23:00Z,25664750,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,29,2025-07-11T23:23:00Z,Cinfães,Viseu,Norte,-8.074625,41.066702,Resolução/Conclusão
+25664750,Cinfães,Tâmega e Sousa,309,2025-07-11T23:23:00Z,25664750,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-11T23:23:00Z,Cinfães,Viseu,Norte,-8.074625,41.066702,Resolução/Conclusão
 25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
 25663324,"Leiria, Pousos, Barreira e Cortes",Região de Leiria,310,2025-07-11T17:04:00Z,25663324,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-11T17:04:00Z,Leiria,Leiria,Centro,-8.781488,39.733495,Resolução/Conclusão
-25664756,Peraboa,Beiras e Serra da Estrela,310,2025-07-11T23:24:00Z,25664756,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-11T23:24:00Z,Covilhã,Castelo Branco,Centro,-7.388048,40.243722,Resolução/Conclusão
-25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,16,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
-25663848,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-07-11T19:08:00Z,25663848,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-07-11T19:08:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.210318,39.843498,Resolução/Conclusão
+25664958,Campo e Sobrado,Area M. Porto,309,2025-07-12T00:59:00Z,25664958,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-12T00:59:00Z,Valongo,Porto,Norte,-8.457098,41.188162,Resolução/Conclusão
+25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
 25664502,São Manços e São Vicente do Pigeiro,Alentejo Central,312,2025-07-11T21:55:00Z,25664502,Em Resolução/Conclusão,3105,Incêndio rural,0,12,0,37,2025-07-11T21:55:00Z,Évora,Évora,Alentejo,-7.71717,38.446537,Resolução/Conclusão
