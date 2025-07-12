@@ -1,12 +1,18 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,33,0,105,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
-25668275,Longos,Ave,309,2025-07-12T18:46:00Z,25668275,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,16,2025-07-12T18:46:00Z,Guimarães,Braga,Norte,-8.37796,41.520118,Resolução/Conclusão
-25668559,Salvada e Quintos,Baixo Alentejo,312,2025-07-12T19:51:00Z,25668559,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-07-12T19:51:00Z,Beja,Beja,Alentejo,-7.696953,37.96186,Resolução/Conclusão
 25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.761077,39.76109,Resolução/Conclusão
-25667867,Rates,Area M. Porto,309,2025-07-12T17:01:00Z,25667867,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-12T17:01:00Z,Póvoa De Varzim,Porto,Norte,-8.705912,41.443397,Resolução/Conclusão
 25668519,Monte e Queimadela,Ave,309,2025-07-12T19:41:00Z,25668519,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-12T19:41:00Z,Fafe,Braga,Norte,-8.133678,41.548133,Resolução/Conclusão
 25668549,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-07-12T19:52:00Z,25668549,Em Resolução/Conclusão,3101,Incêndio rural,1,8,0,34,2025-07-12T19:52:00Z,Abrantes,Santarém,Centro,-8.164927,39.495018,Resolução/Conclusão
-25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
-25668822,Alfena,Area M. Porto,309,2025-07-12T21:01:00Z,25668822,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-12T21:01:00Z,Valongo,Porto,Norte,-8.523422,41.22692,Despacho
-25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,16,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
+25668953,São Vicente do Paul e Vale de Figueira,Lezíria do Tejo,311,2025-07-12T21:40:00Z,25668953,Em Despacho,3111,Queima,0,2,0,7,2025-07-12T21:40:00Z,Santarém,Santarém,Alentejo,-8.626987,39.31165,Despacho
+25668968,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-07-12T21:40:00Z,25668968,Em Despacho,3103,Incêndio rural,0,4,0,20,2025-07-12T21:40:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.18139,38.66163,Despacho
+25669001,Roriz,Area M. Porto,309,2025-07-12T21:47:00Z,25669001,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-12T21:47:00Z,Santo Tirso,Porto,Norte,-8.378259,41.345975,Despacho
+25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
 25668403,"Aver-o-Mar, Amorim e Terroso",Area M. Porto,309,2025-07-12T19:13:00Z,25668403,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,21,2025-07-12T19:13:00Z,Póvoa De Varzim,Porto,Norte,-8.734713,41.422628,Resolução/Conclusão
+25668980,Idães,Tâmega e Sousa,309,2025-07-12T21:43:00Z,25668980,Em Despacho,3105,Incêndio rural,0,0,0,0,2025-07-12T21:43:00Z,Felgueiras,Porto,Norte,-8.250216,41.338686,Despacho
+25657801,Santana da Azinha,Beiras e Serra da Estrela,310,2025-07-10T15:19:00Z,25657801,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-10T15:19:00Z,Guarda,Guarda,Centro,-7.208863,40.479537,Resolução/Conclusão
+25668822,Alfena,Area M. Porto,309,2025-07-12T21:01:00Z,25668822,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-12T21:01:00Z,Valongo,Porto,Norte,-8.523422,41.22692,Resolução/Conclusão
+25668954,Aguiã,Alto Minho,309,2025-07-12T21:38:00Z,25668954,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-12T21:38:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.429492,41.876776,Despacho
+25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,30,0,97,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
+25668275,Longos,Ave,309,2025-07-12T18:46:00Z,25668275,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,16,2025-07-12T18:46:00Z,Guimarães,Braga,Norte,-8.37796,41.520118,Resolução/Conclusão
+25668828,Estremoz (Santa Maria e Santo André),Alentejo Central,312,2025-07-12T21:04:00Z,25668828,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,12,2025-07-12T21:04:00Z,Estremoz,Évora,Alentejo,-7.58074,38.850483,Resolução/Conclusão
+25668909,Fiães,Area M. Porto,309,2025-07-12T21:27:00Z,25668909,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-12T21:27:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.51748,40.98648,Despacho
+25668945,Vila do Conde,Area M. Porto,309,2025-07-12T21:30:00Z,25668945,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-12T21:30:00Z,Vila Do Conde,Porto,Norte,-8.735384,41.352471,Despacho
