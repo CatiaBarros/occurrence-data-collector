@@ -1,11 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,1,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
-25671327,Urqueira,Médio Tejo,311,2025-07-13T11:58:00Z,25671327,Em Resolução/Conclusão,3103,Incêndio rural,2,10,0,52,2025-07-13T11:58:00Z,Ourém,Santarém,Centro,-8.58706,39.761034,Resolução/Conclusão
-25671379,Alvarenga,Area M. Porto,309,2025-07-13T12:08:00Z,25671379,Em Despacho,3103,Incêndio rural,0,2,0,6,2025-07-13T12:08:00Z,Arouca,Aveiro,Norte,-8.16534,40.97754,Despacho
-25670253,Panque,Cávado,309,2025-07-13T08:05:00Z,25670253,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-13T08:05:00Z,Barcelos,Braga,Norte,-8.579567,41.64239,Resolução/Conclusão
 25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.761077,39.76109,Resolução/Conclusão
 25670541,Fornos,Tâmega e Sousa,309,2025-07-13T09:15:00Z,25670541,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-13T09:15:00Z,Castelo De Paiva,Aveiro,Norte,-8.242377,41.056052,Resolução/Conclusão
 25670889,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-07-13T10:27:00Z,25670889,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,28,2025-07-13T10:27:00Z,Vinhais,Bragança,Norte,-7.014782,41.93917,Resolução/Conclusão
-25671223,Recarei,Area M. Porto,309,2025-07-13T11:34:00Z,25671223,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-13T11:34:00Z,Paredes,Porto,Norte,-8.418813,41.143008,Resolução/Conclusão
-25671307,Tendais,Tâmega e Sousa,309,2025-07-13T11:53:00Z,25671307,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-07-13T11:53:00Z,Cinfães,Viseu,Norte,-8.053481,41.013666,Despacho
-25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,1,19,0,62,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Curso
+25671223,Recarei,Area M. Porto,309,2025-07-13T11:34:00Z,25671223,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-13T11:34:00Z,Paredes,Porto,Norte,-8.418813,41.143008,Resolução/Conclusão
+25671307,Tendais,Tâmega e Sousa,309,2025-07-13T11:53:00Z,25671307,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-13T11:53:00Z,Cinfães,Viseu,Norte,-8.053481,41.013666,Resolução/Conclusão
+25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,1,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
+25671327,Urqueira,Médio Tejo,311,2025-07-13T11:58:00Z,25671327,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,37,2025-07-13T11:58:00Z,Ourém,Santarém,Centro,-8.577047,39.759692,Resolução/Conclusão
+25671379,Alvarenga,Area M. Porto,309,2025-07-13T12:08:00Z,25671379,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-07-13T12:08:00Z,Arouca,Aveiro,Norte,-8.16534,40.97754,Resolução/Conclusão
+25670253,Panque,Cávado,309,2025-07-13T08:05:00Z,25670253,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-13T08:05:00Z,Barcelos,Braga,Norte,-8.579567,41.64239,Resolução/Conclusão
+25671460,Lomar e Arcos,Cávado,309,2025-07-13T12:25:00Z,25671460,Em Curso,3103,Incêndio rural,1,5,0,25,2025-07-13T12:25:00Z,Braga,Braga,Norte,-8.439812,41.513755,Curso
+25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Curso,3103,Incêndio rural,2,21,0,68,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Curso
+25671499,Girabolhos,Beiras e Serra da Estrela,310,2025-07-13T12:38:00Z,25671499,Em Despacho,3103,Incêndio rural,0,5,0,18,2025-07-13T12:38:00Z,Seia,Guarda,Centro,-7.73963,40.50968,Despacho
