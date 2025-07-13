@@ -1,8 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25670253,Panque,Cávado,309,2025-07-13T08:05:00Z,25670253,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-13T08:05:00Z,Barcelos,Braga,Norte,-8.579567,41.64239,Resolução/Conclusão
 25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.761077,39.76109,Resolução/Conclusão
-25670541,Fornos,Tâmega e Sousa,309,2025-07-13T09:15:00Z,25670541,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-13T09:15:00Z,Castelo De Paiva,Aveiro,Norte,-8.242377,41.056052,Resolução/Conclusão
+25670541,Fornos,Tâmega e Sousa,309,2025-07-13T09:15:00Z,25670541,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-13T09:15:00Z,Castelo De Paiva,Aveiro,Norte,-8.242377,41.056052,Resolução/Conclusão
 25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,59,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
 25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
-25670484,Nagozelo do Douro,Douro,309,2025-07-13T09:04:00Z,25670484,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-07-13T09:04:00Z,São João Da Pesqueira,Viseu,Norte,-7.418455,41.180937,Resolução/Conclusão
-25670695,Azinheira Dos Barros e São Mamede do Sádão,Alentejo Litoral,312,2025-07-13T09:46:00Z,25670695,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-07-13T09:46:00Z,Grândola,Setúbal,Alentejo,-8.429883,38.07228,Despacho
-25670253,Panque,Cávado,309,2025-07-13T08:05:00Z,25670253,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-13T08:05:00Z,Barcelos,Braga,Norte,-8.579567,41.64239,Resolução/Conclusão
+25670695,Azinheira Dos Barros e São Mamede do Sádão,Alentejo Litoral,312,2025-07-13T09:46:00Z,25670695,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,18,2025-07-13T09:46:00Z,Grândola,Setúbal,Alentejo,-8.420966,38.067978,Resolução/Conclusão
