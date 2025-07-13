@@ -1,9 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.761077,39.76109,Resolução/Conclusão
+25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
 25669899,Cervães,Cávado,309,2025-07-13T04:41:00Z,25669899,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-13T04:41:00Z,Vila Verde,Braga,Norte,-8.5114,41.59359,Resolução/Conclusão
 25669960,Penafiel,Tâmega e Sousa,309,2025-07-13T05:25:00Z,25669960,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-13T05:25:00Z,Penafiel,Porto,Norte,-8.273828,41.209,Resolução/Conclusão
-25670035,Esporões,Cávado,309,2025-07-13T06:38:00Z,25670035,Em Despacho,3103,Incêndio rural,0,2,0,11,2025-07-13T06:38:00Z,Braga,Braga,Norte,-8.412721,41.510724,Despacho
-25667313,Santa Eufémia e Boa Vista,Região de Leiria,310,2025-07-12T14:36:00Z,25667313,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-12T14:36:00Z,Leiria,Leiria,Centro,-8.761077,39.76109,Resolução/Conclusão
-25669535,São Martinho de Angueira,Terras de Trás-os-Montes,309,2025-07-13T00:45:00Z,25669535,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-07-13T00:45:00Z,Miranda Do Douro,Bragança,Norte,-6.352403,41.634667,Resolução/Conclusão
-25662814,Soajo,Alto Minho,309,2025-07-11T15:16:00Z,25662814,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-11T15:16:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.22891,41.87654,Resolução/Conclusão
+25670035,Esporões,Cávado,309,2025-07-13T06:38:00Z,25670035,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,13,2025-07-13T06:38:00Z,Braga,Braga,Norte,-8.394542,41.518588,Resolução/Conclusão
 25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,62,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
 25669611,Basto (São Clemente),Tâmega e Sousa,309,2025-07-13T01:30:00Z,25669611,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-13T01:30:00Z,Celorico De Basto,Braga,Norte,-8.01633,41.46849,Resolução/Conclusão
