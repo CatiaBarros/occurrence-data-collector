@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25679413,Vialonga,Grande Lisboa,311,2025-07-15T03:45:00Z,25679413,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-15T03:45:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.067846,38.87883,Resolução/Conclusão
+25679494,Rebordões (Souto),Alto Minho,309,2025-07-15T05:28:00Z,25679494,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-15T05:28:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.565792,41.724187,Despacho
 25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
 25677014,Alcórrego e Maranhão,Alto Alentejo,312,2025-07-14T15:07:00Z,25677014,Em Resolução/Conclusão,3101,Incêndio rural,0,7,0,25,2025-07-14T15:07:00Z,Avis,Portalegre,Alentejo,-7.895798,38.982193,Resolução/Conclusão
-25679190,Cidade da Maia,Area M. Porto,309,2025-07-15T00:37:00Z,25679190,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-07-15T00:37:00Z,Maia,Porto,Norte,-8.627428,41.230012,Resolução/Conclusão
