@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25680115,Fajões,Area M. Porto,309,2025-07-15T09:07:00Z,25680115,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-15T09:07:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.41972,40.92889,Resolução/Conclusão
-25680339,Vale de Santiago,Alentejo Litoral,312,2025-07-15T09:45:00Z,25680339,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-07-15T09:45:00Z,Odemira,Beja,Alentejo,-8.52169,37.8149,Resolução/Conclusão
 25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
-25677014,Alcórrego e Maranhão,Alto Alentejo,312,2025-07-14T15:07:00Z,25677014,Em Resolução/Conclusão,3101,Incêndio rural,0,11,0,40,2025-07-14T15:07:00Z,Avis,Portalegre,Alentejo,-7.895798,38.982193,Resolução/Conclusão
+25677014,Alcórrego e Maranhão,Alto Alentejo,312,2025-07-14T15:07:00Z,25677014,Em Resolução/Conclusão,3101,Incêndio rural,0,8,0,29,2025-07-14T15:07:00Z,Avis,Portalegre,Alentejo,-7.895798,38.982193,Resolução/Conclusão
+25680761,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-07-15T10:44:00Z,25680761,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-15T10:44:00Z,Gondomar,Porto,Norte,-8.535295,41.129255,Despacho
+25680339,Vale de Santiago,Alentejo Litoral,312,2025-07-15T09:45:00Z,25680339,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-15T09:45:00Z,Odemira,Beja,Alentejo,-8.52169,37.8149,Resolução/Conclusão
