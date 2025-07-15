@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25679600,Avintes,Area M. Porto,309,2025-07-15T06:45:00Z,25679600,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-15T06:45:00Z,Vila Nova De Gaia,Porto,Norte,-8.551032,41.11378,Resolução/Conclusão
-25679567,Alcanede,Lezíria do Tejo,311,2025-07-15T06:36:00Z,25679567,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,14,2025-07-15T06:36:00Z,Santarém,Santarém,Alentejo,-8.872617,39.428337,Resolução/Conclusão
 25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
 25677014,Alcórrego e Maranhão,Alto Alentejo,312,2025-07-14T15:07:00Z,25677014,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,18,2025-07-14T15:07:00Z,Avis,Portalegre,Alentejo,-7.895798,38.982193,Resolução/Conclusão
