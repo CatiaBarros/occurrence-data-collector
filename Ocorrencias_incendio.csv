@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25680034,Maceda,Região de Aveiro,310,2025-07-15T08:50:00Z,25680034,Em Despacho,3101,Incêndio rural,0,1,0,5,2025-07-15T08:50:00Z,Ovar,Aveiro,Centro,-8.614021,40.935245,Despacho
 25665133,Lindoso,Alto Minho,309,2025-07-12T02:50:00Z,25665133,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-12T02:50:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.224007,41.852543,Resolução/Conclusão
-25677014,Alcórrego e Maranhão,Alto Alentejo,312,2025-07-14T15:07:00Z,25677014,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,18,2025-07-14T15:07:00Z,Avis,Portalegre,Alentejo,-7.895798,38.982193,Resolução/Conclusão
-25679773,Foz de Arouce e Casal de Ermio,Região de Coimbra,310,2025-07-15T07:52:00Z,25679773,Em Curso,3111,Queima,0,1,0,4,2025-07-15T07:52:00Z,Lousã,Coimbra,Centro,-8.267414,40.164534,Curso
+25677014,Alcórrego e Maranhão,Alto Alentejo,312,2025-07-14T15:07:00Z,25677014,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,19,2025-07-14T15:07:00Z,Avis,Portalegre,Alentejo,-7.895798,38.982193,Resolução/Conclusão
+25679926,Murtosa,Região de Aveiro,310,2025-07-15T08:28:00Z,25679926,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-07-15T08:28:00Z,Murtosa,Aveiro,Centro,-8.665353,40.727105,Resolução/Conclusão
