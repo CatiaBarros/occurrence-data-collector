@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25685490,Aião,Tâmega e Sousa,309,2025-07-16T09:29:00Z,25685490,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-16T09:29:00Z,Felgueiras,Porto,Norte,-8.196025,41.306265,Resolução/Conclusão
 25682868,Sertã,Beira Baixa,310,2025-07-15T17:30:00Z,25682868,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,24,2025-07-15T17:30:00Z,Sertã,Castelo Branco,Centro,-8.092748,39.819602,Resolução/Conclusão
-25685186,Campanhã,Area M. Porto,309,2025-07-16T08:39:00Z,25685186,Em Curso,3103,Incêndio rural,0,1,0,4,2025-07-16T08:39:00Z,Porto,Porto,Norte,-8.57936,41.17721,Curso
-25682254,Panque,Cávado,309,2025-07-15T15:31:00Z,25682254,Em Resolução/Conclusão,3101,Incêndio rural,0,13,0,36,2025-07-15T15:31:00Z,Barcelos,Braga,Norte,-8.607035,41.626113,Resolução/Conclusão
-25682641,São Bento,Região de Leiria,310,2025-07-15T16:44:00Z,25682641,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,11,2025-07-15T16:44:00Z,Porto De Mós,Leiria,Centro,-8.746241,39.52425,Resolução/Conclusão
-25683057,Messejana,Baixo Alentejo,312,2025-07-15T18:10:00Z,25683057,Em Resolução/Conclusão,3103,Incêndio rural,0,47,0,136,2025-07-15T18:10:00Z,Aljustrel,Beja,Alentejo,-8.253787,37.845618,Resolução/Conclusão
+25685399,Boliqueime,Algarve,313,2025-07-16T09:19:00Z,25685399,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,11,2025-07-16T09:19:00Z,Loulé,Faro,Algarve,-8.127278,37.145267,Resolução/Conclusão
+25682254,Panque,Cávado,309,2025-07-15T15:31:00Z,25682254,Em Resolução/Conclusão,3101,Incêndio rural,0,14,0,37,2025-07-15T15:31:00Z,Barcelos,Braga,Norte,-8.607035,41.626113,Resolução/Conclusão
+25682641,São Bento,Região de Leiria,310,2025-07-15T16:44:00Z,25682641,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,11,2025-07-15T16:44:00Z,Porto De Mós,Leiria,Centro,-8.758747,39.518857,Resolução/Conclusão
+25683057,Messejana,Baixo Alentejo,312,2025-07-15T18:10:00Z,25683057,Em Resolução/Conclusão,3103,Incêndio rural,0,40,0,111,2025-07-15T18:10:00Z,Aljustrel,Beja,Alentejo,-8.253787,37.845618,Resolução/Conclusão
 25684761,Travancas e Roriz,Alto Tâmega e Barroso,309,2025-07-16T06:16:00Z,25684761,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-16T06:16:00Z,Chaves,Vila Real,Norte,-7.321297,41.815978,Resolução/Conclusão
+25685479,Vilar de Pinheiro,Area M. Porto,309,2025-07-16T09:31:00Z,25685479,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-07-16T09:31:00Z,Vila Do Conde,Porto,Norte,-8.664532,41.267963,Despacho
