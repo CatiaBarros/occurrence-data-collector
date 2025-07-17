@@ -1,14 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25687827,Rochoso e Monte Margarida,Beiras e Serra da Estrela,310,2025-07-16T16:35:00Z,25687827,Em Resolução/Conclusão,3103,Incêndio rural,0,16,0,62,2025-07-16T16:35:00Z,Guarda,Guarda,Centro,-7.106608,40.527017,Resolução/Conclusão
 25688580,São Martinho,Alentejo Litoral,312,2025-07-16T19:33:00Z,25688580,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-16T19:33:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.521302,38.426643,Resolução/Conclusão
-25689484,Andrães,Douro,309,2025-07-16T23:49:00Z,25689484,Em Resolução/Conclusão,3103,Incêndio rural,0,24,0,87,2025-07-16T23:49:00Z,Vila Real,Vila Real,Norte,-7.668872,41.241568,Resolução/Conclusão
-25682254,Panque,Cávado,309,2025-07-15T15:31:00Z,25682254,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-15T15:31:00Z,Barcelos,Braga,Norte,-8.607035,41.626113,Resolução/Conclusão
-25682641,São Bento,Região de Leiria,310,2025-07-15T16:44:00Z,25682641,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-07-15T16:44:00Z,Porto De Mós,Leiria,Centro,-8.746525,39.524688,Resolução/Conclusão
-25683057,Messejana,Baixo Alentejo,312,2025-07-15T18:10:00Z,25683057,Em Resolução/Conclusão,3101,Incêndio rural,0,8,0,16,2025-07-15T18:10:00Z,Aljustrel,Beja,Alentejo,-8.253787,37.845618,Resolução/Conclusão
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Curso,3101,Incêndio rural,0,95,0,286,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Curso
-25686587,Mosteiros,Alto Alentejo,312,2025-07-16T12:39:00Z,25686587,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-16T12:39:00Z,Arronches,Portalegre,Alentejo,-7.321508,39.167365,Resolução/Conclusão
-25689079,Telões,Alto Tâmega e Barroso,309,2025-07-16T21:22:00Z,25689079,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-16T21:22:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.687702,41.462897,Resolução/Conclusão
-25689738,Alcoentre,Lezíria do Tejo,311,2025-07-17T02:18:00Z,25689738,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-17T02:18:00Z,Azambuja,Lisboa,Alentejo,-9.004488,39.188042,Resolução/Conclusão
+25689484,Andrães,Douro,309,2025-07-16T23:49:00Z,25689484,Em Resolução/Conclusão,3103,Incêndio rural,0,22,0,79,2025-07-16T23:49:00Z,Vila Real,Vila Real,Norte,-7.668872,41.241568,Resolução/Conclusão
 25688392,Cabril,Região de Coimbra,310,2025-07-16T18:47:00Z,25688392,Em Resolução/Conclusão,3101,Incêndio rural,0,7,0,18,2025-07-16T18:47:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.86944,40.06556,Resolução/Conclusão
 25689521,Paços,Douro,309,2025-07-17T00:06:00Z,25689521,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-17T00:06:00Z,Sabrosa,Vila Real,Norte,-7.626823,41.246873,Resolução/Conclusão
 25689669,Cousso,Alto Minho,309,2025-07-17T01:23:00Z,25689669,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-07-17T01:23:00Z,Melgaço,Viana Do Castelo,Norte,-8.276007,42.05492,Resolução/Conclusão
+25689864,Eiras e São Paulo de Frades,Região de Coimbra,310,2025-07-17T04:34:00Z,25689864,Em Despacho,3103,Incêndio rural,0,4,0,17,2025-07-17T04:34:00Z,Coimbra,Coimbra,Centro,-8.4356,40.22328,Despacho
+25682254,Panque,Cávado,309,2025-07-15T15:31:00Z,25682254,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-15T15:31:00Z,Barcelos,Braga,Norte,-8.607035,41.626113,Resolução/Conclusão
+25682641,São Bento,Região de Leiria,310,2025-07-15T16:44:00Z,25682641,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-07-15T16:44:00Z,Porto De Mós,Leiria,Centro,-8.746525,39.524688,Resolução/Conclusão
+25683057,Messejana,Baixo Alentejo,312,2025-07-15T18:10:00Z,25683057,Em Resolução/Conclusão,3101,Incêndio rural,0,8,0,16,2025-07-15T18:10:00Z,Aljustrel,Beja,Alentejo,-8.253787,37.845618,Resolução/Conclusão
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Curso,3101,Incêndio rural,0,77,0,228,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Curso
+25686587,Mosteiros,Alto Alentejo,312,2025-07-16T12:39:00Z,25686587,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-16T12:39:00Z,Arronches,Portalegre,Alentejo,-7.321508,39.167365,Resolução/Conclusão
+25689079,Telões,Alto Tâmega e Barroso,309,2025-07-16T21:22:00Z,25689079,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-16T21:22:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.687702,41.462897,Resolução/Conclusão
