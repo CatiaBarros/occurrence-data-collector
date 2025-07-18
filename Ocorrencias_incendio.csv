@@ -1,9 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25688392,Cabril,Região de Coimbra,310,2025-07-16T18:47:00Z,25688392,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-16T18:47:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.86944,40.06556,Resolução/Conclusão
-25695000,Lanhoso,Ave,309,2025-07-18T06:35:00Z,25695000,Em Despacho,3103,Incêndio rural,0,5,0,22,2025-07-18T06:35:00Z,Póvoa De Lanhoso,Braga,Norte,-8.29108,41.57735,Despacho
+25695000,Lanhoso,Ave,309,2025-07-18T06:35:00Z,25695000,Em Curso,3103,Incêndio rural,0,2,0,10,2025-07-18T06:35:00Z,Póvoa De Lanhoso,Braga,Norte,-8.29108,41.57735,Curso
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,37,0,111,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
 25692562,Atouguia,Médio Tejo,311,2025-07-17T15:31:00Z,25692562,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,12,2025-07-17T15:31:00Z,Ourém,Santarém,Centro,-8.62029,39.654072,Resolução/Conclusão
 25692814,"Espírito Santo, Nossa Senhora da Graça e São Simão",Alto Alentejo,312,2025-07-17T16:23:00Z,25692814,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-07-17T16:23:00Z,Nisa,Portalegre,Alentejo,-7.635642,39.486993,Resolução/Conclusão
 25693046,Santo Aleixo,Alto Alentejo,312,2025-07-17T17:04:00Z,25693046,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,24,2025-07-17T17:04:00Z,Monforte,Portalegre,Alentejo,-7.397183,38.919233,Resolução/Conclusão
 25694945,Lindoso,Alto Minho,309,2025-07-18T05:59:00Z,25694945,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-18T05:59:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.219293,41.860352,Resolução/Conclusão
-25682641,São Bento,Região de Leiria,310,2025-07-15T16:44:00Z,25682641,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-07-15T16:44:00Z,Porto De Mós,Leiria,Centro,-8.746525,39.524688,Resolução/Conclusão
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,34,0,102,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
