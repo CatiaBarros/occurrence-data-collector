@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25696034,Rio de Mel,Beiras e Serra da Estrela,310,2025-07-18T10:31:00Z,25696034,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,17,2025-07-18T10:31:00Z,Trancoso,Guarda,Centro,-7.4166,40.801295,Resolução/Conclusão
+25696336,Alcaria Ruiva,Baixo Alentejo,312,2025-07-18T11:24:00Z,25696336,Em Curso,3103,Incêndio rural,0,10,0,31,2025-07-18T11:24:00Z,Mértola,Beja,Alentejo,-7.817592,37.756762,Curso
 25692562,Atouguia,Médio Tejo,311,2025-07-17T15:31:00Z,25692562,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,12,2025-07-17T15:31:00Z,Ourém,Santarém,Centro,-8.62029,39.654072,Resolução/Conclusão
 25692814,"Espírito Santo, Nossa Senhora da Graça e São Simão",Alto Alentejo,312,2025-07-17T16:23:00Z,25692814,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-07-17T16:23:00Z,Nisa,Portalegre,Alentejo,-7.635642,39.486993,Resolução/Conclusão
-25693046,Santo Aleixo,Alto Alentejo,312,2025-07-17T17:04:00Z,25693046,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,12,2025-07-17T17:04:00Z,Monforte,Portalegre,Alentejo,-7.397183,38.919233,Resolução/Conclusão
-25695917,Bensafrim e Barão de São João,Algarve,313,2025-07-18T10:14:00Z,25695917,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-18T10:14:00Z,Lagos,Faro,Algarve,-8.766807,37.150458,Resolução/Conclusão
-25696034,Rio de Mel,Beiras e Serra da Estrela,310,2025-07-18T10:31:00Z,25696034,Em Resolução/Conclusão,3103,Incêndio rural,1,6,0,26,2025-07-18T10:31:00Z,Trancoso,Guarda,Centro,-7.4166,40.801295,Resolução/Conclusão
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,1,28,0,87,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
+25693046,Santo Aleixo,Alto Alentejo,312,2025-07-17T17:04:00Z,25693046,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,7,2025-07-17T17:04:00Z,Monforte,Portalegre,Alentejo,-7.397183,38.919233,Resolução/Conclusão
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,2,28,0,94,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
 25688392,Cabril,Região de Coimbra,310,2025-07-16T18:47:00Z,25688392,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-16T18:47:00Z,Pampilhosa Da Serra,Coimbra,Centro,-7.86944,40.06556,Resolução/Conclusão
-25695378,Refóios do Lima,Alto Minho,309,2025-07-18T08:35:00Z,25695378,Em Curso,3103,Incêndio rural,2,13,0,45,2025-07-18T08:35:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.52127,41.804412,Curso
-25696255,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-07-18T11:11:00Z,25696255,Em Despacho,3103,Incêndio rural,0,4,0,16,2025-07-18T11:11:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.23274,38.87522,Despacho
+25695378,Refóios do Lima,Alto Minho,309,2025-07-18T08:35:00Z,25695378,Em Curso,3103,Incêndio rural,2,15,0,52,2025-07-18T08:35:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.52127,41.804412,Curso
+25696255,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-07-18T11:11:00Z,25696255,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,21,2025-07-18T11:11:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.23274,38.87522,Resolução/Conclusão
