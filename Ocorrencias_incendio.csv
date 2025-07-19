@@ -1,15 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25696955,"Vilela, Seramil e Paredes Secas",Cávado,309,2025-07-18T13:36:00Z,25696955,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,11,2025-07-18T13:36:00Z,Amares,Braga,Norte,-8.309448,41.67517,Resolução/Conclusão
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,14,0,44,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
+25701876,Abrã,Lezíria do Tejo,311,2025-07-19T13:57:00Z,25701876,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-19T13:57:00Z,Santarém,Santarém,Alentejo,-8.751613,39.448546,Resolução/Conclusão
+25701925,Évora de Alcobaça,Oeste,311,2025-07-19T14:08:00Z,25701925,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,9,2025-07-19T14:08:00Z,Alcobaça,Leiria,Centro,-8.964376,39.546722,Resolução/Conclusão
+25702057,Arrifana,Area M. Porto,309,2025-07-19T14:33:00Z,25702057,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-19T14:33:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.494594,40.91075,Resolução/Conclusão
+25702141,Âncora,Alto Minho,309,2025-07-19T14:49:00Z,25702141,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-07-19T14:49:00Z,Caminha,Viana Do Castelo,Norte,-8.852921,41.796416,Despacho
+25701436,Tropeço,Area M. Porto,309,2025-07-19T12:10:00Z,25701436,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-19T12:10:00Z,Arouca,Aveiro,Norte,-8.344653,40.925575,Resolução/Conclusão
+25701647,Cacia,Região de Aveiro,310,2025-07-19T13:00:00Z,25701647,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-19T13:00:00Z,Aveiro,Aveiro,Centro,-8.596132,40.68158,Resolução/Conclusão
+25696955,"Vilela, Seramil e Paredes Secas",Cávado,309,2025-07-18T13:36:00Z,25696955,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,10,2025-07-18T13:36:00Z,Amares,Braga,Norte,-8.309448,41.67517,Resolução/Conclusão
 25701049,Tarouquela,Tâmega e Sousa,309,2025-07-19T10:12:00Z,25701049,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-19T10:12:00Z,Cinfães,Viseu,Norte,-8.174778,41.075815,Resolução/Conclusão
 25701481,Branca,Lezíria do Tejo,311,2025-07-19T12:20:00Z,25701481,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-19T12:20:00Z,Coruche,Santarém,Alentejo,-8.553433,38.829055,Resolução/Conclusão
-25701934,Sobrado e Bairros,Tâmega e Sousa,309,2025-07-19T14:10:00Z,25701934,Em Curso,3103,Incêndio rural,1,6,0,33,2025-07-19T14:10:00Z,Castelo De Paiva,Aveiro,Norte,-8.2699,41.041524,Curso
+25701934,Sobrado e Bairros,Tâmega e Sousa,309,2025-07-19T14:10:00Z,25701934,Em Resolução/Conclusão,3103,Incêndio rural,1,9,0,41,2025-07-19T14:10:00Z,Castelo De Paiva,Aveiro,Norte,-8.273795,41.057212,Resolução/Conclusão
 25701594,Santo Agostinho e São João Baptista e Santo Amador,Baixo Alentejo,312,2025-07-19T12:45:00Z,25701594,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-07-19T12:45:00Z,Moura,Beja,Alentejo,-7.450812,38.143705,Resolução/Conclusão
-25701864,Bordonhos,Viseu Dão Lafões,310,2025-07-19T13:53:00Z,25701864,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-19T13:53:00Z,São Pedro Do Sul,Viseu,Centro,-8.088672,40.765902,Resolução/Conclusão
-25701912,Galveias,Alto Alentejo,312,2025-07-19T14:05:00Z,25701912,Em Curso,3103,Incêndio rural,0,14,0,48,2025-07-19T14:05:00Z,Ponte De Sor,Portalegre,Alentejo,-7.990786,39.161076,Curso
-25692814,Tolosa,Alto Alentejo,312,2025-07-17T16:23:00Z,25692814,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-17T16:23:00Z,Nisa,Portalegre,Alentejo,-7.635642,39.486993,Resolução/Conclusão
-25701436,Tropeço,Area M. Porto,309,2025-07-19T12:10:00Z,25701436,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-19T12:10:00Z,Arouca,Aveiro,Norte,-8.344653,40.925575,Resolução/Conclusão
-25701647,Cacia,Região de Aveiro,310,2025-07-19T13:00:00Z,25701647,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-19T13:00:00Z,Aveiro,Aveiro,Centro,-8.596132,40.68158,Resolução/Conclusão
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,1,14,0,51,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
-25701559,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-07-19T12:39:00Z,25701559,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,14,2025-07-19T12:39:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.979797,38.544987,Resolução/Conclusão
-25701876,Abrã,Lezíria do Tejo,311,2025-07-19T13:57:00Z,25701876,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-19T13:57:00Z,Santarém,Santarém,Alentejo,-8.755793,39.44862,Despacho
-25701925,Évora de Alcobaça,Oeste,311,2025-07-19T14:08:00Z,25701925,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,14,2025-07-19T14:08:00Z,Alcobaça,Leiria,Centro,-8.964376,39.546722,Resolução/Conclusão
+25701864,Bordonhos,Viseu Dão Lafões,310,2025-07-19T13:53:00Z,25701864,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-19T13:53:00Z,São Pedro Do Sul,Viseu,Centro,-8.088672,40.765902,Resolução/Conclusão
+25701912,Galveias,Alto Alentejo,312,2025-07-19T14:05:00Z,25701912,Em Resolução/Conclusão,3103,Incêndio rural,2,15,0,52,2025-07-19T14:05:00Z,Ponte De Sor,Portalegre,Alentejo,-7.997225,39.163317,Resolução/Conclusão
