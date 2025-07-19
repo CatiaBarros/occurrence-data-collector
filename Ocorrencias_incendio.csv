@@ -1,7 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,9,0,25,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
-25703020,Alcanede,Lezíria do Tejo,311,2025-07-19T18:24:00Z,25703020,Em Resolução/Conclusão,3101,Incêndio rural,0,9,0,36,2025-07-19T18:24:00Z,Santarém,Santarém,Alentejo,-8.8021,39.403117,Resolução/Conclusão
+25703020,Alcanede,Lezíria do Tejo,311,2025-07-19T18:24:00Z,25703020,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,16,2025-07-19T18:24:00Z,Santarém,Santarém,Alentejo,-8.8021,39.403117,Resolução/Conclusão
 25703306,Batalha,Região de Leiria,310,2025-07-19T19:30:00Z,25703306,Em Resolução/Conclusão,3111,Queima,0,1,0,2,2025-07-19T19:30:00Z,Batalha,Leiria,Centro,-8.829688,39.677072,Resolução/Conclusão
 25703505,Idães,Tâmega e Sousa,309,2025-07-19T20:24:00Z,25703505,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-19T20:24:00Z,Felgueiras,Porto,Norte,-8.257932,41.34012,Resolução/Conclusão
-25703674,Cacia,Região de Aveiro,310,2025-07-19T21:08:00Z,25703674,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-07-19T21:08:00Z,Aveiro,Aveiro,Centro,-8.606162,40.658545,Resolução/Conclusão
-25703869,Mire de Tibães,Cávado,309,2025-07-19T21:49:00Z,25703869,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,6,2025-07-19T21:49:00Z,Braga,Braga,Norte,-8.483663,41.570877,Resolução/Conclusão
+25704274,Sarilhos Grandes,Península de Setúbal,311,2025-07-20T00:09:00Z,25704274,Em Despacho,3103,Incêndio rural,0,4,0,16,2025-07-20T00:09:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.95318,38.68673,Despacho
+25703674,Cacia,Região de Aveiro,310,2025-07-19T21:08:00Z,25703674,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-07-19T21:08:00Z,Aveiro,Aveiro,Centro,-8.606162,40.658545,Resolução/Conclusão
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,9,0,25,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
