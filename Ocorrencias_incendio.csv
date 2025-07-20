@@ -1,5 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25704576,"Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",Beiras e Serra da Estrela,310,2025-07-20T02:50:00Z,25704576,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-07-20T02:50:00Z,Fundão,Castelo Branco,Centro,-7.47856,40.128672,Resolução/Conclusão
-25704609,Quinta do Anjo,Península de Setúbal,311,2025-07-20T03:11:00Z,25704609,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,17,2025-07-20T03:11:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.978385,38.601297,Resolução/Conclusão
-25704627,Bugalhos,Médio Tejo,311,2025-07-20T03:25:00Z,25704627,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-07-20T03:25:00Z,Alcanena,Santarém,Centro,-8.638561,39.4627,Resolução/Conclusão
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,7,0,19,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,17,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
