@@ -1,9 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25708284,Bogas de Cima,Beiras e Serra da Estrela,310,2025-07-20T21:26:00Z,25708284,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,51,2025-07-20T21:26:00Z,Fundão,Castelo Branco,Centro,-7.707703,40.064562,Resolução/Conclusão
-25708450,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-07-20T22:10:00Z,25708450,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-20T22:10:00Z,Santo Tirso,Porto,Norte,-8.495204,41.35258,Resolução/Conclusão
-25708486,Benavila e Valongo,Alto Alentejo,312,2025-07-20T22:33:00Z,25708486,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,24,2025-07-20T22:33:00Z,Avis,Portalegre,Alentejo,-7.87126,39.11042,Resolução/Conclusão
-25708371,Guarda,Beiras e Serra da Estrela,310,2025-07-20T21:53:00Z,25708371,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-07-20T21:53:00Z,Guarda,Guarda,Centro,-7.23191,40.560457,Resolução/Conclusão
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,12,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
 25706620,Forno Telheiro,Beiras e Serra da Estrela,310,2025-07-20T14:06:00Z,25706620,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-20T14:06:00Z,Celorico Da Beira,Guarda,Centro,-7.400468,40.6775,Resolução/Conclusão
-25708361,Faro (Sé e São Pedro),Algarve,313,2025-07-20T21:50:00Z,25708361,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,21,2025-07-20T21:50:00Z,Faro,Faro,Algarve,-7.895532,37.02598,Resolução/Conclusão
-25708409,Rio de Mouro,Grande Lisboa,311,2025-07-20T22:07:00Z,25708409,Em Curso,3103,Incêndio rural,0,7,0,24,2025-07-20T22:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.32694,38.76917,Curso
+25708361,Faro (Sé e São Pedro),Algarve,313,2025-07-20T21:50:00Z,25708361,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,23,2025-07-20T21:50:00Z,Faro,Faro,Algarve,-7.895532,37.02598,Resolução/Conclusão
+25708409,Rio de Mouro,Grande Lisboa,311,2025-07-20T22:07:00Z,25708409,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,24,2025-07-20T22:07:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.32694,38.76917,Resolução/Conclusão
+25708371,Guarda,Beiras e Serra da Estrela,310,2025-07-20T21:53:00Z,25708371,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-20T21:53:00Z,Guarda,Guarda,Centro,-7.23191,40.560457,Resolução/Conclusão
+25708284,Bogas de Cima,Beiras e Serra da Estrela,310,2025-07-20T21:26:00Z,25708284,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,51,2025-07-20T21:26:00Z,Fundão,Castelo Branco,Centro,-7.707703,40.064562,Resolução/Conclusão
