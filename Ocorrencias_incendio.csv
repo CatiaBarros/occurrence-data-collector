@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,13,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
 25706309,a Dos Cunhados e Maceira,Oeste,311,2025-07-20T12:51:00Z,25706309,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-07-20T12:51:00Z,Torres Vedras,Lisboa,Centro,-9.319899,39.146099,Resolução/Conclusão
-25705583,Loivos e Póvoa de Agrações,Alto Tâmega e Barroso,309,2025-07-20T10:09:00Z,25705583,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-20T10:09:00Z,Chaves,Vila Real,Norte,-7.496977,41.658437,Resolução/Conclusão
+25706566,Manteigas (São Pedro),Beiras e Serra da Estrela,310,2025-07-20T13:55:00Z,25706566,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-20T13:55:00Z,Manteigas,Guarda,Centro,-7.537096,40.398921,Despacho
+25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,13,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
+25706539,Melides,Alentejo Litoral,312,2025-07-20T13:45:00Z,25706539,Em Despacho,3103,Incêndio rural,0,7,0,29,2025-07-20T13:45:00Z,Grândola,Setúbal,Alentejo,-8.726303,38.148035,Despacho
