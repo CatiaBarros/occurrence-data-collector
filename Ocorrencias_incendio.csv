@@ -1,4 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25707530,Âncora,Alto Minho,309,2025-07-20T17:59:00Z,25707530,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-07-20T17:59:00Z,Caminha,Viana Do Castelo,Norte,-8.852921,41.796416,Despacho
+25707554,Ouca,Região de Aveiro,310,2025-07-20T18:04:00Z,25707554,Em Curso,3105,Incêndio rural,0,2,0,10,2025-07-20T18:04:00Z,Vagos,Aveiro,Centro,-8.653493,40.517244,Curso
 25686799,Souto Maior,Douro,309,2025-07-16T13:19:00Z,25686799,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,12,2025-07-16T13:19:00Z,Sabrosa,Vila Real,Norte,-7.57839,41.287518,Resolução/Conclusão
 25706620,Forno Telheiro,Beiras e Serra da Estrela,310,2025-07-20T14:06:00Z,25706620,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-20T14:06:00Z,Celorico Da Beira,Guarda,Centro,-7.400468,40.6775,Resolução/Conclusão
 25706871,Muxagata,Douro,309,2025-07-20T15:06:00Z,25706871,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,35,2025-07-20T15:06:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.195613,41.046983,Resolução/Conclusão
