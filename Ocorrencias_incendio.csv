@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25710365,Abrã,Lezíria do Tejo,311,2025-07-21T10:53:00Z,25710365,Em Curso,3103,Incêndio rural,1,8,0,36,2025-07-21T10:53:00Z,Santarém,Santarém,Alentejo,-8.753888,39.429793,Curso
+25710367,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-07-21T10:45:00Z,25710367,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-21T10:45:00Z,Évora,Évora,Alentejo,-7.917383,38.571482,Resolução/Conclusão
 25708284,Bogas de Cima,Beiras e Serra da Estrela,310,2025-07-20T21:26:00Z,25708284,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-20T21:26:00Z,Fundão,Castelo Branco,Centro,-7.707703,40.064562,Resolução/Conclusão
-25710367,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-07-21T10:45:00Z,25710367,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-21T10:45:00Z,Évora,Évora,Alentejo,-7.909364,38.560124,Despacho
+25710400,Marrazes e Barosa,Região de Leiria,310,2025-07-21T11:03:00Z,25710400,Em Curso,3103,Incêndio rural,0,4,0,17,2025-07-21T11:03:00Z,Leiria,Leiria,Centro,-8.848398,39.755211,Curso
