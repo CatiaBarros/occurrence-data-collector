@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25710365,Abrã,Lezíria do Tejo,311,2025-07-21T10:53:00Z,25710365,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,29,2025-07-21T10:53:00Z,Santarém,Santarém,Alentejo,-8.753888,39.429793,Resolução/Conclusão
-25710400,Marrazes e Barosa,Região de Leiria,310,2025-07-21T11:03:00Z,25710400,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-07-21T11:03:00Z,Leiria,Leiria,Centro,-8.846548,39.752167,Resolução/Conclusão
-25710563,Laranjeiro e Feijó,Península de Setúbal,311,2025-07-21T11:27:00Z,25710563,Em Despacho,3103,Incêndio rural,0,4,0,20,2025-07-21T11:27:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16679,38.64691,Despacho
+25710563,Laranjeiro e Feijó,Península de Setúbal,311,2025-07-21T11:27:00Z,25710563,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,20,2025-07-21T11:27:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16679,38.64691,Resolução/Conclusão
+25710722,Alvorge,Região de Leiria,310,2025-07-21T11:57:00Z,25710722,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-07-21T11:57:00Z,Ansião,Leiria,Centro,-8.45299,39.986844,Despacho
 25708284,Bogas de Cima,Beiras e Serra da Estrela,310,2025-07-20T21:26:00Z,25708284,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-20T21:26:00Z,Fundão,Castelo Branco,Centro,-7.707703,40.064562,Resolução/Conclusão
-25710490,Moita,Península de Setúbal,311,2025-07-21T11:16:00Z,25710490,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-21T11:16:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.949935,38.638632,Resolução/Conclusão
+25710365,Abrã,Lezíria do Tejo,311,2025-07-21T10:53:00Z,25710365,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,19,2025-07-21T10:53:00Z,Santarém,Santarém,Alentejo,-8.753888,39.429793,Resolução/Conclusão
+25710400,Marrazes e Barosa,Região de Leiria,310,2025-07-21T11:03:00Z,25710400,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-07-21T11:03:00Z,Leiria,Leiria,Centro,-8.846548,39.752167,Resolução/Conclusão
+25710766,Rio de Loba,Viseu Dão Lafões,310,2025-07-21T12:09:00Z,25710766,Em Despacho,3105,Incêndio rural,0,4,0,13,2025-07-21T12:09:00Z,Viseu,Viseu,Centro,-7.88072,40.67162,Despacho
