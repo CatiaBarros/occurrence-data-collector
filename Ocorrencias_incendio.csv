@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25709049,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-07-21T04:27:00Z,25709049,Em Despacho,3105,Incêndio rural,0,3,0,15,2025-07-21T04:27:00Z,Aljustrel,Beja,Alentejo,-8.15206,37.94845,Despacho
 25708284,Bogas de Cima,Beiras e Serra da Estrela,310,2025-07-20T21:26:00Z,25708284,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-20T21:26:00Z,Fundão,Castelo Branco,Centro,-7.707703,40.064562,Resolução/Conclusão
+25708966,Laranjeiro e Feijó,Península de Setúbal,311,2025-07-21T03:00:00Z,25708966,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-21T03:00:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.169192,38.659475,Resolução/Conclusão
 25706620,Forno Telheiro,Beiras e Serra da Estrela,310,2025-07-20T14:06:00Z,25706620,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-20T14:06:00Z,Celorico Da Beira,Guarda,Centro,-7.400468,40.6775,Resolução/Conclusão
-25708966,Laranjeiro e Feijó,Península de Setúbal,311,2025-07-21T03:00:00Z,25708966,Em Curso,3103,Incêndio rural,0,4,0,20,2025-07-21T03:00:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.169192,38.659475,Curso
-25709007,Laranjeiro e Feijó,Península de Setúbal,311,2025-07-21T03:31:00Z,25709007,Em Despacho,3103,Incêndio rural,0,3,0,14,2025-07-21T03:31:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.163166,38.64856,Despacho
