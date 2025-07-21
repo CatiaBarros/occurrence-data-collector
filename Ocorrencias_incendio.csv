@@ -1,8 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25711567,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-07-21T14:50:00Z,25711567,Em Despacho,3101,Incêndio rural,0,0,0,0,2025-07-21T14:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.353482,38.77892,Despacho
-25711397,Vale da Pedra,Lezíria do Tejo,311,2025-07-21T14:16:00Z,25711397,Em Curso,3103,Incêndio rural,1,12,0,51,2025-07-21T14:16:00Z,Cartaxo,Santarém,Alentejo,-8.77634,39.11787,Curso
 25708284,Bogas de Cima,Beiras e Serra da Estrela,310,2025-07-20T21:26:00Z,25708284,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-20T21:26:00Z,Fundão,Castelo Branco,Centro,-7.707703,40.064562,Resolução/Conclusão
 25711277,Lavegadas,Região de Coimbra,310,2025-07-21T13:52:00Z,25711277,Em Resolução/Conclusão,3105,Incêndio rural,0,9,0,35,2025-07-21T13:52:00Z,Vila Nova De Poiares,Coimbra,Centro,-8.201218,40.238473,Resolução/Conclusão
 25711376,Valongo do Vouga,Região de Aveiro,310,2025-07-21T14:10:00Z,25711376,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,12,2025-07-21T14:10:00Z,Águeda,Aveiro,Centro,-8.448278,40.621437,Resolução/Conclusão
-25711475,Vimieiro,Alentejo Central,312,2025-07-21T14:29:00Z,25711475,Em Resolução/Conclusão,3103,Incêndio rural,1,8,0,36,2025-07-21T14:29:00Z,Arraiolos,Évora,Alentejo,-7.707507,38.835654,Resolução/Conclusão
-25711542,Almeirim,Lezíria do Tejo,311,2025-07-21T14:47:00Z,25711542,Em Despacho,3103,Incêndio rural,0,3,0,9,2025-07-21T14:47:00Z,Almeirim,Santarém,Alentejo,-8.635826,39.1828,Despacho
+25711475,Vimieiro,Alentejo Central,312,2025-07-21T14:29:00Z,25711475,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,26,2025-07-21T14:29:00Z,Arraiolos,Évora,Alentejo,-7.72445,38.834437,Resolução/Conclusão
+25711542,Almeirim,Lezíria do Tejo,311,2025-07-21T14:47:00Z,25711542,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-07-21T14:47:00Z,Almeirim,Santarém,Alentejo,-8.623307,39.183743,Resolução/Conclusão
+25711610,Ervededo,Alto Tâmega e Barroso,309,2025-07-21T14:57:00Z,25711610,Em Curso,3103,Incêndio rural,1,4,0,25,2025-07-21T14:57:00Z,Chaves,Vila Real,Norte,-7.53597,41.81342,Curso
+25711397,Vale da Pedra,Lezíria do Tejo,311,2025-07-21T14:16:00Z,25711397,Em Curso,3103,Incêndio rural,1,20,0,77,2025-07-21T14:16:00Z,Cartaxo,Santarém,Alentejo,-8.77634,39.11787,Curso
+25711567,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-07-21T14:50:00Z,25711567,Em Curso,3103,Incêndio rural,0,4,0,17,2025-07-21T14:50:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.351887,38.776991,Curso
+25711583,"Custóias, Leça do Balio e Guifões",Area M. Porto,309,2025-07-21T14:53:00Z,25711583,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-07-21T14:53:00Z,Matosinhos,Porto,Norte,-8.62733,41.188377,Resolução/Conclusão
+25711668,São Domingos de Rana,Grande Lisboa,311,2025-07-21T15:00:00Z,25711668,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-07-21T15:00:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.340115,38.702729,Despacho
+25711670,Cacia,Região de Aveiro,310,2025-07-21T15:13:00Z,25711670,Em Despacho,3105,Incêndio rural,0,5,0,18,2025-07-21T15:13:00Z,Aveiro,Aveiro,Centro,-8.614633,40.67889,Despacho
+25711671,Panoias de Cima,Beiras e Serra da Estrela,310,2025-07-21T15:13:00Z,25711671,Em Despacho,3103,Incêndio rural,1,2,0,11,2025-07-21T15:13:00Z,Guarda,Guarda,Centro,-7.21113,40.4864,Despacho
+25711622,Lagares,Região de Coimbra,310,2025-07-21T15:01:00Z,25711622,Em Curso,3103,Incêndio rural,1,9,0,41,2025-07-21T15:01:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.83361,40.40722,Curso
