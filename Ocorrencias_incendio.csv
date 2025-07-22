@@ -1,7 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25715467,Santo António Dos Olivais,Região de Coimbra,310,2025-07-22T11:14:00Z,25715467,Em Despacho,3103,Incêndio rural,1,2,0,13,2025-07-22T11:14:00Z,Coimbra,Coimbra,Centro,-8.403315,40.218219,Despacho
-25712338,Cercal,Alentejo Litoral,312,2025-07-21T17:38:00Z,25712338,Em Resolução/Conclusão,3103,Incêndio rural,0,23,0,61,2025-07-21T17:38:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.682272,37.791582,Resolução/Conclusão
-25714927,Porches,Algarve,313,2025-07-22T09:47:00Z,25714927,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,18,2025-07-22T09:47:00Z,Lagoa,Faro,Algarve,-8.416322,37.113022,Resolução/Conclusão
 25711397,Vale da Pedra,Lezíria do Tejo,311,2025-07-21T14:16:00Z,25711397,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-21T14:16:00Z,Cartaxo,Santarém,Alentejo,-8.783137,39.110872,Resolução/Conclusão
 25714121,Souto Maior,Douro,309,2025-07-22T06:24:00Z,25714121,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-22T06:24:00Z,Sabrosa,Vila Real,Norte,-7.592063,41.285112,Resolução/Conclusão
-25715259,Pega,Beiras e Serra da Estrela,310,2025-07-22T10:39:00Z,25715259,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,15,2025-07-22T10:39:00Z,Guarda,Guarda,Centro,-7.14502,40.4309,Resolução/Conclusão
+25715532,"Ponte de Sor, Tramaga e Vale de Açor",Alto Alentejo,312,2025-07-22T11:24:00Z,25715532,Em Resolução/Conclusão,3103,Incêndio rural,1,11,0,45,2025-07-22T11:24:00Z,Ponte De Sor,Portalegre,Alentejo,-8.139892,39.273078,Resolução/Conclusão
+25715734,"Santiago do Cacém, S.cruz e São Bartolomeu da Serra",Alentejo Litoral,312,2025-07-22T12:03:00Z,25715734,Em Despacho,3103,Incêndio rural,0,4,0,16,2025-07-22T12:03:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.730186,38.04169,Despacho
+25715802,Abrantes (São Vicente e São João) e Alferrarede,Médio Tejo,311,2025-07-22T12:16:00Z,25715802,Em Despacho,3103,Incêndio rural,0,3,0,9,2025-07-22T12:16:00Z,Abrantes,Santarém,Centro,-8.214455,39.474582,Despacho
+25715467,Santo António Dos Olivais,Região de Coimbra,310,2025-07-22T11:14:00Z,25715467,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-22T11:14:00Z,Coimbra,Coimbra,Centro,-8.392675,40.200478,Resolução/Conclusão
+25715540,Santo Estêvão,Alto Tâmega e Barroso,309,2025-07-22T11:27:00Z,25715540,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-22T11:27:00Z,Chaves,Vila Real,Norte,-7.4165,41.771785,Resolução/Conclusão
+25712338,Cercal,Alentejo Litoral,312,2025-07-21T17:38:00Z,25712338,Em Resolução/Conclusão,3103,Incêndio rural,0,23,0,61,2025-07-21T17:38:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.682272,37.791582,Resolução/Conclusão
+25714927,Porches,Algarve,313,2025-07-22T09:47:00Z,25714927,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-07-22T09:47:00Z,Lagoa,Faro,Algarve,-8.416322,37.113022,Resolução/Conclusão
+25715665,Rio de Moinhos,Médio Tejo,311,2025-07-22T11:54:00Z,25715665,Em Resolução/Conclusão,3103,Incêndio rural,2,9,0,45,2025-07-22T11:54:00Z,Abrantes,Santarém,Centro,-8.266776,39.486242,Resolução/Conclusão
