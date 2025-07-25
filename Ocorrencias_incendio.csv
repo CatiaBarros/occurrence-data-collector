@@ -1,16 +1,18 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25728644,Pinhel,Beiras e Serra da Estrela,310,2025-07-24T23:40:00Z,25728644,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-07-24T23:40:00Z,Pinhel,Guarda,Centro,-7.051923,40.776672,Resolução/Conclusão
 25728646,Vila Fernando,Beiras e Serra da Estrela,310,2025-07-24T23:39:00Z,25728646,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,28,2025-07-24T23:39:00Z,Guarda,Guarda,Centro,-7.135077,40.484042,Resolução/Conclusão
-25728780,Vila do Conde,Area M. Porto,309,2025-07-25T00:32:00Z,25728780,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-25T00:32:00Z,Vila Do Conde,Porto,Norte,-8.75211,41.36064,Despacho
-25728725,Moreira do Rei e Várzea Cova,Ave,309,2025-07-25T00:10:00Z,25728725,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-07-25T00:10:00Z,Fafe,Braga,Norte,-8.074575,41.53299,Despacho
-25720932,Bouro (Santa Marta),Cávado,309,2025-07-23T12:54:00Z,25720932,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-23T12:54:00Z,Amares,Braga,Norte,-8.283857,41.671897,Resolução/Conclusão
-25721382,Unhais da Serra,Beiras e Serra da Estrela,310,2025-07-23T14:29:00Z,25721382,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,6,2025-07-23T14:29:00Z,Covilhã,Castelo Branco,Centro,-7.61948,40.25114,Resolução/Conclusão
-25725153,Troviscal,Beira Baixa,310,2025-07-24T10:31:00Z,25725153,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-24T10:31:00Z,Sertã,Castelo Branco,Centro,-8.084768,39.877972,Resolução/Conclusão
-25725251,Pedrógão Pequeno,Beira Baixa,310,2025-07-24T10:52:00Z,25725251,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,19,2025-07-24T10:52:00Z,Sertã,Castelo Branco,Centro,-8.084635,39.925647,Resolução/Conclusão
-25727257,Nespereira,Tâmega e Sousa,309,2025-07-24T17:40:00Z,25727257,Em Curso,3103,Incêndio rural,0,22,0,77,2025-07-24T17:40:00Z,Cinfães,Viseu,Norte,-8.173138,41.008725,Curso
-25728738,Soalhães,Tâmega e Sousa,309,2025-07-25T00:15:00Z,25728738,Em Curso,3103,Incêndio rural,0,5,0,21,2025-07-25T00:15:00Z,Marco De Canaveses,Porto,Norte,-8.095118,41.17857,Curso
+25728780,Vila do Conde,Area M. Porto,309,2025-07-25T00:32:00Z,25728780,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-25T00:32:00Z,Vila Do Conde,Porto,Norte,-8.75211,41.36064,Resolução/Conclusão
+25728725,Moreira do Rei e Várzea Cova,Ave,309,2025-07-25T00:10:00Z,25728725,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-25T00:10:00Z,Fafe,Braga,Norte,-8.074083,41.531957,Resolução/Conclusão
+25728824,São Jorge da Beira,Beiras e Serra da Estrela,310,2025-07-25T01:00:00Z,25728824,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,37,2025-07-25T01:00:00Z,Covilhã,Castelo Branco,Centro,-7.798547,40.168525,Resolução/Conclusão
+25728858,Alquerubim,Região de Aveiro,310,2025-07-25T01:26:00Z,25728858,Em Curso,3103,Incêndio rural,0,5,0,18,2025-07-25T01:26:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.510701,40.62068,Curso
 25712338,Cercal,Alentejo Litoral,312,2025-07-21T17:38:00Z,25712338,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,18,2025-07-21T17:38:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.682272,37.791582,Resolução/Conclusão
 25721930,Vilar de Perdizes e Meixide,Alto Tâmega e Barroso,309,2025-07-23T16:21:00Z,25721930,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-23T16:21:00Z,NA,NA,NA,-7.618655,41.886193,Resolução/Conclusão
 25725056,Pedrógão Pequeno,Beira Baixa,310,2025-07-24T10:16:00Z,25725056,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-24T10:16:00Z,Sertã,Castelo Branco,Centro,-8.093663,39.879797,Resolução/Conclusão
 25728500,Vila Fernando,Beiras e Serra da Estrela,310,2025-07-24T22:48:00Z,25728500,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,56,2025-07-24T22:48:00Z,Guarda,Guarda,Centro,-7.165667,40.491237,Resolução/Conclusão
 25728730,Gondomil e Safins,Alto Minho,309,2025-07-25T00:05:00Z,25728730,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-07-25T00:05:00Z,Valença,Viana Do Castelo,Norte,-8.580445,42.016252,Resolução/Conclusão
+25728851,Fânzeres e São Pedro da Cova,Area M. Porto,309,2025-07-25T01:12:00Z,25728851,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-25T01:12:00Z,Gondomar,Porto,Norte,-8.52754,41.166988,Resolução/Conclusão
+25721382,Unhais da Serra,Beiras e Serra da Estrela,310,2025-07-23T14:29:00Z,25721382,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-07-23T14:29:00Z,Covilhã,Castelo Branco,Centro,-7.61948,40.25114,Resolução/Conclusão
+25725153,Troviscal,Beira Baixa,310,2025-07-24T10:31:00Z,25725153,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-24T10:31:00Z,Sertã,Castelo Branco,Centro,-8.084768,39.877972,Resolução/Conclusão
+25725251,Pedrógão Pequeno,Beira Baixa,310,2025-07-24T10:52:00Z,25725251,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,19,2025-07-24T10:52:00Z,Sertã,Castelo Branco,Centro,-8.084635,39.925647,Resolução/Conclusão
+25727257,Nespereira,Tâmega e Sousa,309,2025-07-24T17:40:00Z,25727257,Em Curso,3103,Incêndio rural,0,23,0,79,2025-07-24T17:40:00Z,Cinfães,Viseu,Norte,-8.173138,41.008725,Curso
+25728738,Soalhães,Tâmega e Sousa,309,2025-07-25T00:15:00Z,25728738,Em Curso,3103,Incêndio rural,0,5,0,21,2025-07-25T00:15:00Z,Marco De Canaveses,Porto,Norte,-8.095118,41.17857,Curso
+25728870,Senhorim,Viseu Dão Lafões,310,2025-07-25T01:31:00Z,25728870,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-07-25T01:31:00Z,Nelas,Viseu,Centro,-7.773088,40.543079,Despacho
