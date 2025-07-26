@@ -1,7 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25727257,Santiago de Piães,Tâmega e Sousa,309,2025-07-24T17:40:00Z,25727257,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-24T17:40:00Z,Cinfães,Viseu,Norte,-8.173138,41.025392,Resolução/Conclusão
-25735145,Samora Correia,Lezíria do Tejo,311,2025-07-26T08:57:00Z,25735145,Em Resolução/Conclusão,3105,Incêndio rural,0,9,0,36,2025-07-26T08:57:00Z,Benavente,Santarém,Alentejo,-8.89139,38.89694,Resolução/Conclusão
+25730832,Aveleda e Rio de Onor,Terras de Trás-os-Montes,309,2025-07-25T12:07:00Z,25730832,Em Resolução/Conclusão,3103,Incêndio rural,0,27,0,97,2025-07-25T12:07:00Z,Bragança,Bragança,Norte,-6.707873,41.891435,Resolução/Conclusão
+25734678,Quintiães e Aguiar,Cávado,309,2025-07-26T06:15:00Z,25734678,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-26T06:15:00Z,Barcelos,Braga,Norte,-8.660918,41.629673,Resolução/Conclusão
 25712338,Cercal,Alentejo Litoral,312,2025-07-21T17:38:00Z,25712338,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-21T17:38:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.682272,37.791582,Resolução/Conclusão
 25729082,São Jorge e Ermelo,Alto Minho,309,2025-07-25T04:45:00Z,25729082,Em Resolução/Conclusão,3101,Incêndio rural,0,16,0,51,2025-07-25T04:45:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.356835,41.818005,Resolução/Conclusão
-25730832,Aveleda e Rio de Onor,Terras de Trás-os-Montes,309,2025-07-25T12:07:00Z,25730832,Em Resolução/Conclusão,3103,Incêndio rural,0,28,0,99,2025-07-25T12:07:00Z,Bragança,Bragança,Norte,-6.707873,41.891435,Resolução/Conclusão
-25734678,Quintiães e Aguiar,Cávado,309,2025-07-26T06:15:00Z,25734678,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-26T06:15:00Z,Barcelos,Braga,Norte,-8.660918,41.629673,Resolução/Conclusão
+25727257,Santiago de Piães,Tâmega e Sousa,309,2025-07-24T17:40:00Z,25727257,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-24T17:40:00Z,Cinfães,Viseu,Norte,-8.173138,41.025392,Resolução/Conclusão
+25735145,Samora Correia,Lezíria do Tejo,311,2025-07-26T08:57:00Z,25735145,Em Resolução/Conclusão,3105,Incêndio rural,0,8,0,31,2025-07-26T08:57:00Z,Benavente,Santarém,Alentejo,-8.89139,38.89694,Resolução/Conclusão
+25735715,Nogueira e Silva Escura,Area M. Porto,309,2025-07-26T10:46:00Z,25735715,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-26T10:46:00Z,Maia,Porto,Norte,-8.594801,41.23556,Despacho
