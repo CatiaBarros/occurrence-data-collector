@@ -1,33 +1,41 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25746615,Alvarenga,Area M. Porto,309,2025-07-28T13:15:00Z,25746615,Em Curso,3103,Incêndio rural,0,0,0,0,2025-07-28T13:15:00Z,Arouca,Aveiro,Norte,-8.1888280000000009,40.986515,Curso
-25747334,Aboim da Nóbrega e Gondomar,Cávado,309,2025-07-28T15:08:00Z,25747334,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-07-28T15:08:00Z,Vila Verde,Braga,Norte,-8.38607,41.734402,Resolução/Conclusão
-25747936,Canelas e Espiunca,Area M. Porto,309,2025-07-28T17:16:00Z,25747936,Em Curso,3103,Incêndio rural,0,0,0,0,2025-07-28T17:16:00Z,Arouca,Aveiro,Norte,-8.219872,41.00549,Curso
-25748118,Canelas e Espiunca,Area M. Porto,309,2025-07-28T17:16:00Z,25748118,Em Curso,3101,Incêndio rural,0,166,0,534,2025-07-28T17:16:00Z,Arouca,Aveiro,Norte,-8.212231,40.969918,Curso
-25748672,Sopo,Alto Minho,309,2025-07-28T20:07:00Z,25748672,Em Resolução/Conclusão,3103,Incêndio rural,0,21,0,68,2025-07-28T20:07:00Z,Vila Nova De Cerveira,Viana Do Castelo,Norte,-8.76152,41.888527,Resolução/Conclusão
-25748986,Rebordosa,Area M. Porto,309,2025-07-28T21:19:00Z,25748986,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,47,2025-07-28T21:19:00Z,Paredes,Porto,Norte,-8.414642,41.20857,Resolução/Conclusão
-25749320,Rebordões (Santa Maria),Alto Minho,309,2025-07-28T22:47:00Z,25749320,Em Curso,3103,Incêndio rural,0,14,0,53,2025-07-28T22:47:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.588365,41.729993,Curso
-25749605,Recarei,Area M. Porto,309,2025-07-29T00:36:00Z,25749605,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-07-29T00:36:00Z,Paredes,Porto,Norte,-8.424702,41.152107,Resolução/Conclusão
-25749607,Oldrões,Tâmega e Sousa,309,2025-07-29T00:43:00Z,25749607,Em Curso,3103,Incêndio rural,0,12,0,43,2025-07-29T00:43:00Z,Penafiel,Porto,Norte,-8.303932,41.15224,Curso
-25749641,Silva Escura e Dornelas,Região de Aveiro,310,2025-07-29T01:02:00Z,25749641,Em Curso,3101,Incêndio rural,0,18,0,70,2025-07-29T01:02:00Z,Sever Do Vouga,Aveiro,Centro,-8.399623,40.769354,Curso
-25747108,Melides,Alentejo Litoral,312,2025-07-28T14:39:00Z,25747108,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-07-28T14:39:00Z,Grândola,Setúbal,Alentejo,-8.752402,38.123636,Resolução/Conclusão
-25747692,Miranda,Alto Minho,309,2025-07-28T16:19:00Z,25747692,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-28T16:19:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.519067,41.822082,Resolução/Conclusão
-25749598,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-07-29T00:38:00Z,25749598,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-29T00:38:00Z,Vila Nova De Gaia,Porto,Norte,-8.59832,41.09787,Resolução/Conclusão
-25749681,Fornos de Maceira Dão,Viseu Dão Lafões,310,2025-07-29T01:19:00Z,25749681,Em Curso,3103,Incêndio rural,0,30,0,120,2025-07-29T01:19:00Z,Mangualde,Viseu,Centro,-7.806963,40.617022,Curso
-25749697,"Pinheiro da Bemposta, Travanca e Palmaz",Area M. Porto,309,2025-07-29T01:24:00Z,25749697,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-07-29T01:24:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.445955,40.798953,Resolução/Conclusão
 25737642,Aboim da Nóbrega e Gondomar,Cávado,309,2025-07-26T17:54:00Z,25737642,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-26T17:54:00Z,Vila Verde,Braga,Norte,-8.38607,41.734402,Resolução/Conclusão
 25742517,Anhões e Luzio,Alto Minho,309,2025-07-27T17:08:00Z,25742517,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-27T17:08:00Z,Monção,Viana Do Castelo,Norte,-8.452967,41.97745,Resolução/Conclusão
 25744328,Vila Facaia,Região de Leiria,310,2025-07-28T04:00:00Z,25744328,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-07-28T04:00:00Z,Pedrógão Grande,Leiria,Centro,-8.197592,39.93944,Resolução/Conclusão
 25744346,Pedrógão Grande,Região de Leiria,310,2025-07-28T04:18:00Z,25744346,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-07-28T04:18:00Z,Pedrógão Grande,Leiria,Centro,-8.18142,39.926725,Resolução/Conclusão
 25748038,Monte Córdova,Area M. Porto,309,2025-07-28T17:36:00Z,25748038,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,26,2025-07-28T17:36:00Z,Santo Tirso,Porto,Norte,-8.428603,41.317841,Resolução/Conclusão
-25749544,Caniçada e Soengas,Ave,309,2025-07-29T00:10:00Z,25749544,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-29T00:10:00Z,Vieira Do Minho,Braga,Norte,-8.179215,41.660675,Resolução/Conclusão
 25749592,Frazão Arreigada,Tâmega e Sousa,309,2025-07-29T00:35:00Z,25749592,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-29T00:35:00Z,Paços De Ferreira,Porto,Norte,-8.391675,41.252095,Resolução/Conclusão
 25749642,Lagares,Região de Coimbra,310,2025-07-29T01:00:00Z,25749642,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,31,2025-07-29T01:00:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.857471,40.402827,Resolução/Conclusão
-25749710,Meinedo,Tâmega e Sousa,309,2025-07-29T01:38:00Z,25749710,Em Despacho,3105,Incêndio rural,0,1,0,4,2025-07-29T01:38:00Z,Lousada,Porto,Norte,-8.25233,41.25132,Despacho
-25738747,Lindoso,Alto Minho,309,2025-07-26T21:47:00Z,25738747,Em Curso,3103,Incêndio rural,0,118,0,339,2025-07-26T21:47:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.220528,41.865272,Curso
+25749710,Meinedo,Tâmega e Sousa,309,2025-07-29T01:38:00Z,25749710,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-07-29T01:38:00Z,Lousada,Porto,Norte,-8.247957,41.255117,Resolução/Conclusão
+25749767,Espadanedo,Tâmega e Sousa,309,2025-07-29T02:09:00Z,25749767,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-07-29T02:09:00Z,Cinfães,Viseu,Norte,-8.186684,41.083914,Despacho
+25749785,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-07-29T02:24:00Z,25749785,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-07-29T02:24:00Z,Ovar,Aveiro,Centro,-8.603194,40.915479,Despacho
+25749792,Vila Caiz,Tâmega e Sousa,309,2025-07-29T02:21:00Z,25749792,Em Curso,3103,Incêndio rural,0,2,0,10,2025-07-29T02:21:00Z,Amarante,Porto,Norte,-8.123593,41.229797,Curso
+25749810,Penafiel,Tâmega e Sousa,309,2025-07-29T02:17:00Z,25749810,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-07-29T02:17:00Z,Penafiel,Porto,Norte,-8.264067,41.21801,Resolução/Conclusão
+25749819,Irivo,Tâmega e Sousa,309,2025-07-29T02:44:00Z,25749819,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-29T02:44:00Z,Penafiel,Porto,Norte,-8.326506,41.17643,Despacho
+25749821,Pontinha e Famões,Grande Lisboa,311,2025-07-29T02:45:00Z,25749821,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-29T02:45:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.20782,38.80432,Despacho
+25747108,Melides,Alentejo Litoral,312,2025-07-28T14:39:00Z,25747108,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-07-28T14:39:00Z,Grândola,Setúbal,Alentejo,-8.752402,38.123636,Resolução/Conclusão
+25747692,Miranda,Alto Minho,309,2025-07-28T16:19:00Z,25747692,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-28T16:19:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.519067,41.822082,Resolução/Conclusão
+25749598,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-07-29T00:38:00Z,25749598,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-07-29T00:38:00Z,Vila Nova De Gaia,Porto,Norte,-8.59832,41.09787,Resolução/Conclusão
+25749681,Fornos de Maceira Dão,Viseu Dão Lafões,310,2025-07-29T01:19:00Z,25749681,Em Curso,3103,Incêndio rural,0,38,0,147,2025-07-29T01:19:00Z,Mangualde,Viseu,Centro,-7.806963,40.617022,Curso
+25749764,"Souto Santa Maria, Souto São Salvador e Gondomar",Ave,309,2025-07-29T02:10:00Z,25749764,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-07-29T02:10:00Z,Guimarães,Braga,Norte,-8.288703,41.489153,Resolução/Conclusão
+25749816,Ramada e Caneças,Grande Lisboa,311,2025-07-29T02:35:00Z,25749816,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-29T02:35:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.194441,38.801427,Despacho
+25746615,Alvarenga,Area M. Porto,309,2025-07-28T13:15:00Z,25746615,Em Curso,3103,Incêndio rural,0,0,0,0,2025-07-28T13:15:00Z,Arouca,Aveiro,Norte,-8.1888280000000009,40.986515,Curso
+25747334,Aboim da Nóbrega e Gondomar,Cávado,309,2025-07-28T15:08:00Z,25747334,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-07-28T15:08:00Z,Vila Verde,Braga,Norte,-8.38607,41.734402,Resolução/Conclusão
+25747936,Canelas e Espiunca,Area M. Porto,309,2025-07-28T17:16:00Z,25747936,Em Curso,3103,Incêndio rural,0,0,0,0,2025-07-28T17:16:00Z,Arouca,Aveiro,Norte,-8.219872,41.00549,Curso
+25748118,Canelas e Espiunca,Area M. Porto,309,2025-07-28T17:16:00Z,25748118,Em Curso,3101,Incêndio rural,0,169,0,538,2025-07-28T17:16:00Z,Arouca,Aveiro,Norte,-8.212231,40.969918,Curso
+25748672,Sopo,Alto Minho,309,2025-07-28T20:07:00Z,25748672,Em Resolução/Conclusão,3103,Incêndio rural,0,20,0,63,2025-07-28T20:07:00Z,Vila Nova De Cerveira,Viana Do Castelo,Norte,-8.76152,41.888527,Resolução/Conclusão
+25748986,Rebordosa,Area M. Porto,309,2025-07-28T21:19:00Z,25748986,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,47,2025-07-28T21:19:00Z,Paredes,Porto,Norte,-8.414642,41.20857,Resolução/Conclusão
+25749320,Rebordões (Santa Maria),Alto Minho,309,2025-07-28T22:47:00Z,25749320,Em Curso,3103,Incêndio rural,0,15,0,56,2025-07-28T22:47:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.588365,41.729993,Curso
+25749605,Recarei,Area M. Porto,309,2025-07-29T00:36:00Z,25749605,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-29T00:36:00Z,Paredes,Porto,Norte,-8.424702,41.152107,Resolução/Conclusão
+25749607,Oldrões,Tâmega e Sousa,309,2025-07-29T00:43:00Z,25749607,Em Curso,3103,Incêndio rural,0,13,0,47,2025-07-29T00:43:00Z,Penafiel,Porto,Norte,-8.303932,41.15224,Curso
+25749641,Silva Escura e Dornelas,Região de Aveiro,310,2025-07-29T01:02:00Z,25749641,Em Curso,3101,Incêndio rural,0,22,0,84,2025-07-29T01:02:00Z,Sever Do Vouga,Aveiro,Centro,-8.399623,40.769354,Curso
+25749806,Gondoriz,Cávado,309,2025-07-29T02:30:00Z,25749806,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-07-29T02:30:00Z,Terras De Bouro,Braga,Norte,-8.299035,41.74115,Despacho
+25738747,Lindoso,Alto Minho,309,2025-07-26T21:47:00Z,25738747,Em Curso,3103,Incêndio rural,0,128,0,371,2025-07-26T21:47:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.220528,41.865272,Curso
 25741880,Benavila e Valongo,Alto Alentejo,312,2025-07-27T14:31:00Z,25741880,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-07-27T14:31:00Z,Avis,Portalegre,Alentejo,-7.866293,39.19533,Resolução/Conclusão
 25743786,Portela,Alto Minho,309,2025-07-28T00:13:00Z,25743786,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-07-28T00:13:00Z,Monção,Viana Do Castelo,Norte,-8.480967,41.97155,Resolução/Conclusão
-25747773,Aranhas,Beira Baixa,310,2025-07-28T16:36:00Z,25747773,Em Curso,3103,Incêndio rural,0,140,0,411,2025-07-28T16:36:00Z,Penamacor,Castelo Branco,Centro,-7.14438,40.117542,Curso
+25747773,Aranhas,Beira Baixa,310,2025-07-28T16:36:00Z,25747773,Em Curso,3103,Incêndio rural,0,141,0,412,2025-07-28T16:36:00Z,Penamacor,Castelo Branco,Centro,-7.14438,40.117542,Curso
 25749452,"Barcelos, V. Boa e V. Frescainha",Cávado,309,2025-07-28T23:31:00Z,25749452,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,27,2025-07-28T23:31:00Z,Barcelos,Braga,Norte,-8.644812,41.541515,Resolução/Conclusão
-25749602,Gestaçô,Tâmega e Sousa,309,2025-07-29T00:41:00Z,25749602,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-29T00:41:00Z,Baião,Porto,Norte,-7.947378,41.170162,Resolução/Conclusão
 25749611,Sameice e Santa Eulália,Beiras e Serra da Estrela,310,2025-07-29T00:44:00Z,25749611,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,38,2025-07-29T00:44:00Z,Seia,Guarda,Centro,-7.77621,40.42021,Resolução/Conclusão
 25749625,Troporiz e Lapela,Alto Minho,309,2025-07-29T00:51:00Z,25749625,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,12,2025-07-29T00:51:00Z,Monção,Viana Do Castelo,Norte,-8.54295,42.050003,Resolução/Conclusão
+25749802,Gondomil e Safins,Alto Minho,309,2025-07-29T02:30:00Z,25749802,Em Despacho,3103,Incêndio rural,0,3,0,10,2025-07-29T02:30:00Z,Valença,Viana Do Castelo,Norte,-8.565634,42.019205,Despacho
+25749824,Santa Marinha do Zêzere,Tâmega e Sousa,309,2025-07-29T02:46:00Z,25749824,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-07-29T02:46:00Z,Baião,Porto,Norte,-7.950478,41.138624,Despacho
