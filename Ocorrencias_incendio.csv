@@ -1,21 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25738747,Lindoso,Alto Minho,309,2025-07-26T21:47:00Z,25738747,Em Curso,3103,Incêndio rural,0,143,0,414,2025-07-26T21:47:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.220528,41.865272,Curso
+25738747,Lindoso,Alto Minho,309,2025-07-26T21:47:00Z,25738747,Em Curso,3103,Incêndio rural,0,142,0,409,2025-07-26T21:47:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.220528,41.865272,Curso
 25747773,Aranhas,Beira Baixa,310,2025-07-28T16:36:00Z,25747773,Em Resolução/Conclusão,3103,Incêndio rural,0,62,0,188,2025-07-28T16:36:00Z,Penamacor,Castelo Branco,Centro,-7.14438,40.117542,Resolução/Conclusão
 25749611,Sameice e Santa Eulália,Beiras e Serra da Estrela,310,2025-07-29T00:44:00Z,25749611,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-29T00:44:00Z,Seia,Guarda,Centro,-7.77621,40.42021,Resolução/Conclusão
 25750845,Fornos,Tâmega e Sousa,309,2025-07-29T09:46:00Z,25750845,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,18,2025-07-29T09:46:00Z,Castelo De Paiva,Aveiro,Norte,-8.247077,41.050502,Resolução/Conclusão
 25751999,Pombal,Região de Leiria,310,2025-07-29T12:53:00Z,25751999,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-07-29T12:53:00Z,Pombal,Leiria,Centro,-8.6801,39.93227,Resolução/Conclusão
 25752083,Alcanede,Lezíria do Tejo,311,2025-07-29T13:12:00Z,25752083,Em Resolução/Conclusão,3103,Incêndio rural,0,29,0,97,2025-07-29T13:12:00Z,Santarém,Santarém,Alentejo,-8.802682,39.405543,Resolução/Conclusão
 25756620,Recarei,Area M. Porto,309,2025-07-30T10:47:00Z,25756620,Em Resolução/Conclusão,3103,Incêndio rural,0,61,0,186,2025-07-30T10:47:00Z,Paredes,Porto,Norte,-8.416721,41.151,Resolução/Conclusão
-25759946,Santa Cruz,Baixo Alentejo,312,2025-07-30T22:07:00Z,25759946,Em Resolução/Conclusão,3101,Incêndio rural,0,7,0,24,2025-07-30T22:07:00Z,Almodôvar,Beja,Alentejo,-7.93484,37.499542,Resolução/Conclusão
-25760530,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-07-31T02:15:00Z,25760530,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-31T02:15:00Z,Matosinhos,Porto,Norte,-8.708333,41.238528,Resolução/Conclusão
-25749681,Fornos de Maceira Dão,Viseu Dão Lafões,310,2025-07-29T01:19:00Z,25749681,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-29T01:19:00Z,Mangualde,Viseu,Centro,-7.806963,40.617022,Resolução/Conclusão
-25750701,Capela,Tâmega e Sousa,309,2025-07-29T09:26:00Z,25750701,Em Curso,3103,Incêndio rural,0,47,0,174,2025-07-29T09:26:00Z,Penafiel,Porto,Norte,-8.345202,41.09353,Curso
-25755329,Ansião,Região de Leiria,310,2025-07-30T03:57:00Z,25755329,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-07-30T03:57:00Z,Ansião,Leiria,Centro,-8.413872,39.930002,Resolução/Conclusão
-25757286,Santa Cruz do Douro e São Tomé de Covelas,Tâmega e Sousa,309,2025-07-30T12:52:00Z,25757286,Em Curso,3103,Incêndio rural,0,9,0,33,2025-07-30T12:52:00Z,Baião,Porto,Norte,-7.971262,41.122462,Curso
-25757971,Ninho do Açor e Sobral do Campo,Beira Baixa,310,2025-07-30T14:54:00Z,25757971,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,10,2025-07-30T14:54:00Z,Castelo Branco,Castelo Branco,Centro,-7.569988,39.996368,Resolução/Conclusão
-25760310,Tendais,Tâmega e Sousa,309,2025-07-31T00:03:00Z,25760310,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-31T00:03:00Z,Cinfães,Viseu,Norte,-8.068,41.03646,Resolução/Conclusão
-25760794,Laranjeiro e Feijó,Península de Setúbal,311,2025-07-31T06:19:00Z,25760794,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-07-31T06:19:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16567,38.66287,Despacho
-25760784,Oldrões,Tâmega e Sousa,309,2025-07-31T05:50:00Z,25760784,Em Despacho,3103,Incêndio rural,0,2,0,7,2025-07-31T05:50:00Z,Penafiel,Porto,Norte,-8.304665,41.146828,Despacho
+25759946,Santa Cruz,Baixo Alentejo,312,2025-07-30T22:07:00Z,25759946,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-07-30T22:07:00Z,Almodôvar,Beja,Alentejo,-7.93484,37.499542,Resolução/Conclusão
+25760800,Estela,Area M. Porto,309,2025-07-31T06:24:00Z,25760800,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-31T06:24:00Z,Póvoa De Varzim,Porto,Norte,-8.740062,41.45864,Despacho
 25749937,Tarouquela,Tâmega e Sousa,309,2025-07-29T04:11:00Z,25749937,Em Curso,3103,Incêndio rural,0,11,0,34,2025-07-29T04:11:00Z,Cinfães,Viseu,Norte,-8.173308,41.072792,Curso
 25751046,Castelejo,Beiras e Serra da Estrela,310,2025-07-29T10:13:00Z,25751046,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-29T10:13:00Z,Fundão,Castelo Branco,Centro,-7.604291,40.108879,Resolução/Conclusão
 25751241,Molelos,Viseu Dão Lafões,310,2025-07-29T10:43:00Z,25751241,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-29T10:43:00Z,Tondela,Viseu,Centro,-8.09574,40.551495,Resolução/Conclusão
@@ -25,7 +17,18 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25755083,Avelar,Região de Leiria,310,2025-07-30T00:57:00Z,25755083,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-07-30T00:57:00Z,Ansião,Leiria,Centro,-8.341278,39.93576,Resolução/Conclusão
 25755669,Lordelo,Area M. Porto,309,2025-07-30T07:51:00Z,25755669,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-07-30T07:51:00Z,Paredes,Porto,Norte,-8.419573,41.244742,Resolução/Conclusão
 25758986,São João de Areias,Viseu Dão Lafões,310,2025-07-30T18:19:00Z,25758986,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-30T18:19:00Z,Santa Comba Dão,Viseu,Centro,-8.068341,40.390527,Resolução/Conclusão
-25760776,Castelo Branco,Beira Baixa,310,2025-07-31T06:05:00Z,25760776,Em Despacho,3103,Incêndio rural,0,6,0,26,2025-07-31T06:05:00Z,Castelo Branco,Castelo Branco,Centro,-7.420529,39.831796,Despacho
+25760776,Castelo Branco,Beira Baixa,310,2025-07-31T06:05:00Z,25760776,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,25,2025-07-31T06:05:00Z,Castelo Branco,Castelo Branco,Centro,-7.420529,39.831796,Resolução/Conclusão
+25760799,Castelo Branco,Beira Baixa,310,2025-07-31T06:23:00Z,25760799,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-07-31T06:23:00Z,Castelo Branco,Castelo Branco,Centro,-7.431702,39.828682,Resolução/Conclusão
+25749681,Fornos de Maceira Dão,Viseu Dão Lafões,310,2025-07-29T01:19:00Z,25749681,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-29T01:19:00Z,Mangualde,Viseu,Centro,-7.806963,40.617022,Resolução/Conclusão
+25750701,Capela,Tâmega e Sousa,309,2025-07-29T09:26:00Z,25750701,Em Curso,3103,Incêndio rural,0,46,0,169,2025-07-29T09:26:00Z,Penafiel,Porto,Norte,-8.345202,41.09353,Curso
+25755329,Ansião,Região de Leiria,310,2025-07-30T03:57:00Z,25755329,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-07-30T03:57:00Z,Ansião,Leiria,Centro,-8.413872,39.930002,Resolução/Conclusão
+25757286,Santa Cruz do Douro e São Tomé de Covelas,Tâmega e Sousa,309,2025-07-30T12:52:00Z,25757286,Em Curso,3103,Incêndio rural,0,9,0,33,2025-07-30T12:52:00Z,Baião,Porto,Norte,-7.971262,41.122462,Curso
+25757971,Ninho do Açor e Sobral do Campo,Beira Baixa,310,2025-07-30T14:54:00Z,25757971,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-07-30T14:54:00Z,Castelo Branco,Castelo Branco,Centro,-7.569988,39.996368,Resolução/Conclusão
+25760310,Tendais,Tâmega e Sousa,309,2025-07-31T00:03:00Z,25760310,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-07-31T00:03:00Z,Cinfães,Viseu,Norte,-8.068,41.03646,Resolução/Conclusão
+25760794,Laranjeiro e Feijó,Península de Setúbal,311,2025-07-31T06:19:00Z,25760794,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-07-31T06:19:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16567,38.66287,Despacho
+25760825,São Gens,Ave,309,2025-07-31T06:44:00Z,25760825,Em Despacho,3103,Incêndio rural,0,2,0,8,2025-07-31T06:44:00Z,Fafe,Braga,Norte,-8.111402,41.447595,Despacho
+25760806,Sande e São Lourenço,Tâmega e Sousa,309,2025-07-31T06:27:00Z,25760806,Em Curso,3103,Incêndio rural,0,1,0,5,2025-07-31T06:27:00Z,Marco De Canaveses,Porto,Norte,-8.149102,41.12836,Curso
+25760826,Sobral de Monte Agraço,Oeste,311,2025-07-31T06:42:00Z,25760826,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-31T06:42:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.169791,39.006119,Despacho
 25748118,Canelas e Espiunca,Area M. Porto,309,2025-07-28T17:16:00Z,25748118,Em Curso,3101,Incêndio rural,0,240,0,677,2025-07-28T17:16:00Z,Arouca,Aveiro,Norte,-8.212231,40.969918,Curso
 25749320,Rebordões (Santa Maria),Alto Minho,309,2025-07-28T22:47:00Z,25749320,Em Resolução/Conclusão,3103,Incêndio rural,0,51,0,152,2025-07-28T22:47:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.588365,41.729993,Resolução/Conclusão
 25749641,Silva Escura e Dornelas,Região de Aveiro,310,2025-07-29T01:02:00Z,25749641,Em Resolução/Conclusão,3101,Incêndio rural,0,16,0,51,2025-07-29T01:02:00Z,Sever Do Vouga,Aveiro,Centro,-8.399623,40.769354,Resolução/Conclusão
@@ -34,8 +37,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25756006,Pinhanços,Beiras e Serra da Estrela,310,2025-07-30T09:07:00Z,25756006,Em Resolução/Conclusão,3103,Incêndio rural,0,21,0,69,2025-07-30T09:07:00Z,Seia,Guarda,Centro,-7.708132,40.473517,Resolução/Conclusão
 25756459,Nespereira,Tâmega e Sousa,309,2025-07-30T10:20:00Z,25756459,Em Curso,3103,Incêndio rural,0,15,0,62,2025-07-30T10:20:00Z,Cinfães,Viseu,Norte,-8.130378,41.039695,Curso
 25760603,Viade de Baixo e Fervidelas,Alto Tâmega e Barroso,309,2025-07-31T03:22:00Z,25760603,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-07-31T03:22:00Z,Montalegre,Vila Real,Norte,-7.842067,41.758878,Resolução/Conclusão
-25760635,Belinho e Mar,Cávado,309,2025-07-31T03:55:00Z,25760635,Em Curso,3103,Incêndio rural,0,7,0,25,2025-07-31T03:55:00Z,Esposende,Braga,Norte,-8.78204,41.59357,Curso
-25760705,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-07-31T04:46:00Z,25760705,Em Curso,3103,Incêndio rural,0,3,0,12,2025-07-31T04:46:00Z,Felgueiras,Porto,Norte,-8.1639,41.355017,Curso
-25760737,Póvoa de São Miguel,Baixo Alentejo,312,2025-07-31T05:32:00Z,25760737,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,19,2025-07-31T05:32:00Z,Moura,Beja,Alentejo,-7.33773,38.226532,Resolução/Conclusão
-25760786,Semide e Rio Vide,Região de Coimbra,310,2025-07-31T06:13:00Z,25760786,Em Despacho,3101,Incêndio rural,0,3,0,15,2025-07-31T06:13:00Z,Miranda Do Corvo,Coimbra,Centro,-8.340223,40.14405,Despacho
-25760787,Galegos,Tâmega e Sousa,309,2025-07-31T06:07:00Z,25760787,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-07-31T06:07:00Z,Penafiel,Porto,Norte,-8.312326,41.160334,Despacho
+25760635,Belinho e Mar,Cávado,309,2025-07-31T03:55:00Z,25760635,Em Curso,3103,Incêndio rural,0,7,0,25,2025-07-31T03:55:00Z,Esposende,Braga,Norte,-8.780248,41.593495,Curso
+25760705,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-07-31T04:46:00Z,25760705,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-07-31T04:46:00Z,Felgueiras,Porto,Norte,-8.1639,41.355017,Resolução/Conclusão
+25760786,Semide e Rio Vide,Região de Coimbra,310,2025-07-31T06:13:00Z,25760786,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,15,2025-07-31T06:13:00Z,Miranda Do Corvo,Coimbra,Centro,-8.340223,40.14405,Resolução/Conclusão
+25760787,Galegos,Tâmega e Sousa,309,2025-07-31T06:07:00Z,25760787,Em Despacho,3103,Incêndio rural,0,4,0,16,2025-07-31T06:07:00Z,Penafiel,Porto,Norte,-8.312326,41.160334,Despacho
