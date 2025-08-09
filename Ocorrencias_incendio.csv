@@ -1,11 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25785983,Caçarilhe e Infesta,Tâmega e Sousa,309,2025-08-04T18:22:00Z,25785983,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,27,2025-08-04T18:22:00Z,Celorico De Basto,Braga,Norte,-8.04611,41.419858,Resolução/Conclusão
-25792058,Cibões e Brufe,Cávado,309,2025-08-05T19:10:00Z,25792058,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-08-05T19:10:00Z,Terras De Bouro,Braga,Norte,-8.293932,41.764918,Resolução/Conclusão
-25812848,Valdreu,Cávado,309,2025-08-09T14:21:00Z,25812848,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,35,2025-08-09T14:21:00Z,Vila Verde,Braga,Norte,-8.333892,41.725233,Resolução/Conclusão
-25814829,Friões,Alto Tâmega e Barroso,309,2025-08-09T21:24:00Z,25814829,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-08-09T21:24:00Z,Valpaços,Vila Real,Norte,-7.390518,41.670225,Resolução/Conclusão
-25815124,Selho São Lourenço e Gominhães,Ave,309,2025-08-09T22:32:00Z,25815124,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,14,2025-08-09T22:32:00Z,Guimarães,Braga,Norte,-8.282403,41.468143,Resolução/Conclusão
-25815147,Conceição e Estoi,Algarve,313,2025-08-09T22:38:00Z,25815147,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,19,2025-08-09T22:38:00Z,Faro,Faro,Algarve,-7.919989,37.09074,Resolução/Conclusão
-25815183,Melres e Medas,Area M. Porto,309,2025-08-09T22:36:00Z,25815183,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,27,2025-08-09T22:36:00Z,Gondomar,Porto,Norte,-8.379357,41.05827,Resolução/Conclusão
 25776263,"Pena, Quintã e Vila Cova",Douro,309,2025-08-02T23:45:00Z,25776263,Em Curso,3103,Incêndio rural,0,31,0,110,2025-08-02T23:45:00Z,Vila Real,Vila Real,Norte,-7.811902,41.317355,Curso
 25783717,Cunha Baixa,Viseu Dão Lafões,310,2025-08-04T11:48:00Z,25783717,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-08-04T11:48:00Z,Mangualde,Viseu,Centro,-7.764411,40.559738,Resolução/Conclusão
 25785204,Ribas,Tâmega e Sousa,309,2025-08-04T16:03:00Z,25785204,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-04T16:03:00Z,Celorico De Basto,Braga,Norte,-8.022547,41.449583,Resolução/Conclusão
@@ -14,18 +7,24 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25808770,Pindo,Viseu Dão Lafões,310,2025-08-08T18:52:00Z,25808770,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-08T18:52:00Z,Penalva Do Castelo,Viseu,Centro,-7.763725,40.674402,Resolução/Conclusão
 25808937,Abrunhosa-a-Velha,Viseu Dão Lafões,310,2025-08-08T19:26:00Z,25808937,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-08T19:26:00Z,Mangualde,Viseu,Centro,-7.647667,40.572515,Resolução/Conclusão
 25813128,Anjos e Vilar do Chão,Ave,309,2025-08-09T15:15:00Z,25813128,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,41,2025-08-09T15:15:00Z,Vieira Do Minho,Braga,Norte,-8.07774,41.611368,Resolução/Conclusão
-25813482,Freches e Torres,Beiras e Serra da Estrela,310,2025-08-09T16:21:00Z,25813482,Em Curso,3103,Incêndio rural,0,105,0,329,2025-08-09T16:21:00Z,Trancoso,Guarda,Centro,-7.363745,40.709022,Curso
-25815374,"Gondifelos, Cavalões e Outiz",Ave,309,2025-08-09T23:42:00Z,25815374,Em Despacho,3105,Incêndio rural,0,1,0,6,2025-08-09T23:42:00Z,Vila Nova De Famalicão,Braga,Norte,-8.600282,41.40973,Despacho
+25813482,Freches e Torres,Beiras e Serra da Estrela,310,2025-08-09T16:21:00Z,25813482,Em Curso,3103,Incêndio rural,0,106,0,331,2025-08-09T16:21:00Z,Trancoso,Guarda,Centro,-7.363745,40.709022,Curso
 25815154,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-08-09T22:39:00Z,25815154,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-08-09T22:39:00Z,Matosinhos,Porto,Norte,-8.706455,41.2448,Resolução/Conclusão
 25815234,Sobradelo da Goma,Ave,309,2025-08-09T23:01:00Z,25815234,Em Curso,3103,Incêndio rural,0,5,0,19,2025-08-09T23:01:00Z,Póvoa De Lanhoso,Braga,Norte,-8.175725,41.567157,Curso
+25785983,Caçarilhe e Infesta,Tâmega e Sousa,309,2025-08-04T18:22:00Z,25785983,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,27,2025-08-04T18:22:00Z,Celorico De Basto,Braga,Norte,-8.04611,41.419858,Resolução/Conclusão
+25792058,Cibões e Brufe,Cávado,309,2025-08-05T19:10:00Z,25792058,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-08-05T19:10:00Z,Terras De Bouro,Braga,Norte,-8.293932,41.764918,Resolução/Conclusão
+25812848,Valdreu,Cávado,309,2025-08-09T14:21:00Z,25812848,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,23,2025-08-09T14:21:00Z,Vila Verde,Braga,Norte,-8.333892,41.725233,Resolução/Conclusão
+25814829,Friões,Alto Tâmega e Barroso,309,2025-08-09T21:24:00Z,25814829,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-08-09T21:24:00Z,Valpaços,Vila Real,Norte,-7.390518,41.670225,Resolução/Conclusão
+25815124,Selho São Lourenço e Gominhães,Ave,309,2025-08-09T22:32:00Z,25815124,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,14,2025-08-09T22:32:00Z,Guimarães,Braga,Norte,-8.282403,41.468143,Resolução/Conclusão
+25815147,Conceição e Estoi,Algarve,313,2025-08-09T22:38:00Z,25815147,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,9,2025-08-09T22:38:00Z,Faro,Faro,Algarve,-7.919989,37.09074,Resolução/Conclusão
+25815183,Melres e Medas,Area M. Porto,309,2025-08-09T22:36:00Z,25815183,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,27,2025-08-09T22:36:00Z,Gondomar,Porto,Norte,-8.379357,41.05827,Resolução/Conclusão
 25773830,Andrães,Douro,309,2025-08-02T14:23:00Z,25773830,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-08-02T14:23:00Z,Vila Real,Vila Real,Norte,-7.671293,41.267593,Resolução/Conclusão
 25774883,Arnóia,Tâmega e Sousa,309,2025-08-02T18:20:00Z,25774883,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-08-02T18:20:00Z,Celorico De Basto,Braga,Norte,-7.998983,41.348727,Resolução/Conclusão
 25804968,Alvadia,Alto Tâmega e Barroso,309,2025-08-08T07:21:00Z,25804968,Em Resolução/Conclusão,3103,Incêndio rural,0,47,0,126,2025-08-08T07:21:00Z,Ribeira De Pena,Vila Real,Norte,-7.782872,41.457452,Resolução/Conclusão
-25812987,Este (São Pedro e São Mamede),Cávado,309,2025-08-09T14:43:00Z,25812987,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,12,2025-08-09T14:43:00Z,Braga,Braga,Norte,-8.36202,41.553752,Resolução/Conclusão
-25814493,Cota,Viseu Dão Lafões,310,2025-08-09T20:08:00Z,25814493,Em Resolução/Conclusão,3101,Incêndio rural,0,11,0,38,2025-08-09T20:08:00Z,Viseu,Viseu,Centro,-7.80263,40.777299,Resolução/Conclusão
-25814574,Paredes,Area M. Porto,309,2025-08-09T20:27:00Z,25814574,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,28,2025-08-09T20:27:00Z,Paredes,Porto,Norte,-8.361023,41.20857,Resolução/Conclusão
-25815025,Alcabideche,Grande Lisboa,311,2025-08-09T22:01:00Z,25815025,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-08-09T22:01:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.40001,38.744922,Resolução/Conclusão
+25812987,Este (São Pedro e São Mamede),Cávado,309,2025-08-09T14:43:00Z,25812987,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-08-09T14:43:00Z,Braga,Braga,Norte,-8.36202,41.553752,Resolução/Conclusão
+25814493,Cota,Viseu Dão Lafões,310,2025-08-09T20:08:00Z,25814493,Em Resolução/Conclusão,3101,Incêndio rural,0,10,0,33,2025-08-09T20:08:00Z,Viseu,Viseu,Centro,-7.80263,40.777299,Resolução/Conclusão
+25814574,Paredes,Area M. Porto,309,2025-08-09T20:27:00Z,25814574,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,23,2025-08-09T20:27:00Z,Paredes,Porto,Norte,-8.361023,41.20857,Resolução/Conclusão
 25815093,Alverca do Ribatejo e Sobralinho,Grande Lisboa,311,2025-08-09T22:25:00Z,25815093,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-08-09T22:25:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.054148,38.892687,Resolução/Conclusão
+25815476,Freixo de Cima e de Baixo,Tâmega e Sousa,309,2025-08-10T00:09:00Z,25815476,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-08-10T00:09:00Z,Amarante,Porto,Norte,-8.14814,41.30665,Despacho
 25775263,Torgueda,Douro,309,2025-08-02T19:49:00Z,25775263,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,19,2025-08-02T19:49:00Z,Vila Real,Vila Real,Norte,-7.785983,41.274952,Resolução/Conclusão
 25785466,Caçarilhe e Infesta,Tâmega e Sousa,309,2025-08-04T16:48:00Z,25785466,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-04T16:48:00Z,Celorico De Basto,Braga,Norte,-8.035342,41.42903,Resolução/Conclusão
 25800301,Alvão,Alto Tâmega e Barroso,309,2025-08-07T10:03:00Z,25800301,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,23,2025-08-07T10:03:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.74157,41.466742000000004,Resolução/Conclusão
@@ -34,8 +33,10 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25807426,Alvite,Douro,309,2025-08-08T14:31:00Z,25807426,Em Curso,3103,Incêndio rural,0,142,0,452,2025-08-08T14:31:00Z,Moimenta Da Beira,Viseu,Norte,-7.688727,40.96613,Curso
 25812717,Abrunhosa-a-Velha,Viseu Dão Lafões,310,2025-08-09T12:50:00Z,25812717,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-08-09T12:50:00Z,Mangualde,Viseu,Centro,-7.778693,40.59536,Resolução/Conclusão
 25813069,Alcaide,Beiras e Serra da Estrela,310,2025-08-09T15:04:00Z,25813069,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-08-09T15:04:00Z,Fundão,Castelo Branco,Centro,-7.436153,40.133788,Resolução/Conclusão
-25815261,Torrados e Sousa,Tâmega e Sousa,309,2025-08-09T23:03:00Z,25815261,Em Curso,3105,Incêndio rural,0,1,0,5,2025-08-09T23:03:00Z,Felgueiras,Porto,Norte,-8.246613,41.343482,Curso
-25815279,Fiães,Alto Minho,309,2025-08-09T23:14:00Z,25815279,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-08-09T23:14:00Z,Melgaço,Viana Do Castelo,Norte,-8.194814,42.111222,Despacho
-25815362,Igreja Nova e Cheleiros,Grande Lisboa,311,2025-08-09T23:38:00Z,25815362,Em Despacho,3103,Incêndio rural,0,3,0,9,2025-08-09T23:38:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.33864,38.89429,Despacho
-25815357,Loivos e Póvoa de Agrações,Alto Tâmega e Barroso,309,2025-08-09T23:37:00Z,25815357,Em Despacho,3103,Incêndio rural,0,6,0,27,2025-08-09T23:37:00Z,Chaves,Vila Real,Norte,-7.51732,41.62543,Despacho
-25815382,Valada,Lezíria do Tejo,311,2025-08-09T23:44:00Z,25815382,Em Despacho,3103,Incêndio rural,0,4,0,14,2025-08-09T23:44:00Z,Cartaxo,Santarém,Alentejo,-8.764108,39.081983,Despacho
+25815357,Loivos e Póvoa de Agrações,Alto Tâmega e Barroso,309,2025-08-09T23:37:00Z,25815357,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,22,2025-08-09T23:37:00Z,Chaves,Vila Real,Norte,-7.51732,41.62543,Resolução/Conclusão
+25815261,Torrados e Sousa,Tâmega e Sousa,309,2025-08-09T23:03:00Z,25815261,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-08-09T23:03:00Z,Felgueiras,Porto,Norte,-8.246613,41.343482,Resolução/Conclusão
+25815279,Fiães,Alto Minho,309,2025-08-09T23:14:00Z,25815279,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-08-09T23:14:00Z,Melgaço,Viana Do Castelo,Norte,-8.194814,42.111222,Resolução/Conclusão
+25815362,Igreja Nova e Cheleiros,Grande Lisboa,311,2025-08-09T23:38:00Z,25815362,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-08-09T23:38:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.33864,38.89429,Resolução/Conclusão
+25815429,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-08-09T23:59:00Z,25815429,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-08-09T23:59:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35908,38.84745,Despacho
+25815382,Valada,Lezíria do Tejo,311,2025-08-09T23:44:00Z,25815382,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-08-09T23:44:00Z,Cartaxo,Santarém,Alentejo,-8.74383,39.09972,Resolução/Conclusão
+25815432,Pinhel,Beiras e Serra da Estrela,310,2025-08-09T23:58:00Z,25815432,Em Despacho,3103,Incêndio rural,0,3,0,11,2025-08-09T23:58:00Z,Pinhel,Guarda,Centro,-7.054831,40.798856,Despacho
