@@ -3,7 +3,8 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25934223,Glória e Vera Cruz,Região de Aveiro,310,2025-09-02T16:37:00Z,25934223,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,11,2025-09-02T16:37:00Z,Aveiro,Aveiro,Centro,-8.656175,40.654487,Resolução/Conclusão
 25934298,Colmeias e Memória,Região de Leiria,310,2025-09-02T16:56:00Z,25934298,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-09-02T16:56:00Z,Leiria,Leiria,Centro,-8.724597,39.823568,Resolução/Conclusão
-25934709,Talhadas,Região de Aveiro,310,2025-09-02T18:46:00Z,25934709,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-02T18:46:00Z,Sever Do Vouga,Aveiro,Centro,-8.367272,40.664066,Resolução/Conclusão
 25934786,"Sande, Vilarinho, Barros e Gomide",Cávado,309,2025-09-02T18:35:00Z,25934786,Em Despacho,3111,Queima,0,1,0,2,2025-09-02T18:35:00Z,Vila Verde,Braga,Norte,-8.394844,41.714542,Despacho
-25934414,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-09-02T17:26:00Z,25934414,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-09-02T17:26:00Z,Marco De Canaveses,Porto,Norte,-8.279413,41.08768,Resolução/Conclusão
-25934531,Parada e Faílde,Terras de Trás-os-Montes,309,2025-09-02T17:55:00Z,25934531,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,8,2025-09-02T17:55:00Z,Bragança,Bragança,Norte,-6.71222,41.67139,Resolução/Conclusão
+25934995,Águas Santas,Area M. Porto,309,2025-09-02T20:06:00Z,25934995,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-09-02T20:06:00Z,Maia,Porto,Norte,-8.56379,41.22034,Despacho
+25934960,Parada de Todeia,Area M. Porto,309,2025-09-02T19:51:00Z,25934960,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-02T19:51:00Z,Paredes,Porto,Norte,-8.36865,41.168792,Resolução/Conclusão
+25934414,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-09-02T17:26:00Z,25934414,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,21,2025-09-02T17:26:00Z,Marco De Canaveses,Porto,Norte,-8.279413,41.08768,Resolução/Conclusão
+25934963,Oliveirinha,Região de Aveiro,310,2025-09-02T19:56:00Z,25934963,Em Curso,3103,Incêndio rural,0,6,0,24,2025-09-02T19:56:00Z,Aveiro,Aveiro,Centro,-8.595116,40.607545,Curso
