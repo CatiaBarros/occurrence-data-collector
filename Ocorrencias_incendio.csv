@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,52,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
-25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
-25934223,Glória e Vera Cruz,Região de Aveiro,310,2025-09-02T16:37:00Z,25934223,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,11,2025-09-02T16:37:00Z,Aveiro,Aveiro,Centro,-8.656175,40.654487,Resolução/Conclusão
-25934298,Colmeias e Memória,Região de Leiria,310,2025-09-02T16:56:00Z,25934298,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-09-02T16:56:00Z,Leiria,Leiria,Centro,-8.724597,39.823568,Resolução/Conclusão
-25934786,"Sande, Vilarinho, Barros e Gomide",Cávado,309,2025-09-02T18:35:00Z,25934786,Em Despacho,3111,Queima,0,1,0,2,2025-09-02T18:35:00Z,Vila Verde,Braga,Norte,-8.394844,41.714542,Despacho
-25934995,Águas Santas,Area M. Porto,309,2025-09-02T20:06:00Z,25934995,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-09-02T20:06:00Z,Maia,Porto,Norte,-8.56379,41.22034,Despacho
-25934960,Parada de Todeia,Area M. Porto,309,2025-09-02T19:51:00Z,25934960,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-02T19:51:00Z,Paredes,Porto,Norte,-8.36865,41.168792,Resolução/Conclusão
 25934414,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-09-02T17:26:00Z,25934414,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,21,2025-09-02T17:26:00Z,Marco De Canaveses,Porto,Norte,-8.279413,41.08768,Resolução/Conclusão
-25934963,Oliveirinha,Região de Aveiro,310,2025-09-02T19:56:00Z,25934963,Em Curso,3103,Incêndio rural,0,6,0,24,2025-09-02T19:56:00Z,Aveiro,Aveiro,Centro,-8.595116,40.607545,Curso
+25934963,Oliveirinha,Região de Aveiro,310,2025-09-02T19:56:00Z,25934963,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-09-02T19:56:00Z,Aveiro,Aveiro,Centro,-8.595116,40.607545,Resolução/Conclusão
+25935097,Fonte Arcada e Escurquela,Douro,309,2025-09-02T20:33:00Z,25935097,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-09-02T20:33:00Z,Sernancelhe,Viseu,Norte,-7.531557,40.9709,Despacho
+25935110,Santana,Alentejo Central,312,2025-09-02T20:33:00Z,25935110,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,14,2025-09-02T20:33:00Z,Portel,Évora,Alentejo,-7.795728,38.276965,Resolução/Conclusão
+25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,16,0,42,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
+25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
+25934223,Glória e Vera Cruz,Região de Aveiro,310,2025-09-02T16:37:00Z,25934223,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-02T16:37:00Z,Aveiro,Aveiro,Centro,-8.656175,40.654487,Resolução/Conclusão
+25934786,"Sande, Vilarinho, Barros e Gomide",Cávado,309,2025-09-02T18:35:00Z,25934786,Em Despacho,3111,Queima,0,1,0,2,2025-09-02T18:35:00Z,Vila Verde,Braga,Norte,-8.394844,41.714542,Despacho
+25934995,Águas Santas,Area M. Porto,309,2025-09-02T20:06:00Z,25934995,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-09-02T20:06:00Z,Maia,Porto,Norte,-8.56379,41.22034,Resolução/Conclusão
