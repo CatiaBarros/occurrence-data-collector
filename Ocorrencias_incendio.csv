@@ -1,11 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25935110,Portel,Alentejo Central,312,2025-09-02T20:33:00Z,25935110,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-09-02T20:33:00Z,Portel,Évora,Alentejo,-7.834383,38.313117,Resolução/Conclusão
-25935272,Arcos e Mogofores,Região de Aveiro,310,2025-09-02T21:26:00Z,25935272,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-09-02T21:26:00Z,Anadia,Aveiro,Centro,-8.456536,40.45211,Resolução/Conclusão
-25935288,Tavira (Santa Maria e Santiago),Algarve,313,2025-09-02T21:29:00Z,25935288,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,21,2025-09-02T21:29:00Z,Tavira,Faro,Algarve,-7.64691,37.130442,Resolução/Conclusão
-25934414,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-09-02T17:26:00Z,25934414,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-09-02T17:26:00Z,Marco De Canaveses,Porto,Norte,-8.279413,41.08768,Resolução/Conclusão
-25935097,Fonte Arcada e Escurquela,Douro,309,2025-09-02T20:33:00Z,25935097,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,22,2025-09-02T20:33:00Z,Sernancelhe,Viseu,Norte,-7.531557,40.9709,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,16,0,42,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
-25934223,Glória e Vera Cruz,Região de Aveiro,310,2025-09-02T16:37:00Z,25934223,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-02T16:37:00Z,Aveiro,Aveiro,Centro,-8.656175,40.654487,Resolução/Conclusão
 25934786,"Sande, Vilarinho, Barros e Gomide",Cávado,309,2025-09-02T18:35:00Z,25934786,Em Despacho,3111,Queima,0,1,0,2,2025-09-02T18:35:00Z,Vila Verde,Braga,Norte,-8.394844,41.714542,Despacho
-25935327,Roge,Area M. Porto,309,2025-09-02T21:35:00Z,25935327,Em Despacho,3101,Incêndio rural,0,1,0,4,2025-09-02T21:35:00Z,Vale De Cambra,Aveiro,Norte,-8.334411,40.860684,Despacho
+25935327,Roge,Area M. Porto,309,2025-09-02T21:35:00Z,25935327,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,4,2025-09-02T21:35:00Z,Vale De Cambra,Aveiro,Norte,-8.340709,40.867628,Resolução/Conclusão
+25934414,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-09-02T17:26:00Z,25934414,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-02T17:26:00Z,Marco De Canaveses,Porto,Norte,-8.279413,41.08768,Resolução/Conclusão
+25935097,Fonte Arcada e Escurquela,Douro,309,2025-09-02T20:33:00Z,25935097,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,22,2025-09-02T20:33:00Z,Sernancelhe,Viseu,Norte,-7.531557,40.9709,Resolução/Conclusão
+25935272,Arcos e Mogofores,Região de Aveiro,310,2025-09-02T21:26:00Z,25935272,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-02T21:26:00Z,Anadia,Aveiro,Centro,-8.456536,40.45211,Resolução/Conclusão
+25935288,Tavira (Santa Maria e Santiago),Algarve,313,2025-09-02T21:29:00Z,25935288,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,16,2025-09-02T21:29:00Z,Tavira,Faro,Algarve,-7.64691,37.130442,Resolução/Conclusão
