@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25936041,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-09-03T06:16:00Z,25936041,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,36,2025-09-03T06:16:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.142847,38.812523,Resolução/Conclusão
+25936227,Mexilhoeira Grande,Algarve,313,2025-09-03T07:46:00Z,25936227,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-03T07:46:00Z,Portimão,Faro,Algarve,-8.646358,37.17493,Resolução/Conclusão
+25936300,Canaviais,Alentejo Central,312,2025-09-03T08:03:00Z,25936300,Em Despacho,3105,Incêndio rural,0,3,0,11,2025-09-03T08:03:00Z,Évora,Évora,Alentejo,-7.90729,38.61175,Despacho
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,16,0,42,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25935529,Vermoil,Região de Leiria,310,2025-09-02T22:56:00Z,25935529,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-09-02T22:56:00Z,Pombal,Leiria,Centro,-8.673463,39.83745,Resolução/Conclusão
-25936041,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-09-03T06:16:00Z,25936041,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,36,2025-09-03T06:16:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.142847,38.812523,Resolução/Conclusão
-25936227,Mexilhoeira Grande,Algarve,313,2025-09-03T07:46:00Z,25936227,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-03T07:46:00Z,Portimão,Faro,Algarve,-8.646358,37.17493,Despacho
