@@ -1,13 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25938614,Santo Quintino,Oeste,311,2025-09-03T15:29:00Z,25938614,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,1,2025-09-03T15:29:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.14746,39.002633,Resolução/Conclusão
-25940308,Alhos Vedros,Península de Setúbal,311,2025-09-03T23:15:00Z,25940308,Em Curso,3103,Incêndio rural,0,4,0,17,2025-09-03T23:15:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.014444,38.65445,Curso
-25940342,Castelo Branco,Beira Baixa,310,2025-09-03T23:24:00Z,25940342,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-09-03T23:24:00Z,Castelo Branco,Castelo Branco,Centro,-7.493703,39.859008,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,47,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25935529,Vermoil,Região de Leiria,310,2025-09-02T22:56:00Z,25935529,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,7,2025-09-02T22:56:00Z,Pombal,Leiria,Centro,-8.673463,39.83745,Resolução/Conclusão
 25938058,Ervedosa,Terras de Trás-os-Montes,309,2025-09-03T13:54:00Z,25938058,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-03T13:54:00Z,Vinhais,Bragança,Norte,-7.088911,41.716671,Resolução/Conclusão
-25940373,Cortiçadas de Lavre e Lavre,Alentejo Central,312,2025-09-03T23:46:00Z,25940373,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-03T23:46:00Z,Montemor-o-Novo,Évora,Alentejo,-8.381612,38.789047,Despacho
+25940373,Cortiçadas de Lavre e Lavre,Alentejo Central,312,2025-09-03T23:46:00Z,25940373,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-03T23:46:00Z,Montemor-o-Novo,Évora,Alentejo,-8.386759,38.825887,Resolução/Conclusão
+25940308,Alhos Vedros,Península de Setúbal,311,2025-09-03T23:15:00Z,25940308,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-03T23:15:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.015055,38.649192,Resolução/Conclusão
 25938856,"Lebução, Fiães e Nozelos",Alto Tâmega e Barroso,309,2025-09-03T16:26:00Z,25938856,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-09-03T16:26:00Z,Valpaços,Vila Real,Norte,-7.231003,41.763182,Resolução/Conclusão
-25940210,Carapinheira,Região de Coimbra,310,2025-09-03T22:36:00Z,25940210,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,9,2025-09-03T22:36:00Z,Montemor-o-Velho,Coimbra,Centro,-8.656261,40.200492,Resolução/Conclusão
-25940279,Nossa Senhora Das Misericórdias,Médio Tejo,311,2025-09-03T23:04:00Z,25940279,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-09-03T23:04:00Z,Ourém,Santarém,Centro,-8.595488,39.623942,Resolução/Conclusão
-25940329,São Teotónio,Alentejo Litoral,312,2025-09-03T23:26:00Z,25940329,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-09-03T23:26:00Z,Odemira,Beja,Alentejo,-8.731885,37.46709,Despacho
+25940329,São Teotónio,Alentejo Litoral,312,2025-09-03T23:26:00Z,25940329,Em Despacho,3103,Incêndio rural,0,6,0,24,2025-09-03T23:26:00Z,Odemira,Beja,Alentejo,-8.731885,37.46709,Despacho
