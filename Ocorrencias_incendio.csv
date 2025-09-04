@@ -1,8 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25942394,Mexilhoeira Grande,Algarve,313,2025-09-04T12:53:00Z,25942394,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-04T12:53:00Z,Portimão,Faro,Algarve,-8.61777,37.20639,Resolução/Conclusão
 25942303,São Pedro e Santa Maria e Vila Boa do Mondego,Beiras e Serra da Estrela,310,2025-09-04T12:34:00Z,25942303,Em Resolução/Conclusão,3103,Incêndio rural,0,16,0,56,2025-09-04T12:34:00Z,Celorico Da Beira,Guarda,Centro,-7.414827,40.63419,Resolução/Conclusão
-25942539,"Pinheiro da Bemposta, Travanca e Palmaz",Area M. Porto,309,2025-09-04T13:22:00Z,25942539,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-09-04T13:22:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.484285,40.790595,Resolução/Conclusão
+25942930,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-09-04T14:48:00Z,25942930,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,11,2025-09-04T14:48:00Z,Beja,Beja,Alentejo,-7.848558,38.004148,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,47,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25941836,Sé e São Lourenço,Alto Alentejo,312,2025-09-04T11:01:00Z,25941836,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,10,2025-09-04T11:01:00Z,Portalegre,Portalegre,Alentejo,-7.443708,39.295695,Resolução/Conclusão
-25942930,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-09-04T14:48:00Z,25942930,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-04T14:48:00Z,Beja,Beja,Alentejo,-7.85327,38.00962,Despacho
