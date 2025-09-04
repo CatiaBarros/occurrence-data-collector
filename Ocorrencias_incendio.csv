@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25942303,São Pedro e Santa Maria e Vila Boa do Mondego,Beiras e Serra da Estrela,310,2025-09-04T12:34:00Z,25942303,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,54,2025-09-04T12:34:00Z,Celorico Da Beira,Guarda,Centro,-7.414827,40.63419,Resolução/Conclusão
-25943152,Poceirão e Marateca,Península de Setúbal,311,2025-09-04T15:31:00Z,25943152,Em Curso,3103,Incêndio rural,0,2,0,7,2025-09-04T15:31:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.72589,38.657017,Curso
+25942303,São Pedro e Santa Maria e Vila Boa do Mondego,Beiras e Serra da Estrela,310,2025-09-04T12:34:00Z,25942303,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,49,2025-09-04T12:34:00Z,Celorico Da Beira,Guarda,Centro,-7.414827,40.63419,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,47,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,1,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25941836,Sé e São Lourenço,Alto Alentejo,312,2025-09-04T11:01:00Z,25941836,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,10,2025-09-04T11:01:00Z,Portalegre,Portalegre,Alentejo,-7.443708,39.295695,Resolução/Conclusão
-25943190,Alvarelhos e Guidões,Area M. Porto,309,2025-09-04T15:43:00Z,25943190,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-04T15:43:00Z,Trofa,Porto,Norte,-8.609605,41.309843,Despacho
+25943190,Alvarelhos e Guidões,Area M. Porto,309,2025-09-04T15:43:00Z,25943190,Em Resolução/Conclusão,3103,Incêndio rural,1,2,0,15,2025-09-04T15:43:00Z,Trofa,Porto,Norte,-8.609605,41.309843,Resolução/Conclusão
+25943152,Poceirão e Marateca,Península de Setúbal,311,2025-09-04T15:31:00Z,25943152,Em Curso,3103,Incêndio rural,0,2,0,7,2025-09-04T15:31:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.72589,38.657017,Curso
+25943319,Vilar de Andorinho,Area M. Porto,309,2025-09-04T16:10:00Z,25943319,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-04T16:10:00Z,Vila Nova De Gaia,Porto,Norte,-8.57418,41.09994,Despacho
+25943279,Arez e Amieira do Tejo,Alto Alentejo,312,2025-09-04T16:10:00Z,25943279,Em Despacho,3103,Incêndio rural,1,11,0,51,2025-09-04T16:10:00Z,Nisa,Portalegre,Alentejo,-7.767524,39.464766,Despacho
