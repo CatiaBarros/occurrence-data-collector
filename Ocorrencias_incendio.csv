@@ -1,11 +1,13 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25943672,Lorvão,Região de Coimbra,310,2025-09-04T17:36:00Z,25943672,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-04T17:36:00Z,Penacova,Coimbra,Centro,-8.3475,40.25917,Resolução/Conclusão
-25946948,Ruivães e Campos,Ave,309,2025-09-05T12:28:00Z,25946948,Em Despacho,3111,Queima,0,2,0,7,2025-09-05T12:28:00Z,Vieira Do Minho,Braga,Norte,-8.049527,41.67618,Despacho
 25946769,Pinhel,Beiras e Serra da Estrela,310,2025-09-05T11:49:00Z,25946769,Em Curso,3103,Incêndio rural,0,1,0,5,2025-09-05T11:49:00Z,Pinhel,Guarda,Centro,-7.031155,40.75991,Curso
-25946958,Figueiredo,Cávado,309,2025-09-05T12:28:00Z,25946958,Em Despacho,3111,Queima,0,1,0,5,2025-09-05T12:28:00Z,Braga,Braga,Norte,-8.443835,41.501861,Despacho
+25946958,Figueiredo,Cávado,309,2025-09-05T12:28:00Z,25946958,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-09-05T12:28:00Z,Braga,Braga,Norte,-8.443835,41.501861,Resolução/Conclusão
+25943672,Lorvão,Região de Coimbra,310,2025-09-04T17:36:00Z,25943672,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-04T17:36:00Z,Penacova,Coimbra,Centro,-8.3475,40.25917,Resolução/Conclusão
+25947082,Revinhade,Tâmega e Sousa,309,2025-09-05T12:57:00Z,25947082,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-05T12:57:00Z,Felgueiras,Porto,Norte,-8.2654,41.34759,Despacho
 25943279,Arez e Amieira do Tejo,Alto Alentejo,312,2025-09-04T16:10:00Z,25943279,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,14,2025-09-04T16:10:00Z,Nisa,Portalegre,Alentejo,-7.764517,39.462882,Resolução/Conclusão
-25946870,Bodiosa,Viseu Dão Lafões,310,2025-09-05T12:06:00Z,25946870,Em Resolução/Conclusão,3103,Incêndio rural,1,8,0,33,2025-09-05T12:06:00Z,Viseu,Viseu,Centro,-7.947848,40.710752,Resolução/Conclusão
-25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,16,0,46,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
+25946870,Bodiosa,Viseu Dão Lafões,310,2025-09-05T12:06:00Z,25946870,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,27,2025-09-05T12:06:00Z,Viseu,Viseu,Centro,-7.947848,40.710752,Resolução/Conclusão
+25947141,"Cambeses do Rio, Donões e Mourilhe",Alto Tâmega e Barroso,309,2025-09-05T13:12:00Z,25947141,Em Despacho,3103,Incêndio rural,2,2,0,22,2025-09-05T13:12:00Z,Montalegre,Vila Real,Norte,-7.847958,41.805685,Despacho
+25947157,Aljubarrota,Oeste,311,2025-09-05T13:15:00Z,25947157,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-05T13:15:00Z,Alcobaça,Leiria,Centro,-8.92867,39.57802,Despacho
+25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,42,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25944501,Setúbal (São Sebastião),Península de Setúbal,311,2025-09-04T21:03:00Z,25944501,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-04T21:03:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.874325,38.52003,Resolução/Conclusão
-25946934,Cabeção,Alentejo Central,312,2025-09-05T12:23:00Z,25946934,Em Curso,3103,Incêndio rural,0,6,0,21,2025-09-05T12:23:00Z,Mora,Évora,Alentejo,-8.0777,38.970109,Curso
+25946934,Cabeção,Alentejo Central,312,2025-09-05T12:23:00Z,25946934,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,21,2025-09-05T12:23:00Z,Mora,Évora,Alentejo,-8.079602,38.969972,Resolução/Conclusão
