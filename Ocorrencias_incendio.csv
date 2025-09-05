@@ -1,11 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25947141,"Cambeses do Rio, Donões e Mourilhe",Alto Tâmega e Barroso,309,2025-09-05T13:12:00Z,25947141,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,32,2025-09-05T13:12:00Z,Montalegre,Vila Real,Norte,-7.847407,41.807238,Resolução/Conclusão
-25948594,Mina de Água,Grande Lisboa,311,2025-09-05T18:00:00Z,25948594,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-09-05T18:00:00Z,Amadora,Lisboa,Área Metropolitana De Lisboa,-9.231529,38.791142,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,40,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25947986,Candemil,Tâmega e Sousa,309,2025-09-05T15:53:00Z,25947986,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,29,2025-09-05T15:53:00Z,Amarante,Porto,Norte,-7.970993,41.252863,Resolução/Conclusão
-25948145,Bodiosa,Viseu Dão Lafões,310,2025-09-05T16:26:00Z,25948145,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,25,2025-09-05T16:26:00Z,Viseu,Viseu,Centro,-8.012553,40.714508,Resolução/Conclusão
+25948145,Bodiosa,Viseu Dão Lafões,310,2025-09-05T16:26:00Z,25948145,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,20,2025-09-05T16:26:00Z,Viseu,Viseu,Centro,-8.012553,40.714508,Resolução/Conclusão
 25943672,Lorvão,Região de Coimbra,310,2025-09-04T17:36:00Z,25943672,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-04T17:36:00Z,Penacova,Coimbra,Centro,-8.3475,40.25917,Resolução/Conclusão
 25948583,Constantim e Vale de Nogueiras,Douro,309,2025-09-05T18:05:00Z,25948583,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-09-05T18:05:00Z,Vila Real,Vila Real,Norte,-7.679983,41.285567,Resolução/Conclusão
+25948769,"Pinheiro da Bemposta, Travanca e Palmaz",Area M. Porto,309,2025-09-05T18:35:00Z,25948769,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-05T18:35:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.468107,40.789674,Resolução/Conclusão
+25948897,Arraiolos,Alentejo Central,312,2025-09-05T19:19:00Z,25948897,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-05T19:19:00Z,Arraiolos,Évora,Alentejo,-7.978027,38.72409,Despacho
+25947141,"Cambeses do Rio, Donões e Mourilhe",Alto Tâmega e Barroso,309,2025-09-05T13:12:00Z,25947141,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,22,2025-09-05T13:12:00Z,Montalegre,Vila Real,Norte,-7.847407,41.807238,Resolução/Conclusão
 25948144,Valongo de Milhais,Douro,309,2025-09-05T16:25:00Z,25948144,Em Curso,3103,Incêndio rural,2,12,0,48,2025-09-05T16:25:00Z,Murça,Vila Real,Norte,-7.412273,41.457142,Curso
-25948769,"Pinheiro da Bemposta, Travanca e Palmaz",Area M. Porto,309,2025-09-05T18:35:00Z,25948769,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-05T18:35:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.468107,40.789674,Despacho
+25948892,Ardãos e Bobadela,Alto Tâmega e Barroso,309,2025-09-05T19:17:00Z,25948892,Em Despacho,3103,Incêndio rural,1,1,0,6,2025-09-05T19:17:00Z,Boticas,Vila Real,Norte,-7.618705,41.732863,Despacho
