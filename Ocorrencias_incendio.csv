@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25948144,Valongo de Milhais,Douro,309,2025-09-05T16:25:00Z,25948144,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-05T16:25:00Z,Murça,Vila Real,Norte,-7.412273,41.457142,Resolução/Conclusão
-25950318,Pegões,Península de Setúbal,311,2025-09-06T06:37:00Z,25950318,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-09-06T06:37:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.69024,38.698287,Resolução/Conclusão
-25950561,Bensafrim e Barão de São João,Algarve,313,2025-09-06T08:17:00Z,25950561,Em Resolução/Conclusão,3103,Incêndio rural,1,4,0,23,2025-09-06T08:17:00Z,Lagos,Faro,Algarve,-8.754393,37.208102,Resolução/Conclusão
-25950879,Ervededo,Alto Tâmega e Barroso,309,2025-09-06T09:34:00Z,25950879,Em Despacho,3103,Incêndio rural,0,2,0,9,2025-09-06T09:34:00Z,Chaves,Vila Real,Norte,-7.54144,41.82666,Despacho
-25950841,Outeiro,Alto Tâmega e Barroso,309,2025-09-06T09:23:00Z,25950841,Em Curso,3103,Incêndio rural,1,3,0,21,2025-09-06T09:23:00Z,Montalegre,Vila Real,Norte,-7.94259,41.79656,Curso
+25950318,Pegões,Península de Setúbal,311,2025-09-06T06:37:00Z,25950318,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-09-06T06:37:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.69024,38.698287,Resolução/Conclusão
+25950561,Bensafrim e Barão de São João,Algarve,313,2025-09-06T08:17:00Z,25950561,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-09-06T08:17:00Z,Lagos,Faro,Algarve,-8.754393,37.208102,Resolução/Conclusão
+25950841,Outeiro,Alto Tâmega e Barroso,309,2025-09-06T09:23:00Z,25950841,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T09:23:00Z,Montalegre,Vila Real,Norte,-7.94259,41.79656,Resolução/Conclusão
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Despacho,3103,Incêndio rural,2,12,0,62,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.77138,40.3557,Despacho
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,40,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
-25951064,"Soeira, Fresulfe e Mofreita",Terras de Trás-os-Montes,309,2025-09-06T10:05:00Z,25951064,Em Despacho,3103,Incêndio rural,1,4,0,23,2025-09-06T10:05:00Z,Vinhais,Bragança,Norte,-6.9127,41.91557,Despacho
+25951064,"Soeira, Fresulfe e Mofreita",Terras de Trás-os-Montes,309,2025-09-06T10:05:00Z,25951064,Em Curso,3103,Incêndio rural,2,8,0,36,2025-09-06T10:05:00Z,Vinhais,Bragança,Norte,-6.971422,41.966033,Curso
