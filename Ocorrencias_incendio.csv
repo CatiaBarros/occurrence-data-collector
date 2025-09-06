@@ -1,8 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25948144,Valongo de Milhais,Douro,309,2025-09-05T16:25:00Z,25948144,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,17,2025-09-05T16:25:00Z,Murça,Vila Real,Norte,-7.412273,41.457142,Resolução/Conclusão
-25950027,São Teotónio,Alentejo Litoral,312,2025-09-06T02:08:00Z,25950027,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-06T02:08:00Z,Odemira,Beja,Alentejo,-8.760133,37.47463,Despacho
-25950050,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-09-06T02:28:00Z,25950050,Em Despacho,3103,Incêndio rural,0,3,0,9,2025-09-06T02:28:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.14069,38.85617,Despacho
+25948144,Valongo de Milhais,Douro,309,2025-09-05T16:25:00Z,25948144,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-09-05T16:25:00Z,Murça,Vila Real,Norte,-7.412273,41.457142,Resolução/Conclusão
+25950027,São Teotónio,Alentejo Litoral,312,2025-09-06T02:08:00Z,25950027,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-09-06T02:08:00Z,Odemira,Beja,Alentejo,-8.75322,37.469275,Resolução/Conclusão
 25949143,Outeiro,Alto Tâmega e Barroso,309,2025-09-05T20:13:00Z,25949143,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-05T20:13:00Z,Montalegre,Vila Real,Norte,-7.949683,41.802473,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,40,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
-25950035,Vila Nova de São Bento e Vale de Vargo,Baixo Alentejo,312,2025-09-06T02:08:00Z,25950035,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-09-06T02:08:00Z,Serpa,Beja,Alentejo,-7.405413,37.900446,Resolução/Conclusão
