@@ -1,17 +1,22 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25952099,Almancil,Algarve,313,2025-09-06T13:37:00Z,25952099,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-09-06T13:37:00Z,Faro,Faro,Algarve,-7.969985,37.084469,Resolução/Conclusão
-25952617,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-09-06T15:26:00Z,25952617,Em Curso,3101,Incêndio rural,3,18,0,73,2025-09-06T15:26:00Z,Aveiro,Aveiro,Centro,-8.576895,40.591837,Curso
-25952810,Luzim e Vila Cova,Tâmega e Sousa,309,2025-09-06T16:13:00Z,25952810,Em Despacho,3101,Incêndio rural,1,0,0,1,2025-09-06T16:13:00Z,Penafiel,Porto,Norte,-8.23573,41.16431,Despacho
+25952671,Gavião,Ave,309,2025-09-06T15:37:00Z,25952671,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-09-06T15:37:00Z,Vila Nova De Famalicão,Braga,Norte,-8.502408,41.420665,Resolução/Conclusão
+25952706,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-09-06T15:47:00Z,25952706,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-06T15:47:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.179022,38.599895,Resolução/Conclusão
+25952756,Eixo e Eirol,Região de Aveiro,310,2025-09-06T15:54:00Z,25952756,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-09-06T15:54:00Z,Aveiro,Aveiro,Centro,-8.564536,40.629276,Resolução/Conclusão
+25952921,Numão,Douro,309,2025-09-06T16:36:00Z,25952921,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-06T16:36:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.280361,41.08938,Despacho
+25952939,Este (São Pedro e São Mamede),Cávado,309,2025-09-06T16:40:00Z,25952939,Em Despacho,3111,Queima,0,2,0,6,2025-09-06T16:40:00Z,Braga,Braga,Norte,-8.35992,41.57349,Despacho
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,40,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
 25951064,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-09-06T10:05:00Z,25951064,Em Resolução/Conclusão,3103,Incêndio rural,8,14,0,51,2025-09-06T10:05:00Z,Vinhais,Bragança,Norte,-6.971422,41.966033,Resolução/Conclusão
-25951457,Vila Cã,Região de Leiria,310,2025-09-06T11:25:00Z,25951457,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,52,2025-09-06T11:25:00Z,Pombal,Leiria,Centro,-8.56078,39.851197,Resolução/Conclusão
+25951457,Vila Cã,Região de Leiria,310,2025-09-06T11:25:00Z,25951457,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,51,2025-09-06T11:25:00Z,Pombal,Leiria,Centro,-8.56078,39.851197,Resolução/Conclusão
 25952314,Oliveira do Douro,Area M. Porto,309,2025-09-06T14:18:00Z,25952314,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-09-06T14:18:00Z,Vila Nova De Gaia,Porto,Norte,-8.588902,41.132377,Resolução/Conclusão
-25952671,Gavião,Ave,309,2025-09-06T15:37:00Z,25952671,Em Curso,3103,Incêndio rural,0,4,0,14,2025-09-06T15:37:00Z,Vila Nova De Famalicão,Braga,Norte,-8.502408,41.420665,Curso
-25952706,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-09-06T15:47:00Z,25952706,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-06T15:47:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.179022,38.599895,Resolução/Conclusão
-25952756,Eixo e Eirol,Região de Aveiro,310,2025-09-06T15:54:00Z,25952756,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-09-06T15:54:00Z,Aveiro,Aveiro,Centro,-8.564536,40.629276,Despacho
-25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Curso,3103,Incêndio rural,16,139,0,481,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Curso
-25951795,São Bento do Mato,Alentejo Central,312,2025-09-06T12:34:00Z,25951795,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,57,2025-09-06T12:34:00Z,Évora,Évora,Alentejo,-7.770928,38.689508,Resolução/Conclusão
-25951945,Remelhe,Cávado,309,2025-09-06T13:04:00Z,25951945,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-06T13:04:00Z,Barcelos,Braga,Norte,-8.607903,41.475878,Resolução/Conclusão
-25952160,Santa Catarina,Oeste,311,2025-09-06T13:50:00Z,25952160,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,40,2025-09-06T13:50:00Z,Caldas Da Rainha,Leiria,Centro,-9.008811,39.429874,Resolução/Conclusão
+25952099,Almancil,Algarve,313,2025-09-06T13:37:00Z,25952099,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-09-06T13:37:00Z,Faro,Faro,Algarve,-7.969985,37.084469,Resolução/Conclusão
+25952617,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-09-06T15:26:00Z,25952617,Em Curso,3101,Incêndio rural,3,21,0,82,2025-09-06T15:26:00Z,Aveiro,Aveiro,Centro,-8.576895,40.591837,Curso
+25952810,Luzim e Vila Cova,Tâmega e Sousa,309,2025-09-06T16:13:00Z,25952810,Em Despacho,3101,Incêndio rural,1,9,0,38,2025-09-06T16:13:00Z,Penafiel,Porto,Norte,-8.23573,41.16431,Despacho
+25952858,Mata de Lobos,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Curso,3103,Incêndio rural,2,6,0,34,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.900359,40.89974,Curso
+25952860,Almeirim,Lezíria do Tejo,311,2025-09-06T16:22:00Z,25952860,Em Resolução/Conclusão,3103,Incêndio rural,2,8,0,44,2025-09-06T16:22:00Z,Almeirim,Santarém,Alentejo,-8.64052,39.153487,Resolução/Conclusão
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Curso,3103,Incêndio rural,14,142,0,490,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Curso
+25951795,São Bento do Mato,Alentejo Central,312,2025-09-06T12:34:00Z,25951795,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,54,2025-09-06T12:34:00Z,Évora,Évora,Alentejo,-7.770928,38.689508,Resolução/Conclusão
+25952160,Santa Catarina,Oeste,311,2025-09-06T13:50:00Z,25952160,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,33,2025-09-06T13:50:00Z,Caldas Da Rainha,Leiria,Centro,-9.008811,39.429874,Resolução/Conclusão
 25952612,Aradas,Região de Aveiro,310,2025-09-06T15:25:00Z,25952612,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,13,2025-09-06T15:25:00Z,Aveiro,Aveiro,Centro,-8.62594,40.595097,Resolução/Conclusão
+25952913,São Joaninho,Viseu Dão Lafões,310,2025-09-06T16:32:00Z,25952913,Em Despacho,3103,Incêndio rural,1,5,0,27,2025-09-06T16:32:00Z,Santa Comba Dão,Viseu,Centro,-8.126905,40.445835,Despacho
+25952915,Tavira (Santa Maria e Santiago),Algarve,313,2025-09-06T16:39:00Z,25952915,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-06T16:39:00Z,Tavira,Faro,Algarve,-7.69144,37.17138,Despacho
