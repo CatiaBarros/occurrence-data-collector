@@ -1,11 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
+25961053,Santo António de Monforte,Alto Tâmega e Barroso,309,2025-09-08T13:20:00Z,25961053,Em Curso,3103,Incêndio rural,0,71,0,220,2025-09-08T13:20:00Z,Chaves,Vila Real,Norte,-7.339083,41.787585,Curso
+25962908,Vale da Porca,Terras de Trás-os-Montes,309,2025-09-08T20:13:00Z,25962908,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-08T20:13:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.91072,41.51823,Despacho
+25961645,Marmelete,Algarve,313,2025-09-08T15:20:00Z,25961645,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-09-08T15:20:00Z,Monchique,Faro,Algarve,-8.72393,37.23772,Resolução/Conclusão
+25962497,NA,NA,0,2025-09-08T18:29:00Z,25962497,Em Curso,3103,Incêndio rural,0,1,0,5,2025-09-08T18:29:00Z,NA,NA,NA,-6.991377,41.979578,Curso
+25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,41,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
+25962550,Luzim e Vila Cova,Tâmega e Sousa,309,2025-09-08T18:38:00Z,25962550,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-09-08T18:38:00Z,Penafiel,Porto,Norte,-8.232463,41.163853,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,41,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25840417,Lousã e Vilarinho,Região de Coimbra,310,2025-08-14T13:46:00Z,25840417,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-08-14T13:46:00Z,Lousã,Coimbra,Centro,-8.201561,40.080016,Resolução/Conclusão
-25962760,São Brás de Alportel,Algarve,313,2025-09-08T19:35:00Z,25962760,Em Curso,3103,Incêndio rural,0,4,0,15,2025-09-08T19:35:00Z,São Brás De Alportel,Faro,Algarve,-7.85536,37.15474,Curso
-25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,36,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
-25962550,Luzim e Vila Cova,Tâmega e Sousa,309,2025-09-08T18:38:00Z,25962550,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-09-08T18:38:00Z,Penafiel,Porto,Norte,-8.232463,41.163853,Resolução/Conclusão
-25961645,Marmelete,Algarve,313,2025-09-08T15:20:00Z,25961645,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,25,2025-09-08T15:20:00Z,Monchique,Faro,Algarve,-8.72393,37.23772,Resolução/Conclusão
-25962396,Forjães,Cávado,309,2025-09-08T18:14:00Z,25962396,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-09-08T18:14:00Z,Esposende,Braga,Norte,-8.743495,41.614178,Resolução/Conclusão
-25962497,NA,NA,0,2025-09-08T18:29:00Z,25962497,Em Curso,3103,Incêndio rural,0,1,0,5,2025-09-08T18:29:00Z,NA,NA,NA,-6.991377,41.979578,Curso
-25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-25961053,Santo António de Monforte,Alto Tâmega e Barroso,309,2025-09-08T13:20:00Z,25961053,Em Curso,3103,Incêndio rural,0,65,0,202,2025-09-08T13:20:00Z,Chaves,Vila Real,Norte,-7.339083,41.787585,Curso
+25962760,São Brás de Alportel,Algarve,313,2025-09-08T19:35:00Z,25962760,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,15,2025-09-08T19:35:00Z,São Brás De Alportel,Faro,Algarve,-7.85536,37.15474,Resolução/Conclusão
