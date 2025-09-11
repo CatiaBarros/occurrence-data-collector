@@ -1,7 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25910698,Nogueira e Silva Escura,Area M. Porto,309,2025-08-28T13:06:00Z,25910698,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-08-28T13:06:00Z,Maia,Porto,Norte,-8.588632,41.238505,Resolução/Conclusão
-25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-25974513,Macinhata do Vouga,Região de Aveiro,310,2025-09-11T11:14:00Z,25974513,Em Despacho,3111,Queima,0,0,0,0,2025-09-11T11:14:00Z,Águeda,Aveiro,Centro,-8.45781,40.66779,Despacho
-25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,41,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25973249,Seiça,Médio Tejo,311,2025-09-11T05:33:00Z,25973249,Em Resolução/Conclusão,3111,Queima,0,0,0,0,2025-09-11T05:33:00Z,Ourém,Santarém,Centro,-8.517263,39.688323,Resolução/Conclusão
+25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
+25974570,Milharado,Grande Lisboa,311,2025-09-11T11:20:00Z,25974570,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-09-11T11:20:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.195476,38.94824,Resolução/Conclusão
+25974513,Macinhata do Vouga,Região de Aveiro,310,2025-09-11T11:14:00Z,25974513,Em Resolução/Conclusão,3111,Queima,0,1,0,2,2025-09-11T11:14:00Z,Águeda,Aveiro,Centro,-8.45781,40.66779,Resolução/Conclusão
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
