@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
+25975592,Sátão,Viseu Dão Lafões,310,2025-09-11T14:44:00Z,25975592,Em Curso,3111,Queima,0,2,0,6,2025-09-11T14:44:00Z,Sátão,Viseu,Centro,-7.737442,40.754315,Curso
 25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
 25791926,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-08-05T18:59:00Z,25791926,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-05T18:59:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.496356,40.954077,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,14,0,41,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25973249,Seiça,Médio Tejo,311,2025-09-11T05:33:00Z,25973249,Em Resolução/Conclusão,3111,Queima,0,0,0,0,2025-09-11T05:33:00Z,Ourém,Santarém,Centro,-8.517263,39.688323,Resolução/Conclusão
-25975396,Moldes,Area M. Porto,309,2025-09-11T14:10:00Z,25975396,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-09-11T14:10:00Z,Arouca,Aveiro,Norte,-8.217855,40.90536,Resolução/Conclusão
-25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-25975494,Alcains,Beira Baixa,310,2025-09-11T14:33:00Z,25975494,Em Curso,3103,Incêndio rural,1,12,0,49,2025-09-11T14:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.425406,39.9276,Curso
+25975494,Alcains,Beira Baixa,310,2025-09-11T14:33:00Z,25975494,Em Curso,3103,Incêndio rural,3,17,0,68,2025-09-11T14:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.422328,39.89077,Curso
