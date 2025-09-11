@@ -1,9 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-25976260,Olivais,Grande Lisboa,311,2025-09-11T16:49:00Z,25976260,Em Despacho,3105,Incêndio rural,0,1,0,2,2025-09-11T16:49:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.098474,38.769832,Despacho
-25976218,Urrô,Area M. Porto,309,2025-09-11T17:02:00Z,25976218,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-09-11T17:02:00Z,Arouca,Aveiro,Norte,-8.292297,40.92637,Resolução/Conclusão
+25976327,Lamas e Cercal,Oeste,311,2025-09-11T17:21:00Z,25976327,Em Resolução/Conclusão,3111,Queima,0,3,0,9,2025-09-11T17:21:00Z,Cadaval,Lisboa,Centro,-9.067726,39.232164,Resolução/Conclusão
 25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
-25976147,"Pinheiro da Bemposta, Travanca e Palmaz",Area M. Porto,309,2025-09-11T16:45:00Z,25976147,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-09-11T16:45:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.468107,40.789674,Resolução/Conclusão
+25976147,"Pinheiro da Bemposta, Travanca e Palmaz",Area M. Porto,309,2025-09-11T16:45:00Z,25976147,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-11T16:45:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.468107,40.789674,Resolução/Conclusão
+25976218,Urrô,Area M. Porto,309,2025-09-11T17:02:00Z,25976218,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-09-11T17:02:00Z,Arouca,Aveiro,Norte,-8.292297,40.92637,Resolução/Conclusão
 25791926,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-08-05T18:59:00Z,25791926,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-05T18:59:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.496356,40.954077,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,13,0,36,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25975494,Escalos de Baixo e Mata,Beira Baixa,310,2025-09-11T14:33:00Z,25975494,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,62,2025-09-11T14:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.422328,39.890777,Resolução/Conclusão
+25976364,Vidais,Oeste,311,2025-09-11T17:36:00Z,25976364,Em Despacho,3101,Incêndio rural,1,7,0,35,2025-09-11T17:36:00Z,Caldas Da Rainha,Leiria,Centro,-9.04566,39.35542,Despacho
