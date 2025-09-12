@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
-25979498,Mundão,Viseu Dão Lafões,310,2025-09-12T12:15:00Z,25979498,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,11,2025-09-12T12:15:00Z,Viseu,Viseu,Centro,-7.882108,40.694785,Resolução/Conclusão
+25980034,Medelim,Beira Baixa,310,2025-09-12T14:12:00Z,25980034,Em Despacho,3103,Incêndio rural,2,15,0,65,2025-09-12T14:12:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.189781,40.048097,Despacho
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-25978885,Miuzela e Porto de Ovelha,Beiras e Serra da Estrela,310,2025-09-12T10:16:00Z,25978885,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-09-12T10:16:00Z,Almeida,Guarda,Centro,-7.005778,40.505032,Resolução/Conclusão
-25791926,Caldas de São Jorge e Pigeiros,Area M. Porto,309,2025-08-05T18:59:00Z,25791926,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-05T18:59:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.496356,40.954077,Resolução/Conclusão
+25980003,Chavães,Douro,309,2025-09-12T14:00:00Z,25980003,Em Curso,3103,Incêndio rural,1,4,0,26,2025-09-12T14:00:00Z,Tabuaço,Viseu,Norte,-7.553368,41.096233,Curso
+25979861,Campo e Sobrado,Area M. Porto,309,2025-09-12T13:40:00Z,25979861,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-12T13:40:00Z,Valongo,Porto,Norte,-8.461453,41.198478,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,13,0,36,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
+25979733,Montijo e Afonsoeiro,Península de Setúbal,311,2025-09-12T13:14:00Z,25979733,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,10,2025-09-12T13:14:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.966198,38.7037,Resolução/Conclusão
+25979976,Vilar de Maçada,Douro,309,2025-09-12T14:02:00Z,25979976,Em Resolução/Conclusão,3103,Incêndio rural,1,5,0,26,2025-09-12T14:02:00Z,Alijó,Vila Real,Norte,-7.5598,41.30608,Resolução/Conclusão
