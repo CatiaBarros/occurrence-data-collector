@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25952858,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,310,2025-09-06T16:22:00Z,25952858,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-06T16:22:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.934648,40.906778,Resolução/Conclusão
-25980034,Medelim,Beira Baixa,310,2025-09-12T14:12:00Z,25980034,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,29,2025-09-12T14:12:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.18952,40.048882,Resolução/Conclusão
+25980034,Medelim,Beira Baixa,310,2025-09-12T14:12:00Z,25980034,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,24,2025-09-12T14:12:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.18952,40.048882,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,13,0,36,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
-25979976,Vilar de Maçada,Douro,309,2025-09-12T14:02:00Z,25979976,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,12,2025-09-12T14:02:00Z,Alijó,Vila Real,Norte,-7.557988,41.30626,Resolução/Conclusão
-25980160,Carregal,Douro,309,2025-09-12T14:33:00Z,25980160,Em Despacho,3103,Incêndio rural,1,3,0,21,2025-09-12T14:33:00Z,Sernancelhe,Viseu,Norte,-7.56384,40.90134,Despacho
+25979976,Vilar de Maçada,Douro,309,2025-09-12T14:02:00Z,25979976,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-09-12T14:02:00Z,Alijó,Vila Real,Norte,-7.557988,41.30626,Resolução/Conclusão
+25980160,Carregal,Douro,309,2025-09-12T14:33:00Z,25980160,Em Resolução/Conclusão,3103,Incêndio rural,1,3,0,21,2025-09-12T14:33:00Z,Sernancelhe,Viseu,Norte,-7.565793,40.906512,Resolução/Conclusão
+25980351,Alvão,Alto Tâmega e Barroso,309,2025-09-12T15:13:00Z,25980351,Em Despacho,3103,Incêndio rural,2,2,0,22,2025-09-12T15:13:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.729471,41.510017,Despacho
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-25980003,Chavães,Douro,309,2025-09-12T14:05:00Z,25980003,Em Curso,3103,Incêndio rural,1,4,0,26,2025-09-12T14:05:00Z,Tabuaço,Viseu,Norte,-7.553368,41.096233,Curso
-25979861,Campo e Sobrado,Area M. Porto,309,2025-09-12T13:40:00Z,25979861,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-12T13:40:00Z,Valongo,Porto,Norte,-8.461453,41.198478,Resolução/Conclusão
-25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Despacho,3103,Incêndio rural,1,5,0,27,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.567441,41.40154,Despacho
+25980003,Chavães,Douro,309,2025-09-12T14:05:00Z,25980003,Em Curso,3103,Incêndio rural,1,6,0,29,2025-09-12T14:05:00Z,Tabuaço,Viseu,Norte,-7.553368,41.096233,Curso
+25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Curso,3103,Incêndio rural,3,11,0,53,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Curso
