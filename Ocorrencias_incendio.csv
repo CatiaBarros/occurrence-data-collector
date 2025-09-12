@@ -1,8 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Curso,3103,Incêndio rural,0,82,0,271,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Curso
+25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Curso,3103,Incêndio rural,0,83,0,273,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Curso
 25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,58,0,183,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
-25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,13,0,36,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 25980003,Chavães,Douro,309,2025-09-12T14:05:00Z,25980003,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,14,2025-09-12T14:05:00Z,Tabuaço,Viseu,Norte,-7.553368,41.096233,Resolução/Conclusão
-25981808,"Avidagos, Navalho e Pereira",Terras de Trás-os-Montes,309,2025-09-12T20:38:00Z,25981808,Em Curso,3103,Incêndio rural,0,18,0,61,2025-09-12T20:38:00Z,Mirandela,Bragança,Norte,-7.295047,41.387026,Curso
-25982225,Alcabideche,Grande Lisboa,311,2025-09-12T22:35:00Z,25982225,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-12T22:35:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.38505,38.72375,Despacho
+25981808,"Avidagos, Navalho e Pereira",Terras de Trás-os-Montes,309,2025-09-12T20:38:00Z,25981808,Em Curso,3103,Incêndio rural,0,19,0,62,2025-09-12T20:38:00Z,Mirandela,Bragança,Norte,-7.295047,41.387026,Curso
