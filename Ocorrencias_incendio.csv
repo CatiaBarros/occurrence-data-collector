@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25982424,Pombal,Região de Leiria,310,2025-09-12T23:52:00Z,25982424,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,9,2025-09-12T23:52:00Z,Pombal,Leiria,Centro,-8.63007,39.886037,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,59,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 25981808,"Avidagos, Navalho e Pereira",Terras de Trás-os-Montes,309,2025-09-12T20:38:00Z,25981808,Em Resolução/Conclusão,3103,Incêndio rural,0,19,0,62,2025-09-12T20:38:00Z,Mirandela,Bragança,Norte,-7.264448,41.359912,Resolução/Conclusão
-25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Curso,3103,Incêndio rural,0,84,0,275,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Curso
-25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,58,0,183,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
+25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Curso,3103,Incêndio rural,0,83,0,271,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Curso
+25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,56,0,173,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
