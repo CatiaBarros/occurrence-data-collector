@@ -1,11 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,0,107,0,324,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
+25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,16,0,48,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
+25986699,Romeira e Várzea,Lezíria do Tejo,311,2025-09-13T22:44:00Z,25986699,Em Despacho,3103,Incêndio rural,0,3,0,9,2025-09-13T22:44:00Z,Santarém,Santarém,Alentejo,-8.733206,39.253286,Despacho
+25986702,Ílhavo (São Salvador),Região de Aveiro,310,2025-09-13T22:46:00Z,25986702,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-13T22:46:00Z,Ílhavo,Aveiro,Centro,-8.66236,40.59571,Despacho
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,52,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 25986105,Alhos Vedros,Península de Setúbal,311,2025-09-13T19:50:00Z,25986105,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-13T19:50:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.019238,38.650463,Resolução/Conclusão
-25986273,Quelfes,Algarve,313,2025-09-13T20:33:00Z,25986273,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-09-13T20:33:00Z,Olhão,Faro,Algarve,-7.820507,37.058941,Resolução/Conclusão
+25986273,Quelfes,Algarve,313,2025-09-13T20:33:00Z,25986273,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,4,2025-09-13T20:33:00Z,Olhão,Faro,Algarve,-7.820507,37.058941,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25984495,São Salvador da Aramenha,Alto Alentejo,312,2025-09-13T13:28:00Z,25984495,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,14,2025-09-13T13:28:00Z,Marvão,Portalegre,Alentejo,-7.39094,39.36988,Resolução/Conclusão
-25986510,Ameixial,Algarve,313,2025-09-13T21:41:00Z,25986510,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-09-13T21:41:00Z,Loulé,Faro,Algarve,-7.944481,37.392586,Resolução/Conclusão
-25986610,São Pedro de Castelões,Area M. Porto,309,2025-09-13T22:05:00Z,25986610,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-09-13T22:05:00Z,Vale De Cambra,Aveiro,Norte,-8.39388,40.815821,Despacho
-25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,0,106,0,327,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
-25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,17,0,50,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
-25984607,Vascoveiro,Beiras e Serra da Estrela,310,2025-09-13T13:54:00Z,25984607,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-13T13:54:00Z,Pinhel,Guarda,Centro,-7.080513,40.72261,Resolução/Conclusão
+25986510,Ameixial,Algarve,313,2025-09-13T21:41:00Z,25986510,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-09-13T21:41:00Z,Loulé,Faro,Algarve,-7.945823,37.391552,Resolução/Conclusão
+25986610,São Pedro de Castelões,Area M. Porto,309,2025-09-13T22:05:00Z,25986610,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-09-13T22:05:00Z,Vale De Cambra,Aveiro,Norte,-8.39388,40.815821,Resolução/Conclusão
