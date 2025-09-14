@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-25988309,Repeses e São Salvador,Viseu Dão Lafões,310,2025-09-14T10:35:00Z,25988309,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-09-14T10:35:00Z,Viseu,Viseu,Centro,-7.951107,40.636983,Resolução/Conclusão
+25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,2,89,0,262,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
+25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,17,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
+25988401,Colares,Grande Lisboa,311,2025-09-14T10:45:00Z,25988401,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,8,2025-09-14T10:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.480392,38.802581000000004,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25984495,São Salvador da Aramenha,Alto Alentejo,312,2025-09-13T13:28:00Z,25984495,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,9,2025-09-13T13:28:00Z,Marvão,Portalegre,Alentejo,-7.39094,39.36988,Resolução/Conclusão
-25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,2,89,0,262,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
-25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,13,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
-25988401,Colares,Grande Lisboa,311,2025-09-14T10:45:00Z,25988401,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,8,2025-09-14T10:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.474937,38.81512,Resolução/Conclusão
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
+25988309,Repeses e São Salvador,Viseu Dão Lafões,310,2025-09-14T10:35:00Z,25988309,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-09-14T10:35:00Z,Viseu,Viseu,Centro,-7.951107,40.636983,Resolução/Conclusão
