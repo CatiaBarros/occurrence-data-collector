@@ -1,12 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,1,18,0,64,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
-25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
-25994117,Fortios,Alto Alentejo,312,2025-09-15T14:38:00Z,25994117,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-15T14:38:00Z,Portalegre,Portalegre,Alentejo,-7.470015,39.279328,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 25989064,Vila de Rei,Beira Baixa,310,2025-09-14T13:32:00Z,25989064,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-09-14T13:32:00Z,Vila De Rei,Castelo Branco,Centro,-8.152412,39.660802,Resolução/Conclusão
 26001447,Pelmá,Região de Leiria,310,2025-09-17T02:13:00Z,26001447,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-09-17T02:13:00Z,Alvaiázere,Leiria,Centro,-8.425235,39.797637,Resolução/Conclusão
+26002294,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-09-17T09:14:00Z,26002294,Em Despacho,3103,Incêndio rural,1,1,0,11,2025-09-17T09:14:00Z,Évora,Évora,Alentejo,-7.918509,38.549701,Despacho
+25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,1,18,0,64,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
+25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
+25994117,Fortios,Alto Alentejo,312,2025-09-15T14:38:00Z,25994117,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-15T14:38:00Z,Portalegre,Portalegre,Alentejo,-7.470015,39.279328,Resolução/Conclusão
+26002242,Tabuaço,Douro,309,2025-09-17T09:00:00Z,26002242,Em Curso,3103,Incêndio rural,0,1,0,5,2025-09-17T09:00:00Z,Tabuaço,Viseu,Norte,-7.569946,41.117674,Curso
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25989850,Povolide,Viseu Dão Lafões,310,2025-09-14T16:49:00Z,25989850,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,1,2025-09-14T16:49:00Z,Viseu,Viseu,Centro,-7.785413,40.67811,Resolução/Conclusão
 26001727,Travancas e Roriz,Alto Tâmega e Barroso,309,2025-09-17T06:54:00Z,26001727,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-17T06:54:00Z,Chaves,Vila Real,Norte,-7.308297,41.8165,Resolução/Conclusão
-26001968,Castelo Branco,Beira Baixa,310,2025-09-17T08:02:00Z,26001968,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-09-17T08:02:00Z,Castelo Branco,Castelo Branco,Centro,-7.485693,39.734008,Resolução/Conclusão
-26002070,Malpica do Tejo,Beira Baixa,310,2025-09-17T08:33:00Z,26002070,Em Despacho,3103,Incêndio rural,1,10,0,44,2025-09-17T08:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.463137,39.735092,Despacho
+26001968,Castelo Branco,Beira Baixa,310,2025-09-17T08:02:00Z,26001968,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-09-17T08:02:00Z,Castelo Branco,Castelo Branco,Centro,-7.473707,39.724895,Resolução/Conclusão
+26002070,Malpica do Tejo,Beira Baixa,310,2025-09-17T08:33:00Z,26002070,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,24,2025-09-17T08:33:00Z,Castelo Branco,Castelo Branco,Centro,-7.463137,39.735092,Resolução/Conclusão
