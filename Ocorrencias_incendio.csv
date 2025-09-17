@@ -1,16 +1,19 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
-26005535,Santa Eulália,Ave,309,2025-09-17T20:04:00Z,26005535,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-09-17T20:04:00Z,Vizela,Braga,Norte,-8.2858,41.34991,Despacho
-26003298,Barreiros e Cepões,Viseu Dão Lafões,310,2025-09-17T12:05:00Z,26003298,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-09-17T12:05:00Z,Viseu,Viseu,Centro,-7.825281,40.745844,Resolução/Conclusão
-26003755,Meixedo e Padornelos,Alto Tâmega e Barroso,309,2025-09-17T13:43:00Z,26003755,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-09-17T13:43:00Z,Montalegre,Vila Real,Norte,-7.732032,41.871064,Resolução/Conclusão
-26005577,Alcochete,Península de Setúbal,311,2025-09-17T20:06:00Z,26005577,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-17T20:06:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.962464,38.749259,Despacho
-25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,58,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
+25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,57,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
 25980930,Santo André Das Tojeiras,Beira Baixa,310,2025-09-12T17:08:00Z,25980930,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-12T17:08:00Z,Castelo Branco,Castelo Branco,Centro,-7.72701,39.809058,Resolução/Conclusão
 25994117,Fortios,Alto Alentejo,312,2025-09-15T14:38:00Z,25994117,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-15T14:38:00Z,Portalegre,Portalegre,Alentejo,-7.470015,39.279328,Resolução/Conclusão
-26004931,Molelos,Viseu Dão Lafões,310,2025-09-17T17:41:00Z,26004931,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,3,2025-09-17T17:41:00Z,Tondela,Viseu,Centro,-8.0989,40.521118,Resolução/Conclusão
+26004931,Molelos,Viseu Dão Lafões,310,2025-09-17T17:41:00Z,26004931,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-09-17T17:41:00Z,Tondela,Viseu,Centro,-8.0989,40.521118,Resolução/Conclusão
+26005668,Pedome,Ave,309,2025-09-17T20:37:00Z,26005668,Em Despacho,3105,Incêndio rural,0,0,0,0,2025-09-17T20:37:00Z,Vila Nova De Famalicão,Braga,Norte,-8.39556,41.41586,Despacho
+26005681,Caldas de Vizela (São Miguel e São João),Ave,309,2025-09-17T20:39:00Z,26005681,Em Despacho,3105,Incêndio rural,0,1,0,4,2025-09-17T20:39:00Z,Vizela,Braga,Norte,-8.309205,41.375526,Despacho
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,20,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 25989064,Vila de Rei,Beira Baixa,310,2025-09-14T13:32:00Z,25989064,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-09-14T13:32:00Z,Vila De Rei,Castelo Branco,Centro,-8.152412,39.660802,Resolução/Conclusão
-26001447,Pelmá,Região de Leiria,310,2025-09-17T02:13:00Z,26001447,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-09-17T02:13:00Z,Alvaiázere,Leiria,Centro,-8.425235,39.797637,Resolução/Conclusão
-26003954,Repeses e São Salvador,Viseu Dão Lafões,310,2025-09-17T14:20:00Z,26003954,Em Resolução/Conclusão,3103,Incêndio rural,0,20,0,63,2025-09-17T14:20:00Z,Viseu,Viseu,Centro,-7.95257,40.644483,Resolução/Conclusão
+26001447,Pelmá,Região de Leiria,310,2025-09-17T02:13:00Z,26001447,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-09-17T02:13:00Z,Alvaiázere,Leiria,Centro,-8.425235,39.797637,Resolução/Conclusão
+26003954,Repeses e São Salvador,Viseu Dão Lafões,310,2025-09-17T14:20:00Z,26003954,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,52,2025-09-17T14:20:00Z,Viseu,Viseu,Centro,-7.95257,40.644483,Resolução/Conclusão
 26004954,Sesimbra (Castelo),Península de Setúbal,311,2025-09-17T17:37:00Z,26004954,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-09-17T17:37:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.133137,38.443725,Resolução/Conclusão
-26005422,Soajo,Alto Minho,309,2025-09-17T19:26:00Z,26005422,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,19,2025-09-17T19:26:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.262957,41.928234,Resolução/Conclusão
+26005422,Soajo,Alto Minho,309,2025-09-17T19:26:00Z,26005422,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-09-17T19:26:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.262957,41.928234,Resolução/Conclusão
+26003298,Barreiros e Cepões,Viseu Dão Lafões,310,2025-09-17T12:05:00Z,26003298,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-09-17T12:05:00Z,Viseu,Viseu,Centro,-7.825281,40.745844,Resolução/Conclusão
+26003755,Meixedo e Padornelos,Alto Tâmega e Barroso,309,2025-09-17T13:43:00Z,26003755,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-09-17T13:43:00Z,Montalegre,Vila Real,Norte,-7.732032,41.871064,Resolução/Conclusão
+26005577,Alcochete,Península de Setúbal,311,2025-09-17T20:06:00Z,26005577,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-09-17T20:06:00Z,Alcochete,Setúbal,Área Metropolitana De Lisboa,-8.962464,38.749259,Resolução/Conclusão
+26005620,Ferreiras,Algarve,313,2025-09-17T20:25:00Z,26005620,Em Despacho,3103,Incêndio rural,0,5,0,18,2025-09-17T20:25:00Z,Albufeira,Faro,Algarve,-8.24221,37.119669,Despacho
+25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
+26005535,Santa Eulália,Ave,309,2025-09-17T20:04:00Z,26005535,Em Curso,3103,Incêndio rural,0,4,0,14,2025-09-17T20:04:00Z,Vizela,Braga,Norte,-8.2858,41.34991,Curso
