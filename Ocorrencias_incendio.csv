@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26003298,Barreiros e Cepões,Viseu Dão Lafões,310,2025-09-17T12:05:00Z,26003298,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-09-17T12:05:00Z,Viseu,Viseu,Centro,-7.825281,40.745844,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 26001447,Pelmá,Região de Leiria,310,2025-09-17T02:13:00Z,26001447,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-09-17T02:13:00Z,Alvaiázere,Leiria,Centro,-8.425235,39.797637,Resolução/Conclusão
 26003954,Repeses e São Salvador,Viseu Dão Lafões,310,2025-09-17T14:20:00Z,26003954,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-17T14:20:00Z,Viseu,Viseu,Centro,-7.95257,40.644483,Resolução/Conclusão
-26003298,Barreiros e Cepões,Viseu Dão Lafões,310,2025-09-17T12:05:00Z,26003298,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-09-17T12:05:00Z,Viseu,Viseu,Centro,-7.825281,40.745844,Resolução/Conclusão
 25980131,Carva e Vilares,Douro,309,2025-09-12T14:27:00Z,25980131,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-12T14:27:00Z,Murça,Vila Real,Norte,-7.55901,41.401343,Resolução/Conclusão
 26011448,Pensalvos e Parada de Monteiros,Alto Tâmega e Barroso,309,2025-09-19T01:21:00Z,26011448,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,33,2025-09-19T01:21:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.66315,41.561337,Resolução/Conclusão
