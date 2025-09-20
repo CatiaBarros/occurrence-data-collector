@@ -3,12 +3,12 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 26015988,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-09-19T20:30:00Z,26015988,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-19T20:30:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-6.999137,40.94832,Resolução/Conclusão
 26016304,Chamoim e Vilar,Cávado,309,2025-09-19T22:00:00Z,26016304,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,20,2025-09-19T22:00:00Z,Terras De Bouro,Braga,Norte,-8.24961,41.726578,Resolução/Conclusão
 26016722,Travancas e Roriz,Alto Tâmega e Barroso,309,2025-09-20T00:47:00Z,26016722,Em Curso,3103,Incêndio rural,0,4,0,20,2025-09-20T00:47:00Z,Chaves,Vila Real,Norte,-7.303273,41.810045,Curso
-26013405,Barreiros e Cepões,Viseu Dão Lafões,310,2025-09-19T11:56:00Z,26013405,Em Resolução/Conclusão,3103,Incêndio rural,0,109,0,327,2025-09-19T11:56:00Z,Viseu,Viseu,Centro,-7.786007,40.76602,Resolução/Conclusão
-26015842,Lazarim,Douro,309,2025-09-19T19:53:00Z,26015842,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-19T19:53:00Z,Lamego,Viseu,Norte,-7.84444,41.03196,Despacho
+26016821,Canelas,Tâmega e Sousa,309,2025-09-20T01:40:00Z,26016821,Em Despacho,3103,Incêndio rural,0,4,0,17,2025-09-20T01:40:00Z,Penafiel,Porto,Norte,-8.32233,41.076566,Despacho
+26013405,Barreiros e Cepões,Viseu Dão Lafões,310,2025-09-19T11:56:00Z,26013405,Em Resolução/Conclusão,3103,Incêndio rural,0,85,0,266,2025-09-19T11:56:00Z,Viseu,Viseu,Centro,-7.786007,40.76602,Resolução/Conclusão
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 26013902,Penacova,Região de Coimbra,310,2025-09-19T13:28:00Z,26013902,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-19T13:28:00Z,Penacova,Coimbra,Centro,-8.32583,40.32722,Resolução/Conclusão
 26016533,Chamoim e Vilar,Cávado,309,2025-09-19T23:31:00Z,26016533,Em Curso,3103,Incêndio rural,0,7,0,29,2025-09-19T23:31:00Z,Terras De Bouro,Braga,Norte,-8.255313,41.720563,Curso
-26016785,Gralhas,Alto Tâmega e Barroso,309,2025-09-20T01:20:00Z,26016785,Em Despacho,3103,Incêndio rural,0,4,0,20,2025-09-20T01:20:00Z,Montalegre,Vila Real,Norte,-7.721128,41.880929,Despacho
+26016785,Gralhas,Alto Tâmega e Barroso,309,2025-09-20T01:20:00Z,26016785,Em Curso,3103,Incêndio rural,0,4,0,20,2025-09-20T01:20:00Z,Montalegre,Vila Real,Norte,-7.720897,41.880163,Curso
 26003298,Barreiros e Cepões,Viseu Dão Lafões,310,2025-09-17T12:05:00Z,26003298,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-09-17T12:05:00Z,Viseu,Viseu,Centro,-7.825281,40.745844,Resolução/Conclusão
-26013065,Mezio e Moura Morta,Viseu Dão Lafões,310,2025-09-19T11:05:00Z,26013065,Em Curso,3103,Incêndio rural,0,170,0,539,2025-09-19T11:05:00Z,Castro Daire,Viseu,Centro,-7.878187,40.98632,Curso
+26013065,Mezio e Moura Morta,Viseu Dão Lafões,310,2025-09-19T11:05:00Z,26013065,Em Curso,3103,Incêndio rural,0,170,0,533,2025-09-19T11:05:00Z,Castro Daire,Viseu,Centro,-7.878187,40.98632,Curso
 26013919,Ervedal e Vila Franca da Beira,Região de Coimbra,310,2025-09-19T13:25:00Z,26013919,Em Curso,3103,Incêndio rural,0,141,0,469,2025-09-19T13:25:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.90472,40.43917,Curso
