@@ -8,5 +8,4 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 26013902,Penacova,Região de Coimbra,310,2025-09-19T13:28:00Z,26013902,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-19T13:28:00Z,Penacova,Coimbra,Centro,-8.32583,40.32722,Resolução/Conclusão
 26016785,Gralhas,Alto Tâmega e Barroso,309,2025-09-20T01:20:00Z,26016785,Em Curso,3103,Incêndio rural,0,50,0,189,2025-09-20T01:20:00Z,Montalegre,Vila Real,Norte,-7.720897,41.880163,Curso
-26019877,Guardão,Viseu Dão Lafões,310,2025-09-20T17:50:00Z,26019877,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-09-20T17:50:00Z,Tondela,Viseu,Centro,-8.148484,40.610274,Resolução/Conclusão
-26021397,Santa Cruz do Douro e São Tomé de Covelas,Tâmega e Sousa,309,2025-09-21T02:40:00Z,26021397,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-21T02:40:00Z,Baião,Porto,Norte,-8.005709,41.12888,Despacho
+26019877,Guardão,Viseu Dão Lafões,310,2025-09-20T17:50:00Z,26019877,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-20T17:50:00Z,Tondela,Viseu,Centro,-8.148484,40.610274,Resolução/Conclusão
