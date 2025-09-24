@@ -12,6 +12,7 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 26024592,Monte Redondo e Carreira,Região de Leiria,310,2025-09-21T18:44:00Z,26024592,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-09-21T18:44:00Z,Leiria,Leiria,Centro,-8.85119,39.877718,Resolução/Conclusão
 26027819,Santo André,Alto Tâmega e Barroso,309,2025-09-22T12:42:00Z,26027819,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-09-22T12:42:00Z,Montalegre,Vila Real,Norte,-7.688477,41.868948,Resolução/Conclusão
 26035455,Luzim e Vila Cova,Tâmega e Sousa,309,2025-09-23T23:15:00Z,26035455,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-09-23T23:15:00Z,Penafiel,Porto,Norte,-8.24205,41.186543,Resolução/Conclusão
+26035925,Pelmá,Região de Leiria,310,2025-09-24T06:05:00Z,26035925,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-09-24T06:05:00Z,Alvaiázere,Leiria,Centro,-8.43167,39.79735,Despacho
 25832672,Piódão,Região de Coimbra,310,2025-08-13T05:08:00Z,25832672,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-13T05:08:00Z,Arganil,Coimbra,Centro,-7.81972,40.23083,Resolução/Conclusão
 26013902,Penacova,Região de Coimbra,310,2025-09-19T13:28:00Z,26013902,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-19T13:28:00Z,Penacova,Coimbra,Centro,-8.32583,40.32722,Resolução/Conclusão
 26033983,"Requeixo, Nossa Senhora de Fátima e Nariz",Região de Aveiro,310,2025-09-23T16:23:00Z,26033983,Em Resolução/Conclusão,3101,Incêndio rural,0,8,0,22,2025-09-23T16:23:00Z,Aveiro,Aveiro,Centro,-8.583672,40.588322,Resolução/Conclusão
