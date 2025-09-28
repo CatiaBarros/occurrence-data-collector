@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26052925,Maceira,Região de Leiria,310,2025-09-27T12:54:00Z,26052925,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-09-27T12:54:00Z,Leiria,Leiria,Centro,-8.89598,39.651515,Resolução/Conclusão
-26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,29,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
-26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
+26052925,Maceira,Região de Leiria,310,2025-09-27T12:54:00Z,26052925,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-09-27T12:54:00Z,Leiria,Leiria,Centro,-8.89598,39.651515,Resolução/Conclusão
+26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,29,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
