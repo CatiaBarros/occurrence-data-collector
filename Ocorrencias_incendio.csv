@@ -1,11 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 26060607,Gouveia (São Pedro e São Julião),Beiras e Serra da Estrela,310,2025-09-29T07:40:00Z,26060607,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-09-29T07:40:00Z,Gouveia,Guarda,Centro,-7.59114,40.490052,Resolução/Conclusão
-26061863,São Joaninho,Viseu Dão Lafões,310,2025-09-29T11:25:00Z,26061863,Em Curso,3103,Incêndio rural,1,5,0,26,2025-09-29T11:25:00Z,Santa Comba Dão,Viseu,Centro,-8.12762,40.44918,Curso
-26052925,Maceira,Região de Leiria,310,2025-09-27T12:54:00Z,26052925,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-09-27T12:54:00Z,Leiria,Leiria,Centro,-8.89598,39.651515,Resolução/Conclusão
-26061642,Urrô,Area M. Porto,309,2025-09-29T10:49:00Z,26061642,Em Curso,3111,Queima,0,1,0,5,2025-09-29T10:49:00Z,Arouca,Aveiro,Norte,-8.28936,40.90647,Curso
-26061940,Teixeira e Teixeiró,Tâmega e Sousa,309,2025-09-29T11:42:00Z,26061940,Em Despacho,3103,Incêndio rural,1,0,0,6,2025-09-29T11:42:00Z,Baião,Porto,Norte,-7.90982,41.18141,Despacho
-26061983,Recarei,Area M. Porto,309,2025-09-29T11:48:00Z,26061983,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-09-29T11:48:00Z,Paredes,Porto,Norte,-8.429257,41.155999,Despacho
-26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26061863,São Joaninho,Viseu Dão Lafões,310,2025-09-29T11:25:00Z,26061863,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,20,2025-09-29T11:25:00Z,Santa Comba Dão,Viseu,Centro,-8.127597,40.451125,Resolução/Conclusão
+26061913,Conceição e Estoi,Algarve,313,2025-09-29T11:33:00Z,26061913,Em Resolução/Conclusão,3111,Queima,0,3,0,8,2025-09-29T11:33:00Z,Faro,Faro,Algarve,-7.90158,37.088647,Resolução/Conclusão
 26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,22,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
-26061150,Fontes,Médio Tejo,311,2025-09-29T09:31:00Z,26061150,Em Resolução/Conclusão,3111,Queima,0,2,0,3,2025-09-29T09:31:00Z,Abrantes,Santarém,Centro,-8.240752,39.61491,Resolução/Conclusão
+26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26061940,Teixeira e Teixeiró,Tâmega e Sousa,309,2025-09-29T11:42:00Z,26061940,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,18,2025-09-29T11:42:00Z,Baião,Porto,Norte,-7.913885,41.178228,Resolução/Conclusão
+26061983,Recarei,Area M. Porto,309,2025-09-29T11:48:00Z,26061983,Em Curso,3103,Incêndio rural,0,3,0,15,2025-09-29T11:48:00Z,Paredes,Porto,Norte,-8.429257,41.155999,Curso
