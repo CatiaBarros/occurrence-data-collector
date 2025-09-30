@@ -1,13 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
-26068468,Tornada e Salir do Porto,Oeste,311,2025-09-30T16:03:00Z,26068468,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-09-30T16:03:00Z,Caldas Da Rainha,Leiria,Centro,-9.146348,39.463882,Despacho
+26068199,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-09-30T15:09:00Z,26068199,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,11,2025-09-30T15:09:00Z,Vila Nova De Gaia,Porto,Norte,-8.523002,41.073885,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-26068481,São Pedro de Tomar,Médio Tejo,311,2025-09-30T16:07:00Z,26068481,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,24,2025-09-30T16:07:00Z,Tomar,Santarém,Centro,-8.361143,39.551845,Resolução/Conclusão
-26068662,Santa Catarina,Oeste,311,2025-09-30T16:37:00Z,26068662,Em Despacho,3103,Incêndio rural,0,1,0,2,2025-09-30T16:37:00Z,Caldas Da Rainha,Leiria,Centro,-9.025035,39.427049,Despacho
+26068481,São Pedro de Tomar,Médio Tejo,311,2025-09-30T16:07:00Z,26068481,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-09-30T16:07:00Z,Tomar,Santarém,Centro,-8.361143,39.551845,Resolução/Conclusão
 26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,22,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
-26067837,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-09-30T13:57:00Z,26067837,Em Resolução/Conclusão,3105,Incêndio rural,0,12,0,32,2025-09-30T13:57:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.174752,38.092127,Resolução/Conclusão
+26067837,Figueira Dos Cavaleiros,Baixo Alentejo,312,2025-09-30T13:57:00Z,26067837,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-09-30T13:57:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.174752,38.092127,Resolução/Conclusão
 26068256,Astromil,Area M. Porto,309,2025-09-30T15:26:00Z,26068256,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,22,2025-09-30T15:26:00Z,Paredes,Porto,Norte,-8.411105,41.20007,Resolução/Conclusão
 26068456,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-09-30T15:54:00Z,26068456,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,16,2025-09-30T15:54:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.064733,38.874948,Resolução/Conclusão
-26068540,Bombarral e Vale Covo,Oeste,311,2025-09-30T16:19:00Z,26068540,Em Curso,3103,Incêndio rural,0,4,0,16,2025-09-30T16:19:00Z,Bombarral,Leiria,Centro,-9.15529,39.26942,Curso
-26068199,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-09-30T15:09:00Z,26068199,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,11,2025-09-30T15:09:00Z,Vila Nova De Gaia,Porto,Norte,-8.523002,41.073885,Resolução/Conclusão
-26068660,Sousela,Tâmega e Sousa,309,2025-09-30T16:43:00Z,26068660,Em Despacho,3103,Incêndio rural,0,2,0,8,2025-09-30T16:43:00Z,Lousada,Porto,Norte,-8.32,41.29633,Despacho
+26068540,Bombarral e Vale Covo,Oeste,311,2025-09-30T16:19:00Z,26068540,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-09-30T16:19:00Z,Bombarral,Leiria,Centro,-9.15529,39.26942,Resolução/Conclusão
+26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26068768,Cadaval e Pêro Moniz,Oeste,311,2025-09-30T16:47:00Z,26068768,Em Curso,3105,Incêndio rural,0,4,0,14,2025-09-30T16:47:00Z,Cadaval,Lisboa,Centro,-9.164836,39.220534,Curso
+26068662,Santa Catarina,Oeste,311,2025-09-30T16:37:00Z,26068662,Em Despacho,3103,Incêndio rural,0,1,0,2,2025-09-30T16:37:00Z,Caldas Da Rainha,Leiria,Centro,-9.025035,39.427049,Despacho
+26068680,"Gondomar (São Cosme), Valbom e Jovim",Area M. Porto,309,2025-09-30T16:47:00Z,26068680,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-09-30T16:47:00Z,Gondomar,Porto,Norte,-8.52621,41.10326,Despacho
+26068749,Ferreira do Alentejo e Canhestros,Baixo Alentejo,312,2025-09-30T16:55:00Z,26068749,Em Curso,3105,Incêndio rural,0,10,0,30,2025-09-30T16:55:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.295967,38.03591,Curso
+26068815,Arganil,Região de Coimbra,310,2025-09-30T17:12:00Z,26068815,Em Despacho,3101,Incêndio rural,1,3,0,19,2025-09-30T17:12:00Z,Arganil,Coimbra,Centro,-8.075561,40.206816,Despacho
