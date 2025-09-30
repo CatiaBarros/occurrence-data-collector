@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-26070151,Mexilhoeira Grande,Algarve,313,2025-09-30T23:27:00Z,26070151,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-30T23:27:00Z,Portimão,Faro,Algarve,-8.606988,37.15391,Resolução/Conclusão
 26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
 26069788,Solveira,Alto Tâmega e Barroso,309,2025-09-30T21:15:00Z,26069788,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-30T21:15:00Z,Montalegre,Vila Real,Norte,-7.65053,41.839635,Resolução/Conclusão
 26069979,Pegarinhos,Douro,309,2025-09-30T22:18:00Z,26069979,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-09-30T22:18:00Z,Alijó,Vila Real,Norte,-7.459602,41.381688,Resolução/Conclusão
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
+26070151,Mexilhoeira Grande,Algarve,313,2025-09-30T23:27:00Z,26070151,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-09-30T23:27:00Z,Portimão,Faro,Algarve,-8.606988,37.15391,Resolução/Conclusão
 26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,17,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
-26069025,Estorãos,Ave,309,2025-09-30T17:55:00Z,26069025,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,41,2025-09-30T17:55:00Z,Fafe,Braga,Norte,-8.128778,41.495933,Resolução/Conclusão
+26069025,Estorãos,Ave,309,2025-09-30T17:55:00Z,26069025,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,28,2025-09-30T17:55:00Z,Fafe,Braga,Norte,-8.128778,41.495933,Resolução/Conclusão
