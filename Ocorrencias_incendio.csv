@@ -1,6 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26065633,São João da Pesqueira e Várzea de Trevões,Douro,309,2025-09-30T06:16:00Z,26065633,Em Despacho,3103,Incêndio rural,0,4,0,20,2025-09-30T06:16:00Z,São João Da Pesqueira,Viseu,Norte,-7.46777,41.09312,Despacho
+26065667,"Enxara do Bispo, Gradil e Vila Franca do Rosário",Grande Lisboa,311,2025-09-30T06:31:00Z,26065667,Em Despacho,3111,Queima,0,2,0,10,2025-09-30T06:31:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.267426,38.975485,Despacho
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 26065584,Rio de Couros e Casal Dos Bernardos,Médio Tejo,311,2025-09-30T05:29:00Z,26065584,Em Curso,3111,Queima,0,5,0,15,2025-09-30T05:29:00Z,Ourém,Santarém,Centro,-8.547965,39.786753,Curso
 26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,22,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
 26065615,Rio de Couros e Casal Dos Bernardos,Médio Tejo,311,2025-09-30T05:44:00Z,26065615,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-09-30T05:44:00Z,Ourém,Santarém,Centro,-8.547856,39.786828,Resolução/Conclusão
-26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
