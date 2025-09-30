@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,22,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 26067011,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-09-30T11:23:00Z,26067011,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-30T11:23:00Z,Vila Nova De Gaia,Porto,Norte,-8.524113,41.036365,Resolução/Conclusão
-26067245,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-09-30T12:03:00Z,26067245,Em Resolução/Conclusão,3105,Incêndio rural,0,6,0,17,2025-09-30T12:03:00Z,Torres Novas,Santarém,Centro,-8.54093,39.470015,Resolução/Conclusão
-26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,22,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
-26067217,Loures,Grande Lisboa,311,2025-09-30T11:58:00Z,26067217,Em Curso,3111,Queima,0,4,0,10,2025-09-30T11:58:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.17762,38.85154,Curso
+26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
