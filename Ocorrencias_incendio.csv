@@ -1,8 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,17,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
+25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
+26071724,Alpiarça,Lezíria do Tejo,311,2025-10-01T10:42:00Z,26071724,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-01T10:42:00Z,Alpiarça,Santarém,Alentejo,-8.568567,39.27248,Resolução/Conclusão
+26071841,Água Longa,Area M. Porto,309,2025-10-01T10:59:00Z,26071841,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-01T10:59:00Z,Santo Tirso,Porto,Norte,-8.499098,41.263132,Resolução/Conclusão
 26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
 26070906,Nave de Haver,Beiras e Serra da Estrela,310,2025-10-01T08:15:00Z,26070906,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-01T08:15:00Z,Almeida,Guarda,Centro,-6.836197,40.507088,Resolução/Conclusão
-26071887,Ílhavo (São Salvador),Região de Aveiro,310,2025-10-01T11:08:00Z,26071887,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,10,2025-10-01T11:08:00Z,Ílhavo,Aveiro,Centro,-8.675219,40.577479,Resolução/Conclusão
-25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-26071724,Alpiarça,Lezíria do Tejo,311,2025-10-01T10:42:00Z,26071724,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-01T10:42:00Z,Alpiarça,Santarém,Alentejo,-8.568567,39.27248,Resolução/Conclusão
-26071841,Água Longa,Area M. Porto,309,2025-10-01T10:59:00Z,26071841,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-01T10:59:00Z,Santo Tirso,Porto,Norte,-8.499098,41.263132,Despacho
+26071887,Ílhavo (São Salvador),Região de Aveiro,310,2025-10-01T11:08:00Z,26071887,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-01T11:08:00Z,Ílhavo,Aveiro,Centro,-8.675219,40.577479,Resolução/Conclusão
+26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,17,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
