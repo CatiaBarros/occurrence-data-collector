@@ -1,9 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
-26070906,Nave de Haver,Beiras e Serra da Estrela,310,2025-10-01T08:15:00Z,26070906,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-01T08:15:00Z,Almeida,Guarda,Centro,-6.836197,40.507088,Resolução/Conclusão
-26072226,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-10-01T12:02:00Z,26072226,Em Despacho,3103,Incêndio rural,1,9,0,38,2025-10-01T12:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.566123,38.528887,Despacho
-26072318,Estorãos,Ave,309,2025-10-01T12:31:00Z,26072318,Em Curso,3103,Incêndio rural,1,4,0,24,2025-10-01T12:31:00Z,Fafe,Braga,Norte,-8.138278,41.48263,Curso
 26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,17,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
-26072248,Santo André,Alentejo Litoral,312,2025-10-01T12:16:00Z,26072248,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-10-01T12:16:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.786695,38.06173,Resolução/Conclusão
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
 26071724,Alpiarça,Lezíria do Tejo,311,2025-10-01T10:42:00Z,26071724,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-01T10:42:00Z,Alpiarça,Santarém,Alentejo,-8.568567,39.27248,Resolução/Conclusão
+26072406,São João Baptista,Alto Alentejo,312,2025-10-01T12:47:00Z,26072406,Em Resolução/Conclusão,3105,Incêndio rural,1,8,0,39,2025-10-01T12:47:00Z,Campo Maior,Portalegre,Alentejo,-7.057183,39.074567,Resolução/Conclusão
+26072318,Estorãos,Ave,309,2025-10-01T12:31:00Z,26072318,Em Resolução/Conclusão,3103,Incêndio rural,1,4,0,24,2025-10-01T12:31:00Z,Fafe,Braga,Norte,-8.121237,41.497163,Resolução/Conclusão
+26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26070906,Nave de Haver,Beiras e Serra da Estrela,310,2025-10-01T08:15:00Z,26070906,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-01T08:15:00Z,Almeida,Guarda,Centro,-6.836197,40.507088,Resolução/Conclusão
+26072226,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-10-01T12:02:00Z,26072226,Em Resolução/Conclusão,3103,Incêndio rural,1,10,0,36,2025-10-01T12:02:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.550703,38.527792,Resolução/Conclusão
