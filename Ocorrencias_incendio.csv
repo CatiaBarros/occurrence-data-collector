@@ -1,13 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
-26073480,Alcanede,Lezíria do Tejo,311,2025-10-01T16:15:00Z,26073480,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-01T16:15:00Z,Santarém,Santarém,Alentejo,-8.787427,39.400588,Resolução/Conclusão
-26078112,Cabril,Alto Tâmega e Barroso,309,2025-10-02T15:15:00Z,26078112,Em Curso,3103,Incêndio rural,1,3,0,19,2025-10-02T15:15:00Z,Montalegre,Vila Real,Norte,-8.01286,41.739032,Curso
-26078412,Torgueda,Douro,309,2025-10-02T16:13:00Z,26078412,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-10-02T16:13:00Z,Vila Real,Vila Real,Norte,-7.814323,41.263362,Resolução/Conclusão
-26078512,Estorãos,Ave,309,2025-10-02T16:36:00Z,26078512,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-10-02T16:36:00Z,Fafe,Braga,Norte,-8.123877,41.496773,Resolução/Conclusão
 26078745,Alpiarça,Lezíria do Tejo,311,2025-10-02T17:22:00Z,26078745,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-02T17:22:00Z,Alpiarça,Santarém,Alentejo,-8.603397,39.232892,Resolução/Conclusão
-26078806,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-10-02T17:31:00Z,26078806,Em Resolução/Conclusão,3103,Incêndio rural,1,8,0,31,2025-10-02T17:31:00Z,Mangualde,Viseu,Centro,-7.638958,40.609205,Resolução/Conclusão
-26077823,São Cipriano e Vil de Souto,Viseu Dão Lafões,310,2025-10-02T14:18:00Z,26077823,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,22,2025-10-02T14:18:00Z,Viseu,Viseu,Centro,-7.953868,40.632302,Resolução/Conclusão
-26078005,São Cipriano e Vil de Souto,Viseu Dão Lafões,310,2025-10-02T14:50:00Z,26078005,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-02T14:50:00Z,Viseu,Viseu,Centro,-7.953403,40.629838,Resolução/Conclusão
-26078406,Arcozelo,Beiras e Serra da Estrela,310,2025-10-02T16:12:00Z,26078406,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,57,2025-10-02T16:12:00Z,Gouveia,Guarda,Centro,-7.635898,40.563733,Resolução/Conclusão
+26078806,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-10-02T17:31:00Z,26078806,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,15,2025-10-02T17:31:00Z,Mangualde,Viseu,Centro,-7.638958,40.609205,Resolução/Conclusão
+26079106,Mozelos,Area M. Porto,309,2025-10-02T18:25:00Z,26079106,Em Curso,3105,Incêndio rural,0,1,0,5,2025-10-02T18:25:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.56526,40.997101,Curso
 26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
 26078701,Madalena,Area M. Porto,309,2025-10-02T17:13:00Z,26078701,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,6,2025-10-02T17:13:00Z,Vila Nova De Gaia,Porto,Norte,-8.652565,41.098413,Resolução/Conclusão
+26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
+26073480,Alcanede,Lezíria do Tejo,311,2025-10-01T16:15:00Z,26073480,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-01T16:15:00Z,Santarém,Santarém,Alentejo,-8.787427,39.400588,Resolução/Conclusão
+26078112,Cabril,Alto Tâmega e Barroso,309,2025-10-02T15:15:00Z,26078112,Em Resolução/Conclusão,3103,Incêndio rural,1,3,0,19,2025-10-02T15:15:00Z,Montalegre,Vila Real,Norte,-8.01286,41.739032,Resolução/Conclusão
+26078412,Torgueda,Douro,309,2025-10-02T16:13:00Z,26078412,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-02T16:13:00Z,Vila Real,Vila Real,Norte,-7.814323,41.263362,Resolução/Conclusão
+26078512,Estorãos,Ave,309,2025-10-02T16:36:00Z,26078512,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-10-02T16:36:00Z,Fafe,Braga,Norte,-8.123877,41.496773,Resolução/Conclusão
+26077823,São Cipriano e Vil de Souto,Viseu Dão Lafões,310,2025-10-02T14:18:00Z,26077823,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,6,2025-10-02T14:18:00Z,Viseu,Viseu,Centro,-7.953868,40.632302,Resolução/Conclusão
+26078005,São Cipriano e Vil de Souto,Viseu Dão Lafões,310,2025-10-02T14:50:00Z,26078005,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-02T14:50:00Z,Viseu,Viseu,Centro,-7.953403,40.629838,Resolução/Conclusão
+26078406,Arcozelo,Beiras e Serra da Estrela,310,2025-10-02T16:12:00Z,26078406,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,57,2025-10-02T16:12:00Z,Gouveia,Guarda,Centro,-7.635898,40.563733,Resolução/Conclusão
+26079130,Furadouro,Região de Coimbra,310,2025-10-02T18:31:00Z,26079130,Em Despacho,3111,Queima,0,1,0,5,2025-10-02T18:31:00Z,Condeixa-a-Nova,Coimbra,Centro,-8.522299,40.071083,Despacho
