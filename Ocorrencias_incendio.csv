@@ -1,6 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 25951176,Sandomil,Beiras e Serra da Estrela,310,2025-09-06T10:29:00Z,25951176,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-09-06T10:29:00Z,Seia,Guarda,Centro,-7.76001,40.351547,Resolução/Conclusão
-26075582,Regilde,Tâmega e Sousa,309,2025-10-02T05:11:00Z,26075582,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-02T05:11:00Z,Felgueiras,Porto,Norte,-8.27229,41.358677,Resolução/Conclusão
-26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
 26050704,Tortosendo,Beiras e Serra da Estrela,310,2025-09-26T23:04:00Z,26050704,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-09-26T23:04:00Z,Covilhã,Castelo Branco,Centro,-7.521592,40.251592,Resolução/Conclusão
 26073480,Alcanede,Lezíria do Tejo,311,2025-10-01T16:15:00Z,26073480,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-01T16:15:00Z,Santarém,Santarém,Alentejo,-8.787427,39.400588,Resolução/Conclusão
+26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
