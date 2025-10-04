@@ -1,7 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26078806,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-10-02T17:31:00Z,26078806,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-02T17:31:00Z,Mangualde,Viseu,Centro,-7.638958,40.609205,Resolução/Conclusão
 26077823,São Cipriano e Vil de Souto,Viseu Dão Lafões,310,2025-10-02T14:18:00Z,26077823,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-10-02T14:18:00Z,Viseu,Viseu,Centro,-7.953868,40.632302,Resolução/Conclusão
 26085644,Rio de Moinhos,Tâmega e Sousa,309,2025-10-04T06:25:00Z,26085644,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-04T06:25:00Z,Penafiel,Porto,Norte,-8.265274,41.106361,Resolução/Conclusão
-26085796,Barreiros,Cávado,309,2025-10-04T07:45:00Z,26085796,Em Despacho,3111,Queima,0,1,0,5,2025-10-04T07:45:00Z,Amares,Braga,Norte,-8.395694,41.616633,Despacho
-26078806,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-10-02T17:31:00Z,26078806,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-02T17:31:00Z,Mangualde,Viseu,Centro,-7.638958,40.609205,Resolução/Conclusão
+26085796,Barreiros,Cávado,309,2025-10-04T07:45:00Z,26085796,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-04T07:45:00Z,Amares,Braga,Norte,-8.396212,41.612462,Resolução/Conclusão
 26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
-26085667,Arcozelo,Area M. Porto,309,2025-10-04T07:01:00Z,26085667,Em Curso,3111,Queima,0,2,0,11,2025-10-04T07:01:00Z,Vila Nova De Gaia,Porto,Norte,-8.642291,41.06516,Curso
+26085667,Arcozelo,Area M. Porto,309,2025-10-04T07:01:00Z,26085667,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-04T07:01:00Z,Vila Nova De Gaia,Porto,Norte,-8.642291,41.06516,Resolução/Conclusão
