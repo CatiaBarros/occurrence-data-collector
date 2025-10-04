@@ -1,6 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
 26078806,"Tavares (Chãs, Várzea e Travanca)",Viseu Dão Lafões,310,2025-10-02T17:31:00Z,26078806,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-02T17:31:00Z,Mangualde,Viseu,Centro,-7.638958,40.609205,Resolução/Conclusão
-26086390,Prado e Remoães,Alto Minho,309,2025-10-04T10:21:00Z,26086390,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-04T10:21:00Z,Melgaço,Viana Do Castelo,Norte,-8.287622,42.111912,Resolução/Conclusão
+26086390,Prado e Remoães,Alto Minho,309,2025-10-04T10:21:00Z,26086390,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-10-04T10:21:00Z,Melgaço,Viana Do Castelo,Norte,-8.287622,42.111912,Resolução/Conclusão
 26086458,Mondrões,Douro,309,2025-10-04T10:37:00Z,26086458,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-04T10:37:00Z,Vila Real,Vila Real,Norte,-7.796993,41.305473,Resolução/Conclusão
+26087083,Pedroso e Seixezelo,Area M. Porto,309,2025-10-04T13:04:00Z,26087083,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-04T13:04:00Z,Vila Nova De Gaia,Porto,Norte,-8.57289,41.05628,Despacho
 26077823,São Cipriano e Vil de Souto,Viseu Dão Lafões,310,2025-10-02T14:18:00Z,26077823,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-10-02T14:18:00Z,Viseu,Viseu,Centro,-7.953868,40.632302,Resolução/Conclusão
+26087095,Sambade,Terras de Trás-os-Montes,309,2025-10-04T13:02:00Z,26087095,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-04T13:02:00Z,Alfândega Da Fé,Bragança,Norte,-7.006517,41.411763,Resolução/Conclusão
+26022995,Bordeira,Algarve,313,2025-09-21T12:21:00Z,26022995,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-09-21T12:21:00Z,Aljezur,Faro,Algarve,-8.825374,37.23495,Resolução/Conclusão
