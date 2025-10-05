@@ -1,8 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26093304,Moreira do Castelo,Tâmega e Sousa,309,2025-10-05T20:25:00Z,26093304,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,10,2025-10-05T20:25:00Z,Celorico De Basto,Braga,Norte,-8.046162,41.346122,Resolução/Conclusão
-26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Curso,3103,Incêndio rural,0,14,0,63,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.927072,40.927072,Curso
-26093004,Montijo e Afonsoeiro,Península de Setúbal,311,2025-10-05T18:51:00Z,26093004,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-05T18:51:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.97566,38.716465,Resolução/Conclusão
-26093023,Castro Daire,Viseu Dão Lafões,310,2025-10-05T19:06:00Z,26093023,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,6,2025-10-05T19:06:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26093174,Arnóia,Tâmega e Sousa,309,2025-10-05T19:49:00Z,26093174,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,13,2025-10-05T19:49:00Z,Celorico De Basto,Braga,Norte,-7.99163,41.367375,Resolução/Conclusão
+26093023,Castro Daire,Viseu Dão Lafões,310,2025-10-05T19:06:00Z,26093023,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T19:06:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
+26093174,Arnóia,Tâmega e Sousa,309,2025-10-05T19:49:00Z,26093174,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-05T19:49:00Z,Celorico De Basto,Braga,Norte,-7.99163,41.367375,Resolução/Conclusão
 26092427,Alvites,Terras de Trás-os-Montes,309,2025-10-05T16:39:00Z,26092427,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,20,2025-10-05T16:39:00Z,Mirandela,Bragança,Norte,-7.044288,41.552485,Resolução/Conclusão
-26093549,Meixedo e Padornelos,Alto Tâmega e Barroso,309,2025-10-05T21:45:00Z,26093549,Em Curso,3103,Incêndio rural,0,5,0,17,2025-10-05T21:45:00Z,Montalegre,Vila Real,Norte,-7.743222,41.862238,Curso
+26093549,Meixedo e Padornelos,Alto Tâmega e Barroso,309,2025-10-05T21:45:00Z,26093549,Em Curso,3103,Incêndio rural,0,6,0,21,2025-10-05T21:45:00Z,Montalegre,Vila Real,Norte,-7.743222,41.862238,Curso
+26093304,Moreira do Castelo,Tâmega e Sousa,309,2025-10-05T20:25:00Z,26093304,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,15,2025-10-05T20:25:00Z,Celorico De Basto,Braga,Norte,-8.046162,41.346122,Resolução/Conclusão
+26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Curso,3103,Incêndio rural,0,19,0,79,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.927072,40.927072,Curso
