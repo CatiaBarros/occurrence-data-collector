@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26090136,Santiago,Beiras e Serra da Estrela,310,2025-10-05T07:14:00Z,26090136,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-10-05T07:14:00Z,Seia,Guarda,Centro,-7.75017,40.421434,Despacho
-26090135,Alhos Vedros,Península de Setúbal,311,2025-10-05T07:10:00Z,26090135,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-05T07:10:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.012767,38.643428,Resolução/Conclusão
+26090468,Prozelo,Alto Minho,309,2025-10-05T08:55:00Z,26090468,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-05T08:55:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.444897,41.858825,Resolução/Conclusão
