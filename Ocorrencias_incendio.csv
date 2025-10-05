@@ -1,3 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26090879,Lanhelas,Alto Minho,309,2025-10-05T10:24:00Z,26090879,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-05T10:24:00Z,Caminha,Viana Do Castelo,Norte,-8.800907,41.90313,Despacho
-26090939,Samora Correia,Lezíria do Tejo,311,2025-10-05T10:29:00Z,26090939,Em Curso,3111,Queima,0,1,0,5,2025-10-05T10:29:00Z,Benavente,Santarém,Alentejo,-8.840328,38.829023,Curso
+26090957,Amêndoa,Médio Tejo,311,2025-10-05T10:39:00Z,26090957,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-05T10:39:00Z,Mação,Santarém,Centro,-8.053193,39.629695,Resolução/Conclusão
+26091108,Travassos,Ave,309,2025-10-05T11:18:00Z,26091108,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-10-05T11:18:00Z,Póvoa De Lanhoso,Braga,Norte,-8.2014,41.57486,Despacho
+26090939,Samora Correia,Lezíria do Tejo,311,2025-10-05T10:29:00Z,26090939,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-05T10:29:00Z,Benavente,Santarém,Alentejo,-8.859322,38.91401,Resolução/Conclusão
+26090879,Lanhelas,Alto Minho,309,2025-10-05T10:24:00Z,26090879,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-05T10:24:00Z,Caminha,Viana Do Castelo,Norte,-8.800907,41.90313,Resolução/Conclusão
+26091038,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-10-05T11:00:00Z,26091038,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-05T11:00:00Z,Torres Novas,Santarém,Centro,-8.483195,39.483195,Resolução/Conclusão
