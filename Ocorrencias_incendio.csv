@@ -1,4 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26091790,Alcanede,Lezíria do Tejo,311,2025-10-05T14:05:00Z,26091790,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,13,2025-10-05T14:05:00Z,Santarém,Santarém,Alentejo,-8.800765,39.423145,Resolução/Conclusão
 26091678,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-10-05T13:48:00Z,26091678,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-05T13:48:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.736942,41.740565,Resolução/Conclusão
-26091866,Monte Córdova,Area M. Porto,309,2025-10-05T14:21:00Z,26091866,Em Resolução/Conclusão,3103,Incêndio rural,1,3,0,21,2025-10-05T14:21:00Z,Santo Tirso,Porto,Norte,-8.446047,41.318509,Resolução/Conclusão
+26091866,Monte Córdova,Area M. Porto,309,2025-10-05T14:21:00Z,26091866,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-05T14:21:00Z,Santo Tirso,Porto,Norte,-8.444158,41.320002,Resolução/Conclusão
