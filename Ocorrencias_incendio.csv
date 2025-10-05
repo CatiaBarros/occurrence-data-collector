@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26092172,São João da Ribeira e Ribeira de São João,Lezíria do Tejo,311,2025-10-05T15:36:00Z,26092172,Em Despacho,3103,Incêndio rural,1,5,0,24,2025-10-05T15:36:00Z,Rio Maior,Santarém,Alentejo,-8.846997,39.278763,Despacho
-26092218,Alpalhão,Alto Alentejo,312,2025-10-05T15:46:00Z,26092218,Em Despacho,3105,Incêndio rural,0,2,0,7,2025-10-05T15:46:00Z,Nisa,Portalegre,Alentejo,-7.626788,39.420374,Despacho
 26091678,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-10-05T13:48:00Z,26091678,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-05T13:48:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.736942,41.740565,Resolução/Conclusão
-26091866,Monte Córdova,Area M. Porto,309,2025-10-05T14:21:00Z,26091866,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-05T14:21:00Z,Santo Tirso,Porto,Norte,-8.444158,41.320002,Resolução/Conclusão
+26092345,"Freixianda, Ribeira do Fárrio e Formigais",Médio Tejo,311,2025-10-05T16:18:00Z,26092345,Em Despacho,3105,Incêndio rural,0,2,0,7,2025-10-05T16:18:00Z,Ourém,Santarém,Centro,-8.453797,39.711944,Despacho
+26092172,São João da Ribeira e Ribeira de São João,Lezíria do Tejo,311,2025-10-05T15:36:00Z,26092172,Em Resolução/Conclusão,3103,Incêndio rural,1,5,0,24,2025-10-05T15:36:00Z,Rio Maior,Santarém,Alentejo,-8.859135,39.288798,Resolução/Conclusão
+26092242,Sesimbra (Castelo),Península de Setúbal,311,2025-10-05T15:51:00Z,26092242,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-05T15:51:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.1187,38.48321,Resolução/Conclusão
