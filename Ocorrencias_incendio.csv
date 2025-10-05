@@ -1,2 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26090468,Prozelo,Alto Minho,309,2025-10-05T08:55:00Z,26090468,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-05T08:55:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.444897,41.858825,Resolução/Conclusão
+26090879,Lanhelas,Alto Minho,309,2025-10-05T10:24:00Z,26090879,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-05T10:24:00Z,Caminha,Viana Do Castelo,Norte,-8.800907,41.90313,Despacho
+26090939,Samora Correia,Lezíria do Tejo,311,2025-10-05T10:29:00Z,26090939,Em Curso,3111,Queima,0,1,0,5,2025-10-05T10:29:00Z,Benavente,Santarém,Alentejo,-8.840328,38.829023,Curso
