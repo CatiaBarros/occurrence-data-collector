@@ -1,7 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26093304,Moreira do Castelo,Tâmega e Sousa,309,2025-10-05T20:25:00Z,26093304,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,10,2025-10-05T20:25:00Z,Celorico De Basto,Braga,Norte,-8.046162,41.346122,Resolução/Conclusão
+26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,17,0,72,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.927072,40.927072,Resolução/Conclusão
+26093945,Duas Igrejas,Tâmega e Sousa,309,2025-10-06T00:47:00Z,26093945,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-10-06T00:47:00Z,Penafiel,Porto,Norte,-8.269523,41.185968,Resolução/Conclusão
+26094103,Soalhães,Tâmega e Sousa,309,2025-10-06T02:37:00Z,26094103,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-06T02:37:00Z,Marco De Canaveses,Porto,Norte,-8.10125,41.16997,Despacho
 26093023,Castro Daire,Viseu Dão Lafões,310,2025-10-05T19:06:00Z,26093023,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T19:06:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
 26093875,Rio de Moinhos,Tâmega e Sousa,309,2025-10-06T00:03:00Z,26093875,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-06T00:03:00Z,Penafiel,Porto,Norte,-8.265937,41.119055,Resolução/Conclusão
-26093991,Santa Comba,Beiras e Serra da Estrela,310,2025-10-06T01:09:00Z,26093991,Em Curso,3103,Incêndio rural,0,11,0,44,2025-10-06T01:09:00Z,Seia,Guarda,Centro,-7.745905,40.442718,Curso
-26093304,Moreira do Castelo,Tâmega e Sousa,309,2025-10-05T20:25:00Z,26093304,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,10,2025-10-05T20:25:00Z,Celorico De Basto,Braga,Norte,-8.046162,41.346122,Resolução/Conclusão
-26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,23,0,92,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.927072,40.927072,Resolução/Conclusão
-26093945,Duas Igrejas,Tâmega e Sousa,309,2025-10-06T00:47:00Z,26093945,Em Curso,3103,Incêndio rural,0,5,0,16,2025-10-06T00:47:00Z,Penafiel,Porto,Norte,-8.269523,41.185968,Curso
+26093991,Santa Comba,Beiras e Serra da Estrela,310,2025-10-06T01:09:00Z,26093991,Em Curso,3103,Incêndio rural,0,16,0,59,2025-10-06T01:09:00Z,Seia,Guarda,Centro,-7.745905,40.442718,Curso
