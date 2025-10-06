@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Curso,3103,Incêndio rural,0,12,0,47,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.927072,40.927072,Curso
-26094440,Rio de Moinhos,Tâmega e Sousa,309,2025-10-06T07:03:00Z,26094440,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-06T07:03:00Z,Penafiel,Porto,Norte,-8.265447,41.119273,Resolução/Conclusão
+26094598,Montijo e Afonsoeiro,Península de Setúbal,311,2025-10-06T07:49:00Z,26094598,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-10-06T07:49:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.975715,38.702323,Resolução/Conclusão
 26093023,Castro Daire,Viseu Dão Lafões,310,2025-10-05T19:06:00Z,26093023,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T19:06:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
 26093991,Santa Comba,Beiras e Serra da Estrela,310,2025-10-06T01:09:00Z,26093991,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,15,2025-10-06T01:09:00Z,Seia,Guarda,Centro,-7.745905,40.442718,Resolução/Conclusão
-26094427,Baixa da Banheira e Vale da Amoreira,Península de Setúbal,311,2025-10-06T07:02:00Z,26094427,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-06T07:02:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.033122,38.641965,Resolução/Conclusão
+26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Curso,3103,Incêndio rural,6,13,0,62,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.927072,40.927072,Curso
+26094440,Rio de Moinhos,Tâmega e Sousa,309,2025-10-06T07:03:00Z,26094440,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-06T07:03:00Z,Penafiel,Porto,Norte,-8.265447,41.119273,Resolução/Conclusão
