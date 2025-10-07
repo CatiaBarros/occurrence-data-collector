@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
 26093991,Santa Comba,Beiras e Serra da Estrela,310,2025-10-06T01:09:00Z,26093991,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,12,2025-10-06T01:09:00Z,Seia,Guarda,Centro,-7.745905,40.442718,Resolução/Conclusão
 26096901,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-10-06T14:44:00Z,26096901,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-10-06T14:44:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.674877,41.687823,Resolução/Conclusão
 26097250,Rocas do Vouga,Região de Aveiro,310,2025-10-06T15:45:00Z,26097250,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-06T15:45:00Z,Sever Do Vouga,Aveiro,Centro,-8.346582,40.74071,Resolução/Conclusão
 26101847,Vila Boa de Quires e Maureles,Tâmega e Sousa,309,2025-10-07T14:43:00Z,26101847,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-07T14:43:00Z,Marco De Canaveses,Porto,Norte,-8.208733,41.191348,Resolução/Conclusão
-26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26101539,Miranda,Alto Minho,309,2025-10-07T13:44:00Z,26101539,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-10-07T13:44:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.51775,41.820785,Resolução/Conclusão
-26101788,Pelmá,Região de Leiria,310,2025-10-07T14:30:00Z,26101788,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,20,2025-10-07T14:30:00Z,Alvaiázere,Leiria,Centro,-8.4531,39.77281,Resolução/Conclusão
-26101873,Outeiro,Alto Tâmega e Barroso,309,2025-10-07T14:48:00Z,26101873,Em Curso,3103,Incêndio rural,1,2,0,16,2025-10-07T14:48:00Z,Montalegre,Vila Real,Norte,-7.953362,41.798845,Curso
-26102138,Sobral da Adiça,Baixo Alentejo,312,2025-10-07T15:40:00Z,26102138,Em Despacho,3105,Incêndio rural,0,5,0,19,2025-10-07T15:40:00Z,Moura,Beja,Alentejo,-7.335811,38.028825,Despacho
+26101788,Pelmá,Região de Leiria,310,2025-10-07T14:30:00Z,26101788,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,15,2025-10-07T14:30:00Z,Alvaiázere,Leiria,Centro,-8.4531,39.77281,Resolução/Conclusão
+26101873,Outeiro,Alto Tâmega e Barroso,309,2025-10-07T14:48:00Z,26101873,Em Resolução/Conclusão,3103,Incêndio rural,1,2,0,16,2025-10-07T14:48:00Z,Montalegre,Vila Real,Norte,-7.953362,41.798845,Resolução/Conclusão
+26102138,Sobral da Adiça,Baixo Alentejo,312,2025-10-07T15:40:00Z,26102138,Em Curso,3105,Incêndio rural,0,5,0,19,2025-10-07T15:40:00Z,Moura,Beja,Alentejo,-7.333733,38.01696,Curso
