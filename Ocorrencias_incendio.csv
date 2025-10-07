@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,18,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.927072,40.927072,Resolução/Conclusão
 26093991,Santa Comba,Beiras e Serra da Estrela,310,2025-10-06T01:09:00Z,26093991,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-06T01:09:00Z,Seia,Guarda,Centro,-7.745905,40.442718,Resolução/Conclusão
-26096901,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-10-06T14:44:00Z,26096901,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,12,2025-10-06T14:44:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.674877,41.687823,Resolução/Conclusão
+26096901,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-10-06T14:44:00Z,26096901,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,7,2025-10-06T14:44:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.674877,41.687823,Resolução/Conclusão
 26097250,Rocas do Vouga,Região de Aveiro,310,2025-10-06T15:45:00Z,26097250,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-06T15:45:00Z,Sever Do Vouga,Aveiro,Centro,-8.346582,40.74071,Resolução/Conclusão
