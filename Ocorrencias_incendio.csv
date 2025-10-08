@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26104243,Santa Marinha do Zêzere,Tâmega e Sousa,309,2025-10-08T03:12:00Z,26104243,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-08T03:12:00Z,Baião,Porto,Norte,-7.946568,41.155622,Resolução/Conclusão
+26104243,Santa Marinha do Zêzere,Tâmega e Sousa,309,2025-10-08T03:12:00Z,26104243,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-08T03:12:00Z,Baião,Porto,Norte,-7.946568,41.155622,Resolução/Conclusão
 26093991,Santa Comba,Beiras e Serra da Estrela,310,2025-10-06T01:09:00Z,26093991,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-10-06T01:09:00Z,Seia,Guarda,Centro,-7.745905,40.442718,Resolução/Conclusão
