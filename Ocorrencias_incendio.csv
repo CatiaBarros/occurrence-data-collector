@@ -1,10 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26105654,Dornelas,Alto Tâmega e Barroso,309,2025-10-08T11:00:00Z,26105654,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-08T11:00:00Z,Boticas,Vila Real,Norte,-7.838985,41.664535,Resolução/Conclusão
-26106197,Bom Sucesso,Região de Coimbra,310,2025-10-08T12:46:00Z,26106197,Em Resolução/Conclusão,3111,Queima,0,2,0,10,2025-10-08T12:46:00Z,Figueira Da Foz,Coimbra,Centro,-8.780875,40.266249,Resolução/Conclusão
 26093991,Santa Comba,Beiras e Serra da Estrela,310,2025-10-06T01:09:00Z,26093991,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-10-06T01:09:00Z,Seia,Guarda,Centro,-7.745905,40.442718,Resolução/Conclusão
-26106441,Pedrógão,Baixo Alentejo,312,2025-10-08T13:36:00Z,26106441,Em Resolução/Conclusão,3105,Incêndio rural,0,9,0,30,2025-10-08T13:36:00Z,Vidigueira,Beja,Alentejo,-7.644212,38.120097,Resolução/Conclusão
-26106487,Areias,Cávado,309,2025-10-08T13:45:00Z,26106487,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-08T13:45:00Z,Barcelos,Braga,Norte,-8.541028,41.55776,Resolução/Conclusão
-26106612,São Gens,Ave,309,2025-10-08T14:10:00Z,26106612,Em Despacho,3101,Incêndio rural,2,5,0,34,2025-10-08T14:10:00Z,Fafe,Braga,Norte,-8.099473,41.429177,Despacho
+26106441,Pedrógão,Baixo Alentejo,312,2025-10-08T13:36:00Z,26106441,Em Resolução/Conclusão,3105,Incêndio rural,0,8,0,26,2025-10-08T13:36:00Z,Vidigueira,Beja,Alentejo,-7.644212,38.120097,Resolução/Conclusão
+26106843,Viade de Baixo e Fervidelas,Alto Tâmega e Barroso,309,2025-10-08T14:56:00Z,26106843,Em Despacho,3103,Incêndio rural,1,3,0,21,2025-10-08T14:56:00Z,Montalegre,Vila Real,Norte,-7.84333,41.764258,Despacho
+26106911,Escalos de Baixo e Mata,Beira Baixa,310,2025-10-08T15:11:00Z,26106911,Em Despacho,3105,Incêndio rural,1,7,0,29,2025-10-08T15:11:00Z,Castelo Branco,Castelo Branco,Centro,-7.358766,39.867341,Despacho
+26106612,São Gens,Ave,309,2025-10-08T14:10:00Z,26106612,Em Resolução/Conclusão,3101,Incêndio rural,2,6,0,35,2025-10-08T14:10:00Z,Fafe,Braga,Norte,-8.10069,41.427873,Resolução/Conclusão
 26106068,Santa Marinha do Zêzere,Tâmega e Sousa,309,2025-10-08T12:07:00Z,26106068,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-08T12:07:00Z,Baião,Porto,Norte,-7.945993,41.155528,Resolução/Conclusão
-26106783,Nogueira da Montanha,Alto Tâmega e Barroso,309,2025-10-08T14:43:00Z,26106783,Em Despacho,3103,Incêndio rural,1,3,0,21,2025-10-08T14:43:00Z,Chaves,Vila Real,Norte,-7.445764,41.685791,Despacho
+26106783,Nogueira da Montanha,Alto Tâmega e Barroso,309,2025-10-08T14:43:00Z,26106783,Em Curso,3103,Incêndio rural,1,3,0,21,2025-10-08T14:43:00Z,Chaves,Vila Real,Norte,-7.448237,41.678545,Curso
+26106935,Fiães,Area M. Porto,309,2025-10-08T15:16:00Z,26106935,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-08T15:16:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.53141,40.99199,Despacho
+26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
+26105654,Dornelas,Alto Tâmega e Barroso,309,2025-10-08T11:00:00Z,26105654,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-08T11:00:00Z,Boticas,Vila Real,Norte,-7.838985,41.664535,Resolução/Conclusão
+26106822,Paus,Tâmega e Sousa,309,2025-10-08T14:53:00Z,26106822,Em Curso,3103,Incêndio rural,1,3,0,18,2025-10-08T14:53:00Z,Resende,Viseu,Norte,-7.918959,41.072025,Curso
