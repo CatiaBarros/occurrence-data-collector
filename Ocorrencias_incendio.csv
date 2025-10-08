@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26108617,"Cristelos, Boim e Ordem",Tâmega e Sousa,309,2025-10-08T22:21:00Z,26108617,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-08T22:21:00Z,Lousada,Porto,Norte,-8.296661,41.280102,Despacho
-26106068,Santa Marinha do Zêzere,Tâmega e Sousa,309,2025-10-08T12:07:00Z,26106068,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-08T12:07:00Z,Baião,Porto,Norte,-7.945993,41.155528,Resolução/Conclusão
-26108270,Rio de Moinhos,Tâmega e Sousa,309,2025-10-08T20:41:00Z,26108270,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-08T20:41:00Z,Penafiel,Porto,Norte,-8.266107,41.119853,Resolução/Conclusão
-26108129,Calvos e Frades,Ave,309,2025-10-08T20:04:00Z,26108129,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-08T20:04:00Z,Póvoa De Lanhoso,Braga,Norte,-8.244257,41.614605,Resolução/Conclusão
 26108397,Galafura e Covelinhas,Douro,309,2025-10-08T21:17:00Z,26108397,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-08T21:17:00Z,Peso Da Régua,Vila Real,Norte,-7.693502,41.15873,Resolução/Conclusão
+26108636,Gulpilhares e Valadares,Area M. Porto,309,2025-10-08T22:43:00Z,26108636,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-10-08T22:43:00Z,Vila Nova De Gaia,Porto,Norte,-8.617702,41.07489,Despacho
+26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
+26108617,"Cristelos, Boim e Ordem",Tâmega e Sousa,309,2025-10-08T22:21:00Z,26108617,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-08T22:21:00Z,Lousada,Porto,Norte,-8.296661,41.280102,Resolução/Conclusão
