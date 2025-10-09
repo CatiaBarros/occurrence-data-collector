@@ -1,4 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
 26093602,"Castro Daire","Viseu Dão Lafões",310,"2025-10-05T22:05:00",26093602,"Em resolução/conclusão","3103","Incêndio rural",0,0,0,0,"2025-10-05T22:05:00","Castro Daire","Viseu","Centro",-7.9408,40.925289,"Resolução/Conclusão"
-26108930,"Calvos e Frades","Ave",309,"2025-10-09T01:29:00",26108930,"Em resolução/conclusão","3103","Incêndio rural",0,1,0,5,"2025-10-09T01:29:00","Póvoa De Lanhoso","Braga","Norte",-8.244085,41.614153,"Resolução/Conclusão"
-26108923,"Vila Cova da Lixa e Borba de Godim","Tâmega e Sousa",309,"2025-10-09T01:17:00",26108923,"Em resolução/conclusão","2407","Despiste",0,2,0,5,"2025-10-09T01:17:00","Felgueiras","Porto","Norte",-8.15583,41.325238,"Resolução/Conclusão"
