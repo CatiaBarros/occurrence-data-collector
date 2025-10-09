@@ -1,9 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26113164,Viade de Baixo e Fervidelas,Alto Tâmega e Barroso,309,2025-10-09T20:10:00Z,26113164,Em Curso,3103,Incêndio rural,0,1,0,5,2025-10-09T20:10:00Z,Montalegre,Vila Real,Norte,-7.868334,41.76362,Curso
-26111029,Nogueira da Montanha,Alto Tâmega e Barroso,309,2025-10-09T13:00:00Z,26111029,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-09T13:00:00Z,Chaves,Vila Real,Norte,-7.449447,41.67715,Resolução/Conclusão
-26113171,Painho e Figueiros,Oeste,311,2025-10-09T20:15:00Z,26113171,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-09T20:15:00Z,Cadaval,Lisboa,Centro,-9.05365,39.307034,Resolução/Conclusão
-26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26113283,Gralhas,Alto Tâmega e Barroso,309,2025-10-09T20:51:00Z,26113283,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-10-09T20:51:00Z,Montalegre,Vila Real,Norte,-7.703256,41.851153,Despacho
 26110435,Ala e Vilarinho do Monte,Terras de Trás-os-Montes,309,2025-10-09T11:02:00Z,26110435,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,15,2025-10-09T11:02:00Z,Macedo De Cavaleiros,Bragança,Norte,-7.074403,41.591523,Resolução/Conclusão
 26112710,Bordeira,Algarve,313,2025-10-09T18:21:00Z,26112710,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-09T18:21:00Z,Aljezur,Faro,Algarve,-8.822937,37.221525,Resolução/Conclusão
-26112859,Macinhata do Vouga,Região de Aveiro,310,2025-10-09T19:04:00Z,26112859,Em Resolução/Conclusão,3111,Queima,0,2,0,10,2025-10-09T19:04:00Z,Águeda,Aveiro,Centro,-8.456865,40.652105,Resolução/Conclusão
+26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
+26113283,Gralhas,Alto Tâmega e Barroso,309,2025-10-09T20:51:00Z,26113283,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-10-09T20:51:00Z,Montalegre,Vila Real,Norte,-7.703256,41.851153,Despacho
+26111029,Nogueira da Montanha,Alto Tâmega e Barroso,309,2025-10-09T13:00:00Z,26111029,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-09T13:00:00Z,Chaves,Vila Real,Norte,-7.449447,41.67715,Resolução/Conclusão
+26113171,Painho e Figueiros,Oeste,311,2025-10-09T20:15:00Z,26113171,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-09T20:15:00Z,Cadaval,Lisboa,Centro,-9.05365,39.307034,Resolução/Conclusão
+26113164,Viade de Baixo e Fervidelas,Alto Tâmega e Barroso,309,2025-10-09T20:10:00Z,26113164,Em Curso,3103,Incêndio rural,0,1,0,5,2025-10-09T20:10:00Z,Montalegre,Vila Real,Norte,-7.868334,41.76362,Curso
