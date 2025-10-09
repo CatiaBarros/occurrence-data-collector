@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26110372,Pechão,Algarve,313,2025-10-09T10:54:00Z,26110372,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-09T10:54:00Z,Olhão,Faro,Algarve,-7.87003,37.05324,Resolução/Conclusão
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26110439,Aljezur,Algarve,313,2025-10-09T11:08:00Z,26110439,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-09T11:08:00Z,Aljezur,Faro,Algarve,-8.796072,37.325538,Resolução/Conclusão
+26110439,Aljezur,Algarve,313,2025-10-09T11:08:00Z,26110439,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-09T11:08:00Z,Aljezur,Faro,Algarve,-8.796072,37.325538,Resolução/Conclusão
 26109416,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-10-09T08:38:00Z,26109416,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,15,2025-10-09T08:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.719628,41.751532,Resolução/Conclusão
-26110435,Ala e Vilarinho do Monte,Terras de Trás-os-Montes,309,2025-10-09T11:02:00Z,26110435,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,15,2025-10-09T11:02:00Z,Macedo De Cavaleiros,Bragança,Norte,-7.074403,41.591523,Resolução/Conclusão
-26110669,Sande e São Lourenço,Tâmega e Sousa,309,2025-10-09T11:45:00Z,26110669,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-09T11:45:00Z,Marco De Canaveses,Porto,Norte,-8.15544,41.12102,Despacho
+26110435,Ala e Vilarinho do Monte,Terras de Trás-os-Montes,309,2025-10-09T11:02:00Z,26110435,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,17,2025-10-09T11:02:00Z,Macedo De Cavaleiros,Bragança,Norte,-7.074403,41.591523,Resolução/Conclusão
+26110669,Sande e São Lourenço,Tâmega e Sousa,309,2025-10-09T11:45:00Z,26110669,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-09T11:45:00Z,Marco De Canaveses,Porto,Norte,-8.16512,41.122907,Resolução/Conclusão
