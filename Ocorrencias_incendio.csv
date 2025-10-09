@@ -1,8 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26113513,Beiral do Lima,Alto Minho,309,2025-10-09T22:11:00Z,26113513,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-09T22:11:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.491012,41.764053,Resolução/Conclusão
+26113484,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-10-09T21:59:00Z,26113484,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-09T21:59:00Z,Gondomar,Porto,Norte,-8.534493,41.19773,Resolução/Conclusão
+26113598,Tarouquela,Tâmega e Sousa,309,2025-10-09T22:45:00Z,26113598,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,22,2025-10-09T22:45:00Z,Cinfães,Viseu,Norte,-8.18054,41.070127,Resolução/Conclusão
+26113623,Pontinha e Famões,Grande Lisboa,311,2025-10-09T22:55:00Z,26113623,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-09T22:55:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.219621,38.7858,Resolução/Conclusão
+26113684,Calvos e Frades,Ave,309,2025-10-09T23:30:00Z,26113684,Em Curso,3103,Incêndio rural,0,4,0,17,2025-10-09T23:30:00Z,Póvoa De Lanhoso,Braga,Norte,-8.246933,41.604337,Curso
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
 26113283,Gralhas,Alto Tâmega e Barroso,309,2025-10-09T20:51:00Z,26113283,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,30,2025-10-09T20:51:00Z,Montalegre,Vila Real,Norte,-7.719948,41.856633,Resolução/Conclusão
-26113654,Vagos e Santo António,Região de Aveiro,310,2025-10-09T23:10:00Z,26113654,Em Despacho,3111,Queima,0,1,0,5,2025-10-09T23:10:00Z,Vagos,Aveiro,Centro,-8.68094,40.554939,Despacho
-26113484,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-10-09T21:59:00Z,26113484,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,11,2025-10-09T21:59:00Z,Gondomar,Porto,Norte,-8.534493,41.19773,Resolução/Conclusão
-26113598,Tarouquela,Tâmega e Sousa,309,2025-10-09T22:45:00Z,26113598,Em Despacho,3103,Incêndio rural,0,5,0,22,2025-10-09T22:45:00Z,Cinfães,Viseu,Norte,-8.18054,41.070127,Despacho
-26113623,Pontinha e Famões,Grande Lisboa,311,2025-10-09T22:55:00Z,26113623,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-10-09T22:55:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.219621,38.7858,Resolução/Conclusão
+26113726,Canelas,Tâmega e Sousa,309,2025-10-09T23:45:00Z,26113726,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-09T23:45:00Z,Penafiel,Porto,Norte,-8.32233,41.076566,Despacho
