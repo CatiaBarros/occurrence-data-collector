@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26111029,Nogueira da Montanha,Alto Tâmega e Barroso,309,2025-10-09T13:00:00Z,26111029,Em Resolução/Conclusão,3103,Incêndio rural,1,4,0,23,2025-10-09T13:00:00Z,Chaves,Vila Real,Norte,-7.445764,41.685791,Resolução/Conclusão
-26111132,Portel,Alentejo Central,312,2025-10-09T13:17:00Z,26111132,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,17,2025-10-09T13:17:00Z,Portel,Évora,Alentejo,-7.703592,38.326518,Resolução/Conclusão
-26109416,"Nogueira, Meixedo e Vilar de Murteda",Alto Minho,309,2025-10-09T08:38:00Z,26109416,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-09T08:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.719628,41.751532,Resolução/Conclusão
 26110435,Ala e Vilarinho do Monte,Terras de Trás-os-Montes,309,2025-10-09T11:02:00Z,26110435,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,17,2025-10-09T11:02:00Z,Macedo De Cavaleiros,Bragança,Norte,-7.074403,41.591523,Resolução/Conclusão
-26110905,Unhão e Lordelo,Tâmega e Sousa,309,2025-10-09T12:19:00Z,26110905,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-09T12:19:00Z,Felgueiras,Porto,Norte,-8.226797,41.303023,Resolução/Conclusão
+26110905,Unhão e Lordelo,Tâmega e Sousa,309,2025-10-09T12:19:00Z,26110905,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-09T12:19:00Z,Felgueiras,Porto,Norte,-8.226797,41.303023,Resolução/Conclusão
 26111206,Penacova,Tâmega e Sousa,309,2025-10-09T13:29:00Z,26111206,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-10-09T13:29:00Z,Felgueiras,Porto,Norte,-8.255627,41.373432,Resolução/Conclusão
-26110892,Chancelaria,Médio Tejo,311,2025-10-09T12:35:00Z,26110892,Em Resolução/Conclusão,3103,Incêndio rural,1,10,0,40,2025-10-09T12:35:00Z,Torres Novas,Santarém,Centro,-8.53307,39.5877,Resolução/Conclusão
+26111407,"Aboadela, Sanche e Várzea",Tâmega e Sousa,309,2025-10-09T14:16:00Z,26111407,Em Despacho,3101,Incêndio rural,1,1,0,11,2025-10-09T14:16:00Z,Amarante,Porto,Norte,-7.999635,41.25904,Despacho
+26110892,Assentiz,Médio Tejo,311,2025-10-09T12:35:00Z,26110892,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,32,2025-10-09T12:35:00Z,Torres Novas,Santarém,Centro,-8.524402,39.573698,Resolução/Conclusão
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
 26110902,Salir de Matos,Oeste,311,2025-10-09T12:33:00Z,26110902,Em Curso,3103,Incêndio rural,0,7,0,21,2025-10-09T12:33:00Z,Caldas Da Rainha,Leiria,Centro,-9.096202,39.422148,Curso
+26111029,Nogueira da Montanha,Alto Tâmega e Barroso,309,2025-10-09T13:00:00Z,26111029,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-09T13:00:00Z,Chaves,Vila Real,Norte,-7.445764,41.685791,Resolução/Conclusão
+26111132,Portel,Alentejo Central,312,2025-10-09T13:17:00Z,26111132,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-10-09T13:17:00Z,Portel,Évora,Alentejo,-7.703592,38.326518,Resolução/Conclusão
