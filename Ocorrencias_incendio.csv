@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26113829,Capinha,Beiras e Serra da Estrela,310,2025-10-10T00:39:00Z,26113829,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-10T00:39:00Z,Fundão,Castelo Branco,Centro,-7.431108,40.196925,Resolução/Conclusão
+26114330,Tabuaças,Ave,309,2025-10-10T07:31:00Z,26114330,Em Despacho,3103,Incêndio rural,0,4,0,19,2025-10-10T07:31:00Z,Vieira Do Minho,Braga,Norte,-8.204728,41.62574,Despacho
 26114152,Sande e São Lourenço,Tâmega e Sousa,309,2025-10-10T05:40:00Z,26114152,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-10T05:40:00Z,Marco De Canaveses,Porto,Norte,-8.190085,41.096193,Resolução/Conclusão
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26113726,Canelas,Tâmega e Sousa,309,2025-10-09T23:45:00Z,26113726,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-09T23:45:00Z,Penafiel,Porto,Norte,-8.329035,41.071923,Resolução/Conclusão
+26114344,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-10-10T07:34:00Z,26114344,Em Curso,3101,Incêndio rural,0,1,0,5,2025-10-10T07:34:00Z,Vila Nova De Gaia,Porto,Norte,-8.47647,41.06633,Curso
