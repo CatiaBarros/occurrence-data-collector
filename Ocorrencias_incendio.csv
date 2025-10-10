@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26113829,Capinha,Beiras e Serra da Estrela,310,2025-10-10T00:39:00Z,26113829,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,13,2025-10-10T00:39:00Z,Fundão,Castelo Branco,Centro,-7.431108,40.196925,Resolução/Conclusão
+26114152,Sande e São Lourenço,Tâmega e Sousa,309,2025-10-10T05:40:00Z,26114152,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-10T05:40:00Z,Marco De Canaveses,Porto,Norte,-8.19669,41.10056,Despacho
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
 26113283,Gralhas,Alto Tâmega e Barroso,309,2025-10-09T20:51:00Z,26113283,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-09T20:51:00Z,Montalegre,Vila Real,Norte,-7.719948,41.856633,Resolução/Conclusão
 26113726,Canelas,Tâmega e Sousa,309,2025-10-09T23:45:00Z,26113726,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-09T23:45:00Z,Penafiel,Porto,Norte,-8.329035,41.071923,Resolução/Conclusão
