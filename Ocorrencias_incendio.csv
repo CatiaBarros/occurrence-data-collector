@@ -1,13 +1,18 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Curso,3101,Incêndio rural,7,57,0,220,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Curso
-26115902,Pombal,Região de Leiria,310,2025-10-10T12:25:00Z,26115902,Em Despacho,3111,Queima,0,1,0,5,2025-10-10T12:25:00Z,Pombal,Leiria,Centro,-8.65264,39.87947,Despacho
+26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,7,57,0,225,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
+26115902,Pombal,Região de Leiria,310,2025-10-10T12:25:00Z,26115902,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-10T12:25:00Z,Pombal,Leiria,Centro,-8.65314,39.88155,Resolução/Conclusão
 26115725,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-10-10T11:51:00Z,26115725,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-10T11:51:00Z,Marco De Canaveses,Porto,Norte,-8.247945,41.092483,Resolução/Conclusão
-26115927,São Domingos de Rana,Grande Lisboa,311,2025-10-10T12:30:00Z,26115927,Em Curso,3103,Incêndio rural,0,4,0,18,2025-10-10T12:30:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.349737,38.727851,Curso
-26115995,Ribeirão,Ave,309,2025-10-10T12:46:00Z,26115995,Em Despacho,3105,Incêndio rural,0,1,0,2,2025-10-10T12:46:00Z,Vila Nova De Famalicão,Braga,Norte,-8.562457,41.359989,Despacho
-26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Curso,3103,Incêndio rural,1,4,0,23,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.703256,41.851153,Curso
+26115927,São Domingos de Rana,Grande Lisboa,311,2025-10-10T12:30:00Z,26115927,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,18,2025-10-10T12:30:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.352849,38.708001,Resolução/Conclusão
+26115995,Ribeirão,Ave,309,2025-10-10T12:46:00Z,26115995,Em Curso,3105,Incêndio rural,0,1,0,2,2025-10-10T12:46:00Z,Vila Nova De Famalicão,Braga,Norte,-8.570892,41.359383,Curso
+26116008,Vila do Conde,Area M. Porto,309,2025-10-10T12:49:00Z,26116008,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-10T12:49:00Z,Vila Do Conde,Porto,Norte,-8.748867,41.371872,Resolução/Conclusão
+26116042,Pegões,Península de Setúbal,311,2025-10-10T12:52:00Z,26116042,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-10-10T12:52:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.757197,38.690184,Despacho
+26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Curso,3103,Incêndio rural,3,5,0,27,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Curso
 26093602,Castro Daire,Viseu Dão Lafões,310,2025-10-05T22:05:00Z,26093602,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-05T22:05:00Z,Castro Daire,Viseu,Centro,-7.9408,40.925289,Resolução/Conclusão
-26115621,Calvos e Frades,Ave,309,2025-10-10T11:31:00Z,26115621,Em Resolução/Conclusão,3103,Incêndio rural,2,6,0,35,2025-10-10T11:31:00Z,Póvoa De Lanhoso,Braga,Norte,-8.244815,41.615302,Resolução/Conclusão
-26115664,Monteiras,Viseu Dão Lafões,310,2025-10-10T11:38:00Z,26115664,Em Resolução/Conclusão,3103,Incêndio rural,4,17,0,79,2025-10-10T11:38:00Z,Castro Daire,Viseu,Centro,-7.886195,40.970313,Resolução/Conclusão
-26115832,Estorãos,Ave,309,2025-10-10T12:10:00Z,26115832,Em Curso,3103,Incêndio rural,1,4,0,26,2025-10-10T12:10:00Z,Fafe,Braga,Norte,-8.138278,41.48263,Curso
+26115621,Calvos e Frades,Ave,309,2025-10-10T11:31:00Z,26115621,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-10-10T11:31:00Z,Póvoa De Lanhoso,Braga,Norte,-8.244815,41.615302,Resolução/Conclusão
+26115664,Monteiras,Viseu Dão Lafões,310,2025-10-10T11:38:00Z,26115664,Em Resolução/Conclusão,3103,Incêndio rural,3,15,0,63,2025-10-10T11:38:00Z,Castro Daire,Viseu,Centro,-7.886195,40.970313,Resolução/Conclusão
+26115832,Estorãos,Ave,309,2025-10-10T12:10:00Z,26115832,Em Resolução/Conclusão,3103,Incêndio rural,1,4,0,26,2025-10-10T12:10:00Z,Fafe,Braga,Norte,-8.131178,41.495925,Resolução/Conclusão
 26115955,Fridão,Tâmega e Sousa,309,2025-10-10T12:30:00Z,26115955,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-10T12:30:00Z,Amarante,Porto,Norte,-8.02616,41.308863,Resolução/Conclusão
-26115982,Penamacor,Beira Baixa,310,2025-10-10T12:43:00Z,26115982,Em Curso,3105,Incêndio rural,0,4,0,14,2025-10-10T12:43:00Z,Penamacor,Castelo Branco,Centro,-7.165826,40.167676,Curso
+26115982,Penamacor,Beira Baixa,310,2025-10-10T12:43:00Z,26115982,Em Curso,3105,Incêndio rural,2,14,0,63,2025-10-10T12:43:00Z,Penamacor,Castelo Branco,Centro,-7.1652,40.169608,Curso
+26116081,Cárquere,Tâmega e Sousa,309,2025-10-10T12:58:00Z,26116081,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-10T12:58:00Z,Resende,Viseu,Norte,-7.964192,41.101455,Resolução/Conclusão
+26116182,"Ardegão, Arnozela e Seidões",Ave,309,2025-10-10T13:20:00Z,26116182,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-10-10T13:20:00Z,Fafe,Braga,Norte,-8.124387,41.396363,Despacho
+26116161,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-10-10T13:16:00Z,26116161,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-10T13:16:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16543,38.66543,Despacho
