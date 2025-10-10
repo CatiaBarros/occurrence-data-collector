@@ -1,12 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,9,0,34,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
-26115982,Penamacor,Beira Baixa,310,2025-10-10T12:43:00Z,26115982,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-10-10T12:43:00Z,Penamacor,Castelo Branco,Centro,-7.1652,40.169608,Resolução/Conclusão
-26118731,Cervos,Alto Tâmega e Barroso,309,2025-10-10T22:15:00Z,26118731,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-10T22:15:00Z,Montalegre,Vila Real,Norte,-7.666542,41.76335,Resolução/Conclusão
-26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,38,0,119,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
+26118082,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-10T19:27:00Z,26118082,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,21,2025-10-10T19:27:00Z,Cinfães,Viseu,Norte,-7.955442,40.985963,Resolução/Conclusão
+26118918,Canedo,Alto Tâmega e Barroso,309,2025-10-10T23:36:00Z,26118918,Em Despacho,3103,Incêndio rural,0,4,0,18,2025-10-10T23:36:00Z,Ribeira De Pena,Vila Real,Norte,-7.739581,41.620796,Despacho
+26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,19,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
+26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,36,0,112,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
 26117844,Alvarelhos e Guidões,Area M. Porto,309,2025-10-10T18:35:00Z,26117844,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,26,2025-10-10T18:35:00Z,Trofa,Porto,Norte,-8.613175,41.294045,Resolução/Conclusão
 26118162,Alvarelhos e Guidões,Area M. Porto,309,2025-10-10T19:44:00Z,26118162,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,11,2025-10-10T19:44:00Z,Trofa,Porto,Norte,-8.619812,41.301152,Resolução/Conclusão
-26118344,Vilar e Mosteiró,Area M. Porto,309,2025-10-10T20:25:00Z,26118344,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,6,2025-10-10T20:25:00Z,Vila Do Conde,Porto,Norte,-8.675228,41.286157,Resolução/Conclusão
-26118082,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-10T19:27:00Z,26118082,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,31,2025-10-10T19:27:00Z,Cinfães,Viseu,Norte,-7.955442,40.985963,Resolução/Conclusão
-26118786,Caxarias,Médio Tejo,311,2025-10-10T22:40:00Z,26118786,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,9,2025-10-10T22:40:00Z,Ourém,Santarém,Centro,-8.531752,39.712105,Resolução/Conclusão
-26118918,Canedo,Alto Tâmega e Barroso,309,2025-10-10T23:36:00Z,26118918,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-10-10T23:36:00Z,Ribeira De Pena,Vila Real,Norte,-7.739581,41.620796,Despacho
-26118935,São João Baptista,Alto Alentejo,312,2025-10-10T23:40:00Z,26118935,Em Despacho,3105,Incêndio rural,0,3,0,8,2025-10-10T23:40:00Z,Campo Maior,Portalegre,Alentejo,-7.067339,39.01939,Despacho
