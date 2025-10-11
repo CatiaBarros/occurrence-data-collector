@@ -1,13 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26119150,Prado (São Miguel),Cávado,309,2025-10-11T01:42:00Z,26119150,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,8,2025-10-11T01:42:00Z,Vila Verde,Braga,Norte,-8.437767,41.6985,Resolução/Conclusão
-26120873,Prozelo,Alto Minho,309,2025-10-11T12:18:00Z,26120873,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-10-11T12:18:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.436642,41.866457,Despacho
-26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,45,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
-26119509,São Gens,Ave,309,2025-10-11T06:41:00Z,26119509,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-11T06:41:00Z,Fafe,Braga,Norte,-8.117385,41.44606,Resolução/Conclusão
-26119614,Estorãos,Ave,309,2025-10-11T07:43:00Z,26119614,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-11T07:43:00Z,Fafe,Braga,Norte,-8.127398,41.495262,Resolução/Conclusão
-26120518,Tocha,Região de Coimbra,310,2025-10-11T11:07:00Z,26120518,Em Resolução/Conclusão,3103,Incêndio rural,1,12,0,44,2025-10-11T11:07:00Z,Cantanhede,Coimbra,Centro,-8.7675,40.31778,Resolução/Conclusão
-26120777,Silvares,Ave,309,2025-10-11T11:55:00Z,26120777,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-11T11:55:00Z,Guimarães,Braga,Norte,-8.333521,41.44307,Resolução/Conclusão
 26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,9,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
 26120028,Pelariga,Região de Leiria,310,2025-10-11T09:26:00Z,26120028,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-11T09:26:00Z,Pombal,Leiria,Centro,-8.581441,39.94881,Resolução/Conclusão
 26120713,Vilar de Pinheiro,Area M. Porto,309,2025-10-11T11:47:00Z,26120713,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-11T11:47:00Z,Vila Do Conde,Porto,Norte,-8.67438,41.27319,Resolução/Conclusão
-26120694,Esperança e Brunhais,Ave,309,2025-10-11T11:42:00Z,26120694,Em Curso,3103,Incêndio rural,5,7,0,48,2025-10-11T11:42:00Z,Póvoa De Lanhoso,Braga,Norte,-8.173805,41.583791,Curso
-26120701,Meca,Oeste,311,2025-10-11T11:43:00Z,26120701,Em Curso,3101,Incêndio rural,1,5,0,25,2025-10-11T11:43:00Z,Alenquer,Lisboa,Centro,-9.042671,39.085545,Curso
+26120694,Esperança e Brunhais,Ave,309,2025-10-11T11:42:00Z,26120694,Em Curso,3103,Incêndio rural,10,10,0,61,2025-10-11T11:42:00Z,Póvoa De Lanhoso,Braga,Norte,-8.173805,41.583791,Curso
+26120701,Meca,Oeste,311,2025-10-11T11:43:00Z,26120701,Em Curso,3103,Incêndio rural,1,8,0,33,2025-10-11T11:43:00Z,Alenquer,Lisboa,Centro,-9.042671,39.085545,Curso
+26120931,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-11T12:31:00Z,26120931,Em Despacho,3103,Incêndio rural,2,7,0,38,2025-10-11T12:31:00Z,Vinhais,Bragança,Norte,-6.97651,41.95135,Despacho
+26119150,Prado (São Miguel),Cávado,309,2025-10-11T01:42:00Z,26119150,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,8,2025-10-11T01:42:00Z,Vila Verde,Braga,Norte,-8.437767,41.6985,Resolução/Conclusão
+26120873,Prozelo,Alto Minho,309,2025-10-11T12:18:00Z,26120873,Em Curso,3103,Incêndio rural,1,1,0,11,2025-10-11T12:18:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.440502,41.865137,Curso
+26120922,Santo Quintino,Oeste,311,2025-10-11T12:21:00Z,26120922,Em Curso,3111,Queima,0,2,0,6,2025-10-11T12:21:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.144372,39.004541,Curso
+26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,45,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
+26119509,São Gens,Ave,309,2025-10-11T06:41:00Z,26119509,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-11T06:41:00Z,Fafe,Braga,Norte,-8.117385,41.44606,Resolução/Conclusão
+26120518,Tocha,Região de Coimbra,310,2025-10-11T11:07:00Z,26120518,Em Resolução/Conclusão,3103,Incêndio rural,0,12,0,38,2025-10-11T11:07:00Z,Cantanhede,Coimbra,Centro,-8.7675,40.31778,Resolução/Conclusão
+26120777,Silvares,Ave,309,2025-10-11T11:55:00Z,26120777,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-11T11:55:00Z,Guimarães,Braga,Norte,-8.333521,41.44307,Resolução/Conclusão
