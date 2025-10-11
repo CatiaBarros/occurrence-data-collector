@@ -1,14 +1,19 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,9,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
-26120931,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-11T12:31:00Z,26120931,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,34,2025-10-11T12:31:00Z,Vinhais,Bragança,Norte,-6.96733,41.954683,Resolução/Conclusão
-26120694,Esperança e Brunhais,Ave,309,2025-10-11T11:42:00Z,26120694,Em Curso,3103,Incêndio rural,11,36,0,137,2025-10-11T11:42:00Z,Póvoa De Lanhoso,Braga,Norte,-8.173805,41.583791,Curso
+26120694,Esperança e Brunhais,Ave,309,2025-10-11T11:42:00Z,26120694,Em Curso,3103,Incêndio rural,7,36,0,130,2025-10-11T11:42:00Z,Póvoa De Lanhoso,Braga,Norte,-8.173805,41.583791,Curso
 26120701,Meca,Oeste,311,2025-10-11T11:43:00Z,26120701,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,27,2025-10-11T11:43:00Z,Alenquer,Lisboa,Centro,-9.041827,39.087005,Resolução/Conclusão
-26121530,Corroios,Península de Setúbal,311,2025-10-11T14:45:00Z,26121530,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,25,2025-10-11T14:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15707,38.60734,Resolução/Conclusão
+26121530,Corroios,Península de Setúbal,311,2025-10-11T14:45:00Z,26121530,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,16,2025-10-11T14:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.15707,38.60734,Resolução/Conclusão
+26121737,Ferreiros de Tendais,Tâmega e Sousa,309,2025-10-11T15:26:00Z,26121737,Em Curso,3103,Incêndio rural,1,4,0,23,2025-10-11T15:26:00Z,Cinfães,Viseu,Norte,-8.051061,41.047881,Curso
+26121814,Ceira,Região de Coimbra,310,2025-10-11T15:43:00Z,26121814,Em Despacho,3101,Incêndio rural,1,2,0,13,2025-10-11T15:43:00Z,Coimbra,Coimbra,Centro,-8.376144,40.175952,Despacho
 26119150,Prado (São Miguel),Cávado,309,2025-10-11T01:42:00Z,26119150,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,5,2025-10-11T01:42:00Z,Vila Verde,Braga,Norte,-8.437767,41.6985,Resolução/Conclusão
 26121325,Campelo e Ovil,Tâmega e Sousa,309,2025-10-11T14:00:00Z,26121325,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-11T14:00:00Z,Baião,Porto,Norte,-8.036115,41.165138,Resolução/Conclusão
-26121641,Alvarelhos e Guidões,Area M. Porto,309,2025-10-11T14:55:00Z,26121641,Em Curso,3103,Incêndio rural,0,3,0,11,2025-10-11T14:55:00Z,Trofa,Porto,Norte,-8.609605,41.309843,Curso
+26121641,Alvarelhos e Guidões,Area M. Porto,309,2025-10-11T14:55:00Z,26121641,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-11T14:55:00Z,Trofa,Porto,Norte,-8.614188,41.293968,Resolução/Conclusão
+26121759,Vilela do Tâmega,Alto Tâmega e Barroso,309,2025-10-11T15:32:00Z,26121759,Em Despacho,3103,Incêndio rural,1,5,0,28,2025-10-11T15:32:00Z,Chaves,Vila Real,Norte,-7.54342,41.684785,Despacho
+26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,9,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
+26120931,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-11T12:31:00Z,26120931,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,34,2025-10-11T12:31:00Z,Vinhais,Bragança,Norte,-6.96733,41.954683,Resolução/Conclusão
 26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,15,0,48,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
-26120518,Tocha,Região de Coimbra,310,2025-10-11T11:07:00Z,26120518,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,21,2025-10-11T11:07:00Z,Cantanhede,Coimbra,Centro,-8.7675,40.31778,Resolução/Conclusão
-26121127,Selmes,Baixo Alentejo,312,2025-10-11T13:17:00Z,26121127,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-11T13:17:00Z,Vidigueira,Beja,Alentejo,-7.844697,38.190823,Resolução/Conclusão
-26121520,Alcoentre,Lezíria do Tejo,311,2025-10-11T14:42:00Z,26121520,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-10-11T14:42:00Z,Azambuja,Lisboa,Alentejo,-8.993948,39.21587,Resolução/Conclusão
-26121613,Murtosa,Região de Aveiro,310,2025-10-11T14:57:00Z,26121613,Em Curso,3105,Incêndio rural,0,4,0,15,2025-10-11T14:57:00Z,Murtosa,Aveiro,Centro,-8.6422,40.73712,Curso
+26121127,Selmes,Baixo Alentejo,312,2025-10-11T13:17:00Z,26121127,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-10-11T13:17:00Z,Vidigueira,Beja,Alentejo,-7.844697,38.190823,Resolução/Conclusão
+26121520,Alcoentre,Lezíria do Tejo,311,2025-10-11T14:42:00Z,26121520,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,11,2025-10-11T14:42:00Z,Azambuja,Lisboa,Alentejo,-8.993948,39.21587,Resolução/Conclusão
+26121770,Turcifal,Oeste,311,2025-10-11T15:35:00Z,26121770,Em Despacho,3101,Incêndio rural,0,3,0,12,2025-10-11T15:35:00Z,Torres Vedras,Lisboa,Centro,-9.27923,39.05674,Despacho
+26121795,Quinta do Conde,Península de Setúbal,311,2025-10-11T15:40:00Z,26121795,Em Despacho,3103,Incêndio rural,0,2,0,9,2025-10-11T15:40:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.08062,38.55183,Despacho
+26121809,Resende,Tâmega e Sousa,309,2025-10-11T15:39:00Z,26121809,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-11T15:39:00Z,Resende,Viseu,Norte,-7.955755,41.105403,Despacho
+26121816,Basto,Ave,309,2025-10-11T15:45:00Z,26121816,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-10-11T15:45:00Z,Cabeceiras De Basto,Braga,Norte,-7.99202,41.46255,Despacho
