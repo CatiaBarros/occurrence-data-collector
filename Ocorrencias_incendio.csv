@@ -1,8 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,19,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
+26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,14,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
 26118082,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-10T19:27:00Z,26118082,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,16,2025-10-10T19:27:00Z,Cinfães,Viseu,Norte,-7.955442,40.985963,Resolução/Conclusão
-26118918,Canedo,Alto Tâmega e Barroso,309,2025-10-10T23:36:00Z,26118918,Em Curso,3101,Incêndio rural,0,8,0,33,2025-10-10T23:36:00Z,Ribeira De Pena,Vila Real,Norte,-7.724267,41.630432,Curso
+26118918,Canedo,Alto Tâmega e Barroso,309,2025-10-10T23:36:00Z,26118918,Em Curso,3101,Incêndio rural,0,9,0,35,2025-10-10T23:36:00Z,Ribeira De Pena,Vila Real,Norte,-7.724267,41.630432,Curso
 26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,34,0,107,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
 26117844,Alvarelhos e Guidões,Area M. Porto,309,2025-10-10T18:35:00Z,26117844,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,26,2025-10-10T18:35:00Z,Trofa,Porto,Norte,-8.613175,41.294045,Resolução/Conclusão
-26118162,Alvarelhos e Guidões,Area M. Porto,309,2025-10-10T19:44:00Z,26118162,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-10T19:44:00Z,Trofa,Porto,Norte,-8.619812,41.301152,Resolução/Conclusão
-26119021,São João de Ver,Area M. Porto,309,2025-10-11T00:13:00Z,26119021,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-11T00:13:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.556212,40.960782,Resolução/Conclusão
