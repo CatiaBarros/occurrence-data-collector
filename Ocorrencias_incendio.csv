@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,21,0,56,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
+26117844,Alvarelhos e Guidões,Area M. Porto,309,2025-10-10T18:35:00Z,26117844,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,14,2025-10-10T18:35:00Z,Trofa,Porto,Norte,-8.613175,41.294045,Resolução/Conclusão
 26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,5,0,14,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
 26119160,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-11T01:45:00Z,26119160,Em Curso,3103,Incêndio rural,0,8,0,33,2025-10-11T01:45:00Z,Vinhais,Bragança,Norte,-6.965835,41.949908,Curso
-26119178,Salir de Matos,Oeste,311,2025-10-11T01:55:00Z,26119178,Em Resolução/Conclusão,3111,Queima,0,3,0,9,2025-10-11T01:55:00Z,Caldas Da Rainha,Leiria,Centro,-9.095806,39.42198,Resolução/Conclusão
-26118918,Canedo,Alto Tâmega e Barroso,309,2025-10-10T23:36:00Z,26118918,Em Resolução/Conclusão,3101,Incêndio rural,0,10,0,36,2025-10-10T23:36:00Z,Ribeira De Pena,Vila Real,Norte,-7.724267,41.630432,Resolução/Conclusão
-26119150,Prado (São Miguel),Cávado,309,2025-10-11T01:42:00Z,26119150,Em Curso,3103,Incêndio rural,0,7,0,26,2025-10-11T01:42:00Z,Vila Verde,Braga,Norte,-8.437767,41.6985,Curso
-26119267,Selho São Lourenço e Gominhães,Ave,309,2025-10-11T03:17:00Z,26119267,Em Curso,3103,Incêndio rural,0,4,0,17,2025-10-11T03:17:00Z,Guimarães,Braga,Norte,-8.285623,41.487032,Curso
-26119319,Murtosa,Região de Aveiro,310,2025-10-11T03:50:00Z,26119319,Em Curso,3101,Incêndio rural,0,3,0,10,2025-10-11T03:50:00Z,Murtosa,Aveiro,Centro,-8.63389,40.736155,Curso
-26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,21,0,56,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
-26117844,Alvarelhos e Guidões,Area M. Porto,309,2025-10-10T18:35:00Z,26117844,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,22,2025-10-10T18:35:00Z,Trofa,Porto,Norte,-8.613175,41.294045,Resolução/Conclusão
+26118918,Canedo,Alto Tâmega e Barroso,309,2025-10-10T23:36:00Z,26118918,Em Resolução/Conclusão,3101,Incêndio rural,0,8,0,30,2025-10-10T23:36:00Z,Ribeira De Pena,Vila Real,Norte,-7.724267,41.630432,Resolução/Conclusão
+26119150,Prado (São Miguel),Cávado,309,2025-10-11T01:42:00Z,26119150,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,26,2025-10-11T01:42:00Z,Vila Verde,Braga,Norte,-8.437767,41.6985,Resolução/Conclusão
+26119267,Selho São Lourenço e Gominhães,Ave,309,2025-10-11T03:17:00Z,26119267,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-11T03:17:00Z,Guimarães,Braga,Norte,-8.285623,41.487032,Resolução/Conclusão
+26119319,Murtosa,Região de Aveiro,310,2025-10-11T03:50:00Z,26119319,Em Curso,3105,Incêndio rural,0,4,0,12,2025-10-11T03:50:00Z,Murtosa,Aveiro,Centro,-8.643857,40.738175,Curso
