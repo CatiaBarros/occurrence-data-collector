@@ -1,14 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
-26122481,Benfica do Ribatejo,Lezíria do Tejo,311,2025-10-11T18:21:00Z,26122481,Em Resolução/Conclusão,3111,Queima,0,5,0,19,2025-10-11T18:21:00Z,Almeirim,Santarém,Alentejo,-8.661868,39.124912,Resolução/Conclusão
-26119150,Prado (São Miguel),Cávado,309,2025-10-11T01:42:00Z,26119150,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,5,2025-10-11T01:42:00Z,Vila Verde,Braga,Norte,-8.437767,41.6985,Resolução/Conclusão
-26121759,Vilela do Tâmega,Alto Tâmega e Barroso,309,2025-10-11T15:32:00Z,26121759,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-11T15:32:00Z,Chaves,Vila Real,Norte,-7.545093,41.678248,Resolução/Conclusão
-26122310,Ruilhe,Cávado,309,2025-10-11T17:33:00Z,26122310,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-11T17:33:00Z,Braga,Braga,Norte,-8.494453,41.488702,Resolução/Conclusão
-26122477,Olalhas,Médio Tejo,311,2025-10-11T18:21:00Z,26122477,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-11T18:21:00Z,Tomar,Santarém,Centro,-8.267502,39.640063,Resolução/Conclusão
-26120694,Esperança e Brunhais,Ave,309,2025-10-11T11:42:00Z,26120694,Em Resolução/Conclusão,3103,Incêndio rural,0,33,0,100,2025-10-11T11:42:00Z,Póvoa De Lanhoso,Braga,Norte,-8.173805,41.583791,Resolução/Conclusão
-26121737,Ferreiros de Tendais,Tâmega e Sousa,309,2025-10-11T15:26:00Z,26121737,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,26,2025-10-11T15:26:00Z,Cinfães,Viseu,Norte,-8.004192,41.030787,Resolução/Conclusão
-26121871,Santa Catarina da Serra e Chainça,Região de Leiria,310,2025-10-11T15:59:00Z,26121871,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-11T15:59:00Z,Leiria,Leiria,Centro,-8.676678,39.660473,Resolução/Conclusão
 26114630,Seixo da Beira,Região de Coimbra,310,2025-10-10T08:46:00Z,26114630,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-10-10T08:46:00Z,Oliveira Do Hospital,Coimbra,Centro,-7.851872,40.421183,Resolução/Conclusão
-26120931,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-11T12:31:00Z,26120931,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,14,2025-10-11T12:31:00Z,Vinhais,Bragança,Norte,-6.96733,41.954683,Resolução/Conclusão
-26122670,Castro Laboreiro e Lamas de Mouro,Alto Minho,309,2025-10-11T19:05:00Z,26122670,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-11T19:05:00Z,Melgaço,Viana Do Castelo,Norte,-8.158218,42.023722,Despacho
-26122564,Palmeira,Cávado,309,2025-10-11T18:38:00Z,26122564,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-11T18:38:00Z,Braga,Braga,Norte,-8.423023,41.576582,Resolução/Conclusão
+26120931,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-11T12:31:00Z,26120931,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,9,2025-10-11T12:31:00Z,Vinhais,Bragança,Norte,-6.96733,41.954683,Resolução/Conclusão
+26122703,Cabreiros e Passos (São Julião),Cávado,309,2025-10-11T19:00:00Z,26122703,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-11T19:00:00Z,Braga,Braga,Norte,-8.492713,41.525827,Resolução/Conclusão
+26122785,Aguiã,Alto Minho,309,2025-10-11T19:36:00Z,26122785,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-11T19:36:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.443228,41.881635,Despacho
+26119150,Prado (São Miguel),Cávado,309,2025-10-11T01:42:00Z,26119150,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-11T01:42:00Z,Vila Verde,Braga,Norte,-8.437767,41.6985,Resolução/Conclusão
+26121759,Vilela do Tâmega,Alto Tâmega e Barroso,309,2025-10-11T15:32:00Z,26121759,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-11T15:32:00Z,Chaves,Vila Real,Norte,-7.545093,41.678248,Resolução/Conclusão
+26122310,Ruilhe,Cávado,309,2025-10-11T17:33:00Z,26122310,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-11T17:33:00Z,Braga,Braga,Norte,-8.494453,41.488702,Resolução/Conclusão
+26120694,Esperança e Brunhais,Ave,309,2025-10-11T11:42:00Z,26120694,Em Resolução/Conclusão,3103,Incêndio rural,0,21,0,66,2025-10-11T11:42:00Z,Póvoa De Lanhoso,Braga,Norte,-8.173805,41.583791,Resolução/Conclusão
+26121737,Ferreiros de Tendais,Tâmega e Sousa,309,2025-10-11T15:26:00Z,26121737,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,24,2025-10-11T15:26:00Z,Cinfães,Viseu,Norte,-8.004192,41.030787,Resolução/Conclusão
+26121871,Santa Catarina da Serra e Chainça,Região de Leiria,310,2025-10-11T15:59:00Z,26121871,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-11T15:59:00Z,Leiria,Leiria,Centro,-8.676678,39.660473,Resolução/Conclusão
+26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
+26122742,Moncarapacho e Fuseta,Algarve,313,2025-10-11T19:26:00Z,26122742,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,18,2025-10-11T19:26:00Z,Olhão,Faro,Algarve,-7.792279,37.085895,Resolução/Conclusão
+26122767,Freigil e Miomães,Tâmega e Sousa,309,2025-10-11T19:31:00Z,26122767,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-11T19:31:00Z,Resende,Viseu,Norte,-8.016496,41.10099,Despacho
+26122790,Sapataria,Oeste,311,2025-10-11T19:38:00Z,26122790,Em Despacho,3103,Incêndio rural,0,3,0,9,2025-10-11T19:38:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.18209,38.96901,Despacho
