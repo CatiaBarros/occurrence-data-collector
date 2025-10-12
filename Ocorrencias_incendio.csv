@@ -1,6 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26122931,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-10-11T20:10:00Z,26122931,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-11T20:10:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.01107,40.93251,Resolução/Conclusão
+26122931,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-10-11T20:10:00Z,26122931,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-11T20:10:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.01107,40.93251,Resolução/Conclusão
 26124151,Alhos Vedros,Península de Setúbal,311,2025-10-12T06:50:00Z,26124151,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-12T06:50:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-9.004776,38.6535,Resolução/Conclusão
-26123436,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-11T22:45:00Z,26123436,Em Curso,3103,Incêndio rural,0,6,0,24,2025-10-11T22:45:00Z,Cinfães,Viseu,Norte,-8.008836,41.061059,Curso
-26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
+26123436,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-11T22:45:00Z,26123436,Em Curso,3103,Incêndio rural,1,6,0,27,2025-10-11T22:45:00Z,Cinfães,Viseu,Norte,-8.008836,41.061059,Curso
+26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
 26123846,Loriga,Beiras e Serra da Estrela,310,2025-10-12T02:34:00Z,26123846,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-12T02:34:00Z,Seia,Guarda,Centro,-7.6951599999999996,40.312578,Resolução/Conclusão
+26124294,Estorãos,Ave,309,2025-10-12T08:03:00Z,26124294,Em Despacho,3103,Incêndio rural,1,2,0,16,2025-10-12T08:03:00Z,Fafe,Braga,Norte,-8.138278,41.48263,Despacho
