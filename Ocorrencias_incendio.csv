@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26123436,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-11T22:45:00Z,26123436,Em Curso,3103,Incêndio rural,1,8,0,32,2025-10-11T22:45:00Z,Cinfães,Viseu,Norte,-8.008836,41.061059,Curso
+26124927,Arcos e Mogofores,Região de Aveiro,310,2025-10-12T10:33:00Z,26124927,Em Despacho,3105,Incêndio rural,0,1,0,3,2025-10-12T10:33:00Z,Anadia,Aveiro,Centro,-8.458477,40.451321,Despacho
 26122931,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-10-11T20:10:00Z,26122931,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-11T20:10:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.01107,40.93251,Resolução/Conclusão
-26124601,Carregado e Cadafais,Oeste,311,2025-10-12T09:10:00Z,26124601,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-12T09:10:00Z,Alenquer,Lisboa,Centro,-9.003561,39.006579,Resolução/Conclusão
-26124633,Santa Marta de Portuzelo,Alto Minho,309,2025-10-12T09:30:00Z,26124633,Em Curso,3105,Incêndio rural,0,1,0,5,2025-10-12T09:30:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.78027,41.69646,Curso
-26124635,Vilar de Maçada,Douro,309,2025-10-12T09:30:00Z,26124635,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-12T09:30:00Z,Alijó,Vila Real,Norte,-7.53576,41.31859,Resolução/Conclusão
+26124633,Santa Marta de Portuzelo,Alto Minho,309,2025-10-12T09:30:00Z,26124633,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-12T09:30:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.778505,41.696923,Resolução/Conclusão
+26124952,Estorãos,Ave,309,2025-10-12T10:38:00Z,26124952,Em Despacho,3103,Incêndio rural,1,0,0,6,2025-10-12T10:38:00Z,Fafe,Braga,Norte,-8.145072,41.47477,Despacho
 26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
 26123846,Loriga,Beiras e Serra da Estrela,310,2025-10-12T02:34:00Z,26123846,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-12T02:34:00Z,Seia,Guarda,Centro,-7.6951599999999996,40.312578,Resolução/Conclusão
-26124294,Estorãos,Ave,309,2025-10-12T08:03:00Z,26124294,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-12T08:03:00Z,Fafe,Braga,Norte,-8.140142,41.494373,Resolução/Conclusão
-26124689,Prado (São Miguel),Cávado,309,2025-10-12T09:41:00Z,26124689,Em Curso,3103,Incêndio rural,2,7,0,40,2025-10-12T09:41:00Z,Vila Verde,Braga,Norte,-8.439582,41.700673,Curso
+26124294,Estorãos,Ave,309,2025-10-12T08:03:00Z,26124294,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-12T08:03:00Z,Fafe,Braga,Norte,-8.140142,41.494373,Resolução/Conclusão
+26124689,Prado (São Miguel),Cávado,309,2025-10-12T09:41:00Z,26124689,Em Resolução/Conclusão,3103,Incêndio rural,2,9,0,46,2025-10-12T09:41:00Z,Vila Verde,Braga,Norte,-8.439582,41.700673,Resolução/Conclusão
+26123436,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-11T22:45:00Z,26123436,Em Curso,3103,Incêndio rural,1,8,0,32,2025-10-11T22:45:00Z,Cinfães,Viseu,Norte,-8.008836,41.061059,Curso
