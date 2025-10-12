@@ -1,8 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26123436,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-11T22:45:00Z,26123436,Em Curso,3103,Incêndio rural,0,6,0,24,2025-10-11T22:45:00Z,Cinfães,Viseu,Norte,-8.008836,41.061059,Curso
-26122931,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-10-11T20:10:00Z,26122931,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-10-11T20:10:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.01107,40.93251,Resolução/Conclusão
-26123262,Quinchães,Ave,309,2025-10-11T21:48:00Z,26123262,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-11T21:48:00Z,Fafe,Braga,Norte,-8.107948,41.437197,Resolução/Conclusão
-26123497,Urrô,Area M. Porto,309,2025-10-11T23:22:00Z,26123497,Em Resolução/Conclusão,3103,Incêndio rural,0,22,0,82,2025-10-11T23:22:00Z,Arouca,Aveiro,Norte,-8.284965,40.879503,Resolução/Conclusão
+26123922,Gulpilhares e Valadares,Area M. Porto,309,2025-10-12T03:06:00Z,26123922,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-12T03:06:00Z,Vila Nova De Gaia,Porto,Norte,-8.652923,41.094922,Resolução/Conclusão
 26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
 26123794,Calvos e Frades,Ave,309,2025-10-12T01:56:00Z,26123794,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-12T01:56:00Z,Póvoa De Lanhoso,Braga,Norte,-8.247523,41.613493,Resolução/Conclusão
-26123846,Loriga,Beiras e Serra da Estrela,310,2025-10-12T02:34:00Z,26123846,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-10-12T02:34:00Z,Seia,Guarda,Centro,-7.688365,40.323053,Resolução/Conclusão
+26123846,Loriga,Beiras e Serra da Estrela,310,2025-10-12T02:34:00Z,26123846,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-12T02:34:00Z,Seia,Guarda,Centro,-7.6951599999999996,40.312578,Resolução/Conclusão
+26122931,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-10-11T20:10:00Z,26122931,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-11T20:10:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.01107,40.93251,Resolução/Conclusão
+26123262,Quinchães,Ave,309,2025-10-11T21:48:00Z,26123262,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-11T21:48:00Z,Fafe,Braga,Norte,-8.107948,41.437197,Resolução/Conclusão
+26123497,Urrô,Area M. Porto,309,2025-10-11T23:22:00Z,26123497,Em Resolução/Conclusão,3103,Incêndio rural,0,22,0,82,2025-10-11T23:22:00Z,Arouca,Aveiro,Norte,-8.284965,40.879503,Resolução/Conclusão
+26123950,Escapães,Area M. Porto,309,2025-10-12T03:34:00Z,26123950,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-12T03:34:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.50711,40.94136,Despacho
