@@ -1,7 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26123436,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-11T22:45:00Z,26123436,Em Curso,3103,Incêndio rural,0,6,0,24,2025-10-11T22:45:00Z,Cinfães,Viseu,Norte,-8.008836,41.061059,Curso
 26115854,Gralhas,Alto Tâmega e Barroso,309,2025-10-10T12:13:00Z,26115854,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-10T12:13:00Z,Montalegre,Vila Real,Norte,-7.72346,41.854762,Resolução/Conclusão
 26123846,Loriga,Beiras e Serra da Estrela,310,2025-10-12T02:34:00Z,26123846,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-12T02:34:00Z,Seia,Guarda,Centro,-7.6951599999999996,40.312578,Resolução/Conclusão
+26123436,"Alhões, Bustelo, Gralheira e Ramires",Tâmega e Sousa,309,2025-10-11T22:45:00Z,26123436,Em Curso,3103,Incêndio rural,0,6,0,24,2025-10-11T22:45:00Z,Cinfães,Viseu,Norte,-8.008836,41.061059,Curso
 26122931,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-10-11T20:10:00Z,26122931,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-11T20:10:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.01107,40.93251,Resolução/Conclusão
-26123497,Urrô,Area M. Porto,309,2025-10-11T23:22:00Z,26123497,Em Resolução/Conclusão,3103,Incêndio rural,0,20,0,72,2025-10-11T23:22:00Z,Arouca,Aveiro,Norte,-8.284965,40.879503,Resolução/Conclusão
+26123497,Urrô,Area M. Porto,309,2025-10-11T23:22:00Z,26123497,Em Resolução/Conclusão,3103,Incêndio rural,0,18,0,65,2025-10-11T23:22:00Z,Arouca,Aveiro,Norte,-8.284965,40.879503,Resolução/Conclusão
 26123950,Escapães,Area M. Porto,309,2025-10-12T03:34:00Z,26123950,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-12T03:34:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.50711,40.94136,Despacho
+26124015,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-10-12T04:29:00Z,26124015,Em Despacho,3103,Incêndio rural,0,4,0,17,2025-10-12T04:29:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.173889,38.67611,Despacho
+26124033,"Ponte de Sor, Tramaga e Vale de Açor",Alto Alentejo,312,2025-10-12T04:44:00Z,26124033,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-10-12T04:44:00Z,Ponte De Sor,Portalegre,Alentejo,-8.00332,39.267377,Despacho
