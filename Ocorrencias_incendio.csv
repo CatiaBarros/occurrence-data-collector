@@ -1,7 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26126383,Mouriscas,Médio Tejo,311,2025-10-12T15:59:00Z,26126383,Em Resolução/Conclusão,3103,Incêndio rural,9,13,0,63,2025-10-12T15:59:00Z,Abrantes,Santarém,Centro,-8.11638,39.518325,Resolução/Conclusão
+26126383,Mouriscas,Médio Tejo,311,2025-10-12T15:59:00Z,26126383,Em Curso,3103,Incêndio rural,9,17,0,77,2025-10-12T15:59:00Z,Abrantes,Santarém,Centro,-8.11638,39.518325,Curso
 26128884,"Vilela, São Cosme e São Damião e Sá",Alto Minho,309,2025-10-13T08:30:00Z,26128884,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,12,2025-10-13T08:30:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.42571,41.916205,Resolução/Conclusão
-26129995,Asseiceira,Lezíria do Tejo,311,2025-10-13T11:41:00Z,26129995,Em Despacho,3105,Incêndio rural,1,7,0,34,2025-10-13T11:41:00Z,Rio Maior,Santarém,Alentejo,-8.941,39.27769,Despacho
-26130044,Santo Aleixo,Alto Alentejo,312,2025-10-13T11:46:00Z,26130044,Em Despacho,3105,Incêndio rural,0,7,0,28,2025-10-13T11:46:00Z,Monforte,Portalegre,Alentejo,-7.390172,38.953432,Despacho
+26129995,Asseiceira,Lezíria do Tejo,311,2025-10-13T11:41:00Z,26129995,Em Resolução/Conclusão,3105,Incêndio rural,0,6,0,23,2025-10-13T11:41:00Z,Rio Maior,Santarém,Alentejo,-8.945242,39.290183,Resolução/Conclusão
+26130104,Melides,Alentejo Litoral,312,2025-10-13T12:00:00Z,26130104,Em Despacho,3103,Incêndio rural,0,6,0,23,2025-10-13T12:00:00Z,Grândola,Setúbal,Alentejo,-8.73051,38.18903,Despacho
 26129471,Retorta e Tougues,Area M. Porto,309,2025-10-13T10:21:00Z,26129471,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-13T10:21:00Z,Vila Do Conde,Porto,Norte,-8.71662,41.35946,Resolução/Conclusão
-26130041,São Pedro de Veiga de Lila,Alto Tâmega e Barroso,309,2025-10-13T11:48:00Z,26130041,Em Despacho,3103,Incêndio rural,1,3,0,20,2025-10-13T11:48:00Z,Valpaços,Vila Real,Norte,-7.353519,41.496382,Despacho
+26130041,São Pedro de Veiga de Lila,Alto Tâmega e Barroso,309,2025-10-13T11:48:00Z,26130041,Em Curso,3103,Incêndio rural,1,3,0,21,2025-10-13T11:48:00Z,Valpaços,Vila Real,Norte,-7.377488,41.481877,Curso
+26130044,Santo Aleixo,Alto Alentejo,312,2025-10-13T11:46:00Z,26130044,Em Curso,3105,Incêndio rural,3,13,0,59,2025-10-13T11:46:00Z,Monforte,Portalegre,Alentejo,-7.396498,38.966055,Curso
+26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Curso,3101,Incêndio rural,0,6,0,24,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.133104,39.533156,Curso
+26130221,São Pedro da Torre,Alto Minho,309,2025-10-13T12:20:00Z,26130221,Em Curso,3105,Incêndio rural,0,2,0,4,2025-10-13T12:20:00Z,Valença,Viana Do Castelo,Norte,-8.662744,41.985483,Curso
