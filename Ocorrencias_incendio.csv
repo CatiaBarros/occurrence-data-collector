@@ -1,9 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26132381,Borbela e Lamas de Olo,Douro,309,2025-10-13T19:27:00Z,26132381,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-13T19:27:00Z,Vila Real,Vila Real,Norte,-7.73123,41.32201,Resolução/Conclusão
-26132189,Alvora e Loureda,Alto Minho,309,2025-10-13T18:45:00Z,26132189,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-13T18:45:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.44509,41.945205,Resolução/Conclusão
-26132372,Bucos,Ave,309,2025-10-13T19:24:00Z,26132372,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-13T19:24:00Z,Cabeceiras De Basto,Braga,Norte,-8.051415,41.560957,Resolução/Conclusão
 26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.119095,39.515667,Resolução/Conclusão
 26132811,Azias,Alto Minho,309,2025-10-13T21:27:00Z,26132811,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-13T21:27:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.363977,41.774183,Resolução/Conclusão
-26132959,Refóios do Lima,Alto Minho,309,2025-10-13T22:14:00Z,26132959,Em Curso,3103,Incêndio rural,0,1,0,5,2025-10-13T22:14:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.540179,41.800597,Curso
+26132959,Refóios do Lima,Alto Minho,309,2025-10-13T22:14:00Z,26132959,Em Curso,3103,Incêndio rural,0,2,0,7,2025-10-13T22:14:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.527167,41.794005,Curso
+26132189,Alvora e Loureda,Alto Minho,309,2025-10-13T18:45:00Z,26132189,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-13T18:45:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.44509,41.945205,Resolução/Conclusão
 26131349,Gralhas,Alto Tâmega e Barroso,309,2025-10-13T15:42:00Z,26131349,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-13T15:42:00Z,Montalegre,Vila Real,Norte,-7.720882,41.853077,Resolução/Conclusão
-26132685,Alturas do Barroso e Cerdedo,Alto Tâmega e Barroso,309,2025-10-13T20:49:00Z,26132685,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-10-13T20:49:00Z,Boticas,Vila Real,Norte,-7.865755,41.675247,Despacho
+26132685,Alturas do Barroso e Cerdedo,Alto Tâmega e Barroso,309,2025-10-13T20:49:00Z,26132685,Em Curso,3103,Incêndio rural,0,4,0,17,2025-10-13T20:49:00Z,Boticas,Vila Real,Norte,-7.846217,41.673307,Curso
