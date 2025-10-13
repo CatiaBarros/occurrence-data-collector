@@ -1,16 +1,17 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26130541,Anissó e Soutelo,Ave,309,2025-10-13T13:24:00Z,26130541,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-13T13:24:00Z,Vieira Do Minho,Braga,Norte,-8.187045,41.59913,Resolução/Conclusão
+26130044,Santo Aleixo,Alto Alentejo,312,2025-10-13T11:46:00Z,26130044,Em Resolução/Conclusão,3105,Incêndio rural,0,13,0,47,2025-10-13T11:46:00Z,Monforte,Portalegre,Alentejo,-7.396498,38.966055,Resolução/Conclusão
+26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,14,0,51,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.119095,39.515667,Resolução/Conclusão
+26131191,Mondrões,Douro,309,2025-10-13T15:10:00Z,26131191,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-13T15:10:00Z,Vila Real,Vila Real,Norte,-7.796953,41.305577,Resolução/Conclusão
+26131732,Monte Córdova,Area M. Porto,309,2025-10-13T17:10:00Z,26131732,Em Curso,3103,Incêndio rural,0,1,0,5,2025-10-13T17:10:00Z,Santo Tirso,Porto,Norte,-8.438507,41.31608,Curso
 26126383,Mouriscas,Médio Tejo,311,2025-10-12T15:59:00Z,26126383,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-12T15:59:00Z,Abrantes,Santarém,Centro,-8.11638,39.518325,Resolução/Conclusão
 26130536,Santa Marinha,Alto Tâmega e Barroso,309,2025-10-13T13:23:00Z,26130536,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,35,2025-10-13T13:23:00Z,Ribeira De Pena,Vila Real,Norte,-7.784483,41.526403,Resolução/Conclusão
-26131349,Gralhas,Alto Tâmega e Barroso,309,2025-10-13T15:42:00Z,26131349,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,14,2025-10-13T15:42:00Z,Montalegre,Vila Real,Norte,-7.720882,41.853077,Resolução/Conclusão
+26131349,Gralhas,Alto Tâmega e Barroso,309,2025-10-13T15:42:00Z,26131349,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,15,2025-10-13T15:42:00Z,Montalegre,Vila Real,Norte,-7.720882,41.853077,Resolução/Conclusão
 26131581,Ovoa e Vimieiro,Viseu Dão Lafões,310,2025-10-13T16:34:00Z,26131581,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,14,2025-10-13T16:34:00Z,Santa Comba Dão,Viseu,Centro,-8.164901,40.354518,Resolução/Conclusão
-26131808,Encarnação,Grande Lisboa,311,2025-10-13T17:22:00Z,26131808,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-10-13T17:22:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.390561,39.02196,Despacho
+26131808,Encarnação,Grande Lisboa,311,2025-10-13T17:22:00Z,26131808,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-13T17:22:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.390561,39.02196,Resolução/Conclusão
 26131851,Avessadas e Rosém,Tâmega e Sousa,309,2025-10-13T17:32:00Z,26131851,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-13T17:32:00Z,Marco De Canaveses,Porto,Norte,-8.17298,41.16365,Despacho
-26131118,Irivo,Tâmega e Sousa,309,2025-10-13T14:58:00Z,26131118,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,16,2025-10-13T14:58:00Z,Penafiel,Porto,Norte,-8.345868,41.182323,Resolução/Conclusão
+26131960,"Nossa Senhora da Conceição, São Pedro e São Dinis",Douro,309,2025-10-13T17:58:00Z,26131960,Em Despacho,3103,Incêndio rural,1,0,0,6,2025-10-13T17:58:00Z,Vila Real,Vila Real,Norte,-7.74274,41.293969,Despacho
+26131118,Irivo,Tâmega e Sousa,309,2025-10-13T14:58:00Z,26131118,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,14,2025-10-13T14:58:00Z,Penafiel,Porto,Norte,-8.345868,41.182323,Resolução/Conclusão
 26131133,"Crasto, Ruivos e Grovelas",Alto Minho,309,2025-10-13T15:01:00Z,26131133,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-13T15:01:00Z,Ponte Da Barca,Viana Do Castelo,Norte,-8.473601,41.743561,Resolução/Conclusão
 26131537,"Tamengos, Aguim e Óis do Bairro",Região de Aveiro,310,2025-10-13T16:24:00Z,26131537,Em Resolução/Conclusão,3105,Incêndio rural,1,7,0,26,2025-10-13T16:24:00Z,Anadia,Aveiro,Centro,-8.466082,40.41392,Resolução/Conclusão
-26130044,Santo Aleixo,Alto Alentejo,312,2025-10-13T11:46:00Z,26130044,Em Resolução/Conclusão,3105,Incêndio rural,0,13,0,47,2025-10-13T11:46:00Z,Monforte,Portalegre,Alentejo,-7.396498,38.966055,Resolução/Conclusão
-26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,17,0,56,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.119095,39.515667,Resolução/Conclusão
-26131191,Mondrões,Douro,309,2025-10-13T15:10:00Z,26131191,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-13T15:10:00Z,Vila Real,Vila Real,Norte,-7.796953,41.305577,Resolução/Conclusão
-26131466,Amieira e Alqueva,Alentejo Central,312,2025-10-13T16:03:00Z,26131466,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-10-13T16:03:00Z,Portel,Évora,Alentejo,-7.63296,38.278,Resolução/Conclusão
-26131732,Monte Córdova,Area M. Porto,309,2025-10-13T17:10:00Z,26131732,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-13T17:10:00Z,Santo Tirso,Porto,Norte,-8.438507,41.31608,Despacho
+26130541,Anissó e Soutelo,Ave,309,2025-10-13T13:24:00Z,26130541,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-13T13:24:00Z,Vieira Do Minho,Braga,Norte,-8.187045,41.59913,Resolução/Conclusão
+26131945,Milheirós,Area M. Porto,309,2025-10-13T17:55:00Z,26131945,Em Despacho,3103,Incêndio rural,1,1,0,5,2025-10-13T17:55:00Z,Maia,Porto,Norte,-8.576591,41.22036,Despacho
