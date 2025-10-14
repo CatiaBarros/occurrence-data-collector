@@ -1,11 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26136479,Santo André,Alto Tâmega e Barroso,309,2025-10-14T15:45:00Z,26136479,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,16,2025-10-14T15:45:00Z,Montalegre,Vila Real,Norte,-7.665836,41.863612,Resolução/Conclusão
+26136965,Vela,Beiras e Serra da Estrela,310,2025-10-14T17:29:00Z,26136965,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,21,2025-10-14T17:29:00Z,Guarda,Guarda,Centro,-7.304398,40.42713,Resolução/Conclusão
+26137020,Aljubarrota,Oeste,311,2025-10-14T17:38:00Z,26137020,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-14T17:38:00Z,Alcobaça,Leiria,Centro,-8.918563,39.561183,Resolução/Conclusão
+26136807,Aguiar de Sousa,Area M. Porto,309,2025-10-14T16:57:00Z,26136807,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T16:57:00Z,Paredes,Porto,Norte,-8.445314,41.10316,Resolução/Conclusão
+26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.118693,39.516055,Resolução/Conclusão
+26137055,"Freixianda, Ribeira do Fárrio e Formigais",Médio Tejo,311,2025-10-14T17:47:00Z,26137055,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-14T17:47:00Z,Ourém,Santarém,Centro,-8.459322,39.75627,Resolução/Conclusão
 26134710,Dornelas,Alto Tâmega e Barroso,309,2025-10-14T10:34:00Z,26134710,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-14T10:34:00Z,Boticas,Vila Real,Norte,-7.850045,41.67118,Resolução/Conclusão
 26136164,Alvora e Loureda,Alto Minho,309,2025-10-14T14:50:00Z,26136164,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T14:50:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.441895,41.950902,Resolução/Conclusão
-26136234,Alpiarça,Lezíria do Tejo,311,2025-10-14T15:03:00Z,26136234,Em Resolução/Conclusão,3101,Incêndio rural,0,9,0,35,2025-10-14T15:03:00Z,Alpiarça,Santarém,Alentejo,-8.567572,39.180697,Resolução/Conclusão
-26136173,Veiros,Alentejo Central,312,2025-10-14T14:52:00Z,26136173,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,9,2025-10-14T14:52:00Z,Estremoz,Évora,Alentejo,-7.467087,38.955028,Resolução/Conclusão
-26136807,Aguiar de Sousa,Area M. Porto,309,2025-10-14T16:57:00Z,26136807,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-14T16:57:00Z,Paredes,Porto,Norte,-8.445314,41.10316,Despacho
-26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.118693,39.516055,Resolução/Conclusão
-26136102,São Pedro e Santa Maria e Vila Boa do Mondego,Beiras e Serra da Estrela,310,2025-10-14T14:41:00Z,26136102,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-14T14:41:00Z,Celorico Da Beira,Guarda,Centro,-7.393468,40.633015,Resolução/Conclusão
-26136479,Santo André,Alto Tâmega e Barroso,309,2025-10-14T15:45:00Z,26136479,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,16,2025-10-14T15:45:00Z,Montalegre,Vila Real,Norte,-7.665836,41.863612,Resolução/Conclusão
-26136965,Vela,Beiras e Serra da Estrela,310,2025-10-14T17:29:00Z,26136965,Em Despacho,3103,Incêndio rural,1,5,0,22,2025-10-14T17:29:00Z,Guarda,Guarda,Centro,-7.311589,40.442568,Despacho
-26137020,Aljubarrota,Oeste,311,2025-10-14T17:38:00Z,26137020,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-14T17:38:00Z,Alcobaça,Leiria,Centro,-8.941861,39.565461,Despacho
+26136234,Alpiarça,Lezíria do Tejo,311,2025-10-14T15:03:00Z,26136234,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-14T15:03:00Z,Alpiarça,Santarém,Alentejo,-8.567572,39.180697,Resolução/Conclusão
+26137069,Vagos e Santo António,Região de Aveiro,310,2025-10-14T17:49:00Z,26137069,Em Curso,3111,Queima,0,2,0,7,2025-10-14T17:49:00Z,Vagos,Aveiro,Centro,-8.697331,40.55582,Curso
