@@ -1,8 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26137326,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-10-14T18:47:00Z,26137326,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T18:47:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.674853,41.687727,Resolução/Conclusão
-26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Curso,3103,Incêndio rural,0,10,0,43,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.104625,40.950657,Curso
-26137169,Anissó e Soutelo,Ave,309,2025-10-14T18:11:00Z,26137169,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-14T18:11:00Z,Vieira Do Minho,Braga,Norte,-8.187423,41.599008,Resolução/Conclusão
-26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.118693,39.516055,Resolução/Conclusão
-26137566,Louredo,Area M. Porto,309,2025-10-14T19:40:00Z,26137566,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-10-14T19:40:00Z,Paredes,Porto,Norte,-8.342252,41.238752,Despacho
 26137199,Vilar de Lomba e São Jomil,Terras de Trás-os-Montes,309,2025-10-14T18:19:00Z,26137199,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-14T18:19:00Z,Vinhais,Bragança,Norte,-7.181412,41.784668,Resolução/Conclusão
-26137522,Fregim,Tâmega e Sousa,309,2025-10-14T19:41:00Z,26137522,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-14T19:41:00Z,Amarante,Porto,Norte,-8.13098,41.28036,Despacho
+26137522,Fregim,Tâmega e Sousa,309,2025-10-14T19:41:00Z,26137522,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-14T19:41:00Z,Amarante,Porto,Norte,-8.131657,41.279995,Resolução/Conclusão
+26137588,Vreia de Bornes,Alto Tâmega e Barroso,309,2025-10-14T20:02:00Z,26137588,Em Despacho,3103,Incêndio rural,0,4,0,17,2025-10-14T20:02:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.575274,41.55086,Despacho
+26137615,São Mamede de Infesta e Senhora da Hora,Area M. Porto,309,2025-10-14T20:10:00Z,26137615,Em Curso,3103,Incêndio rural,0,3,0,11,2025-10-14T20:10:00Z,Matosinhos,Porto,Norte,-8.61156,41.19957,Curso
+26137169,Anissó e Soutelo,Ave,309,2025-10-14T18:11:00Z,26137169,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T18:11:00Z,Vieira Do Minho,Braga,Norte,-8.187423,41.599008,Resolução/Conclusão
+26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.118693,39.516055,Resolução/Conclusão
+26137566,Louredo,Area M. Porto,309,2025-10-14T19:40:00Z,26137566,Em Despacho,3103,Incêndio rural,0,2,0,8,2025-10-14T19:40:00Z,Paredes,Porto,Norte,-8.342252,41.238752,Despacho
+26137326,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-10-14T18:47:00Z,26137326,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-14T18:47:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.674853,41.687727,Resolução/Conclusão
+26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Curso,3103,Incêndio rural,0,13,0,51,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.104625,40.950657,Curso
