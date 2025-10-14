@@ -1,10 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.118693,39.516055,Resolução/Conclusão
 26137682,Cabril,Viseu Dão Lafões,310,2025-10-14T20:26:00Z,26137682,Em Curso,3103,Incêndio rural,0,6,0,20,2025-10-14T20:26:00Z,Castro Daire,Viseu,Centro,-8.09192,40.961935,Curso
-26137973,Duas Igrejas,Area M. Porto,309,2025-10-14T21:55:00Z,26137973,Em Curso,3101,Incêndio rural,0,1,0,5,2025-10-14T21:55:00Z,Paredes,Porto,Norte,-8.386243,41.228302,Curso
 26137199,Vilar de Lomba e São Jomil,Terras de Trás-os-Montes,309,2025-10-14T18:19:00Z,26137199,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-14T18:19:00Z,Vinhais,Bragança,Norte,-7.181412,41.784668,Resolução/Conclusão
 26137522,Fregim,Tâmega e Sousa,309,2025-10-14T19:41:00Z,26137522,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-14T19:41:00Z,Amarante,Porto,Norte,-8.131657,41.279995,Resolução/Conclusão
 26137818,"Veade, Gagos e Molares",Tâmega e Sousa,309,2025-10-14T21:05:00Z,26137818,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,14,2025-10-14T21:05:00Z,Celorico De Basto,Braga,Norte,-7.993718,41.42042,Resolução/Conclusão
-26137971,"Areias, Sequeiró, Lama e Palmeira",Area M. Porto,309,2025-10-14T22:00:00Z,26137971,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-14T22:00:00Z,Santo Tirso,Porto,Norte,-8.476147,41.364343,Despacho
+26137971,"Areias, Sequeiró, Lama e Palmeira",Area M. Porto,309,2025-10-14T22:00:00Z,26137971,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T22:00:00Z,Santo Tirso,Porto,Norte,-8.476147,41.364343,Resolução/Conclusão
 26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Curso,3103,Incêndio rural,0,9,0,38,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.059472,40.970448,Curso
 26137777,Monte e Queimadela,Ave,309,2025-10-14T20:54:00Z,26137777,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-10-14T20:54:00Z,Fafe,Braga,Norte,-8.154765,41.528335,Resolução/Conclusão
+26138113,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-10-14T22:44:00Z,26138113,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-14T22:44:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.38831,38.76601,Despacho
