@@ -1,9 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26134710,Dornelas,Alto Tâmega e Barroso,309,2025-10-14T10:34:00Z,26134710,Em Despacho,3103,Incêndio rural,1,2,0,16,2025-10-14T10:34:00Z,Boticas,Vila Real,Norte,-7.841392,41.660714,Despacho
+26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.119095,39.515667,Resolução/Conclusão
 26134432,Aguçadoura e Navais,Area M. Porto,309,2025-10-14T09:45:00Z,26134432,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T09:45:00Z,Póvoa De Varzim,Porto,Norte,-8.7511,41.42269,Resolução/Conclusão
 26134439,Santa Catarina,Oeste,311,2025-10-14T09:45:00Z,26134439,Em Resolução/Conclusão,3111,Queima,0,5,0,18,2025-10-14T09:45:00Z,Caldas Da Rainha,Leiria,Centro,-9.008811,39.429874,Resolução/Conclusão
-26134650,Quelfes,Algarve,313,2025-10-14T10:25:00Z,26134650,Em Curso,3103,Incêndio rural,0,3,0,14,2025-10-14T10:25:00Z,Olhão,Faro,Algarve,-7.82688,37.034124,Curso
-26133623,Termas de São Vicente,Tâmega e Sousa,309,2025-10-14T06:17:00Z,26133623,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T06:17:00Z,Penafiel,Porto,Norte,-8.279557,41.12889,Resolução/Conclusão
-26134710,Dornelas,Alto Tâmega e Barroso,309,2025-10-14T10:34:00Z,26134710,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-10-14T10:34:00Z,Boticas,Vila Real,Norte,-7.841392,41.660714,Despacho
-26134702,Cambas,Beira Baixa,310,2025-10-14T10:34:00Z,26134702,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-14T10:34:00Z,Oleiros,Castelo Branco,Centro,-7.84837,40.00792,Despacho
-26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,8,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.119095,39.515667,Resolução/Conclusão
-26133997,Oliveira do Douro,Area M. Porto,309,2025-10-14T08:31:00Z,26133997,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-14T08:31:00Z,Vila Nova De Gaia,Porto,Norte,-8.576047,41.13663,Resolução/Conclusão
+26134650,Quelfes,Algarve,313,2025-10-14T10:25:00Z,26134650,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-10-14T10:25:00Z,Olhão,Faro,Algarve,-7.82688,37.034124,Resolução/Conclusão
+26134702,Cambas,Beira Baixa,310,2025-10-14T10:34:00Z,26134702,Em Despacho,3101,Incêndio rural,1,12,0,47,2025-10-14T10:34:00Z,Oleiros,Castelo Branco,Centro,-7.908161,40.0346,Despacho
