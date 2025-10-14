@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26133623,Termas de São Vicente,Tâmega e Sousa,309,2025-10-14T06:17:00Z,26133623,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T06:17:00Z,Penafiel,Porto,Norte,-8.279557,41.12889,Resolução/Conclusão
 26130196,Sardoal,Médio Tejo,311,2025-10-13T11:45:00Z,26130196,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-13T11:45:00Z,Sardoal,Santarém,Centro,-8.119095,39.515667,Resolução/Conclusão
-26133781,Lordelo,Douro,309,2025-10-14T07:39:00Z,26133781,Em Curso,3103,Incêndio rural,0,2,0,7,2025-10-14T07:39:00Z,Vila Real,Vila Real,Norte,-7.760278,41.30972,Curso
+26133997,Oliveira do Douro,Area M. Porto,309,2025-10-14T08:31:00Z,26133997,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-14T08:31:00Z,Vila Nova De Gaia,Porto,Norte,-8.576047,41.13663,Despacho
+26133623,Termas de São Vicente,Tâmega e Sousa,309,2025-10-14T06:17:00Z,26133623,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T06:17:00Z,Penafiel,Porto,Norte,-8.279557,41.12889,Resolução/Conclusão
