@@ -1,7 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Resolução/Conclusão,3103,Incêndio rural,1,1,0,7,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.059472,40.970448,Resolução/Conclusão
-26138653,Calvos e Frades,Ave,309,2025-10-15T05:54:00Z,26138653,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-15T05:54:00Z,Póvoa De Lanhoso,Braga,Norte,-8.24277,41.614365,Resolução/Conclusão
-26140430,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-10-15T12:29:00Z,26140430,Em Resolução/Conclusão,3103,Incêndio rural,1,8,0,37,2025-10-15T12:29:00Z,Torres Novas,Santarém,Centro,-8.539335,39.476394,Resolução/Conclusão
-26140392,Soajo,Alto Minho,309,2025-10-15T12:22:00Z,26140392,Em Curso,3103,Incêndio rural,1,2,0,14,2025-10-15T12:22:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.219368,41.903442,Curso
-26140394,Caparica e Trafaria,Península de Setúbal,311,2025-10-15T12:19:00Z,26140394,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,15,2025-10-15T12:19:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.205011,38.66171,Resolução/Conclusão
+26140392,Soajo,Alto Minho,309,2025-10-15T12:22:00Z,26140392,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-15T12:22:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.219368,41.903442,Resolução/Conclusão
+26140644,Chorense e Monte,Cávado,309,2025-10-15T13:16:00Z,26140644,Em Curso,3103,Incêndio rural,2,9,0,48,2025-10-15T13:16:00Z,Terras De Bouro,Braga,Norte,-8.254743,41.702095,Curso
+26140676,Alvarelhos e Guidões,Area M. Porto,309,2025-10-15T13:20:00Z,26140676,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-15T13:20:00Z,Trofa,Porto,Norte,-8.614308,41.29407,Resolução/Conclusão
+26140726,Mira,Região de Coimbra,310,2025-10-15T13:27:00Z,26140726,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-15T13:27:00Z,Mira,Coimbra,Centro,-8.757811,40.441983,Resolução/Conclusão
+26140777,Borbela e Lamas de Olo,Douro,309,2025-10-15T13:38:00Z,26140777,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-15T13:38:00Z,Vila Real,Vila Real,Norte,-7.72775,41.324565,Resolução/Conclusão
+26140430,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-10-15T12:29:00Z,26140430,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,28,2025-10-15T12:29:00Z,Torres Novas,Santarém,Centro,-8.480182,39.489692,Resolução/Conclusão
+26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.059472,40.970448,Resolução/Conclusão
+26140802,Talhadas,Região de Aveiro,310,2025-10-15T13:42:00Z,26140802,Em Despacho,3101,Incêndio rural,1,7,0,29,2025-10-15T13:42:00Z,Sever Do Vouga,Aveiro,Centro,-8.325914,40.674949,Despacho
 26137682,Cabril,Viseu Dão Lafões,310,2025-10-14T20:26:00Z,26137682,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T20:26:00Z,Castro Daire,Viseu,Centro,-8.09192,40.961935,Resolução/Conclusão
