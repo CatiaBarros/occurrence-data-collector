@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26137682,Cabril,Viseu Dão Lafões,310,2025-10-14T20:26:00Z,26137682,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T20:26:00Z,Castro Daire,Viseu,Centro,-8.09192,40.961935,Resolução/Conclusão
 26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.059472,40.970448,Resolução/Conclusão
-26137777,Monte e Queimadela,Ave,309,2025-10-14T20:54:00Z,26137777,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-14T20:54:00Z,Fafe,Braga,Norte,-8.154765,41.528335,Resolução/Conclusão
+26137777,Monte e Queimadela,Ave,309,2025-10-14T20:54:00Z,26137777,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-10-14T20:54:00Z,Fafe,Braga,Norte,-8.154765,41.528335,Resolução/Conclusão
 26138113,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim",Grande Lisboa,311,2025-10-14T22:44:00Z,26138113,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,9,2025-10-14T22:44:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.398293,38.767585,Resolução/Conclusão
 26138482,São Gens,Ave,309,2025-10-15T02:18:00Z,26138482,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-15T02:18:00Z,Fafe,Braga,Norte,-8.101483,41.428088,Resolução/Conclusão
+26137682,Cabril,Viseu Dão Lafões,310,2025-10-14T20:26:00Z,26137682,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T20:26:00Z,Castro Daire,Viseu,Centro,-8.09192,40.961935,Resolução/Conclusão
