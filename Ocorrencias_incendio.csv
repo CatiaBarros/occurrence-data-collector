@@ -1,5 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Resolução/Conclusão,3103,Incêndio rural,1,1,0,7,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.059472,40.970448,Resolução/Conclusão
 26137682,Cabril,Viseu Dão Lafões,310,2025-10-14T20:26:00Z,26137682,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-14T20:26:00Z,Castro Daire,Viseu,Centro,-8.09192,40.961935,Resolução/Conclusão
-26138653,Calvos e Frades,Ave,309,2025-10-15T05:54:00Z,26138653,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,17,2025-10-15T05:54:00Z,Póvoa De Lanhoso,Braga,Norte,-8.24277,41.614365,Resolução/Conclusão
+26140392,Soajo,Alto Minho,309,2025-10-15T12:22:00Z,26140392,Em Despacho,3103,Incêndio rural,1,2,0,14,2025-10-15T12:22:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.219368,41.903442,Despacho
+26140394,Caparica e Trafaria,Península de Setúbal,311,2025-10-15T12:19:00Z,26140394,Em Despacho,3103,Incêndio rural,0,3,0,15,2025-10-15T12:19:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.205011,38.66171,Despacho
+26137442,Cabril,Viseu Dão Lafões,310,2025-10-14T19:16:00Z,26137442,Em Resolução/Conclusão,3103,Incêndio rural,1,1,0,7,2025-10-14T19:16:00Z,Castro Daire,Viseu,Centro,-8.059472,40.970448,Resolução/Conclusão
+26138653,Calvos e Frades,Ave,309,2025-10-15T05:54:00Z,26138653,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-15T05:54:00Z,Póvoa De Lanhoso,Braga,Norte,-8.24277,41.614365,Resolução/Conclusão
 26138837,Esperança e Brunhais,Ave,309,2025-10-15T07:36:00Z,26138837,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-15T07:36:00Z,Póvoa De Lanhoso,Braga,Norte,-8.169653,41.58005,Resolução/Conclusão
+26140430,"Torres Novas (São Pedro), Lapas e Ribeira Branca",Médio Tejo,311,2025-10-15T12:29:00Z,26140430,Em Despacho,3103,Incêndio rural,1,0,0,1,2025-10-15T12:29:00Z,Torres Novas,Santarém,Centro,-8.559665,39.481931,Despacho
