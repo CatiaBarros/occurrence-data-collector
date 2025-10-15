@@ -1,12 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26142350,Chorense e Monte,Cávado,309,2025-10-15T19:02:00Z,26142350,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-15T19:02:00Z,Terras De Bouro,Braga,Norte,-8.234,41.708437000000004,Resolução/Conclusão
-26143150,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-10-15T22:15:00Z,26143150,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-15T22:15:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.411328,38.849395,Resolução/Conclusão
-26142430,Louredo,Area M. Porto,309,2025-10-15T19:15:00Z,26142430,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-15T19:15:00Z,Paredes,Porto,Norte,-8.343133,41.23802,Resolução/Conclusão
-26142628,Fontoura,Alto Minho,309,2025-10-15T19:55:00Z,26142628,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,19,2025-10-15T19:55:00Z,Valença,Viana Do Castelo,Norte,-8.6228,41.963058,Resolução/Conclusão
-26142678,Basto (São Clemente),Tâmega e Sousa,309,2025-10-15T20:09:00Z,26142678,Em Curso,3103,Incêndio rural,0,5,0,19,2025-10-15T20:09:00Z,Celorico De Basto,Braga,Norte,-8.069937,41.46891,Curso
-26142764,Costa,Ave,309,2025-10-15T20:28:00Z,26142764,Em Curso,3103,Incêndio rural,0,1,0,2,2025-10-15T20:28:00Z,Guimarães,Braga,Norte,-8.283141,41.44088,Curso
 26140802,Talhadas,Região de Aveiro,310,2025-10-15T13:42:00Z,26140802,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-15T13:42:00Z,Sever Do Vouga,Aveiro,Centro,-8.320335,40.682953,Resolução/Conclusão
-26142957,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-10-15T21:12:00Z,26142957,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-15T21:12:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.555837,40.9255,Resolução/Conclusão
-26142974,Escariz,Area M. Porto,309,2025-10-15T21:17:00Z,26142974,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-15T21:17:00Z,Arouca,Aveiro,Norte,-8.388723,40.941227,Resolução/Conclusão
-26143193,Castêlo da Maia,Area M. Porto,309,2025-10-15T22:35:00Z,26143193,Em Despacho,3103,Incêndio rural,0,3,0,10,2025-10-15T22:35:00Z,Maia,Porto,Norte,-8.618571,41.25384,Despacho
-26141641,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-10-15T16:24:00Z,26141641,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-10-15T16:24:00Z,Ovar,Aveiro,Centro,-8.563633,40.8693,Resolução/Conclusão
+26142974,Escariz,Area M. Porto,309,2025-10-15T21:17:00Z,26142974,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-10-15T21:17:00Z,Arouca,Aveiro,Norte,-8.388723,40.941227,Resolução/Conclusão
+26143193,Castêlo da Maia,Area M. Porto,309,2025-10-15T22:35:00Z,26143193,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-10-15T22:35:00Z,Maia,Porto,Norte,-8.616963,41.254848,Resolução/Conclusão
+26143241,"Lobão, Gião, Louredo e Guisande",Area M. Porto,309,2025-10-15T22:55:00Z,26143241,Em Despacho,3103,Incêndio rural,0,2,0,6,2025-10-15T22:55:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.47674,40.97877,Despacho
+26142350,Chorense e Monte,Cávado,309,2025-10-15T19:02:00Z,26142350,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-15T19:02:00Z,Terras De Bouro,Braga,Norte,-8.234,41.708437000000004,Resolução/Conclusão
+26142628,Fontoura,Alto Minho,309,2025-10-15T19:55:00Z,26142628,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-15T19:55:00Z,Valença,Viana Do Castelo,Norte,-8.6228,41.963058,Resolução/Conclusão
+26142678,Basto (São Clemente),Tâmega e Sousa,309,2025-10-15T20:09:00Z,26142678,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,19,2025-10-15T20:09:00Z,Celorico De Basto,Braga,Norte,-8.069937,41.46891,Resolução/Conclusão
+26142764,Costa,Ave,309,2025-10-15T20:28:00Z,26142764,Em Curso,3103,Incêndio rural,0,1,0,2,2025-10-15T20:28:00Z,Guimarães,Braga,Norte,-8.283141,41.44088,Curso
+26141641,"Ovar, São João, Arada e São Vicente de Pereira Jusã",Região de Aveiro,310,2025-10-15T16:24:00Z,26141641,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,5,2025-10-15T16:24:00Z,Ovar,Aveiro,Centro,-8.563633,40.8693,Resolução/Conclusão
