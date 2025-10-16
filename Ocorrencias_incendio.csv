@@ -1,14 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26143684,Rio Douro,Ave,309,2025-10-16T05:05:00Z,26143684,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-16T05:05:00Z,Cabeceiras De Basto,Braga,Norte,-7.91014,41.586105,Resolução/Conclusão
-26143768,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-10-16T06:20:00Z,26143768,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-10-16T06:20:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.671058,41.6898,Resolução/Conclusão
 26142678,Basto (São Clemente),Tâmega e Sousa,309,2025-10-15T20:09:00Z,26142678,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-15T20:09:00Z,Celorico De Basto,Braga,Norte,-8.069937,41.46891,Resolução/Conclusão
 26143700,Eiras e Mei,Alto Minho,309,2025-10-16T07:00:00Z,26143700,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-16T07:00:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.467538,41.929205,Resolução/Conclusão
 26144800,Cedovim,Douro,309,2025-10-16T10:44:00Z,26144800,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,14,2025-10-16T10:44:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.27186,41.041813,Resolução/Conclusão
-26144936,Ermesinde,Area M. Porto,309,2025-10-16T11:00:00Z,26144936,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-16T11:00:00Z,Valongo,Porto,Norte,-8.45493,41.218437,Resolução/Conclusão
 26140802,Talhadas,Região de Aveiro,310,2025-10-15T13:42:00Z,26140802,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-15T13:42:00Z,Sever Do Vouga,Aveiro,Centro,-8.320335,40.682953,Resolução/Conclusão
 26143696,Guarda,Beiras e Serra da Estrela,310,2025-10-16T05:20:00Z,26143696,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-10-16T05:20:00Z,Guarda,Guarda,Centro,-7.275577,40.531809,Resolução/Conclusão
-26145098,Grijó e Sermonde,Area M. Porto,309,2025-10-16T11:37:00Z,26145098,Em Curso,3103,Incêndio rural,0,2,0,5,2025-10-16T11:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.581968,41.020308,Curso
-26145319,Vilar de Pinheiro,Area M. Porto,309,2025-10-16T12:14:00Z,26145319,Em Despacho,3101,Incêndio rural,0,1,0,3,2025-10-16T12:14:00Z,Vila Do Conde,Porto,Norte,-8.67552,41.27293,Despacho
+26145098,Grijó e Sermonde,Area M. Porto,309,2025-10-16T11:37:00Z,26145098,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-16T11:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.581968,41.020308,Resolução/Conclusão
 26145034,"Coz, Alpedriz e Montes",Oeste,311,2025-10-16T11:30:00Z,26145034,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-16T11:30:00Z,Alcobaça,Leiria,Centro,-8.948311,39.59867,Resolução/Conclusão
 26145077,Calvos e Frades,Ave,309,2025-10-16T11:34:00Z,26145077,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-16T11:34:00Z,Póvoa De Lanhoso,Braga,Norte,-8.242965,41.613565,Resolução/Conclusão
-26145393,Viade de Baixo e Fervidelas,Alto Tâmega e Barroso,309,2025-10-16T12:24:00Z,26145393,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-16T12:24:00Z,Montalegre,Vila Real,Norte,-7.872271,41.74452,Despacho
+26145393,Vila da Ponte,Alto Tâmega e Barroso,309,2025-10-16T12:24:00Z,26145393,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-10-16T12:24:00Z,Montalegre,Vila Real,Norte,-7.896022,41.720499,Despacho
+26145452,Faíl e Vila Chã de Sá,Viseu Dão Lafões,310,2025-10-16T12:42:00Z,26145452,Em Despacho,3103,Incêndio rural,1,1,0,11,2025-10-16T12:42:00Z,Viseu,Viseu,Centro,-7.982368,40.60492,Despacho
+26143684,Rio Douro,Ave,309,2025-10-16T05:05:00Z,26143684,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-16T05:05:00Z,Cabeceiras De Basto,Braga,Norte,-7.91014,41.586105,Resolução/Conclusão
+26143768,"Geraz do Lima (S.maria, S.leocádia, Moreira), Deão",Alto Minho,309,2025-10-16T06:20:00Z,26143768,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-10-16T06:20:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.671058,41.6898,Resolução/Conclusão
+26145319,Vilar de Pinheiro,Area M. Porto,309,2025-10-16T12:14:00Z,26145319,Em Despacho,3101,Incêndio rural,0,1,0,3,2025-10-16T12:14:00Z,Vila Do Conde,Porto,Norte,-8.67552,41.27293,Despacho
