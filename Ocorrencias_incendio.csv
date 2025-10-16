@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26140802,Talhadas,Região de Aveiro,310,2025-10-15T13:42:00Z,26140802,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,5,2025-10-15T13:42:00Z,Sever Do Vouga,Aveiro,Centro,-8.320335,40.682953,Resolução/Conclusão
 26142678,Basto (São Clemente),Tâmega e Sousa,309,2025-10-15T20:09:00Z,26142678,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-15T20:09:00Z,Celorico De Basto,Braga,Norte,-8.069937,41.46891,Resolução/Conclusão
+26143670,Alpiarça,Lezíria do Tejo,311,2025-10-16T04:51:00Z,26143670,Em Curso,3103,Incêndio rural,0,2,0,6,2025-10-16T04:51:00Z,Alpiarça,Santarém,Alentejo,-8.589808,39.263332,Curso
