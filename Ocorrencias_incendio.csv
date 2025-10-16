@@ -1,9 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26148199,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-10-16T22:58:00Z,26148199,Em Curso,3103,Incêndio rural,0,8,0,25,2025-10-16T22:58:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16981,38.66774,Curso
 26142678,Basto (São Clemente),Tâmega e Sousa,309,2025-10-15T20:09:00Z,26142678,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-15T20:09:00Z,Celorico De Basto,Braga,Norte,-8.069937,41.46891,Resolução/Conclusão
-26146229,Sobreira,Area M. Porto,309,2025-10-16T15:04:00Z,26146229,Em Resolução/Conclusão,3101,Incêndio rural,0,7,0,25,2025-10-16T15:04:00Z,Paredes,Porto,Norte,-8.393939,41.119562,Resolução/Conclusão
-26148076,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-16T22:06:00Z,26148076,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-16T22:06:00Z,Vinhais,Bragança,Norte,-6.976375,41.965025,Resolução/Conclusão
-26148196,Travassos,Ave,309,2025-10-16T22:57:00Z,26148196,Em Curso,3103,Incêndio rural,0,6,0,23,2025-10-16T22:57:00Z,Póvoa De Lanhoso,Braga,Norte,-8.195595,41.580197,Curso
-26147243,Ribeira do Neiva,Cávado,309,2025-10-16T18:36:00Z,26147243,Em Curso,3103,Incêndio rural,0,13,0,40,2025-10-16T18:36:00Z,Vila Verde,Braga,Norte,-8.505497,41.734065,Curso
+26146229,Sobreira,Area M. Porto,309,2025-10-16T15:04:00Z,26146229,Em Resolução/Conclusão,3101,Incêndio rural,0,6,0,20,2025-10-16T15:04:00Z,Paredes,Porto,Norte,-8.393939,41.119562,Resolução/Conclusão
+26148196,Travassos,Ave,309,2025-10-16T22:57:00Z,26148196,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,23,2025-10-16T22:57:00Z,Póvoa De Lanhoso,Braga,Norte,-8.195595,41.580197,Resolução/Conclusão
+26148199,"Almada, Cova da Piedade, Pragal e Cacilhas",Península de Setúbal,311,2025-10-16T22:58:00Z,26148199,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,27,2025-10-16T22:58:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.16981,38.66774,Resolução/Conclusão
+26147243,Ribeira do Neiva,Cávado,309,2025-10-16T18:36:00Z,26147243,Em Curso,3103,Incêndio rural,0,12,0,38,2025-10-16T18:36:00Z,Vila Verde,Braga,Norte,-8.505497,41.734065,Curso
 26147709,Chã,Alto Tâmega e Barroso,309,2025-10-16T20:15:00Z,26147709,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-16T20:15:00Z,Montalegre,Vila Real,Norte,-7.722822,41.797803,Resolução/Conclusão
-26148084,Carvoeira e Carmões,Oeste,311,2025-10-16T22:12:00Z,26148084,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-16T22:12:00Z,Torres Vedras,Lisboa,Centro,-9.195815,39.07581,Despacho
