@@ -1,12 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26147670,Bensafrim e Barão de São João,Algarve,313,2025-10-16T20:13:00Z,26147670,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-10-16T20:13:00Z,Lagos,Faro,Algarve,-8.746481,37.142456,Resolução/Conclusão
-26147756,Lordelo do Ouro e Massarelos,Area M. Porto,309,2025-10-16T20:30:00Z,26147756,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-16T20:30:00Z,Porto,Porto,Norte,-8.646991,41.15313,Despacho
-26142678,Basto (São Clemente),Tâmega e Sousa,309,2025-10-15T20:09:00Z,26142678,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-15T20:09:00Z,Celorico De Basto,Braga,Norte,-8.069937,41.46891,Resolução/Conclusão
+26142678,Basto (São Clemente),Tâmega e Sousa,309,2025-10-15T20:09:00Z,26142678,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-10-15T20:09:00Z,Celorico De Basto,Braga,Norte,-8.069937,41.46891,Resolução/Conclusão
 26146229,Sobreira,Area M. Porto,309,2025-10-16T15:04:00Z,26146229,Em Resolução/Conclusão,3101,Incêndio rural,0,9,0,31,2025-10-16T15:04:00Z,Paredes,Porto,Norte,-8.393939,41.119562,Resolução/Conclusão
-26147233,Ladoeiro,Beira Baixa,310,2025-10-16T18:34:00Z,26147233,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,14,2025-10-16T18:34:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.260025,39.853768,Resolução/Conclusão
+26147233,Ladoeiro,Beira Baixa,310,2025-10-16T18:34:00Z,26147233,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-16T18:34:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.260025,39.853768,Resolução/Conclusão
+26147670,Bensafrim e Barão de São João,Algarve,313,2025-10-16T20:13:00Z,26147670,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-10-16T20:13:00Z,Lagos,Faro,Algarve,-8.746481,37.142456,Resolução/Conclusão
 26146257,"Mangualde, Mesquitela e Cunha Alta",Viseu Dão Lafões,310,2025-10-16T15:13:00Z,26146257,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-10-16T15:13:00Z,Mangualde,Viseu,Centro,-7.73026,40.598771,Resolução/Conclusão
 26147243,Ribeira do Neiva,Cávado,309,2025-10-16T18:36:00Z,26147243,Em Curso,3103,Incêndio rural,0,12,0,38,2025-10-16T18:36:00Z,Vila Verde,Braga,Norte,-8.505497,41.734065,Curso
 26147407,Santa Marinha do Zêzere,Tâmega e Sousa,309,2025-10-16T19:05:00Z,26147407,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-16T19:05:00Z,Baião,Porto,Norte,-7.942743,41.156885,Resolução/Conclusão
 26147643,Campelos e Outeiro da Cabeça,Oeste,311,2025-10-16T20:07:00Z,26147643,Em Despacho,3111,Queima,0,1,0,5,2025-10-16T20:07:00Z,Torres Vedras,Lisboa,Centro,-9.17853,39.19101,Despacho
-26147709,Chã,Alto Tâmega e Barroso,309,2025-10-16T20:15:00Z,26147709,Em Curso,3103,Incêndio rural,0,4,0,12,2025-10-16T20:15:00Z,Montalegre,Vila Real,Norte,-7.722822,41.797803,Curso
-26147884,Gondomil e Safins,Alto Minho,309,2025-10-16T21:13:00Z,26147884,Em Curso,3103,Incêndio rural,0,1,0,5,2025-10-16T21:13:00Z,Valença,Viana Do Castelo,Norte,-8.58222,42.03118,Curso
+26147709,Chã,Alto Tâmega e Barroso,309,2025-10-16T20:15:00Z,26147709,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,12,2025-10-16T20:15:00Z,Montalegre,Vila Real,Norte,-7.722822,41.797803,Resolução/Conclusão
+26147884,Gondomil e Safins,Alto Minho,309,2025-10-16T21:13:00Z,26147884,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-16T21:13:00Z,Valença,Viana Do Castelo,Norte,-8.580515,42.017262,Resolução/Conclusão
