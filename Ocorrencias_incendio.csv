@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26148525,Glória do Ribatejo e Granho,Lezíria do Tejo,311,2025-10-17T02:30:00Z,26148525,Em Resolução/Conclusão,3101,Incêndio rural,0,4,0,10,2025-10-17T02:30:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.616795,38.999572,Resolução/Conclusão
-26147243,Ribeira do Neiva,Cávado,309,2025-10-16T18:36:00Z,26147243,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-16T18:36:00Z,Vila Verde,Braga,Norte,-8.505497,41.734065,Resolução/Conclusão
-26148602,Sobreira,Area M. Porto,309,2025-10-17T03:52:00Z,26148602,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-17T03:52:00Z,Paredes,Porto,Norte,-8.390864,41.14608,Despacho
-26148533,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-10-17T02:36:00Z,26148533,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,17,2025-10-17T02:36:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.171637,38.59375,Resolução/Conclusão
+26148533,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-10-17T02:36:00Z,26148533,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-17T02:36:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.171637,38.59375,Resolução/Conclusão
+26148602,Sobreira,Area M. Porto,309,2025-10-17T03:52:00Z,26148602,Em Curso,3103,Incêndio rural,0,2,0,4,2025-10-17T03:52:00Z,Paredes,Porto,Norte,-8.390864,41.14608,Curso
