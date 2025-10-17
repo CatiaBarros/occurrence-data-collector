@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26148705,Penhalonga e Paços de Gaiolo,Tâmega e Sousa,309,2025-10-17T05:53:00Z,26148705,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-17T05:53:00Z,Marco De Canaveses,Porto,Norte,-8.15819,41.10811,Despacho
-26148602,Sobreira,Area M. Porto,309,2025-10-17T03:52:00Z,26148602,Em Curso,3103,Incêndio rural,0,6,0,18,2025-10-17T03:52:00Z,Paredes,Porto,Norte,-8.389412,41.153068,Curso
+26148602,Sobreira,Area M. Porto,309,2025-10-17T03:52:00Z,26148602,Em Curso,3103,Incêndio rural,0,8,0,20,2025-10-17T03:52:00Z,Paredes,Porto,Norte,-8.389412,41.153068,Curso
+26148705,Penhalonga e Paços de Gaiolo,Tâmega e Sousa,309,2025-10-17T05:53:00Z,26148705,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-17T05:53:00Z,Marco De Canaveses,Porto,Norte,-8.161178,41.10066,Resolução/Conclusão
+26148805,Termas de São Vicente,Tâmega e Sousa,309,2025-10-17T07:05:00Z,26148805,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-17T07:05:00Z,Penafiel,Porto,Norte,-8.30267,41.12367,Despacho
