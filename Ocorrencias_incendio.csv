@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26150212,Paredes de Viadores e Manhuncelos,Tâmega e Sousa,309,2025-10-17T11:52:00Z,26150212,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-10-17T11:52:00Z,Marco De Canaveses,Porto,Norte,-8.13869,41.13465,Despacho
+26150212,Paredes de Viadores e Manhuncelos,Tâmega e Sousa,309,2025-10-17T11:52:00Z,26150212,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-17T11:52:00Z,Marco De Canaveses,Porto,Norte,-8.138033,41.135837,Resolução/Conclusão
+26150248,São João de Fontoura,Tâmega e Sousa,309,2025-10-17T12:00:00Z,26150248,Em Resolução/Conclusão,3103,Incêndio rural,1,5,0,23,2025-10-17T12:00:00Z,Resende,Viseu,Norte,-7.917985,41.115767,Resolução/Conclusão
+26150334,Rio de Moinhos,Médio Tejo,311,2025-10-17T12:17:00Z,26150334,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,18,2025-10-17T12:17:00Z,Abrantes,Santarém,Centro,-8.235192,39.48196,Resolução/Conclusão
 26148602,Sobreira,Area M. Porto,309,2025-10-17T03:52:00Z,26148602,Em Curso,3103,Incêndio rural,0,8,0,19,2025-10-17T03:52:00Z,Paredes,Porto,Norte,-8.389412,41.153068,Curso
 26149297,Turcifal,Oeste,311,2025-10-17T09:22:00Z,26149297,Em Despacho,3111,Queima,0,1,0,2,2025-10-17T09:22:00Z,Torres Vedras,Lisboa,Centro,-9.269227,39.05003,Despacho
-26150248,São João de Fontoura,Tâmega e Sousa,309,2025-10-17T12:00:00Z,26150248,Em Curso,3103,Incêndio rural,1,4,0,22,2025-10-17T12:00:00Z,Resende,Viseu,Norte,-7.917985,41.115767,Curso
-26150334,Rio de Moinhos,Médio Tejo,311,2025-10-17T12:17:00Z,26150334,Em Resolução/Conclusão,3103,Incêndio rural,1,7,0,27,2025-10-17T12:17:00Z,Abrantes,Santarém,Centro,-8.230755,39.495286,Resolução/Conclusão
