@@ -1,7 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26149352,Mozelos,Area M. Porto,309,2025-10-17T09:32:00Z,26149352,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-17T09:32:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.55264,41.00495,Despacho
+26149352,Mozelos,Area M. Porto,309,2025-10-17T09:32:00Z,26149352,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-17T09:32:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.55264,41.00495,Resolução/Conclusão
 26148705,Penhalonga e Paços de Gaiolo,Tâmega e Sousa,309,2025-10-17T05:53:00Z,26148705,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-17T05:53:00Z,Marco De Canaveses,Porto,Norte,-8.161178,41.10066,Resolução/Conclusão
 26148805,Termas de São Vicente,Tâmega e Sousa,309,2025-10-17T07:05:00Z,26148805,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,8,2025-10-17T07:05:00Z,Penafiel,Porto,Norte,-8.301618,41.123808,Resolução/Conclusão
 26148602,Sobreira,Area M. Porto,309,2025-10-17T03:52:00Z,26148602,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,15,2025-10-17T03:52:00Z,Paredes,Porto,Norte,-8.389412,41.153068,Resolução/Conclusão
-26149274,Modivas,Area M. Porto,309,2025-10-17T09:17:00Z,26149274,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-10-17T09:17:00Z,Vila Do Conde,Porto,Norte,-8.688294,41.295083,Despacho
 26149297,Turcifal,Oeste,311,2025-10-17T09:22:00Z,26149297,Em Despacho,3111,Queima,0,1,0,2,2025-10-17T09:22:00Z,Torres Vedras,Lisboa,Centro,-9.269227,39.05003,Despacho
