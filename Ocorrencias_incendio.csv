@@ -1,9 +1,8 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26152551,Picão e Ermida,Viseu Dão Lafões,310,2025-10-17T19:23:00Z,26152551,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-10-17T19:23:00Z,Castro Daire,Viseu,Centro,-7.921754,40.941464,Resolução/Conclusão
-26152620,Outeiro,Alto Minho,309,2025-10-17T19:38:00Z,26152620,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,20,2025-10-17T19:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.803952,41.76918,Resolução/Conclusão
-26153297,Alvarelhos e Guidões,Area M. Porto,309,2025-10-17T22:41:00Z,26153297,Em Despacho,3103,Incêndio rural,0,2,0,9,2025-10-17T22:41:00Z,Trofa,Porto,Norte,-8.619005,41.300007,Despacho
-26152497,Candemil,Tâmega e Sousa,309,2025-10-17T19:11:00Z,26152497,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-17T19:11:00Z,Amarante,Porto,Norte,-7.975307,41.250468,Resolução/Conclusão
-26153190,São Teotónio,Alentejo Litoral,312,2025-10-17T22:16:00Z,26153190,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,20,2025-10-17T22:16:00Z,Odemira,Beja,Alentejo,-8.736663,37.471002,Resolução/Conclusão
 26153240,Gondiães e Vilar de Cunhas,Ave,309,2025-10-17T22:34:00Z,26153240,Em Resolução/Conclusão,3111,Queima,0,2,0,4,2025-10-17T22:34:00Z,Cabeceiras De Basto,Braga,Norte,-7.88866,41.57333,Resolução/Conclusão
-26152805,Gestaçô,Tâmega e Sousa,309,2025-10-17T20:22:00Z,26152805,Em Curso,3103,Incêndio rural,0,11,0,40,2025-10-17T20:22:00Z,Baião,Porto,Norte,-7.91872,41.168537,Curso
+26153297,Alvarelhos e Guidões,Area M. Porto,309,2025-10-17T22:41:00Z,26153297,Em Curso,3103,Incêndio rural,0,2,0,9,2025-10-17T22:41:00Z,Trofa,Porto,Norte,-8.619005,41.300007,Curso
+26153395,Resende,Tâmega e Sousa,309,2025-10-17T23:28:00Z,26153395,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-17T23:28:00Z,Resende,Viseu,Norte,-7.938907,41.088188,Resolução/Conclusão
+26152620,Outeiro,Alto Minho,309,2025-10-17T19:38:00Z,26152620,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,20,2025-10-17T19:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.803952,41.76918,Resolução/Conclusão
+26153422,São Pedro da Cadeira,Oeste,311,2025-10-17T23:49:00Z,26153422,Em Despacho,3111,Queima,0,0,0,0,2025-10-17T23:49:00Z,Torres Vedras,Lisboa,Centro,-9.41211,39.07916,Despacho
+26152805,Gestaçô,Tâmega e Sousa,309,2025-10-17T20:22:00Z,26152805,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,41,2025-10-17T20:22:00Z,Baião,Porto,Norte,-7.91872,41.168537,Resolução/Conclusão
 26153123,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-17T21:55:00Z,26153123,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-10-17T21:55:00Z,Serpa,Beja,Alentejo,-7.57439,37.92721,Resolução/Conclusão
