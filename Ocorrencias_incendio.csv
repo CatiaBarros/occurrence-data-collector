@@ -1,17 +1,15 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26152318,Cidade da Maia,Area M. Porto,309,2025-10-17T18:31:00Z,26152318,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,6,2025-10-17T18:31:00Z,Maia,Porto,Norte,-8.597222,41.22972,Resolução/Conclusão
 26152551,Picão e Ermida,Viseu Dão Lafões,310,2025-10-17T19:23:00Z,26152551,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-10-17T19:23:00Z,Castro Daire,Viseu,Centro,-7.921754,40.941464,Resolução/Conclusão
 26152620,Outeiro,Alto Minho,309,2025-10-17T19:38:00Z,26152620,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,20,2025-10-17T19:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.803952,41.76918,Resolução/Conclusão
 26153005,Moimenta e Montouto,Terras de Trás-os-Montes,309,2025-10-17T21:16:00Z,26153005,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-17T21:16:00Z,Vinhais,Bragança,Norte,-6.980888,41.966395,Resolução/Conclusão
-26153087,Coronado (São Romão e São Mamede),Area M. Porto,309,2025-10-17T21:44:00Z,26153087,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-17T21:44:00Z,Trofa,Porto,Norte,-8.57079,41.27971,Resolução/Conclusão
-26153153,Sousela,Tâmega e Sousa,309,2025-10-17T21:55:00Z,26153153,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-17T21:55:00Z,Lousada,Porto,Norte,-8.303872,41.299,Resolução/Conclusão
-26152641,Baião (Santa Leocádia) e Mesquinhata,Tâmega e Sousa,309,2025-10-17T19:39:00Z,26152641,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-17T19:39:00Z,Baião,Porto,Norte,-8.091353,41.125333,Resolução/Conclusão
-26152805,Gestaçô,Tâmega e Sousa,309,2025-10-17T20:22:00Z,26152805,Em Curso,3103,Incêndio rural,0,9,0,33,2025-10-17T20:22:00Z,Baião,Porto,Norte,-7.91872,41.168537,Curso
-26152692,Santo André,Alto Tâmega e Barroso,309,2025-10-17T19:54:00Z,26152692,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-17T19:54:00Z,Montalegre,Vila Real,Norte,-7.672262,41.866493,Resolução/Conclusão
-26151695,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-17T16:19:00Z,26151695,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,4,2025-10-17T16:19:00Z,Serpa,Beja,Alentejo,-7.556573,37.916337,Resolução/Conclusão
+26153087,Coronado (São Romão e São Mamede),Area M. Porto,309,2025-10-17T21:44:00Z,26153087,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-17T21:44:00Z,Trofa,Porto,Norte,-8.570735,41.280063,Resolução/Conclusão
+26153153,Sousela,Tâmega e Sousa,309,2025-10-17T21:55:00Z,26153153,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-10-17T21:55:00Z,Lousada,Porto,Norte,-8.325055,41.299297,Resolução/Conclusão
 26152497,Candemil,Tâmega e Sousa,309,2025-10-17T19:11:00Z,26152497,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-17T19:11:00Z,Amarante,Porto,Norte,-7.975307,41.250468,Resolução/Conclusão
 26152574,Mazarefes e Vila Fria,Alto Minho,309,2025-10-17T19:28:00Z,26152574,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-10-17T19:28:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.7676,41.68054,Resolução/Conclusão
 26152758,Foz de Arouce e Casal de Ermio,Região de Coimbra,310,2025-10-17T20:09:00Z,26152758,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,3,2025-10-17T20:09:00Z,Lousã,Coimbra,Centro,-8.28111,40.16833,Resolução/Conclusão
-26153006,Figueiras e Covas,Tâmega e Sousa,309,2025-10-17T21:19:00Z,26153006,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-17T21:19:00Z,Lousada,Porto,Norte,-8.320295,41.288565,Resolução/Conclusão
-26153033,Alvares,Região de Coimbra,310,2025-10-17T21:26:00Z,26153033,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,8,2025-10-17T21:26:00Z,Góis,Coimbra,Centro,-8.08639,40.05333,Resolução/Conclusão
-26153190,São Teotónio,Alentejo Litoral,312,2025-10-17T22:16:00Z,26153190,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-10-17T22:16:00Z,Odemira,Beja,Alentejo,-8.73928,37.47579,Despacho
+26153033,Alvares,Região de Coimbra,310,2025-10-17T21:26:00Z,26153033,Em Resolução/Conclusão,3101,Incêndio rural,0,0,0,0,2025-10-17T21:26:00Z,Góis,Coimbra,Centro,-8.08639,40.05333,Resolução/Conclusão
+26153190,São Teotónio,Alentejo Litoral,312,2025-10-17T22:16:00Z,26153190,Em Despacho,3103,Incêndio rural,0,5,0,18,2025-10-17T22:16:00Z,Odemira,Beja,Alentejo,-8.73928,37.47579,Despacho
+26153240,Gondiães e Vilar de Cunhas,Ave,309,2025-10-17T22:34:00Z,26153240,Em Despacho,3111,Queima,0,0,0,0,2025-10-17T22:34:00Z,Cabeceiras De Basto,Braga,Norte,-7.88866,41.57333,Despacho
+26152641,Baião (Santa Leocádia) e Mesquinhata,Tâmega e Sousa,309,2025-10-17T19:39:00Z,26152641,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-17T19:39:00Z,Baião,Porto,Norte,-8.091353,41.125333,Resolução/Conclusão
+26152805,Gestaçô,Tâmega e Sousa,309,2025-10-17T20:22:00Z,26152805,Em Curso,3103,Incêndio rural,0,9,0,33,2025-10-17T20:22:00Z,Baião,Porto,Norte,-7.91872,41.168537,Curso
+26153123,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-17T21:55:00Z,26153123,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-10-17T21:55:00Z,Serpa,Beja,Alentejo,-7.57439,37.92721,Resolução/Conclusão
