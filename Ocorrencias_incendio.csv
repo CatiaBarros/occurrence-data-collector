@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26153976,Bem Viver,Tâmega e Sousa,309,2025-10-18T06:56:00Z,26153976,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-18T06:56:00Z,Marco De Canaveses,Porto,Norte,-8.22181,41.11046,Resolução/Conclusão
-26154145,Caíde de Rei,Tâmega e Sousa,309,2025-10-18T08:01:00Z,26154145,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-10-18T08:01:00Z,Lousada,Porto,Norte,-8.22694,41.25275,Resolução/Conclusão
-26154063,Povolide,Viseu Dão Lafões,310,2025-10-18T07:30:00Z,26154063,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-18T07:30:00Z,Viseu,Viseu,Centro,-7.805646,40.644934,Resolução/Conclusão
 26154040,São Gens,Ave,309,2025-10-18T07:14:00Z,26154040,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-10-18T07:14:00Z,Fafe,Braga,Norte,-8.116453,41.446972,Resolução/Conclusão
-26154156,Carrazeda de Ansiães,Douro,309,2025-10-18T07:55:00Z,26154156,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-18T07:55:00Z,Carrazeda De Ansiães,Bragança,Norte,-7.301682,41.241211,Despacho
 26154188,Duas Igrejas,Area M. Porto,309,2025-10-18T08:00:00Z,26154188,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-18T08:00:00Z,Paredes,Porto,Norte,-8.376281,41.228302,Resolução/Conclusão
+26154418,Cabeça Santa,Tâmega e Sousa,309,2025-10-18T09:03:00Z,26154418,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-18T09:03:00Z,Penafiel,Porto,Norte,-8.29377,41.13462,Despacho
+26154063,Povolide,Viseu Dão Lafões,310,2025-10-18T07:30:00Z,26154063,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-18T07:30:00Z,Viseu,Viseu,Centro,-7.805646,40.644934,Resolução/Conclusão
