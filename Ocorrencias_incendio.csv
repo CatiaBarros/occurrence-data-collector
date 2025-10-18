@@ -2,20 +2,23 @@ id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aeri
 26155127,Envendos,Médio Tejo,311,2025-10-18T11:35:00Z,26155127,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-18T11:35:00Z,Mação,Santarém,Centro,-7.908978,39.575786,Resolução/Conclusão
 26155191,Senharei,Alto Minho,309,2025-10-18T11:48:00Z,26155191,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-18T11:48:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.474075,41.886158,Resolução/Conclusão
 26155442,Perre,Alto Minho,309,2025-10-18T12:54:00Z,26155442,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-10-18T12:54:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.779695,41.728362,Resolução/Conclusão
-26155795,Gavião,Ave,309,2025-10-18T14:13:00Z,26155795,Em Despacho,3111,Queima,0,2,0,8,2025-10-18T14:13:00Z,Vila Nova De Famalicão,Braga,Norte,-8.471972,41.415287,Despacho
-26155977,Vila de Punhe,Alto Minho,309,2025-10-18T14:46:00Z,26155977,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-18T14:46:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.733431,41.658607,Despacho
+26155795,Gavião,Ave,309,2025-10-18T14:13:00Z,26155795,Em Curso,3111,Queima,0,0,0,0,2025-10-18T14:13:00Z,Vila Nova De Famalicão,Braga,Norte,-8.471972,41.415287,Curso
+26155977,Vila de Punhe,Alto Minho,309,2025-10-18T14:46:00Z,26155977,Em Curso,3103,Incêndio rural,1,1,0,10,2025-10-18T14:46:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.733431,41.658607,Curso
+26155653,Rio Douro,Ave,309,2025-10-18T13:45:00Z,26155653,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,13,2025-10-18T13:45:00Z,Cabeceiras De Basto,Braga,Norte,-7.913402,41.58015,Resolução/Conclusão
+26155938,Sapataria,Oeste,311,2025-10-18T14:31:00Z,26155938,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-18T14:31:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.19862,38.978872,Resolução/Conclusão
+26156036,Vila Nova de São Bento e Vale de Vargo,Baixo Alentejo,312,2025-10-18T14:58:00Z,26156036,Em Curso,3105,Incêndio rural,0,6,0,22,2025-10-18T14:58:00Z,Serpa,Beja,Alentejo,-7.380278,37.82333,Curso
+26156069,Landim,Ave,309,2025-10-18T15:02:00Z,26156069,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-18T15:02:00Z,Vila Nova De Famalicão,Braga,Norte,-8.471045,41.377587,Resolução/Conclusão
 26154994,Travassos,Ave,309,2025-10-18T11:09:00Z,26154994,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-18T11:09:00Z,Póvoa De Lanhoso,Braga,Norte,-8.211212,41.575253,Resolução/Conclusão
 26155380,Chã,Alto Tâmega e Barroso,309,2025-10-18T12:34:00Z,26155380,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-10-18T12:34:00Z,Montalegre,Vila Real,Norte,-7.700567,41.813522,Resolução/Conclusão
-26155589,"Real, Ataíde e Oliveira",Tâmega e Sousa,309,2025-10-18T13:29:00Z,26155589,Em Curso,3103,Incêndio rural,0,5,0,16,2025-10-18T13:29:00Z,Amarante,Porto,Norte,-8.188419,41.24405,Curso
-26155655,Rio Meão,Area M. Porto,309,2025-10-18T13:45:00Z,26155655,Em Curso,3103,Incêndio rural,0,1,0,4,2025-10-18T13:45:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.59732,40.95193,Curso
-26155825,Sobreira,Area M. Porto,309,2025-10-18T14:16:00Z,26155825,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-18T14:16:00Z,Paredes,Porto,Norte,-8.39087,41.15349,Despacho
-26155116,Eiriz,Tâmega e Sousa,309,2025-10-18T11:30:00Z,26155116,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-18T11:30:00Z,Paços De Ferreira,Porto,Norte,-8.380309,41.305164,Resolução/Conclusão
-26155653,Rio Douro,Ave,309,2025-10-18T13:45:00Z,26155653,Em Resolução/Conclusão,3103,Incêndio rural,1,3,0,19,2025-10-18T13:45:00Z,Cabeceiras De Basto,Braga,Norte,-7.913402,41.58015,Resolução/Conclusão
-26155938,Sapataria,Oeste,311,2025-10-18T14:31:00Z,26155938,Em Despacho,3103,Incêndio rural,0,3,0,9,2025-10-18T14:31:00Z,Sobral De Monte Agraço,Lisboa,Centro,-9.198053,38.966232,Despacho
-26155683,Barreiros e Cepões,Viseu Dão Lafões,310,2025-10-18T13:50:00Z,26155683,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,14,2025-10-18T13:50:00Z,Viseu,Viseu,Centro,-7.78614,40.752877,Resolução/Conclusão
-26155924,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-10-18T14:34:00Z,26155924,Em Despacho,3103,Incêndio rural,0,2,0,4,2025-10-18T14:34:00Z,Gondomar,Porto,Norte,-8.53429,41.19883,Despacho
-26155956,Aradas,Região de Aveiro,310,2025-10-18T14:40:00Z,26155956,Em Despacho,3111,Queima,0,2,0,7,2025-10-18T14:40:00Z,Aveiro,Aveiro,Centro,-8.617454,40.592145,Despacho
-26155866,Requião,Ave,309,2025-10-18T14:23:00Z,26155866,Em Despacho,3111,Queima,0,1,0,5,2025-10-18T14:23:00Z,Vila Nova De Famalicão,Braga,Norte,-8.479353,41.41157,Despacho
-26155875,Vila da Ponte,Alto Tâmega e Barroso,309,2025-10-18T14:25:00Z,26155875,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-10-18T14:25:00Z,Montalegre,Vila Real,Norte,-7.89314,41.71576,Despacho
-26155905,Macinhata do Vouga,Região de Aveiro,310,2025-10-18T14:30:00Z,26155905,Em Despacho,3111,Queima,0,2,0,6,2025-10-18T14:30:00Z,Águeda,Aveiro,Centro,-8.454803,40.668357,Despacho
-26155948,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-10-18T14:38:00Z,26155948,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-18T14:38:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.401401,38.847122,Despacho
+26155589,"Real, Ataíde e Oliveira",Tâmega e Sousa,309,2025-10-18T13:29:00Z,26155589,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,24,2025-10-18T13:29:00Z,Amarante,Porto,Norte,-8.188419,41.24405,Resolução/Conclusão
+26155825,Sobreira,Area M. Porto,309,2025-10-18T14:16:00Z,26155825,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-18T14:16:00Z,Paredes,Porto,Norte,-8.39087,41.15349,Resolução/Conclusão
+26155875,Vila da Ponte,Alto Tâmega e Barroso,309,2025-10-18T14:25:00Z,26155875,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,10,2025-10-18T14:25:00Z,Montalegre,Vila Real,Norte,-7.873448,41.724208,Resolução/Conclusão
+26155905,Macinhata do Vouga,Região de Aveiro,310,2025-10-18T14:30:00Z,26155905,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-18T14:30:00Z,Águeda,Aveiro,Centro,-8.454803,40.668357,Resolução/Conclusão
+26156057,Revinhade,Tâmega e Sousa,309,2025-10-18T14:57:00Z,26156057,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-18T14:57:00Z,Felgueiras,Porto,Norte,-8.266188,41.335113,Resolução/Conclusão
+26156059,Sesimbra (Castelo),Península de Setúbal,311,2025-10-18T15:00:00Z,26156059,Em Curso,3103,Incêndio rural,0,3,0,12,2025-10-18T15:00:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.137729,38.450619,Curso
+26155683,Barreiros e Cepões,Viseu Dão Lafões,310,2025-10-18T13:50:00Z,26155683,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,14,2025-10-18T13:50:00Z,Viseu,Viseu,Centro,-7.78614,40.752877,Resolução/Conclusão
+26155924,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-10-18T14:34:00Z,26155924,Em Curso,3103,Incêndio rural,0,3,0,9,2025-10-18T14:34:00Z,Gondomar,Porto,Norte,-8.53429,41.19883,Curso
+26155956,Aradas,Região de Aveiro,310,2025-10-18T14:40:00Z,26155956,Em Resolução/Conclusão,3111,Queima,0,3,0,9,2025-10-18T14:40:00Z,Aveiro,Aveiro,Centro,-8.620287,40.587897,Resolução/Conclusão
+26156024,Ameixial,Algarve,313,2025-10-18T14:54:00Z,26156024,Em Resolução/Conclusão,3103,Incêndio rural,1,10,0,35,2025-10-18T14:54:00Z,Loulé,Faro,Algarve,-7.970529,37.357485,Resolução/Conclusão
+26156099,Sangalhos,Região de Aveiro,310,2025-10-18T15:06:00Z,26156099,Em Despacho,3111,Queima,0,2,0,7,2025-10-18T15:06:00Z,Anadia,Aveiro,Centro,-8.474072,40.487593,Despacho
+26156114,Tornada e Salir do Porto,Oeste,311,2025-10-18T15:12:00Z,26156114,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-10-18T15:12:00Z,Caldas Da Rainha,Leiria,Centro,-9.15226,39.43258,Despacho
