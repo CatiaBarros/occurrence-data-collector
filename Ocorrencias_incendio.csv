@@ -1,7 +1,10 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26154040,São Gens,Ave,309,2025-10-18T07:14:00Z,26154040,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-18T07:14:00Z,Fafe,Braga,Norte,-8.116453,41.446972,Resolução/Conclusão
-26153832,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-10-18T04:47:00Z,26153832,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-18T04:47:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.581871,40.921868,Resolução/Conclusão
-26154063,Povolide,Viseu Dão Lafões,310,2025-10-18T07:30:00Z,26154063,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-10-18T07:30:00Z,Viseu,Viseu,Centro,-7.805646,40.644934,Resolução/Conclusão
-26153835,Couço,Lezíria do Tejo,311,2025-10-18T04:58:00Z,26153835,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-10-18T04:58:00Z,Coruche,Santarém,Alentejo,-8.271267,39.018633,Resolução/Conclusão
-26153976,Bem Viver,Tâmega e Sousa,309,2025-10-18T06:56:00Z,26153976,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-18T06:56:00Z,Marco De Canaveses,Porto,Norte,-8.22181,41.11046,Despacho
+26153976,Bem Viver,Tâmega e Sousa,309,2025-10-18T06:56:00Z,26153976,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,5,2025-10-18T06:56:00Z,Marco De Canaveses,Porto,Norte,-8.22181,41.11046,Resolução/Conclusão
 26154117,Antas e Abade de Vermoim,Ave,309,2025-10-18T07:49:00Z,26154117,Em Despacho,3111,Queima,0,1,0,3,2025-10-18T07:49:00Z,Vila Nova De Famalicão,Braga,Norte,-8.505134,41.399124,Despacho
+26154040,São Gens,Ave,309,2025-10-18T07:14:00Z,26154040,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-18T07:14:00Z,Fafe,Braga,Norte,-8.116453,41.446972,Resolução/Conclusão
+26154156,Carrazeda de Ansiães,Douro,309,2025-10-18T07:55:00Z,26154156,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-18T07:55:00Z,Carrazeda De Ansiães,Bragança,Norte,-7.301682,41.241211,Despacho
+26154188,Duas Igrejas,Area M. Porto,309,2025-10-18T08:00:00Z,26154188,Em Curso,3103,Incêndio rural,0,1,0,4,2025-10-18T08:00:00Z,Paredes,Porto,Norte,-8.376281,41.228302,Curso
+26153832,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-10-18T04:47:00Z,26153832,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-18T04:47:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.581871,40.921868,Resolução/Conclusão
+26154063,Povolide,Viseu Dão Lafões,310,2025-10-18T07:30:00Z,26154063,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,11,2025-10-18T07:30:00Z,Viseu,Viseu,Centro,-7.805646,40.644934,Resolução/Conclusão
+26154145,Caíde de Rei,Tâmega e Sousa,309,2025-10-18T08:01:00Z,26154145,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-10-18T08:01:00Z,Lousada,Porto,Norte,-8.22694,41.25275,Resolução/Conclusão
+26154218,Caparica e Trafaria,Península de Setúbal,311,2025-10-18T08:19:00Z,26154218,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-10-18T08:19:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.205688,38.66864,Despacho
