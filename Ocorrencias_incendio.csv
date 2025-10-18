@@ -1,8 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26152620,Outeiro,Alto Minho,309,2025-10-17T19:38:00Z,26152620,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-10-17T19:38:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.803952,41.76918,Resolução/Conclusão
-26153521,Bordeira,Algarve,313,2025-10-18T00:35:00Z,26153521,Em Despacho,3103,Incêndio rural,0,4,0,15,2025-10-18T00:35:00Z,Aljezur,Faro,Algarve,-8.820298,37.215034,Despacho
-26152805,Gestaçô,Tâmega e Sousa,309,2025-10-17T20:22:00Z,26152805,Em Resolução/Conclusão,3103,Incêndio rural,0,11,0,41,2025-10-17T20:22:00Z,Baião,Porto,Norte,-7.91872,41.168537,Resolução/Conclusão
-26153500,Recarei,Area M. Porto,309,2025-10-18T00:27:00Z,26153500,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-18T00:27:00Z,Paredes,Porto,Norte,-8.40842,41.15205,Despacho
+26153521,Bordeira,Algarve,313,2025-10-18T00:35:00Z,26153521,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-10-18T00:35:00Z,Aljezur,Faro,Algarve,-8.820298,37.215034,Resolução/Conclusão
+26153644,Rio de Moinhos,Alto Minho,309,2025-10-18T02:03:00Z,26153644,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-18T02:03:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.47194,41.88398,Despacho
 26153297,Alvarelhos e Guidões,Area M. Porto,309,2025-10-17T22:41:00Z,26153297,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-10-17T22:41:00Z,Trofa,Porto,Norte,-8.619005,41.300007,Resolução/Conclusão
-26153514,Quelfes,Algarve,313,2025-10-18T00:38:00Z,26153514,Em Curso,3103,Incêndio rural,0,3,0,6,2025-10-18T00:38:00Z,Olhão,Faro,Algarve,-7.842447,37.0423,Curso
-26153531,Vandoma,Area M. Porto,309,2025-10-18T00:41:00Z,26153531,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-10-18T00:41:00Z,Paredes,Porto,Norte,-8.404916,41.192556,Despacho
+26153629,Ventosa e Cova,Ave,309,2025-10-18T01:49:00Z,26153629,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-18T01:49:00Z,Vieira Do Minho,Braga,Norte,-8.155333,41.672683,Resolução/Conclusão
+26152805,Gestaçô,Tâmega e Sousa,309,2025-10-17T20:22:00Z,26152805,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-17T20:22:00Z,Baião,Porto,Norte,-7.91872,41.168537,Resolução/Conclusão
+26153659,Paredes,Area M. Porto,309,2025-10-18T02:13:00Z,26153659,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-18T02:13:00Z,Paredes,Porto,Norte,-8.32628,41.205322,Despacho
