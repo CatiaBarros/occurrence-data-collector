@@ -1,7 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26154999,Balazar,Area M. Porto,309,2025-10-18T11:04:00Z,26154999,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-18T11:04:00Z,Póvoa De Varzim,Porto,Norte,-8.631829,41.40519,Resolução/Conclusão
-26155116,Eiriz,Tâmega e Sousa,309,2025-10-18T11:30:00Z,26155116,Em Curso,3105,Incêndio rural,0,1,0,4,2025-10-18T11:30:00Z,Paços De Ferreira,Porto,Norte,-8.380309,41.305164,Curso
-26155127,Envendos,Médio Tejo,311,2025-10-18T11:35:00Z,26155127,Em Despacho,3111,Queima,0,2,0,6,2025-10-18T11:35:00Z,Mação,Santarém,Centro,-7.915466,39.574386,Despacho
-26155191,Senharei,Alto Minho,309,2025-10-18T11:48:00Z,26155191,Em Curso,3103,Incêndio rural,0,1,0,4,2025-10-18T11:48:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.483904,41.885303,Curso
-26154994,Travassos,Ave,309,2025-10-18T11:09:00Z,26154994,Em Curso,3103,Incêndio rural,1,4,0,21,2025-10-18T11:09:00Z,Póvoa De Lanhoso,Braga,Norte,-8.211212,41.575253,Curso
+26155127,Envendos,Médio Tejo,311,2025-10-18T11:35:00Z,26155127,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-18T11:35:00Z,Mação,Santarém,Centro,-7.908978,39.575786,Resolução/Conclusão
+26155191,Senharei,Alto Minho,309,2025-10-18T11:48:00Z,26155191,Em Curso,3103,Incêndio rural,0,2,0,9,2025-10-18T11:48:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.483904,41.885303,Curso
+26155116,Eiriz,Tâmega e Sousa,309,2025-10-18T11:30:00Z,26155116,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-18T11:30:00Z,Paços De Ferreira,Porto,Norte,-8.380309,41.305164,Resolução/Conclusão
+26154994,Travassos,Ave,309,2025-10-18T11:09:00Z,26154994,Em Resolução/Conclusão,3103,Incêndio rural,1,4,0,22,2025-10-18T11:09:00Z,Póvoa De Lanhoso,Braga,Norte,-8.211212,41.575253,Resolução/Conclusão
 26155080,Alhadas,Região de Coimbra,310,2025-10-18T11:23:00Z,26155080,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,11,2025-10-18T11:23:00Z,Figueira Da Foz,Coimbra,Centro,-8.79514,40.19235,Resolução/Conclusão
+26155254,Vila de Cucujães,Area M. Porto,309,2025-10-18T12:04:00Z,26155254,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-18T12:04:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.52268,40.87569,Despacho
