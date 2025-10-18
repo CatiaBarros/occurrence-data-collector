@@ -1,5 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26153688,"O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail",Area M. Porto,309,2025-10-18T02:32:00Z,26153688,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,9,2025-10-18T02:32:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.505532,40.854747,Resolução/Conclusão
+26153644,Senharei,Alto Minho,309,2025-10-18T02:03:00Z,26153644,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-18T02:03:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.470922,41.8851,Resolução/Conclusão
+26153835,Couço,Lezíria do Tejo,311,2025-10-18T04:58:00Z,26153835,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-10-18T04:58:00Z,Coruche,Santarém,Alentejo,-8.271267,39.018633,Resolução/Conclusão
 26153832,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-10-18T04:47:00Z,26153832,Em Curso,3103,Incêndio rural,0,4,0,15,2025-10-18T04:47:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.581871,40.921868,Curso
-26153644,Senharei,Alto Minho,309,2025-10-18T02:03:00Z,26153644,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-10-18T02:03:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.470922,41.8851,Resolução/Conclusão
-26153835,Couço,Lezíria do Tejo,311,2025-10-18T04:58:00Z,26153835,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,20,2025-10-18T04:58:00Z,Coruche,Santarém,Alentejo,-8.271267,39.018633,Resolução/Conclusão
