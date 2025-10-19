@@ -1,17 +1,14 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26157984,Gondoriz,Alto Minho,309,2025-10-18T23:44:00Z,26157984,Em Curso,3103,Incêndio rural,0,3,0,11,2025-10-18T23:44:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.377277,41.893413,Curso
+26158032,Vilar de Perdizes e Meixide,Alto Tâmega e Barroso,309,2025-10-19T00:05:00Z,26158032,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-19T00:05:00Z,Montalegre,Vila Real,Norte,-7.650167,41.839705,Resolução/Conclusão
+26158241,Creixomil e Mariz,Cávado,309,2025-10-19T02:01:00Z,26158241,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-19T02:01:00Z,Barcelos,Braga,Norte,-8.685095,41.54026,Resolução/Conclusão
+26158311,Sobrosa,Area M. Porto,309,2025-10-19T02:39:00Z,26158311,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-10-19T02:39:00Z,Paredes,Porto,Norte,-8.359816,41.249381,Despacho
+26157343,Refóios do Lima,Alto Minho,309,2025-10-18T20:06:00Z,26157343,Em Curso,3103,Incêndio rural,0,5,0,18,2025-10-18T20:06:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.524077,41.818625,Curso
+26157586,Montaria,Alto Minho,309,2025-10-18T21:08:00Z,26157586,Em Curso,3103,Incêndio rural,0,17,0,45,2025-10-18T21:08:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.75187,41.81628,Curso
+26157920,Gralhas,Alto Tâmega e Barroso,309,2025-10-18T23:00:00Z,26157920,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-18T23:00:00Z,Montalegre,Vila Real,Norte,-7.705007,41.856662,Resolução/Conclusão
+26158131,Cervos,Alto Tâmega e Barroso,309,2025-10-19T00:55:00Z,26158131,Em Curso,3103,Incêndio rural,0,9,0,40,2025-10-19T00:55:00Z,Montalegre,Vila Real,Norte,-7.660452,41.729898,Curso
+26158313,"Sandim, Olival, Lever e Crestuma",Area M. Porto,309,2025-10-19T02:50:00Z,26158313,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-19T02:50:00Z,Vila Nova De Gaia,Porto,Norte,-8.502382,41.048753,Despacho
 26156265,Viade de Baixo e Fervidelas,Alto Tâmega e Barroso,309,2025-10-18T15:45:00Z,26156265,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-18T15:45:00Z,Montalegre,Vila Real,Norte,-7.834732,41.773632,Resolução/Conclusão
 26157385,"Algodres, Vale de Afonsinho e Vilar de Amargo",Beiras e Serra da Estrela,310,2025-10-18T20:18:00Z,26157385,Em Curso,3103,Incêndio rural,0,17,0,57,2025-10-18T20:18:00Z,Figueira De Castelo Rodrigo,Guarda,Centro,-7.026137,40.954202,Curso
-26157762,Vilar e Mosteiró,Area M. Porto,309,2025-10-18T22:18:00Z,26157762,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-18T22:18:00Z,Vila Do Conde,Porto,Norte,-8.679891,41.289721,Resolução/Conclusão
-26157978,Freiria,Oeste,311,2025-10-18T23:40:00Z,26157978,Em Despacho,3111,Queima,0,1,0,2,2025-10-18T23:40:00Z,Torres Vedras,Lisboa,Centro,-9.33505,39.04568,Despacho
-26158048,"Real, Ataíde e Oliveira",Tâmega e Sousa,309,2025-10-19T00:12:00Z,26158048,Em Curso,3103,Incêndio rural,0,1,0,5,2025-10-19T00:12:00Z,Amarante,Porto,Norte,-8.18017,41.24566,Curso
-26158064,"Viatodos, Grimancelos, Minhotães e Monte de Fralães",Cávado,309,2025-10-19T00:08:00Z,26158064,Em Despacho,3111,Queima,0,1,0,5,2025-10-19T00:08:00Z,Barcelos,Braga,Norte,-8.574914,41.457271,Despacho
-26158121,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-10-19T00:36:00Z,26158121,Em Despacho,3103,Incêndio rural,0,4,0,10,2025-10-19T00:36:00Z,Felgueiras,Porto,Norte,-8.18572,41.360344,Despacho
-26157343,Refóios do Lima,Alto Minho,309,2025-10-18T20:06:00Z,26157343,Em Curso,3103,Incêndio rural,0,4,0,17,2025-10-18T20:06:00Z,Ponte De Lima,Viana Do Castelo,Norte,-8.524077,41.818625,Curso
-26157586,Montaria,Alto Minho,309,2025-10-18T21:08:00Z,26157586,Em Curso,3103,Incêndio rural,0,13,0,33,2025-10-18T21:08:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.75187,41.81628,Curso
-26157920,Gralhas,Alto Tâmega e Barroso,309,2025-10-18T23:00:00Z,26157920,Em Curso,3103,Incêndio rural,0,7,0,25,2025-10-18T23:00:00Z,Montalegre,Vila Real,Norte,-7.705007,41.856662,Curso
-26157947,Torrados e Sousa,Tâmega e Sousa,309,2025-10-18T23:27:00Z,26157947,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-18T23:27:00Z,Felgueiras,Porto,Norte,-8.248637,41.352237,Resolução/Conclusão
-26158079,"Mangualde, Mesquitela e Cunha Alta",Viseu Dão Lafões,310,2025-10-19T00:20:00Z,26158079,Em Despacho,3111,Queima,0,1,0,5,2025-10-19T00:20:00Z,Mangualde,Viseu,Centro,-7.764584,40.587178,Despacho
-26157757,Guilhofrei,Ave,309,2025-10-18T22:15:00Z,26157757,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-10-18T22:15:00Z,Vieira Do Minho,Braga,Norte,-8.118023,41.585187,Resolução/Conclusão
-26157958,Pombeiro de Ribavizela,Tâmega e Sousa,309,2025-10-18T23:34:00Z,26157958,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-18T23:34:00Z,Felgueiras,Porto,Norte,-8.208563,41.384288,Resolução/Conclusão
-26157984,Gondoriz,Alto Minho,309,2025-10-18T23:44:00Z,26157984,Em Despacho,3103,Incêndio rural,0,2,0,9,2025-10-18T23:44:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.386337,41.89301,Despacho
-26158032,Santo André,Alto Tâmega e Barroso,309,2025-10-19T00:05:00Z,26158032,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-10-19T00:05:00Z,Montalegre,Vila Real,Norte,-7.665836,41.863612,Despacho
+26158121,"Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",Tâmega e Sousa,309,2025-10-19T00:36:00Z,26158121,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,15,2025-10-19T00:36:00Z,Felgueiras,Porto,Norte,-8.199537,41.378555,Resolução/Conclusão
+26158162,Perre,Alto Minho,309,2025-10-19T00:52:00Z,26158162,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-10-19T00:52:00Z,Viana Do Castelo,Viana Do Castelo,Norte,-8.780518,41.727832,Resolução/Conclusão
