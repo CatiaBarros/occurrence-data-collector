@@ -1,9 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26166503,Canaviais,Alentejo Central,312,2025-10-20T19:31:00Z,26166503,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-20T19:31:00Z,Évora,Évora,Alentejo,-7.924298,38.622653,Resolução/Conclusão
-26166331,Costa da Caparica,Península de Setúbal,311,2025-10-20T18:40:00Z,26166331,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-20T18:40:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.233232,38.653598,Resolução/Conclusão
-26166413,Penamacor,Beira Baixa,310,2025-10-20T19:11:00Z,26166413,Em Resolução/Conclusão,3111,Queima,0,0,0,0,2025-10-20T19:11:00Z,Penamacor,Castelo Branco,Centro,-7.145045,40.137863,Resolução/Conclusão
-26166617,Quinta do Anjo,Península de Setúbal,311,2025-10-20T20:03:00Z,26166617,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-10-20T20:03:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.948944,38.60097,Resolução/Conclusão
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26165861,Colos,Alentejo Litoral,312,2025-10-20T17:03:00Z,26165861,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-10-20T17:03:00Z,Odemira,Beja,Alentejo,-8.569803,37.791463,Resolução/Conclusão
-26166429,Sesimbra (Castelo),Península de Setúbal,311,2025-10-20T19:08:00Z,26166429,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-20T19:08:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.16191,38.459417,Resolução/Conclusão
-26166627,Canha,Península de Setúbal,311,2025-10-20T20:02:00Z,26166627,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-20T20:02:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.693597,38.787793,Resolução/Conclusão
