@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,8,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26164301,Santo António Dos Olivais,Região de Coimbra,310,2025-10-20T11:57:00Z,26164301,Em Resolução/Conclusão,3111,Queima,0,3,0,10,2025-10-20T11:57:00Z,Coimbra,Coimbra,Centro,-8.426807,40.217261,Resolução/Conclusão
+26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
+26164684,Malveira e São Miguel de Alcainça,Grande Lisboa,311,2025-10-20T13:22:00Z,26164684,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-20T13:22:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.274197,38.9283,Despacho
+26164572,Castro Verde e Casével,Baixo Alentejo,312,2025-10-20T12:54:00Z,26164572,Em Resolução/Conclusão,3105,Incêndio rural,0,7,0,20,2025-10-20T12:54:00Z,Castro Verde,Beja,Alentejo,-8.01625,37.63235,Resolução/Conclusão
+26164727,Benavente,Lezíria do Tejo,311,2025-10-20T13:30:00Z,26164727,Em Curso,3103,Incêndio rural,0,11,0,39,2025-10-20T13:30:00Z,Benavente,Santarém,Alentejo,-8.680143,38.920237,Curso
