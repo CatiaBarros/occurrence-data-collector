@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,3,0,8,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
 26163362,Azueira e Sobral da Abelheira,Grande Lisboa,311,2025-10-20T09:33:00Z,26163362,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-20T09:33:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.330014,38.991973,Resolução/Conclusão
+26163853,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-10-20T10:40:00Z,26163853,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-10-20T10:40:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.206824,38.629265,Resolução/Conclusão
