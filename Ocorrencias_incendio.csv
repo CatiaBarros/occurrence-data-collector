@@ -1,4 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26171002,Sesimbra (Castelo),Península de Setúbal,311,2025-10-21T18:22:00Z,26171002,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-21T18:22:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.117655,38.475512,Resolução/Conclusão
-26171054,Odeleite,Algarve,313,2025-10-21T18:35:00Z,26171054,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-21T18:35:00Z,Castro Marim,Faro,Algarve,-7.453578,37.356551,Resolução/Conclusão
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
+26171002,Sesimbra (Castelo),Península de Setúbal,311,2025-10-21T18:22:00Z,26171002,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-21T18:22:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.117655,38.475512,Resolução/Conclusão
