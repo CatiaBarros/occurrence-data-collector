@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26173826,Santa Bárbara de Nexe,Algarve,313,2025-10-22T11:48:00Z,26173826,Em Despacho,3111,Queima,0,2,0,5,2025-10-22T11:48:00Z,Faro,Faro,Algarve,-8.002553,37.112442,Despacho
+26173976,Nossa Senhora da Tourega e Nossa Senhora de Guadalupe,Alentejo Central,312,2025-10-22T12:22:00Z,26173976,Em Despacho,3103,Incêndio rural,0,2,0,7,2025-10-22T12:22:00Z,Évora,Évora,Alentejo,-8.019872,38.493727,Despacho
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26173494,Malagueira e Horta Das Figueiras,Alentejo Central,312,2025-10-22T10:49:00Z,26173494,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-10-22T10:49:00Z,Évora,Évora,Alentejo,-7.934906,38.56182,Resolução/Conclusão
