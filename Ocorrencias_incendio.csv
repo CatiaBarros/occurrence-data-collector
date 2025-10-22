@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26175357,Sesimbra (Castelo),Península de Setúbal,311,2025-10-22T16:47:00Z,26175357,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-22T16:47:00Z,Sesimbra,Setúbal,Área Metropolitana De Lisboa,-9.112506,38.449031,Despacho
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
 26174617,Santana,Alentejo Central,312,2025-10-22T14:22:00Z,26174617,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-10-22T14:22:00Z,Portel,Évora,Alentejo,-7.795148,38.269355,Resolução/Conclusão
