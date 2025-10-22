@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26176543,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-10-22T22:03:00Z,26176543,Em Curso,3105,Incêndio rural,0,3,0,14,2025-10-22T22:03:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.152514,38.84327,Curso
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26175928,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-22T19:04:00Z,26175928,Em Resolução/Conclusão,3105,Incêndio rural,0,10,0,24,2025-10-22T19:04:00Z,Serpa,Beja,Alentejo,-7.525267,37.88859,Resolução/Conclusão
-26176503,Moncarapacho e Fuseta,Algarve,313,2025-10-22T21:44:00Z,26176503,Em Curso,3111,Queima,0,1,0,4,2025-10-22T21:44:00Z,Olhão,Faro,Algarve,-7.798571,37.099316,Curso
+26175928,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-22T19:04:00Z,26175928,Em Resolução/Conclusão,3105,Incêndio rural,0,9,0,22,2025-10-22T19:04:00Z,Serpa,Beja,Alentejo,-7.525267,37.88859,Resolução/Conclusão
+26176503,Moncarapacho e Fuseta,Algarve,313,2025-10-22T21:44:00Z,26176503,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-10-22T21:44:00Z,Olhão,Faro,Algarve,-7.798571,37.099316,Resolução/Conclusão
+26176543,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-10-22T22:03:00Z,26176543,Em Resolução/Conclusão,3111,Queima,0,4,0,16,2025-10-22T22:03:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.149942,38.84571,Resolução/Conclusão
