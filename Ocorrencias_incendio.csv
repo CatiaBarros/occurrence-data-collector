@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26176543,Santo Antão e São Julião do Tojal,Grande Lisboa,311,2025-10-22T22:03:00Z,26176543,Em Despacho,3103,Incêndio rural,0,2,0,9,2025-10-22T22:03:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.152514,38.84327,Despacho
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26175928,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-22T19:04:00Z,26175928,Em Resolução/Conclusão,3105,Incêndio rural,0,9,0,22,2025-10-22T19:04:00Z,Serpa,Beja,Alentejo,-7.525267,37.88859,Resolução/Conclusão
-26176255,São Bartolomeu de Messines,Algarve,313,2025-10-22T20:31:00Z,26176255,Em Resolução/Conclusão,3111,Queima,0,0,0,0,2025-10-22T20:31:00Z,Silves,Faro,Algarve,-8.31489,37.22155,Resolução/Conclusão
-26176411,"Enxara do Bispo, Gradil e Vila Franca do Rosário",Grande Lisboa,311,2025-10-22T21:07:00Z,26176411,Em Resolução/Conclusão,3111,Queima,0,2,0,10,2025-10-22T21:07:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.267426,38.975485,Resolução/Conclusão
+26175928,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-22T19:04:00Z,26175928,Em Resolução/Conclusão,3105,Incêndio rural,0,10,0,24,2025-10-22T19:04:00Z,Serpa,Beja,Alentejo,-7.525267,37.88859,Resolução/Conclusão
+26176587,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-10-22T22:20:00Z,26176587,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-22T22:20:00Z,Elvas,Portalegre,Alentejo,-7.14378,38.87705,Despacho
