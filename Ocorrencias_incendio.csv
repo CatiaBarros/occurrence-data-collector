@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26180139,Santiago do Escoural,Alentejo Central,312,2025-10-23T16:27:00Z,26180139,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,28,2025-10-23T16:27:00Z,Montemor-o-Novo,Évora,Alentejo,-8.101362,38.531913,Resolução/Conclusão
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26180306,Alenquer (Santo Estêvão e Triana),Oeste,311,2025-10-23T17:00:00Z,26180306,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-23T17:00:00Z,Alenquer,Lisboa,Centro,-9.017671,39.02719,Resolução/Conclusão
-26180438,Branca,Região de Aveiro,310,2025-10-23T17:40:00Z,26180438,Em Despacho,3111,Queima,0,0,0,0,2025-10-23T17:40:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.51686,40.74391,Despacho
+26180306,Alenquer (Santo Estêvão e Triana),Oeste,311,2025-10-23T17:00:00Z,26180306,Em Resolução/Conclusão,3111,Queima,0,1,0,2,2025-10-23T17:00:00Z,Alenquer,Lisboa,Centro,-9.017671,39.02719,Resolução/Conclusão
+26180139,Santiago do Escoural,Alentejo Central,312,2025-10-23T16:27:00Z,26180139,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,24,2025-10-23T16:27:00Z,Montemor-o-Novo,Évora,Alentejo,-8.101362,38.531913,Resolução/Conclusão
+26180438,Branca,Região de Aveiro,310,2025-10-23T17:40:00Z,26180438,Em Despacho,3111,Queima,0,1,0,2,2025-10-23T17:40:00Z,Albergaria-a-Velha,Aveiro,Centro,-8.51686,40.74391,Despacho
+26180468,"Brogueira, Parceiros de Igreja e Alcorochel",Médio Tejo,311,2025-10-23T17:55:00Z,26180468,Em Curso,3105,Incêndio rural,0,2,0,6,2025-10-23T17:55:00Z,Torres Novas,Santarém,Centro,-8.571268,39.435767,Curso
