@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26179482,Salvaterra de Magos e Foros de Salvaterra,Lezíria do Tejo,311,2025-10-23T14:23:00Z,26179482,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,12,2025-10-23T14:23:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.781847,39.019195,Resolução/Conclusão
+26180139,Santiago do Escoural,Alentejo Central,312,2025-10-23T16:27:00Z,26180139,Em Despacho,3103,Incêndio rural,0,2,0,10,2025-10-23T16:27:00Z,Montemor-o-Novo,Évora,Alentejo,-8.104091,38.53152,Despacho
 26157762,Vilar e Mosteiró,Area M. Porto,309,2025-10-18T22:18:00Z,26157762,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-18T22:18:00Z,Vila Do Conde,Porto,Norte,-8.679891,41.289721,Resolução/Conclusão
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
+26180090,Monchique,Algarve,313,2025-10-23T16:16:00Z,26180090,Em Despacho,3103,Incêndio rural,0,2,0,6,2025-10-23T16:16:00Z,Monchique,Faro,Algarve,-8.565129,37.314454,Despacho
