@@ -1,5 +1,7 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26184418,Pinhal do Norte,Douro,309,2025-10-24T15:57:00Z,26184418,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-24T15:57:00Z,Carrazeda De Ansiães,Bragança,Norte,-7.358265,41.326938,Resolução/Conclusão
-26185042,Cabeça Gorda,Baixo Alentejo,312,2025-10-24T18:23:00Z,26185042,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-10-24T18:23:00Z,Beja,Beja,Alentejo,-7.80184,37.95636,Despacho
+26185042,Cabeça Gorda,Baixo Alentejo,312,2025-10-24T18:23:00Z,26185042,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-10-24T18:23:00Z,Beja,Beja,Alentejo,-7.795537,37.950847,Resolução/Conclusão
+26185059,Azueira e Sobral da Abelheira,Grande Lisboa,311,2025-10-24T18:24:00Z,26185059,Em Despacho,3111,Queima,0,1,0,5,2025-10-24T18:24:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.28753,39.0083,Despacho
+26185162,"Alto do Seixalinho, Santo André e Verderena",Península de Setúbal,311,2025-10-24T18:48:00Z,26185162,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-10-24T18:48:00Z,Barreiro,Setúbal,Área Metropolitana De Lisboa,-9.05753,38.65803,Despacho
 26184831,Cercal,Alentejo Litoral,312,2025-10-24T17:28:00Z,26184831,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,11,2025-10-24T17:28:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.720518,37.857575,Resolução/Conclusão
+26185165,Monchique,Algarve,313,2025-10-24T18:43:00Z,26185165,Em Despacho,3111,Queima,0,1,0,5,2025-10-24T18:43:00Z,Monchique,Faro,Algarve,-8.572931,37.298207,Despacho
