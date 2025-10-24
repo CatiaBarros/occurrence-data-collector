@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26184069,Póvoa de Santa Iria e Forte da Casa,Grande Lisboa,311,2025-10-24T14:45:00Z,26184069,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-24T14:45:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.065752,38.875683,Resolução/Conclusão
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26183993,Santo Amaro,Alto Alentejo,312,2025-10-24T14:29:00Z,26183993,Em Despacho,3103,Incêndio rural,0,2,0,6,2025-10-24T14:29:00Z,Sousel,Portalegre,Alentejo,-7.58012,38.96922,Despacho
+26183993,Santo Amaro,Alto Alentejo,312,2025-10-24T14:29:00Z,26183993,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,6,2025-10-24T14:29:00Z,Sousel,Portalegre,Alentejo,-7.578723,38.97068,Resolução/Conclusão
+26184222,Fanhões,Grande Lisboa,311,2025-10-24T15:20:00Z,26184222,Em Despacho,3111,Queima,0,2,0,7,2025-10-24T15:20:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.150645,38.878382,Despacho
