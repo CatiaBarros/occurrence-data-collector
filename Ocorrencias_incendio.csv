@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26182406,Arcos e Mogofores,Região de Aveiro,310,2025-10-24T08:49:00Z,26182406,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-10-24T08:49:00Z,Anadia,Aveiro,Centro,-8.433666,40.438781,Resolução/Conclusão
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
 26182380,São Pedro Fins,Area M. Porto,309,2025-10-24T08:57:00Z,26182380,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,9,2025-10-24T08:57:00Z,Maia,Porto,Norte,-8.554302,41.24129,Resolução/Conclusão
-26182655,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-10-24T09:42:00Z,26182655,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-24T09:42:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.206824,38.629265,Despacho
+26182655,Charneca de Caparica e Sobreda,Península de Setúbal,311,2025-10-24T09:42:00Z,26182655,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-24T09:42:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.206824,38.629265,Resolução/Conclusão
+26182873,Batalha,Região de Leiria,310,2025-10-24T10:30:00Z,26182873,Em Despacho,3111,Queima,0,1,0,1,2025-10-24T10:30:00Z,Batalha,Leiria,Centro,-8.824108,39.65989,Despacho
