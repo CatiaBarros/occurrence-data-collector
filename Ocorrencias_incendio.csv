@@ -1,6 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26189438,Aguada de Cima,Região de Aveiro,310,2025-10-25T18:15:00Z,26189438,Em Despacho,3111,Queima,0,1,0,5,2025-10-25T18:15:00Z,Águeda,Aveiro,Centro,-8.416904,40.534016,Despacho
-26188890,Ferro,Beiras e Serra da Estrela,310,2025-10-25T15:41:00Z,26188890,Em Resolução/Conclusão,3111,Queima,0,3,0,7,2025-10-25T15:41:00Z,Covilhã,Castelo Branco,Centro,-7.473198,40.213958,Resolução/Conclusão
-26189415,Porto de Mós - São João Baptista e São Pedro,Região de Leiria,310,2025-10-25T18:07:00Z,26189415,Em Despacho,3111,Queima,0,1,0,2,2025-10-25T18:07:00Z,Porto De Mós,Leiria,Centro,-8.82859,39.59507,Despacho
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26189360,Nossa Senhora de Machede,Alentejo Central,312,2025-10-25T17:50:00Z,26189360,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,15,2025-10-25T17:50:00Z,Évora,Évora,Alentejo,-7.74527,38.54983,Resolução/Conclusão
+26189607,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-10-25T19:01:00Z,26189607,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,10,2025-10-25T19:01:00Z,Beja,Beja,Alentejo,-7.860548,38.028668,Resolução/Conclusão
+26188890,Ferro,Beiras e Serra da Estrela,310,2025-10-25T15:41:00Z,26188890,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-10-25T15:41:00Z,Covilhã,Castelo Branco,Centro,-7.473198,40.213958,Resolução/Conclusão
+26189415,Porto de Mós - São João Baptista e São Pedro,Região de Leiria,310,2025-10-25T18:07:00Z,26189415,Em Despacho,3111,Queima,0,1,0,2,2025-10-25T18:07:00Z,Porto De Mós,Leiria,Centro,-8.82859,39.59507,Despacho
