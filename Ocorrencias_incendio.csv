@@ -1,2 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26191773,Lagos (São Sebastião e Santa Maria),Algarve,313,2025-10-26T10:18:00Z,26191773,Em Despacho,3111,Queima,0,1,0,5,2025-10-26T10:18:00Z,Lagos,Faro,Algarve,-8.717523,37.09529,Despacho
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
