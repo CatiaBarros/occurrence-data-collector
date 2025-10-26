@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26191975,Sacavém e Prior Velho,Grande Lisboa,311,2025-10-26T10:54:00Z,26191975,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-26T10:54:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.097627,38.792359,Resolução/Conclusão
-26192094,Moscavide e Portela,Grande Lisboa,311,2025-10-26T11:26:00Z,26192094,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-26T11:26:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.110199,38.78675,Resolução/Conclusão
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
-26192131,São Marcos da Serra,Algarve,313,2025-10-26T11:35:00Z,26192131,Em Despacho,3103,Incêndio rural,0,2,0,6,2025-10-26T11:35:00Z,Silves,Faro,Algarve,-8.43322,37.37587,Despacho
+26192131,São Marcos da Serra,Algarve,313,2025-10-26T11:35:00Z,26192131,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-10-26T11:35:00Z,Silves,Faro,Algarve,-8.432425,37.375647,Resolução/Conclusão
+26192425,São Pedro de Tomar,Médio Tejo,311,2025-10-26T12:47:00Z,26192425,Em Despacho,3103,Incêndio rural,0,3,0,8,2025-10-26T12:47:00Z,Tomar,Santarém,Centro,-8.368078,39.538321,Despacho
+26192100,Vila Cova e Feitos,Cávado,309,2025-10-26T11:27:00Z,26192100,Em Despacho,3111,Queima,0,2,0,7,2025-10-26T11:27:00Z,Barcelos,Braga,Norte,-8.71616,41.55047,Despacho
+26192204,Castelo Branco,Beira Baixa,310,2025-10-26T11:51:00Z,26192204,Em Resolução/Conclusão,3103,Incêndio rural,0,10,0,30,2025-10-26T11:51:00Z,Castelo Branco,Castelo Branco,Centro,-7.468095,39.82932,Resolução/Conclusão
