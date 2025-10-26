@@ -1,6 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26193790,Carnota,Oeste,311,2025-10-26T18:20:00Z,26193790,Em Despacho,3111,Queima,0,2,0,7,2025-10-26T18:20:00Z,Alenquer,Lisboa,Centro,-9.080311,39.048315,Despacho
 26193777,Abrigada e Cabanas de Torres,Oeste,311,2025-10-26T18:29:00Z,26193777,Em Despacho,3111,Queima,0,1,0,2,2025-10-26T18:29:00Z,Alenquer,Lisboa,Centro,-9.044558,39.142276,Despacho
 26160929,Caranguejeira,Região de Leiria,310,2025-10-19T16:50:00Z,26160929,Em Resolução/Conclusão,3101,Incêndio rural,0,1,0,2,2025-10-19T16:50:00Z,Leiria,Leiria,Centro,-8.697637,39.726483,Resolução/Conclusão
 26193333,São Julião de Palácios e Deilão,Terras de Trás-os-Montes,309,2025-10-26T16:28:00Z,26193333,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-26T16:28:00Z,Bragança,Bragança,Norte,-6.583003,41.823202,Resolução/Conclusão
-26193785,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-10-26T18:31:00Z,26193785,Em Despacho,3111,Queima,0,2,0,7,2025-10-26T18:31:00Z,Santarém,Santarém,Alentejo,-8.696244,39.266982,Despacho
+26193785,"Marvila, Ribeira Santarém, S.salvador, S.nicolau",Lezíria do Tejo,311,2025-10-26T18:31:00Z,26193785,Em Resolução/Conclusão,3111,Queima,0,1,0,2,2025-10-26T18:31:00Z,Santarém,Santarém,Alentejo,-8.697012,39.270175,Resolução/Conclusão
+26193790,Carnota,Oeste,311,2025-10-26T18:20:00Z,26193790,Em Despacho,3111,Queima,0,2,0,7,2025-10-26T18:20:00Z,Alenquer,Lisboa,Centro,-9.080311,39.048315,Despacho
