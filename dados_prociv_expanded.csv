@@ -1,4 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
-26194620,"Canidelo","Area M. Porto",309,"2025-10-26T23:58:00",26194620,"Em Despacho","4331","Busca e resgate terrestre de animais",0,1,0,2,"2025-10-26T23:58:00","Vila Nova De Gaia","Porto","Norte",-8.643973,41.123309,"Despacho"
 26194266,"Portimão","Algarve",313,"2025-10-26T20:34:00",26194266,"Em Despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-10-26T20:34:00","Portimão","Faro","Algarve",-8.557413,37.145989,"Despacho"
-26194702,"Perafita, Lavra e Santa Cruz do Bispo","Area M. Porto",309,"2025-10-27T01:04:00",26194702,"Em resolução/conclusão","2301","Incêndio em transporte rodoviário",0,3,0,9,"2025-10-27T01:04:00","Matosinhos","Porto","Norte",-8.70551,41.23365,"Resolução/Conclusão"
