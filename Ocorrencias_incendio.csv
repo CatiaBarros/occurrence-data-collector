@@ -1,6 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26197357,Abrigada e Cabanas de Torres,Oeste,311,2025-10-27T14:17:00Z,26197357,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-27T14:17:00Z,Alenquer,Lisboa,Centro,-9.06647,39.1563,Resolução/Conclusão
+26197625,Branca,Lezíria do Tejo,311,2025-10-27T15:03:00Z,26197625,Em Resolução/Conclusão,3111,Queima,0,4,0,13,2025-10-27T15:03:00Z,Coruche,Santarém,Alentejo,-8.598107,38.872985,Resolução/Conclusão
+26198077,Mafamude e Vilar do Paraíso,Area M. Porto,309,2025-10-27T16:24:00Z,26198077,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-27T16:24:00Z,Vila Nova De Gaia,Porto,Norte,-8.626367,41.11119,Despacho
+26198145,Silveira,Oeste,311,2025-10-27T16:36:00Z,26198145,Em Despacho,3111,Queima,0,0,0,0,2025-10-27T16:36:00Z,Torres Vedras,Lisboa,Centro,-9.35964,39.12785,Despacho
 26196681,Vimieiro,Alentejo Central,312,2025-10-27T12:12:00Z,26196681,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-10-27T12:12:00Z,Arraiolos,Évora,Alentejo,-7.915325,38.84122,Resolução/Conclusão
-26197357,Abrigada e Cabanas de Torres,Oeste,311,2025-10-27T14:17:00Z,26197357,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-10-27T14:17:00Z,Alenquer,Lisboa,Centro,-9.06647,39.1563,Resolução/Conclusão
-26197625,Branca,Lezíria do Tejo,311,2025-10-27T15:03:00Z,26197625,Em Resolução/Conclusão,3111,Queima,0,5,0,18,2025-10-27T15:03:00Z,Coruche,Santarém,Alentejo,-8.598107,38.872985,Resolução/Conclusão
+26198014,Vale de Santarém,Lezíria do Tejo,311,2025-10-27T16:16:00Z,26198014,Em Curso,3103,Incêndio rural,0,4,0,13,2025-10-27T16:16:00Z,Santarém,Santarém,Alentejo,-8.750432,39.1875,Curso
+26198046,Sarzedas,Beira Baixa,310,2025-10-27T16:18:00Z,26198046,Em Curso,3105,Incêndio rural,1,5,0,23,2025-10-27T16:18:00Z,Castelo Branco,Castelo Branco,Centro,-7.631623,39.878831,Curso
 26197202,Lagoa,Terras de Trás-os-Montes,309,2025-10-27T13:42:00Z,26197202,Em Despacho,3111,Queima,0,1,0,2,2025-10-27T13:42:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.766646,41.443194,Despacho
-26197352,Nossa Senhora da Expectação,Alto Alentejo,312,2025-10-27T14:07:00Z,26197352,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,14,2025-10-27T14:07:00Z,Campo Maior,Portalegre,Alentejo,-7.061605,38.958228,Resolução/Conclusão
+26197352,Nossa Senhora da Expectação,Alto Alentejo,312,2025-10-27T14:07:00Z,26197352,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,16,2025-10-27T14:07:00Z,Campo Maior,Portalegre,Alentejo,-7.061605,38.958228,Resolução/Conclusão
+26197979,São Vicente do Paul e Vale de Figueira,Lezíria do Tejo,311,2025-10-27T16:08:00Z,26197979,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-27T16:08:00Z,Santarém,Santarém,Alentejo,-8.61305,39.378283,Resolução/Conclusão
