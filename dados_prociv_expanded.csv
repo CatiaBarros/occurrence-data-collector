@@ -1,2 +1,6 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
-26194990,"Cabril","Alto Tâmega e Barroso",309,"2025-10-27T06:21:00",26194990,"Em Despacho","2407","Despiste",0,2,0,6,"2025-10-27T06:21:00","Montalegre","Vila Real","Norte",-8.022602,41.709648,"Despacho"
+26195058,"Espinho","Area M. Porto",309,"2025-10-27T07:00:00",26195058,"Em Curso","2407","Despiste",0,2,0,4,"2025-10-27T07:00:00","Espinho","Aveiro","Norte",-8.64078,41.007665,"Curso"
+26195062,"Celeirós, Aveleda e Vimieiro","Cávado",309,"2025-10-27T07:06:00",26195062,"Em resolução/conclusão","2407","Despiste",0,2,0,4,"2025-10-27T07:06:00","Braga","Braga","Norte",-8.452818,41.509107,"Resolução/Conclusão"
+26195071,"Algueirão-Mem Martins","Grande Lisboa",311,"2025-10-27T07:06:00",26195071,"Em Curso","2401","Atropelamento rodoviário",0,2,0,7,"2025-10-27T07:06:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.315241,38.797564,"Curso"
+26194990,"Cabril","Alto Tâmega e Barroso",309,"2025-10-27T06:21:00",26194990,"Em Curso","2407","Despiste",0,2,0,6,"2025-10-27T06:21:00","Montalegre","Vila Real","Norte",-8.022602,41.709648,"Curso"
+26195099,"Gandra","Area M. Porto",309,"2025-10-27T07:21:00",26195099,"Em Despacho","2403","Colisão rodoviária",0,1,0,2,"2025-10-27T07:21:00","Paredes","Porto","Norte",-8.432364,41.188841,"Despacho"
