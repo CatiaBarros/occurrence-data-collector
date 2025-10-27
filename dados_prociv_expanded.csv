@@ -1,5 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
-26194266,"Portimão","Algarve",313,"2025-10-26T20:34:00",26194266,"Em Despacho","4331","Busca e resgate terrestre de animais",0,1,0,3,"2025-10-26T20:34:00","Portimão","Faro","Algarve",-8.557413,37.145989,"Despacho"
-26194861,"Altura","Algarve",313,"2025-10-27T03:57:00",26194861,"Em resolução/conclusão","2407","Despiste",0,1,0,4,"2025-10-27T03:57:00","Castro Marim","Faro","Algarve",-7.501312,37.182018,"Resolução/Conclusão"
-26194893,"Madalena","Area M. Porto",309,"2025-10-27T04:35:00",26194893,"Em Curso","2407","Despiste",0,2,0,7,"2025-10-27T04:35:00","Vila Nova De Gaia","Porto","Norte",-8.646182,41.106358,"Curso"
-26194910,"Peniche","Oeste",311,"2025-10-27T05:00:00",26194910,"Em resolução/conclusão","2101","Incêndio em edifícios habitacionais",0,6,0,21,"2025-10-27T05:00:00","Peniche","Leiria","Centro",-9.40545,39.36121,"Resolução/Conclusão"
+26194990,"Cabril","Alto Tâmega e Barroso",309,"2025-10-27T06:21:00",26194990,"Em Despacho","2407","Despiste",0,2,0,6,"2025-10-27T06:21:00","Montalegre","Vila Real","Norte",-8.022602,41.709648,"Despacho"
