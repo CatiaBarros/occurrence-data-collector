@@ -1,11 +1,12 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26198613,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-10-27T18:18:00Z,26198613,Em Resolução/Conclusão,3111,Queima,0,2,0,5,2025-10-27T18:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35027,38.890860000000004,Resolução/Conclusão
-26198996,Aricera e Goujoim,Douro,309,2025-10-27T19:56:00Z,26198996,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-27T19:56:00Z,Armamar,Viseu,Norte,-7.657149,41.0985,Despacho
-26198503,Rio Meão,Area M. Porto,309,2025-10-27T17:47:00Z,26198503,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-27T17:47:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.586854,40.956066,Resolução/Conclusão
-26198718,Azambuja,Lezíria do Tejo,311,2025-10-27T18:46:00Z,26198718,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-27T18:46:00Z,Azambuja,Lisboa,Alentejo,-8.90955,39.118133,Resolução/Conclusão
+26198613,São João Das Lampas e Terrugem,Grande Lisboa,311,2025-10-27T18:18:00Z,26198613,Em Resolução/Conclusão,3111,Queima,0,0,0,0,2025-10-27T18:18:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.35027,38.890860000000004,Resolução/Conclusão
+26198996,Aricera e Goujoim,Douro,309,2025-10-27T19:56:00Z,26198996,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-27T19:56:00Z,Armamar,Viseu,Norte,-7.657149,41.0985,Resolução/Conclusão
+26198557,Ardãos e Bobadela,Alto Tâmega e Barroso,309,2025-10-27T18:00:00Z,26198557,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-27T18:00:00Z,Boticas,Vila Real,Norte,-7.60698,41.775777,Resolução/Conclusão
+26198998,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-10-27T19:54:00Z,26198998,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-27T19:54:00Z,Évora,Évora,Alentejo,-7.944407,38.615312,Resolução/Conclusão
+26199084,Santa Catarina,Oeste,311,2025-10-27T20:11:00Z,26199084,Em Curso,3105,Incêndio rural,0,4,0,13,2025-10-27T20:11:00Z,Caldas Da Rainha,Leiria,Centro,-9.004121,39.426307,Curso
 26198467,Sabóia,Alentejo Litoral,312,2025-10-27T17:32:00Z,26198467,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,23,2025-10-27T17:32:00Z,Odemira,Beja,Alentejo,-8.558232,37.478268,Resolução/Conclusão
 26199040,"Camarate, Unhos e Apelação",Grande Lisboa,311,2025-10-27T20:09:00Z,26199040,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,12,2025-10-27T20:09:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.112085,38.80695,Resolução/Conclusão
-26198557,Ardãos e Bobadela,Alto Tâmega e Barroso,309,2025-10-27T18:00:00Z,26198557,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-27T18:00:00Z,Boticas,Vila Real,Norte,-7.60698,41.775777,Resolução/Conclusão
-26198891,Muge,Lezíria do Tejo,311,2025-10-27T19:31:00Z,26198891,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-10-27T19:31:00Z,Salvaterra De Magos,Santarém,Alentejo,-8.725027,39.085727,Resolução/Conclusão
-26198998,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-10-27T19:54:00Z,26198998,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-27T19:54:00Z,Évora,Évora,Alentejo,-7.944407,38.615312,Resolução/Conclusão
-26199084,Santa Catarina,Oeste,311,2025-10-27T20:11:00Z,26199084,Em Despacho,3103,Incêndio rural,0,3,0,11,2025-10-27T20:11:00Z,Caldas Da Rainha,Leiria,Centro,-9.013661,39.44605,Despacho
+26199160,Martim,Cávado,309,2025-10-27T20:46:00Z,26199160,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-27T20:46:00Z,Barcelos,Braga,Norte,-8.526372,41.53718,Despacho
+26199169,Marinha Grande,Região de Leiria,310,2025-10-27T20:34:00Z,26199169,Em Curso,3111,Queima,0,1,0,5,2025-10-27T20:34:00Z,Marinha Grande,Leiria,Centro,-8.942863,39.750987,Curso
+26198503,Rio Meão,Area M. Porto,309,2025-10-27T17:47:00Z,26198503,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-10-27T17:47:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.586854,40.956066,Resolução/Conclusão
+26198718,Azambuja,Lezíria do Tejo,311,2025-10-27T18:46:00Z,26198718,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,9,2025-10-27T18:46:00Z,Azambuja,Lisboa,Alentejo,-8.90955,39.118133,Resolução/Conclusão
