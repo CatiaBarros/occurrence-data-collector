@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26195972,Travassos,Ave,309,2025-10-27T10:20:00Z,26195972,Em Despacho,3111,Queima,0,1,0,2,2025-10-27T10:20:00Z,Póvoa De Lanhoso,Braga,Norte,-8.19112,41.58338,Despacho
-26196019,Arouca e Burgo,Area M. Porto,309,2025-10-27T10:27:00Z,26196019,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-27T10:27:00Z,Arouca,Aveiro,Norte,-8.26571,40.9197,Resolução/Conclusão
-26195780,Fonte Longa,Douro,309,2025-10-27T09:44:00Z,26195780,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-27T09:44:00Z,Carrazeda De Ansiães,Bragança,Norte,-7.264713,41.236668,Resolução/Conclusão
+26196703,Sarzedas,Beira Baixa,310,2025-10-27T12:19:00Z,26196703,Em Despacho,3111,Queima,0,3,0,9,2025-10-27T12:19:00Z,Castelo Branco,Castelo Branco,Centro,-7.64505,39.88958,Despacho
+26196681,Vimieiro,Alentejo Central,312,2025-10-27T12:12:00Z,26196681,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,17,2025-10-27T12:12:00Z,Arraiolos,Évora,Alentejo,-7.915325,38.84122,Resolução/Conclusão
+26196556,Lamas de Orelhão,Terras de Trás-os-Montes,309,2025-10-27T11:54:00Z,26196556,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-10-27T11:54:00Z,Mirandela,Bragança,Norte,-7.30323,41.4426,Resolução/Conclusão
+26196724,Aboim da Nóbrega e Gondomar,Cávado,309,2025-10-27T12:23:00Z,26196724,Em Curso,3103,Incêndio rural,1,2,0,11,2025-10-27T12:23:00Z,Vila Verde,Braga,Norte,-8.370195,41.766567,Curso
