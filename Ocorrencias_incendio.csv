@@ -1,10 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26196681,Vimieiro,Alentejo Central,312,2025-10-27T12:12:00Z,26196681,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-10-27T12:12:00Z,Arraiolos,Évora,Alentejo,-7.915325,38.84122,Resolução/Conclusão
+26197357,Abrigada e Cabanas de Torres,Oeste,311,2025-10-27T14:17:00Z,26197357,Em Despacho,3111,Queima,0,3,0,8,2025-10-27T14:17:00Z,Alenquer,Lisboa,Centro,-9.06647,39.1563,Despacho
 26196977,Penhalonga e Paços de Gaiolo,Tâmega e Sousa,309,2025-10-27T13:02:00Z,26196977,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-10-27T13:02:00Z,Marco De Canaveses,Porto,Norte,-8.149237,41.093687,Resolução/Conclusão
 26197095,Encarnação,Grande Lisboa,311,2025-10-27T13:33:00Z,26197095,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-27T13:33:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.414755,39.018995,Resolução/Conclusão
 26197202,Lagoa,Terras de Trás-os-Montes,309,2025-10-27T13:42:00Z,26197202,Em Despacho,3111,Queima,0,1,0,2,2025-10-27T13:42:00Z,Macedo De Cavaleiros,Bragança,Norte,-6.766646,41.443194,Despacho
-26197352,Nossa Senhora da Expectação,Alto Alentejo,312,2025-10-27T14:07:00Z,26197352,Em Curso,3103,Incêndio rural,0,3,0,8,2025-10-27T14:07:00Z,Campo Maior,Portalegre,Alentejo,-7.061605,38.958228,Curso
-26196703,Sarzedas,Beira Baixa,310,2025-10-27T12:19:00Z,26196703,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,9,2025-10-27T12:19:00Z,Castelo Branco,Castelo Branco,Centro,-7.644982,39.889507,Resolução/Conclusão
-26197137,Parceiros e Azoia,Região de Leiria,310,2025-10-27T13:41:00Z,26197137,Em Resolução/Conclusão,3111,Queima,0,4,0,14,2025-10-27T13:41:00Z,Leiria,Leiria,Centro,-8.858,39.72623,Resolução/Conclusão
-26197224,Barcos e Santa Leocádia,Douro,309,2025-10-27T13:55:00Z,26197224,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,6,2025-10-27T13:55:00Z,Tabuaço,Viseu,Norte,-7.590082,41.129582,Resolução/Conclusão
-26197357,Abrigada e Cabanas de Torres,Oeste,311,2025-10-27T14:17:00Z,26197357,Em Despacho,3111,Queima,0,3,0,8,2025-10-27T14:17:00Z,Alenquer,Lisboa,Centro,-9.06647,39.1563,Despacho
+26197352,Nossa Senhora da Expectação,Alto Alentejo,312,2025-10-27T14:07:00Z,26197352,Em Curso,3103,Incêndio rural,0,5,0,14,2025-10-27T14:07:00Z,Campo Maior,Portalegre,Alentejo,-7.061605,38.958228,Curso
+26197594,Beduído e Veiros,Região de Aveiro,310,2025-10-27T14:58:00Z,26197594,Em Despacho,3105,Incêndio rural,0,0,0,0,2025-10-27T14:58:00Z,Estarreja,Aveiro,Centro,-8.535813,40.766256,Despacho
+26197137,Parceiros e Azoia,Região de Leiria,310,2025-10-27T13:41:00Z,26197137,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-27T13:41:00Z,Leiria,Leiria,Centro,-8.858,39.72623,Resolução/Conclusão
