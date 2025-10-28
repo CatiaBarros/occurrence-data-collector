@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26200166,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-10-28T07:51:00Z,26200166,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,13,2025-10-28T07:51:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-9.01812,38.5551,Resolução/Conclusão
-26200983,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-10-28T10:24:00Z,26200983,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-28T10:24:00Z,Évora,Évora,Alentejo,-7.903237,38.579258,Resolução/Conclusão
-26201137,Loureiro,Area M. Porto,309,2025-10-28T11:00:00Z,26201137,Em Despacho,3111,Queima,0,1,0,4,2025-10-28T11:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.541025,40.80742,Despacho
+26201137,Loureiro,Area M. Porto,309,2025-10-28T11:00:00Z,26201137,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-10-28T11:00:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.541025,40.80742,Resolução/Conclusão
+26201295,"St.tirso, Couto (S.cristina e S.miguel) e Burgães",Area M. Porto,309,2025-10-28T11:31:00Z,26201295,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-28T11:31:00Z,Santo Tirso,Porto,Norte,-8.49395,41.34662,Despacho
 26200781,Anreade e São Romão de Aregos,Tâmega e Sousa,309,2025-10-28T09:52:00Z,26200781,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-10-28T09:52:00Z,Resende,Viseu,Norte,-7.989097,41.100947,Despacho
+26201355,Castro de Avelãs,Terras de Trás-os-Montes,309,2025-10-28T11:41:00Z,26201355,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-28T11:41:00Z,Bragança,Bragança,Norte,-6.820897,41.82036,Despacho
