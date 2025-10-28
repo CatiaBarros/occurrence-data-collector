@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26198467,Sabóia,Alentejo Litoral,312,2025-10-27T17:32:00Z,26198467,Em Resolução/Conclusão,3103,Incêndio rural,0,6,0,17,2025-10-27T17:32:00Z,Odemira,Beja,Alentejo,-8.558232,37.478268,Resolução/Conclusão
-26199750,Fernão Ferro,Península de Setúbal,311,2025-10-28T01:45:00Z,26199750,Em Despacho,3111,Queima,0,1,0,3,2025-10-28T01:45:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.05573,38.56145,Despacho
+26199796,Valada,Lezíria do Tejo,311,2025-10-28T02:30:00Z,26199796,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-10-28T02:30:00Z,Cartaxo,Santarém,Alentejo,-8.75825,39.085015,Resolução/Conclusão
