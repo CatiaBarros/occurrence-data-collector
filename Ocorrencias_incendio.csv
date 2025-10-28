@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26201630,Vendas Novas,Alentejo Central,312,2025-10-28T12:39:00Z,26201630,Em Despacho,3105,Incêndio rural,0,2,0,8,2025-10-28T12:39:00Z,Vendas Novas,Évora,Alentejo,-8.592578,38.649511,Despacho
+26201630,Vendas Novas,Alentejo Central,312,2025-10-28T12:39:00Z,26201630,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,11,2025-10-28T12:39:00Z,Vendas Novas,Évora,Alentejo,-8.590792,38.649897,Resolução/Conclusão
 26201565,Bustelo,Alto Tâmega e Barroso,309,2025-10-28T12:12:00Z,26201565,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-10-28T12:12:00Z,Chaves,Vila Real,Norte,-7.496435,41.780477,Resolução/Conclusão
+26201715,Alenquer (Santo Estêvão e Triana),Oeste,311,2025-10-28T12:59:00Z,26201715,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-10-28T12:59:00Z,Alenquer,Lisboa,Centro,-8.980916,39.043676,Resolução/Conclusão
