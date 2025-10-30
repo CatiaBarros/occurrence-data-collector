@@ -1,6 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26212438,Santo Estêvão,Lezíria do Tejo,311,2025-10-30T14:38:00Z,26212438,Em Curso,3105,Incêndio rural,0,2,0,7,2025-10-30T14:38:00Z,Benavente,Santarém,Alentejo,-8.715142,38.873642,Curso
 26211721,"Achete, Azoia de Baixo e Póvoa de Santarém",Lezíria do Tejo,311,2025-10-30T12:16:00Z,26211721,Em Resolução/Conclusão,3111,Queima,0,0,0,0,2025-10-30T12:16:00Z,Santarém,Santarém,Alentejo,-8.683868,39.304037,Resolução/Conclusão
 26212507,Couto de Esteves,Região de Aveiro,310,2025-10-30T14:54:00Z,26212507,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-30T14:54:00Z,Sever Do Vouga,Aveiro,Centro,-8.289123,40.754775,Resolução/Conclusão
-26212618,Sacavém e Prior Velho,Grande Lisboa,311,2025-10-30T15:11:00Z,26212618,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-10-30T15:11:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.097627,38.792359,Resolução/Conclusão
-26212438,Santo Estêvão,Lezíria do Tejo,311,2025-10-30T14:38:00Z,26212438,Em Curso,3103,Incêndio rural,0,2,0,7,2025-10-30T14:38:00Z,Benavente,Santarém,Alentejo,-8.715142,38.873642,Curso
-26212627,Aljezur,Algarve,313,2025-10-30T15:16:00Z,26212627,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-10-30T15:16:00Z,Aljezur,Faro,Algarve,-8.833388,37.2257,Resolução/Conclusão
