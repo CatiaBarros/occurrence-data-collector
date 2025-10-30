@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26211721,"Achete, Azoia de Baixo e Póvoa de Santarém",Lezíria do Tejo,311,2025-10-30T12:16:00Z,26211721,Em Resolução/Conclusão,3111,Queima,0,0,0,0,2025-10-30T12:16:00Z,Santarém,Santarém,Alentejo,-8.683868,39.304037,Resolução/Conclusão
-26212892,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-10-30T16:17:00Z,26212892,Em Resolução/Conclusão,3111,Queima,0,4,0,16,2025-10-30T16:17:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.966158,38.51628,Resolução/Conclusão
+26213380,Abrigada e Cabanas de Torres,Oeste,311,2025-10-30T18:13:00Z,26213380,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-10-30T18:13:00Z,Alenquer,Lisboa,Centro,-9.05387,39.14808,Despacho
