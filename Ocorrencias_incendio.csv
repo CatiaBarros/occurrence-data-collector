@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26217821,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-31T17:11:00Z,26217821,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-10-31T17:11:00Z,Serpa,Beja,Alentejo,-7.592695,37.943796,Resolução/Conclusão
-26217068,Vidigueira,Baixo Alentejo,312,2025-10-31T14:52:00Z,26217068,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,5,2025-10-31T14:52:00Z,Vidigueira,Beja,Alentejo,-7.777838,38.21417,Resolução/Conclusão
+26217821,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-10-31T17:11:00Z,26217821,Em Resolução/Conclusão,3105,Incêndio rural,0,0,0,0,2025-10-31T17:11:00Z,Serpa,Beja,Alentejo,-7.60416,37.945312,Resolução/Conclusão
