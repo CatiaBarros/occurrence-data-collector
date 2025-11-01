@@ -1,5 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26220599,Capelins (Santo António),Alentejo Central,312,2025-11-01T09:28:00Z,26220599,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-11-01T09:28:00Z,Alandroal,Évora,Alentejo,-7.381637,38.526108,Resolução/Conclusão
-26221853,Vila Franca de Xira,Grande Lisboa,311,2025-11-01T13:57:00Z,26221853,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-11-01T13:57:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-9.001745,38.952547,Resolução/Conclusão
-26221893,Loulé (São Clemente),Algarve,313,2025-11-01T14:10:00Z,26221893,Em Curso,3111,Queima,0,1,0,2,2025-11-01T14:10:00Z,Loulé,Faro,Algarve,-8.02164,37.13484,Curso
 26221925,Odiáxere,Algarve,313,2025-11-01T14:09:00Z,26221925,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-11-01T14:09:00Z,Lagos,Faro,Algarve,-8.666629,37.150953,Resolução/Conclusão
