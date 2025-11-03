@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26226069,Vila Nova de São Bento e Vale de Vargo,Baixo Alentejo,312,2025-11-02T14:28:00Z,26226069,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,5,2025-11-02T14:28:00Z,Serpa,Beja,Alentejo,-7.379525,37.845442,Resolução/Conclusão
-26226451,Lagoa e Carvoeiro,Algarve,313,2025-11-02T15:56:00Z,26226451,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,10,2025-11-02T15:56:00Z,Lagoa,Faro,Algarve,-8.449309,37.134614,Resolução/Conclusão
+26230148,Bacelo e Senhora da Saúde,Alentejo Central,312,2025-11-03T13:08:00Z,26230148,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-11-03T13:08:00Z,Évora,Évora,Alentejo,-7.911,38.582793,Resolução/Conclusão
+26230293,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-11-03T13:35:00Z,26230293,Em Curso,3105,Incêndio rural,0,2,0,6,2025-11-03T13:35:00Z,Elvas,Portalegre,Alentejo,-7.169645,38.882464,Curso
+26230072,São Domingos e Vale de Água,Alentejo Litoral,312,2025-11-03T12:54:00Z,26230072,Em Despacho,3103,Incêndio rural,0,3,0,8,2025-11-03T12:54:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.56421,37.821159,Despacho
