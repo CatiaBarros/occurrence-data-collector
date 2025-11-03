@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26231646,Este (São Pedro e São Mamede),Cávado,309,2025-11-03T17:50:00Z,26231646,Em Resolução/Conclusão,3111,Queima,0,5,0,18,2025-11-03T17:50:00Z,Braga,Braga,Norte,-8.347967,41.569387999999996,Resolução/Conclusão
-26231497,Soajo,Alto Minho,309,2025-11-03T17:22:00Z,26231497,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-11-03T17:22:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.312622,41.874268,Resolução/Conclusão
+26231646,Este (São Pedro e São Mamede),Cávado,309,2025-11-03T17:50:00Z,26231646,Em Resolução/Conclusão,3111,Queima,0,3,0,8,2025-11-03T17:50:00Z,Braga,Braga,Norte,-8.347967,41.569387999999996,Resolução/Conclusão
+26232166,Grândola e Santa Margarida da Serra,Alentejo Litoral,312,2025-11-03T20:26:00Z,26232166,Em Despacho,3111,Queima,0,2,0,5,2025-11-03T20:26:00Z,Grândola,Setúbal,Alentejo,-8.5587510000000009,38.173088,Despacho
+26232094,Portimão,Algarve,313,2025-11-03T20:12:00Z,26232094,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-11-03T20:12:00Z,Portimão,Faro,Algarve,-8.52491,37.16368,Resolução/Conclusão
