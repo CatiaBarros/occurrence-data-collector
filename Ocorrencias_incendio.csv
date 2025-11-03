@@ -1,5 +1,9 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26231475,São Domingos de Rana,Grande Lisboa,311,2025-11-03T17:19:00Z,26231475,Em Despacho,3111,Queima,0,1,0,3,2025-11-03T17:19:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.33398,38.72639,Despacho
-26230986,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-11-03T15:46:00Z,26230986,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,8,2025-11-03T15:46:00Z,Torres Novas,Santarém,Centro,-8.575582,39.468673,Resolução/Conclusão
+26230986,"Torres Novas (Santa Maria, Salvador e Santiago)",Médio Tejo,311,2025-11-03T15:46:00Z,26230986,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-11-03T15:46:00Z,Torres Novas,Santarém,Centro,-8.575582,39.468673,Resolução/Conclusão
 26231497,Soajo,Alto Minho,309,2025-11-03T17:22:00Z,26231497,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-11-03T17:22:00Z,Arcos De Valdevez,Viana Do Castelo,Norte,-8.26203,41.893287,Despacho
 26230978,Entradas,Baixo Alentejo,312,2025-11-03T15:41:00Z,26230978,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,3,2025-11-03T15:41:00Z,Castro Verde,Beja,Alentejo,-8.002648,37.752583,Resolução/Conclusão
+26231389,Quinta do Anjo,Península de Setúbal,311,2025-11-03T17:03:00Z,26231389,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-11-03T17:03:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.95761,38.56081,Despacho
+26231530,Algueirão-Mem Martins,Grande Lisboa,311,2025-11-03T17:32:00Z,26231530,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-11-03T17:32:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.30917,38.80368,Despacho
+26231475,São Domingos de Rana,Grande Lisboa,311,2025-11-03T17:19:00Z,26231475,Em Despacho,3111,Queima,0,1,0,3,2025-11-03T17:19:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.33398,38.72639,Despacho
+26231596,Caparica e Trafaria,Península de Setúbal,311,2025-11-03T17:37:00Z,26231596,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-11-03T17:37:00Z,Almada,Setúbal,Área Metropolitana De Lisboa,-9.219957,38.662473,Despacho
+26231605,Roliça,Oeste,311,2025-11-03T17:48:00Z,26231605,Em Despacho,3111,Queima,0,0,0,0,2025-11-03T17:48:00Z,Bombarral,Leiria,Centro,-9.15322,39.29502,Despacho
