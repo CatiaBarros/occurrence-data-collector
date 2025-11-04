@@ -1,7 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26237052,Lustosa e Barrosas (Santo Estêvão),Tâmega e Sousa,309,2025-11-04T21:16:00Z,26237052,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-11-04T21:16:00Z,Lousada,Porto,Norte,-8.30979,41.336178,Resolução/Conclusão
-26237217,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-11-04T22:16:00Z,26237217,Em Despacho,3103,Incêndio rural,0,3,0,12,2025-11-04T22:16:00Z,Matosinhos,Porto,Norte,-8.70364,41.22008,Despacho
-26235205,Vila Nova de São Bento e Vale de Vargo,Baixo Alentejo,312,2025-11-04T14:21:00Z,26235205,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-11-04T14:21:00Z,Serpa,Beja,Alentejo,-7.46429,37.905592,Resolução/Conclusão
+26237217,"Perafita, Lavra e Santa Cruz do Bispo",Area M. Porto,309,2025-11-04T22:16:00Z,26237217,Em Curso,3103,Incêndio rural,0,6,0,20,2025-11-04T22:16:00Z,Matosinhos,Porto,Norte,-8.70425,41.220525,Curso
+26237268,Nogueira do Cravo e Pindelo,Area M. Porto,309,2025-11-04T22:23:00Z,26237268,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-11-04T22:23:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.451027,40.868276,Despacho
 26237139,Porto Covo,Alentejo Litoral,312,2025-11-04T21:27:00Z,26237139,Em Curso,3103,Incêndio rural,0,2,0,5,2025-11-04T21:27:00Z,Sines,Setúbal,Alentejo,-8.788684,37.852205,Curso
-26237162,Nogueira do Cravo e Pindelo,Area M. Porto,309,2025-11-04T21:47:00Z,26237162,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-11-04T21:47:00Z,Oliveira De Azeméis,Aveiro,Norte,-8.451027,40.868276,Despacho
-26237214,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-11-04T22:14:00Z,26237214,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-11-04T22:14:00Z,Marco De Canaveses,Porto,Norte,-8.237,41.09492,Despacho
+26237214,"Alpendorada, Várzea e Torrão",Tâmega e Sousa,309,2025-11-04T22:14:00Z,26237214,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-11-04T22:14:00Z,Marco De Canaveses,Porto,Norte,-8.232447,41.096515,Resolução/Conclusão
