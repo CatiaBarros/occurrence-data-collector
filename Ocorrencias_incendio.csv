@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26234293,Porto Salvo,Grande Lisboa,311,2025-11-04T11:17:00Z,26234293,Em Despacho,3111,Queima,0,0,0,0,2025-11-04T11:17:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.288354,38.7282,Despacho
-26234220,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-11-04T11:03:00Z,26234220,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,10,2025-11-04T11:03:00Z,Beja,Beja,Alentejo,-7.87723,37.99368,Resolução/Conclusão
-26234021,Ciladas,Alentejo Central,312,2025-11-04T10:32:00Z,26234021,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,13,2025-11-04T10:32:00Z,Vila Viçosa,Évora,Alentejo,-7.290138,38.75243,Resolução/Conclusão
-26234164,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-11-04T10:54:00Z,26234164,Em Curso,3105,Incêndio rural,0,4,0,10,2025-11-04T10:54:00Z,Serpa,Beja,Alentejo,-7.574085,37.93265,Curso
+26234386,Estremoz (Santa Maria e Santo André),Alentejo Central,312,2025-11-04T11:29:00Z,26234386,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,4,2025-11-04T11:29:00Z,Estremoz,Évora,Alentejo,-7.591151,38.841452,Resolução/Conclusão
+26234021,Ciladas,Alentejo Central,312,2025-11-04T10:32:00Z,26234021,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,15,2025-11-04T10:32:00Z,Vila Viçosa,Évora,Alentejo,-7.290138,38.75243,Resolução/Conclusão
+26234164,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-11-04T10:54:00Z,26234164,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,13,2025-11-04T10:54:00Z,Serpa,Beja,Alentejo,-7.574085,37.93265,Resolução/Conclusão
+26234220,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-11-04T11:03:00Z,26234220,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,4,2025-11-04T11:03:00Z,Beja,Beja,Alentejo,-7.87723,37.99368,Resolução/Conclusão
+26234388,"Mogadouro, Valverde, Vale de Porco e Vilar de Rei",Terras de Trás-os-Montes,309,2025-11-04T11:20:00Z,26234388,Em Despacho,3103,Incêndio rural,0,3,0,7,2025-11-04T11:20:00Z,Mogadouro,Bragança,Norte,-6.80943,41.304492,Despacho
