@@ -1,7 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26235205,Vila Nova de São Bento e Vale de Vargo,Baixo Alentejo,312,2025-11-04T14:21:00Z,26235205,Em Resolução/Conclusão,3103,Incêndio rural,0,8,0,24,2025-11-04T14:21:00Z,Serpa,Beja,Alentejo,-7.46429,37.905592,Resolução/Conclusão
-26236490,Alguber,Oeste,311,2025-11-04T18:42:00Z,26236490,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-11-04T18:42:00Z,Cadaval,Lisboa,Centro,-9.013852,39.276719,Resolução/Conclusão
-26236247,Porto Covo,Alentejo Litoral,312,2025-11-04T17:53:00Z,26236247,Em Curso,3103,Incêndio rural,0,0,0,0,2025-11-04T17:53:00Z,Sines,Setúbal,Alentejo,-8.784976,37.8559,Curso
-26236447,Carvoeira e Carmões,Oeste,311,2025-11-04T18:27:00Z,26236447,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-11-04T18:27:00Z,Torres Vedras,Lisboa,Centro,-9.190908,39.07244,Resolução/Conclusão
-26236512,Lama de Arcos,Alto Tâmega e Barroso,309,2025-11-04T18:49:00Z,26236512,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-11-04T18:49:00Z,Chaves,Vila Real,Norte,-7.385053,41.834918,Resolução/Conclusão
-26234973,Porto Covo,Alentejo Litoral,312,2025-11-04T13:36:00Z,26234973,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,14,2025-11-04T13:36:00Z,Sines,Setúbal,Alentejo,-8.785338,37.854615,Resolução/Conclusão
+26235205,Vila Nova de São Bento e Vale de Vargo,Baixo Alentejo,312,2025-11-04T14:21:00Z,26235205,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-11-04T14:21:00Z,Serpa,Beja,Alentejo,-7.46429,37.905592,Resolução/Conclusão
