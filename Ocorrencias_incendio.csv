@@ -1,6 +1,11 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26234973,Porto Covo,Alentejo Litoral,312,2025-11-04T13:36:00Z,26234973,Em Resolução/Conclusão,3103,Incêndio rural,0,9,0,21,2025-11-04T13:36:00Z,Sines,Setúbal,Alentejo,-8.785338,37.854615,Resolução/Conclusão
-26235659,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-11-04T15:45:00Z,26235659,Em Resolução/Conclusão,3105,Incêndio rural,0,7,0,18,2025-11-04T15:45:00Z,Aljustrel,Beja,Alentejo,-8.101735,37.842255,Resolução/Conclusão
-26236142,Brinches,Baixo Alentejo,312,2025-11-04T17:24:00Z,26236142,Em Despacho,3105,Incêndio rural,0,2,0,7,2025-11-04T17:24:00Z,Serpa,Beja,Alentejo,-7.604525,38.039347,Despacho
+26234973,Porto Covo,Alentejo Litoral,312,2025-11-04T13:36:00Z,26234973,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,14,2025-11-04T13:36:00Z,Sines,Setúbal,Alentejo,-8.785338,37.854615,Resolução/Conclusão
+26235659,Aljustrel e Rio de Moinhos,Baixo Alentejo,312,2025-11-04T15:45:00Z,26235659,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,13,2025-11-04T15:45:00Z,Aljustrel,Beja,Alentejo,-8.101735,37.842255,Resolução/Conclusão
+26236293,Encarnação,Grande Lisboa,311,2025-11-04T18:02:00Z,26236293,Em Despacho,3111,Queima,0,0,0,0,2025-11-04T18:02:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.369115,39.04321,Despacho
+26236452,Encarnação,Grande Lisboa,311,2025-11-04T18:25:00Z,26236452,Em Despacho,3111,Queima,0,1,0,5,2025-11-04T18:25:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.394665,39.057945,Despacho
+26236142,Brinches,Baixo Alentejo,312,2025-11-04T17:24:00Z,26236142,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-11-04T17:24:00Z,Serpa,Beja,Alentejo,-7.608748,38.046077,Resolução/Conclusão
+26236165,Avanca,Região de Aveiro,310,2025-11-04T17:34:00Z,26236165,Em Resolução/Conclusão,3111,Queima,0,1,0,2,2025-11-04T17:34:00Z,Estarreja,Aveiro,Centro,-8.563769,40.787522,Resolução/Conclusão
+26236247,Porto Covo,Alentejo Litoral,312,2025-11-04T17:53:00Z,26236247,Em Curso,3103,Incêndio rural,0,0,0,0,2025-11-04T17:53:00Z,Sines,Setúbal,Alentejo,-8.784976,37.8559,Curso
+26236447,Carvoeira e Carmões,Oeste,311,2025-11-04T18:27:00Z,26236447,Em Despacho,3111,Queima,0,2,0,7,2025-11-04T18:27:00Z,Torres Vedras,Lisboa,Centro,-9.192874,39.07704,Despacho
 26235205,Vila Nova de São Bento e Vale de Vargo,Baixo Alentejo,312,2025-11-04T14:21:00Z,26235205,Em Resolução/Conclusão,3103,Incêndio rural,0,13,0,39,2025-11-04T14:21:00Z,Serpa,Beja,Alentejo,-7.46429,37.905592,Resolução/Conclusão
-26236165,Avanca,Região de Aveiro,310,2025-11-04T17:34:00Z,26236165,Em Despacho,3111,Queima,0,1,0,2,2025-11-04T17:34:00Z,Estarreja,Aveiro,Centro,-8.575154,40.804832,Despacho
+26236305,Pinhal Novo,Península de Setúbal,311,2025-11-04T18:05:00Z,26236305,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-11-04T18:05:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.88565,38.62636,Resolução/Conclusão
