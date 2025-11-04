@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26234021,Ciladas,Alentejo Central,312,2025-11-04T10:32:00Z,26234021,Em Curso,3105,Incêndio rural,0,3,0,8,2025-11-04T10:32:00Z,Vila Viçosa,Évora,Alentejo,-7.301413,38.76369,Curso
-26234164,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-11-04T10:54:00Z,26234164,Em Despacho,3105,Incêndio rural,0,0,0,0,2025-11-04T10:54:00Z,Serpa,Beja,Alentejo,-7.59489,37.94531,Despacho
+26234293,Porto Salvo,Grande Lisboa,311,2025-11-04T11:17:00Z,26234293,Em Despacho,3111,Queima,0,0,0,0,2025-11-04T11:17:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.288354,38.7282,Despacho
+26234220,Beja (Santiago Maior e São João Baptista),Baixo Alentejo,312,2025-11-04T11:03:00Z,26234220,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,10,2025-11-04T11:03:00Z,Beja,Beja,Alentejo,-7.87723,37.99368,Resolução/Conclusão
+26234021,Ciladas,Alentejo Central,312,2025-11-04T10:32:00Z,26234021,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,13,2025-11-04T10:32:00Z,Vila Viçosa,Évora,Alentejo,-7.290138,38.75243,Resolução/Conclusão
+26234164,Serpa (Salvador e Santa Maria),Baixo Alentejo,312,2025-11-04T10:54:00Z,26234164,Em Curso,3105,Incêndio rural,0,4,0,10,2025-11-04T10:54:00Z,Serpa,Beja,Alentejo,-7.574085,37.93265,Curso
