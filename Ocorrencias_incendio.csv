@@ -1,2 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26237707,Comporta,Alentejo Litoral,312,2025-11-05T03:00:00Z,26237707,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-11-05T03:00:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.785435,38.381947,Despacho
+26237707,Comporta,Alentejo Litoral,312,2025-11-05T03:00:00Z,26237707,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-11-05T03:00:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.785312,38.373623,Resolução/Conclusão
