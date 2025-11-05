@@ -1,3 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26238037,Guia,Algarve,313,2025-11-05T06:42:00Z,26238037,Em Curso,3111,Queima,0,1,0,2,2025-11-05T06:42:00Z,Albufeira,Faro,Algarve,-8.25996,37.13784,Curso
-26238159,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-11-05T07:05:00Z,26238159,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-11-05T07:05:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.527897,38.375893,Despacho
+26238159,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-11-05T07:05:00Z,26238159,Em Curso,3103,Incêndio rural,0,1,0,3,2025-11-05T07:05:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.527897,38.375893,Curso
+26238200,Guia,Algarve,313,2025-11-05T07:41:00Z,26238200,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-11-05T07:41:00Z,Albufeira,Faro,Algarve,-8.311055,37.126129,Despacho
