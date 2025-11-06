@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26245682,Moncarapacho e Fuseta,Algarve,313,2025-11-06T14:36:00Z,26245682,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,9,2025-11-06T14:36:00Z,Olhão,Faro,Algarve,-7.777692,37.092247,Resolução/Conclusão
-26247095,Palmela,Península de Setúbal,311,2025-11-06T19:41:00Z,26247095,Em Resolução/Conclusão,3111,Queima,0,1,0,3,2025-11-06T19:41:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.891277,38.58352,Resolução/Conclusão
+26245682,Moncarapacho e Fuseta,Algarve,313,2025-11-06T14:36:00Z,26245682,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,8,2025-11-06T14:36:00Z,Olhão,Faro,Algarve,-7.777692,37.092247,Resolução/Conclusão
