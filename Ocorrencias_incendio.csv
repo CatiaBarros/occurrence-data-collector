@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26249408,Faro do Alentejo,Baixo Alentejo,312,2025-11-07T11:06:00Z,26249408,Em Resolução/Conclusão,3105,Incêndio rural,0,7,0,23,2025-11-07T11:06:00Z,Cuba,Beja,Alentejo,-7.930703,38.150648,Resolução/Conclusão
-26249482,Quinta do Anjo,Península de Setúbal,311,2025-11-07T11:12:00Z,26249482,Em Curso,3111,Queima,0,1,0,3,2025-11-07T11:12:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-9.012058,38.57234,Curso
+26249408,Faro do Alentejo,Baixo Alentejo,312,2025-11-07T11:06:00Z,26249408,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,10,2025-11-07T11:06:00Z,Cuba,Beja,Alentejo,-7.930703,38.150648,Resolução/Conclusão
