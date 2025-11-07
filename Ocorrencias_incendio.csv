@@ -1,2 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26252100,Portimão,Algarve,313,2025-11-07T19:44:00Z,26252100,Em Despacho,3111,Queima,0,0,0,0,2025-11-07T19:44:00Z,Portimão,Faro,Algarve,-8.55285,37.15218,Despacho
+26252271,Alvalade,Alentejo Litoral,312,2025-11-07T20:22:00Z,26252271,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-11-07T20:22:00Z,Santiago Do Cacém,Setúbal,Alentejo,-8.390153,37.933937,Despacho
