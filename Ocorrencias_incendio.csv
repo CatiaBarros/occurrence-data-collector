@@ -1,3 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26256625,Cervães,Cávado,309,2025-11-08T20:15:00Z,26256625,Em Resolução/Conclusão,3111,Queima,0,1,0,3,2025-11-08T20:15:00Z,Vila Verde,Braga,Norte,-8.523677,41.599625,Resolução/Conclusão
-26256862,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-11-08T21:38:00Z,26256862,Em Curso,3103,Incêndio rural,0,1,0,5,2025-11-08T21:38:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.239016,38.70692,Curso
+26257054,"Real, Dume e Semelhe",Cávado,309,2025-11-08T22:43:00Z,26257054,Em Despacho,3111,Queima,0,0,0,0,2025-11-08T22:43:00Z,Braga,Braga,Norte,-8.44899,41.55155,Despacho
+26257031,Lagoa e Carvoeiro,Algarve,313,2025-11-08T22:34:00Z,26257031,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,5,2025-11-08T22:34:00Z,Lagoa,Faro,Algarve,-8.449174,37.102176,Resolução/Conclusão
