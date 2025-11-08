@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-25813482,Freches e Torres,Beiras e Serra da Estrela,310,2025-08-09T16:21:00Z,25813482,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-09T16:21:00Z,Trancoso,Guarda,Centro,-7.363745,40.709022,Resolução/Conclusão
-25852580,São João de Tarouca,Douro,309,2025-08-16T17:00:00Z,25852580,Em Resolução/Conclusão,3103,Incêndio rural,0,0,0,0,2025-08-16T17:00:00Z,Tarouca,Viseu,Norte,-7.760748,40.986773,Resolução/Conclusão
+26253978,Moita,Península de Setúbal,311,2025-11-08T09:44:00Z,26253978,Em Despacho,3111,Queima,0,1,0,5,2025-11-08T09:44:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.985364,38.643702,Despacho
