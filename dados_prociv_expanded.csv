@@ -1,5 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
-26257691,"Marrazes e Barosa","Região de Leiria",310,"2025-11-09T05:46:00",26257691,"Em Curso","2407","Despiste",0,3,0,5,"2025-11-09T05:46:00","Leiria","Leiria","Centro",-8.832072,39.756212,"Curso"
 26257692,"S.maria, S.miguel, S.martinho, S.pedro Penaferrim","Grande Lisboa",311,"2025-11-09T05:52:00",26257692,"Em Despacho","2407","Despiste",0,1,0,4,"2025-11-09T05:52:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.356827,38.78153,"Despacho"
 26248654,"Golegã","Lezíria do Tejo",311,"2025-11-07T09:04:00",26248654,"Em Curso","9115","Operação nacional de assistência",0,11,0,15,"2025-11-07T09:04:00","Golegã","Santarém","Alentejo",-8.472127,39.406562,"Curso"
 26257318,"Moita","Península de Setúbal",311,"2025-11-09T00:42:00",26257318,"Em resolução/conclusão","3201","Detritos não confinados",0,0,0,0,"2025-11-09T00:42:00","Moita","Setúbal","Área Metropolitana De Lisboa",-8.98749,38.64881,"Resolução/Conclusão"
