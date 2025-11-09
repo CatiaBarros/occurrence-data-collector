@@ -1,3 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26259747,Vilar de Andorinho,Area M. Porto,309,2025-11-09T15:26:00Z,26259747,Em Despacho,3103,Incêndio rural,0,1,0,2,2025-11-09T15:26:00Z,Vila Nova De Gaia,Porto,Norte,-8.57234,41.10557,Despacho
-26259827,Castro Verde e Casével,Baixo Alentejo,312,2025-11-09T15:44:00Z,26259827,Em Despacho,3105,Incêndio rural,0,0,0,0,2025-11-09T15:44:00Z,Castro Verde,Beja,Alentejo,-8.113794,37.713486,Despacho
+26259870,Azeitão (São Lourenço e São Simão),Península de Setúbal,311,2025-11-09T16:00:00Z,26259870,Em Resolução/Conclusão,3111,Queima,0,3,0,15,2025-11-09T16:00:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.98909,38.53271,Resolução/Conclusão
+26259871,Ferreira do Alentejo e Canhestros,Baixo Alentejo,312,2025-11-09T15:55:00Z,26259871,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,13,2025-11-09T15:55:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.181923,37.997005,Resolução/Conclusão
+26259915,Vimioso,Terras de Trás-os-Montes,309,2025-11-09T16:11:00Z,26259915,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-11-09T16:11:00Z,Vimioso,Bragança,Norte,-6.505785,41.615677,Resolução/Conclusão
+26260012,Santo António Dos Cavaleiros e Frielas,Grande Lisboa,311,2025-11-09T16:34:00Z,26260012,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-11-09T16:34:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.145727,38.83031,Despacho
+26259827,Castro Verde e Casével,Baixo Alentejo,312,2025-11-09T15:44:00Z,26259827,Em Resolução/Conclusão,3105,Incêndio rural,0,5,0,12,2025-11-09T15:44:00Z,Castro Verde,Beja,Alentejo,-8.120412,37.714748,Resolução/Conclusão
