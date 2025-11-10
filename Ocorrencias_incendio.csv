@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26264482,Dois Portos e Runa,Oeste,311,2025-11-10T15:40:00Z,26264482,Em Despacho,3111,Queima,0,2,0,3,2025-11-10T15:40:00Z,Torres Vedras,Lisboa,Centro,-9.221092,39.03295,Despacho
 26263622,São Barnabé,Baixo Alentejo,312,2025-11-10T13:05:00Z,26263622,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-11-10T13:05:00Z,Almodôvar,Beja,Alentejo,-8.07864,37.338915,Resolução/Conclusão
-26264226,Poceirão e Marateca,Península de Setúbal,311,2025-11-10T14:57:00Z,26264226,Em Curso,3111,Queima,0,1,0,3,2025-11-10T14:57:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.741193,38.629608,Curso
+26264226,Santa Maria do Castelo e Santiago e Santa Susana,Alentejo Litoral,312,2025-11-10T14:57:00Z,26264226,Em Resolução/Conclusão,3111,Queima,0,1,0,3,2025-11-10T14:57:00Z,Alcácer Do Sal,Setúbal,Alentejo,-8.513732,38.402515,Resolução/Conclusão
