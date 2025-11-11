@@ -1,3 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26268565,Sobral da Adiça,Baixo Alentejo,312,2025-11-11T13:11:00Z,26268565,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,11,2025-11-11T13:11:00Z,Moura,Beja,Alentejo,-7.271995,38.031979,Resolução/Conclusão
+26269945,Beja (Salvador e Santa Maria da Feira),Baixo Alentejo,312,2025-11-11T17:32:00Z,26269945,Em Despacho,3105,Incêndio rural,0,4,0,13,2025-11-11T17:32:00Z,Beja,Beja,Alentejo,-7.84812,38.0205,Despacho
+26269986,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-11-11T17:36:00Z,26269986,Em Despacho,3111,Queima,0,2,0,9,2025-11-11T17:36:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.889983,38.529955,Despacho
+26268565,Sobral da Adiça,Baixo Alentejo,312,2025-11-11T13:11:00Z,26268565,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,6,2025-11-11T13:11:00Z,Moura,Beja,Alentejo,-7.271995,38.031979,Resolução/Conclusão
 26269292,Ourique,Baixo Alentejo,312,2025-11-11T15:25:00Z,26269292,Em Despacho,3105,Incêndio rural,0,1,0,2,2025-11-11T15:25:00Z,Ourique,Beja,Alentejo,-8.18388,37.5829,Despacho
