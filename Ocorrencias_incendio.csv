@@ -1,4 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26275086,Bornes e Burga,Terras de Trás-os-Montes,309,2025-11-12T18:57:00Z,26275086,Em Despacho,3103,Incêndio rural,0,2,0,4,2025-11-12T18:57:00Z,Macedo De Cavaleiros,Bragança,Norte,-7.010063,41.45554,Despacho
 26274850,Alcantarilha e Pêra,Algarve,313,2025-11-12T18:02:00Z,26274850,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-11-12T18:02:00Z,Silves,Faro,Algarve,-8.35745,37.129913,Resolução/Conclusão
-26275100,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-11-12T18:53:00Z,26275100,Em Resolução/Conclusão,3111,Queima,0,3,0,9,2025-11-12T18:53:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.228575,38.925416,Resolução/Conclusão
