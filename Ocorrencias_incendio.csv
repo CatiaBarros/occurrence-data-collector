@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26300946,Budens,Algarve,313,2025-11-17T14:02:00Z,26300946,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-11-17T14:02:00Z,Vila Do Bispo,Faro,Algarve,-8.83356,37.07042,Resolução/Conclusão
-26301052,Odivelas,Grande Lisboa,311,2025-11-17T14:18:00Z,26301052,Em Resolução/Conclusão,3111,Queima,0,2,0,10,2025-11-17T14:18:00Z,Odivelas,Lisboa,Área Metropolitana De Lisboa,-9.17033,38.79162,Resolução/Conclusão
+26302758,Marrazes e Barosa,Região de Leiria,310,2025-11-17T20:08:00Z,26302758,Em Curso,3111,Queima,0,2,0,4,2025-11-17T20:08:00Z,Leiria,Leiria,Centro,-8.807775,39.75617,Curso
