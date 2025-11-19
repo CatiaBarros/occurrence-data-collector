@@ -1,5 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26310767,Mértola,Baixo Alentejo,312,2025-11-19T13:19:00Z,26310767,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,6,2025-11-19T13:19:00Z,Mértola,Beja,Alentejo,-7.704782,37.769475,Resolução/Conclusão
-26311769,Avanca,Região de Aveiro,310,2025-11-19T16:24:00Z,26311769,Em Despacho,3101,Incêndio rural,0,1,0,2,2025-11-19T16:24:00Z,Estarreja,Aveiro,Centro,-8.552308,40.806107,Despacho
-26311681,Loulé (São Sebastião),Algarve,313,2025-11-19T16:07:00Z,26311681,Em Despacho,3111,Queima,0,0,0,0,2025-11-19T16:07:00Z,Loulé,Faro,Algarve,-8.04865,37.15832,Despacho
 26311775,Sabugal e Aldeia de Santo António,Beiras e Serra da Estrela,310,2025-11-19T16:20:00Z,26311775,Em Despacho,3111,Queima,0,1,0,2,2025-11-19T16:20:00Z,Sabugal,Guarda,Centro,-7.150446,40.338652,Despacho
