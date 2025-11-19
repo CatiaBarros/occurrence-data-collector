@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26311268,Fridão,Tâmega e Sousa,309,2025-11-19T14:43:00Z,26311268,Em Despacho,3111,Queima,0,1,0,3,2025-11-19T14:43:00Z,Amarante,Porto,Norte,-8.02936,41.30889,Despacho
 26310767,Mértola,Baixo Alentejo,312,2025-11-19T13:19:00Z,26310767,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,6,2025-11-19T13:19:00Z,Mértola,Beja,Alentejo,-7.704782,37.769475,Resolução/Conclusão
+26311413,"Santa Iria de Azoia, São João da Talha e Bobadela",Grande Lisboa,311,2025-11-19T15:11:00Z,26311413,Em Curso,3111,Queima,0,2,0,6,2025-11-19T15:11:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.090295,38.846465,Curso
+26311268,Fridão,Tâmega e Sousa,309,2025-11-19T14:43:00Z,26311268,Em Resolução/Conclusão,3111,Queima,0,1,0,3,2025-11-19T14:43:00Z,Amarante,Porto,Norte,-8.02936,41.30889,Resolução/Conclusão
