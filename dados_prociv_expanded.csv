@@ -1,4 +1,4 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
-26313630,"Azueira e Sobral da Abelheira","Grande Lisboa",311,"2025-11-20T04:12:00",26313630,"Em Curso","3321","Dano na rede de fornecimento de eletricidade ",0,1,0,6,"2025-11-20T04:12:00","Mafra","Lisboa","Área Metropolitana De Lisboa",-9.264294,38.996233,"Curso"
 26278163,"Santa Maria Maior e Monserrate e Meadela","Alto Minho",309,"2025-11-13T10:15:00",26278163,"Em Curso","3315","Inundação de estruturas por precipitação intensa",0,1,0,2,"2025-11-13T10:15:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.837157,41.690707,"Curso"
+26313656,"Urqueira","Médio Tejo",311,"2025-11-20T05:34:00",26313656,"Em Curso","2407","Despiste",0,4,0,11,"2025-11-20T05:34:00","Ourém","Santarém","Centro",-8.561,39.72088,"Curso"
 26313637,"Rio Meão","Area M. Porto",309,"2025-11-20T04:49:00",26313637,"Em resolução/conclusão","2407","Despiste",0,2,0,4,"2025-11-20T04:49:00","Santa Maria Da Feira","Aveiro","Norte",-8.586854,40.956066,"Resolução/Conclusão"
