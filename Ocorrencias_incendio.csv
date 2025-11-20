@@ -1,2 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26316858,Travanca e Santa Cruz,Terras de Trás-os-Montes,309,2025-11-20T17:22:00Z,26316858,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-11-20T17:22:00Z,Vinhais,Bragança,Norte,-6.95034,41.8974,Despacho
+26317744,Murtede,Região de Coimbra,310,2025-11-20T21:00:00Z,26317744,Em Curso,3111,Queima,0,1,0,3,2025-11-20T21:00:00Z,Cantanhede,Coimbra,Centro,-8.507041,40.344014,Curso
