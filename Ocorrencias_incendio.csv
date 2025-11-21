@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26322358,Fernão Ferro,Península de Setúbal,311,2025-11-21T19:27:00Z,26322358,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-11-21T19:27:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.063432,38.552125,Resolução/Conclusão
 26322409,Trigaches e São Brissos,Baixo Alentejo,312,2025-11-21T19:57:00Z,26322409,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,9,2025-11-21T19:57:00Z,Beja,Beja,Alentejo,-7.977667,38.090885,Resolução/Conclusão
-26322427,a Dos Francos,Oeste,311,2025-11-21T20:02:00Z,26322427,Em Curso,3111,Queima,0,2,0,7,2025-11-21T20:02:00Z,Caldas Da Rainha,Leiria,Centro,-9.056897,39.31844,Curso
+26322427,a Dos Francos,Oeste,311,2025-11-21T20:02:00Z,26322427,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-11-21T20:02:00Z,Caldas Da Rainha,Leiria,Centro,-9.056503,39.318485,Resolução/Conclusão
