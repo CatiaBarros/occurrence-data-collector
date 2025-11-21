@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26320303,Bornes e Burga,Terras de Trás-os-Montes,309,2025-11-21T12:59:00Z,26320303,Em Despacho,3111,Queima,0,1,0,3,2025-11-21T12:59:00Z,Macedo De Cavaleiros,Bragança,Norte,-7.043329,41.426337,Despacho
 26320329,Santa Clara de Louredo,Baixo Alentejo,312,2025-11-21T13:02:00Z,26320329,Em Resolução/Conclusão,3105,Incêndio rural,0,8,0,22,2025-11-21T13:02:00Z,Beja,Beja,Alentejo,-7.882298,37.958553,Resolução/Conclusão
+26320897,Nossa Senhora do Pranto,Médio Tejo,311,2025-11-21T14:46:00Z,26320897,Em Despacho,3111,Queima,0,2,0,6,2025-11-21T14:46:00Z,Ferreira Do Zêzere,Santarém,Centro,-8.249274,39.77332,Despacho
