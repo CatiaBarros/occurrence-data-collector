@@ -1,4 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
 26319713,Santiago Maior,Alentejo Central,312,2025-11-21T11:00:00Z,26319713,Em Despacho,3103,Incêndio rural,0,2,0,5,2025-11-21T11:00:00Z,Alandroal,Évora,Alentejo,-7.469732,38.553197,Despacho
-26319477,Corval,Alentejo Central,312,2025-11-21T10:26:00Z,26319477,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,5,2025-11-21T10:26:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.504215,38.508923,Resolução/Conclusão
+26319477,Corval,Alentejo Central,312,2025-11-21T10:26:00Z,26319477,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-11-21T10:26:00Z,Reguengos De Monsaraz,Évora,Alentejo,-7.504215,38.508923,Resolução/Conclusão
 26319744,Cruz,Ave,309,2025-11-21T11:11:00Z,26319744,Em Despacho,3111,Queima,0,0,0,0,2025-11-21T11:11:00Z,Vila Nova De Famalicão,Braga,Norte,-8.49949,41.44141,Despacho
+26319867,"Santa Maria da Feira, Travanca, Sanfins e Espargo",Area M. Porto,309,2025-11-21T11:30:00Z,26319867,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-11-21T11:30:00Z,Santa Maria Da Feira,Aveiro,Norte,-8.52417,40.92944,Despacho
+26319823,Pêro Pinheiro,Grande Lisboa,311,2025-11-21T11:27:00Z,26319823,Em Despacho,3111,Queima,0,1,0,5,2025-11-21T11:27:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.30221,38.83201,Despacho
