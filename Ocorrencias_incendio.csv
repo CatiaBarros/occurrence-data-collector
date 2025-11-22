@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26325013,Aljubarrota,Oeste,311,2025-11-22T12:57:00Z,26325013,Em Resolução/Conclusão,3111,Queima,0,1,0,2,2025-11-22T12:57:00Z,Alcobaça,Leiria,Centro,-8.93537,39.56089,Resolução/Conclusão
+26325235,"Brogueira, Parceiros de Igreja e Alcorochel",Médio Tejo,311,2025-11-22T13:46:00Z,26325235,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-11-22T13:46:00Z,Torres Novas,Santarém,Centro,-8.568491,39.40624,Despacho
 26325047,Pias,Baixo Alentejo,312,2025-11-22T13:04:00Z,26325047,Em Despacho,3105,Incêndio rural,0,2,0,6,2025-11-22T13:04:00Z,Serpa,Beja,Alentejo,-7.47777,38.02129,Despacho
 26325019,Seiça,Médio Tejo,311,2025-11-22T12:59:00Z,26325019,Em Curso,3105,Incêndio rural,0,1,0,5,2025-11-22T12:59:00Z,Ourém,Santarém,Centro,-8.54214,39.66838,Curso
