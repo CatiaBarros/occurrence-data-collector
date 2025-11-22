@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26325235,"Brogueira, Parceiros de Igreja e Alcorochel",Médio Tejo,311,2025-11-22T13:46:00Z,26325235,Em Despacho,3105,Incêndio rural,0,1,0,5,2025-11-22T13:46:00Z,Torres Novas,Santarém,Centro,-8.568491,39.40624,Despacho
-26325047,Pias,Baixo Alentejo,312,2025-11-22T13:04:00Z,26325047,Em Despacho,3105,Incêndio rural,0,2,0,6,2025-11-22T13:04:00Z,Serpa,Beja,Alentejo,-7.47777,38.02129,Despacho
-26325019,Seiça,Médio Tejo,311,2025-11-22T12:59:00Z,26325019,Em Curso,3105,Incêndio rural,0,1,0,5,2025-11-22T12:59:00Z,Ourém,Santarém,Centro,-8.54214,39.66838,Curso
+26325047,Pias,Baixo Alentejo,312,2025-11-22T13:04:00Z,26325047,Em Resolução/Conclusão,3105,Incêndio rural,0,1,0,2,2025-11-22T13:04:00Z,Serpa,Beja,Alentejo,-7.47777,38.02129,Resolução/Conclusão
+26325270,Carvoeira,Grande Lisboa,311,2025-11-22T13:49:00Z,26325270,Em Despacho,3111,Queima,0,1,0,5,2025-11-22T13:49:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.39494,38.94355,Despacho
+26325235,Casével e Vaqueiros,Lezíria do Tejo,311,2025-11-22T13:46:00Z,26325235,Em Resolução/Conclusão,3105,Incêndio rural,0,2,0,7,2025-11-22T13:46:00Z,Santarém,Santarém,Alentejo,-8.56685,39.393665,Resolução/Conclusão
+26325385,Sarilhos Grandes,Península de Setúbal,311,2025-11-22T14:05:00Z,26325385,Em Despacho,3111,Queima,0,1,0,5,2025-11-22T14:05:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.974291,38.678913,Despacho
