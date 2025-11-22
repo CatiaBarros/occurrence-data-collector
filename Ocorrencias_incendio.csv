@@ -1,4 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26326585,Grijó,Area M. Porto,309,2025-11-22T18:37:00Z,26326585,Em Despacho,3103,Incêndio rural,0,1,0,2,2025-11-22T18:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.579452,41.027837,Despacho
+26326585,Grijó,Area M. Porto,309,2025-11-22T18:37:00Z,26326585,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-11-22T18:37:00Z,Vila Nova De Gaia,Porto,Norte,-8.579452,41.027837,Despacho
 26326521,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Grande Lisboa,311,2025-11-22T18:11:00Z,26326521,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-11-22T18:11:00Z,Oeiras,Lisboa,Área Metropolitana De Lisboa,-9.244903,38.715384,Resolução/Conclusão
-26326491,Cabreiros e Albergaria da Serra,Area M. Porto,309,2025-11-22T18:09:00Z,26326491,Em Curso,3103,Incêndio rural,0,1,0,4,2025-11-22T18:09:00Z,Arouca,Aveiro,Norte,-8.26007,40.878551,Curso
+26326491,Cabreiros e Albergaria da Serra,Area M. Porto,309,2025-11-22T18:09:00Z,26326491,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,4,2025-11-22T18:09:00Z,Arouca,Aveiro,Norte,-8.286715,40.869555,Resolução/Conclusão
