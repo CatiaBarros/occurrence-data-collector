@@ -1,5 +1,6 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26343405,Redondo,Alentejo Central,312,2025-11-26T10:00:00Z,26343405,Em Despacho,3111,Queima,0,1,0,3,2025-11-26T10:00:00Z,Redondo,Évora,Alentejo,-7.53922,38.647115,Despacho
 26343257,Baguim do Monte (Rio Tinto),Area M. Porto,309,2025-11-26T09:36:00Z,26343257,Em Despacho,3111,Queima,0,2,0,4,2025-11-26T09:36:00Z,Gondomar,Porto,Norte,-8.535889,41.192197,Despacho
-26343658,Vila Nova de Foz Côa,Douro,309,2025-11-26T10:46:00Z,26343658,Em Despacho,3111,Queima,0,1,0,3,2025-11-26T10:46:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.133474,41.085004,Despacho
-26342720,Pedorido,Tâmega e Sousa,309,2025-11-26T08:00:00Z,26342720,Em Despacho,3111,Queima,0,1,0,5,2025-11-26T08:00:00Z,Castelo De Paiva,Aveiro,Norte,-8.388847,41.045822,Despacho
+26343658,Vila Nova de Foz Côa,Douro,309,2025-11-26T10:46:00Z,26343658,Em Despacho,3111,Queima,0,1,0,3,2025-11-26T10:46:00Z,Vila Nova De Foz Côa,Guarda,Norte,-7.142465,41.053755,Despacho
+26343405,Redondo,Alentejo Central,312,2025-11-26T10:00:00Z,26343405,Em Despacho,3111,Queima,0,1,0,3,2025-11-26T10:00:00Z,Redondo,Évora,Alentejo,-7.53922,38.647115,Despacho
+26343732,Branca,Lezíria do Tejo,311,2025-11-26T11:01:00Z,26343732,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-11-26T11:01:00Z,Montijo,Setúbal,Área Metropolitana De Lisboa,-8.612137,38.838837,Resolução/Conclusão
+26343862,São Félix da Marinha,Area M. Porto,309,2025-11-26T11:22:00Z,26343862,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-11-26T11:22:00Z,Vila Nova De Gaia,Porto,Norte,-8.62703,41.03542,Despacho
