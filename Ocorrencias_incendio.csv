@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26350685,Cujó,Viseu Dão Lafões,310,2025-11-27T16:22:00Z,26350685,Em Despacho,3111,Queima,0,1,0,2,2025-11-27T16:22:00Z,Castro Daire,Viseu,Centro,-7.831364,40.93032,Despacho
-26350397,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-11-27T15:27:00Z,26350397,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-11-27T15:27:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.192865,39.943705,Resolução/Conclusão
+26350685,Cujó,Viseu Dão Lafões,310,2025-11-27T16:22:00Z,26350685,Em Despacho,3103,Incêndio rural,0,1,0,2,2025-11-27T16:22:00Z,Castro Daire,Viseu,Centro,-7.831364,40.93032,Despacho
