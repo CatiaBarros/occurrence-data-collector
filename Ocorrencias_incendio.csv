@@ -1,2 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26347914,Aradas,Região de Aveiro,310,2025-11-27T08:23:00Z,26347914,Em Curso,3111,Queima,0,2,0,5,2025-11-27T08:23:00Z,Aveiro,Aveiro,Centro,-8.640941,40.61851,Curso
+26348000,Venda do Pinheiro e Santo Estêvão Das Galés,Grande Lisboa,311,2025-11-27T08:35:00Z,26348000,Em Resolução/Conclusão,3111,Queima,0,1,0,4,2025-11-27T08:35:00Z,Mafra,Lisboa,Área Metropolitana De Lisboa,-9.23127,38.875849,Resolução/Conclusão
+26347914,Aradas,Região de Aveiro,310,2025-11-27T08:23:00Z,26347914,Em Resolução/Conclusão,3111,Queima,0,2,0,5,2025-11-27T08:23:00Z,Aveiro,Aveiro,Centro,-8.630626,40.608588,Resolução/Conclusão
+26348296,Alvão,Alto Tâmega e Barroso,309,2025-11-27T09:24:00Z,26348296,Em Despacho,3103,Incêndio rural,0,2,0,7,2025-11-27T09:24:00Z,Vila Pouca De Aguiar,Vila Real,Norte,-7.742646,41.5042,Despacho
