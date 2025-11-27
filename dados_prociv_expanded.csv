@@ -1,3 +1,5 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
 26347430,"Vale de Espinho","Beiras e Serra da Estrela",310,"2025-11-27T02:57:00",26347430,"Em resolução/conclusão","2407","Despiste",0,2,0,4,"2025-11-27T02:57:00","Sabugal","Guarda","Centro",-6.934857,40.289305,"Resolução/Conclusão"
 26346929,"Sines","Alentejo Litoral",312,"2025-11-26T21:49:00",26346929,"Em resolução/conclusão","2407","Despiste",0,2,0,4,"2025-11-26T21:49:00","Sines","Setúbal","Alentejo",-8.869818,37.95708,"Resolução/Conclusão"
+26347542,"Vila Verde e Barbudo","Cávado",309,"2025-11-27T05:22:00",26347542,"Em Despacho","3203","Detritos confinados",0,1,0,4,"2025-11-27T05:22:00","Vila Verde","Braga","Norte",-8.437647,41.65455,"Despacho"
+26347547,"Seixezelo","Area M. Porto",309,"2025-11-27T05:08:00",26347547,"Em Despacho","3317","Inundação de estruturas por água canalizada",0,1,0,4,"2025-11-27T05:08:00","Vila Nova De Gaia","Porto","Norte",-8.553383,41.034637,"Despacho"
