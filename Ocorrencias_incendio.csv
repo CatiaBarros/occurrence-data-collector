@@ -1,5 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
+26350397,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-11-27T15:27:00Z,26350397,Em Despacho,3103,Incêndio rural,0,2,0,7,2025-11-27T15:27:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.19298,39.94382,Despacho
 26350026,Erra,Lezíria do Tejo,311,2025-11-27T14:25:00Z,26350026,Em Resolução/Conclusão,3105,Incêndio rural,0,4,0,10,2025-11-27T14:25:00Z,Coruche,Santarém,Alentejo,-8.477848,39.022228,Resolução/Conclusão
 26350125,Rio de Mouro,Grande Lisboa,311,2025-11-27T14:42:00Z,26350125,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-11-27T14:42:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.336458,38.77911,Resolução/Conclusão
 26350445,Alfena,Area M. Porto,309,2025-11-27T15:20:00Z,26350445,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-11-27T15:20:00Z,Valongo,Porto,Norte,-8.525864,41.238625,Despacho
-26350397,Idanha-a-Nova e Alcafozes,Beira Baixa,310,2025-11-27T15:27:00Z,26350397,Em Despacho,3103,Incêndio rural,0,1,0,2,2025-11-27T15:27:00Z,Idanha-a-Nova,Castelo Branco,Centro,-7.19298,39.94382,Despacho
