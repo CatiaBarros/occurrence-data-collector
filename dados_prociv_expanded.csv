@@ -1,4 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
-26352567,"Fornos","Area M. Porto",309,"2025-11-28T03:08:00",26352567,"Em Despacho","3201","Detritos não confinados",0,1,0,4,"2025-11-28T03:08:00","Santa Maria Da Feira","Aveiro","Norte",-8.52548,40.92132,"Despacho"
 26351150,"Torrão","Alentejo Litoral",312,"2025-11-27T17:55:00",26351150,"Em resolução/conclusão","3201","Detritos não confinados",0,0,0,0,"2025-11-27T17:55:00","Alcácer Do Sal","Setúbal","Alentejo",-8.219075,38.290768,"Resolução/Conclusão"
-26352512,"Rio de Mouro","Grande Lisboa",311,"2025-11-28T02:14:00",26352512,"Em resolução/conclusão","2403","Colisão rodoviária",0,4,0,10,"2025-11-28T02:14:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.33314,38.77803,"Resolução/Conclusão"
