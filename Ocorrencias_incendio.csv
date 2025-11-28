@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26355005,Reguengo do Fetal,Região de Leiria,310,2025-11-28T14:10:00Z,26355005,Em Curso,3111,Queima,0,1,0,2,2025-11-28T14:10:00Z,Batalha,Leiria,Centro,-8.729008,39.62158,Curso
-26354909,Turquel,Oeste,311,2025-11-28T13:44:00Z,26354909,Em Curso,3103,Incêndio rural,0,4,0,13,2025-11-28T13:44:00Z,Alcobaça,Leiria,Centro,-8.989337,39.498522,Curso
+26354909,Turquel,Oeste,311,2025-11-28T13:44:00Z,26354909,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,13,2025-11-28T13:44:00Z,Alcobaça,Leiria,Centro,-8.989337,39.498522,Resolução/Conclusão
