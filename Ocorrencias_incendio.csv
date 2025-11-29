@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26359009,Moita,Península de Setúbal,311,2025-11-29T10:30:00Z,26359009,Em Despacho,3111,Queima,0,1,0,4,2025-11-29T10:30:00Z,Moita,Setúbal,Área Metropolitana De Lisboa,-8.9759620000000009,38.642311,Despacho
-26358716,"S.julião, N.s. da Anunciada e S. Maria da Graça",Península de Setúbal,311,2025-11-29T09:42:00Z,26358716,Em Despacho,3111,Queima,0,1,0,4,2025-11-29T09:42:00Z,Setúbal,Setúbal,Área Metropolitana De Lisboa,-8.898532,38.53676,Despacho
+26359904,Lousa,Grande Lisboa,311,2025-11-29T13:59:00Z,26359904,Em Curso,3111,Queima,0,1,0,5,2025-11-29T13:59:00Z,Loures,Lisboa,Área Metropolitana De Lisboa,-9.18833,38.89278,Curso
