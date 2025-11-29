@@ -1,4 +1,5 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26360688,Arraiolos,Alentejo Central,312,2025-11-29T16:45:00Z,26360688,Em Resolução/Conclusão,3111,Queima,0,2,0,5,2025-11-29T16:45:00Z,Arraiolos,Évora,Alentejo,-7.976553,38.792643,Resolução/Conclusão
-26360739,Maceira,Região de Leiria,310,2025-11-29T17:00:00Z,26360739,Em Resolução/Conclusão,3111,Queima,0,5,0,16,2025-11-29T17:00:00Z,Leiria,Leiria,Centro,-8.898412,39.66109,Resolução/Conclusão
-26360384,Tavira (Santa Maria e Santiago),Algarve,313,2025-11-29T16:00:00Z,26360384,Em Resolução/Conclusão,3103,Incêndio rural,0,5,0,16,2025-11-29T16:00:00Z,Tavira,Faro,Algarve,-7.694542,37.155283,Resolução/Conclusão
+26360739,Maceira,Região de Leiria,310,2025-11-29T17:00:00Z,26360739,Em Resolução/Conclusão,3111,Queima,0,6,0,17,2025-11-29T17:00:00Z,Leiria,Leiria,Centro,-8.902687,39.661425,Resolução/Conclusão
+26361030,"Oliveira de Frades, Souto de Lafões e Sejães",Viseu Dão Lafões,310,2025-11-29T17:58:00Z,26361030,Em Curso,3111,Queima,0,0,0,0,2025-11-29T17:58:00Z,Oliveira De Frades,Viseu,Centro,-8.185214,40.736334,Curso
+26361114,Vila Nova de Milfontes,Alentejo Litoral,312,2025-11-29T18:28:00Z,26361114,Em Curso,3105,Incêndio rural,0,1,0,2,2025-11-29T18:28:00Z,Odemira,Beja,Alentejo,-8.787529,37.721575,Curso
+26360384,Tavira (Santa Maria e Santiago),Algarve,313,2025-11-29T16:00:00Z,26360384,Em Resolução/Conclusão,3103,Incêndio rural,0,4,0,12,2025-11-29T16:00:00Z,Tavira,Faro,Algarve,-7.694542,37.155283,Resolução/Conclusão
