@@ -1,2 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26365384,Ferreira do Alentejo,Baixo Alentejo,312,2025-11-30T17:20:00Z,26365384,Em Despacho,3103,Incêndio rural,0,1,0,4,2025-11-30T17:20:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.2276,38.04254,Despacho
+26365384,Ferreira do Alentejo,Baixo Alentejo,312,2025-11-30T17:20:00Z,26365384,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,7,2025-11-30T17:20:00Z,Ferreira Do Alentejo,Beja,Alentejo,-8.227808,38.042273,Resolução/Conclusão
+26365453,Quinta do Anjo,Península de Setúbal,311,2025-11-30T17:35:00Z,26365453,Em Despacho,3103,Incêndio rural,0,1,0,3,2025-11-30T17:35:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.97034,38.55572,Despacho
+26365487,"Caia, São Pedro e Alcáçova",Alto Alentejo,312,2025-11-30T17:29:00Z,26365487,Em Curso,3111,Queima,0,2,0,6,2025-11-30T17:29:00Z,Elvas,Portalegre,Alentejo,-7.139648,38.884915,Curso
