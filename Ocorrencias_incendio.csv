@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26365879,São Salvador da Aramenha,Alto Alentejo,312,2025-11-30T19:31:00Z,26365879,Em Resolução/Conclusão,3101,Incêndio rural,0,2,0,7,2025-11-30T19:31:00Z,Marvão,Portalegre,Alentejo,-7.36078,39.353285,Resolução/Conclusão
-26366045,Fernão Ferro,Península de Setúbal,311,2025-11-30T20:12:00Z,26366045,Em Despacho,3111,Queima,0,2,0,10,2025-11-30T20:12:00Z,Seixal,Setúbal,Área Metropolitana De Lisboa,-9.07406,38.56241,Despacho
+26366188,Santa Comba,Beiras e Serra da Estrela,310,2025-11-30T21:00:00Z,26366188,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-11-30T21:00:00Z,Seia,Guarda,Centro,-7.706927,40.421435,Resolução/Conclusão
