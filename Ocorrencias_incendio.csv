@@ -1,2 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26366188,Santa Comba,Beiras e Serra da Estrela,310,2025-11-30T21:00:00Z,26366188,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-11-30T21:00:00Z,Seia,Guarda,Centro,-7.706927,40.421435,Resolução/Conclusão
+26366480,Campo de Ourique,Grande Lisboa,311,2025-11-30T22:40:00Z,26366480,Em Despacho,3111,Queima,0,0,0,0,2025-11-30T22:40:00Z,Lisboa,Lisboa,Área Metropolitana De Lisboa,-9.17209,38.71752,Despacho
