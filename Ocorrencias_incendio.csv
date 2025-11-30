@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26364804,Caria,Beiras e Serra da Estrela,310,2025-11-30T15:10:00Z,26364804,Em Resolução/Conclusão,3103,Incêndio rural,0,3,0,10,2025-11-30T15:10:00Z,Belmonte,Castelo Branco,Centro,-7.380372,40.310522,Resolução/Conclusão
-26365118,Cascais e Estoril,Grande Lisboa,311,2025-11-30T16:18:00Z,26365118,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-11-30T16:18:00Z,Cascais,Lisboa,Área Metropolitana De Lisboa,-9.44131,38.70573,Resolução/Conclusão
+26364804,Caria,Beiras e Serra da Estrela,310,2025-11-30T15:10:00Z,26364804,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,6,2025-11-30T15:10:00Z,Belmonte,Castelo Branco,Centro,-7.380372,40.310522,Resolução/Conclusão
