@@ -1,2 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26362790,Palmela,Península de Setúbal,311,2025-11-30T07:35:00Z,26362790,Em Despacho,3111,Queima,0,1,0,3,2025-11-30T07:35:00Z,Palmela,Setúbal,Área Metropolitana De Lisboa,-8.861247,38.57642,Despacho
+26363790,Agualva e Mira-Sintra,Grande Lisboa,311,2025-11-30T11:24:00Z,26363790,Em Despacho,3111,Queima,0,0,0,0,2025-11-30T11:24:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.292685,38.77631,Despacho
