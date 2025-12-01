@@ -1,3 +1,4 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26369133,Cujó,Viseu Dão Lafões,310,2025-12-01T15:02:00Z,26369133,Em Curso,3103,Incêndio rural,0,2,0,5,2025-12-01T15:02:00Z,Castro Daire,Viseu,Centro,-7.82941,40.94442,Curso
-26369019,Rebordãos,Terras de Trás-os-Montes,309,2025-12-01T14:30:00Z,26369019,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,7,2025-12-01T14:30:00Z,Bragança,Bragança,Norte,-6.812408,41.750312,Resolução/Conclusão
+26369407,Glória,Alentejo Central,312,2025-12-01T16:01:00Z,26369407,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-12-01T16:01:00Z,Estremoz,Évora,Alentejo,-7.562388,38.796357,Resolução/Conclusão
+26369133,Cujó,Viseu Dão Lafões,310,2025-12-01T15:02:00Z,26369133,Em Resolução/Conclusão,3103,Incêndio rural,0,2,0,5,2025-12-01T15:02:00Z,Castro Daire,Viseu,Centro,-7.834317,40.939418,Resolução/Conclusão
+26369347,Arraiolos,Alentejo Central,312,2025-12-01T15:51:00Z,26369347,Em Resolução/Conclusão,3105,Incêndio rural,0,3,0,9,2025-12-01T15:51:00Z,Arraiolos,Évora,Alentejo,-7.98861,38.799262,Resolução/Conclusão
