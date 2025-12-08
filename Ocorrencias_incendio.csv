@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26405461,Sarzedo,Região de Coimbra,310,2025-12-08T19:37:00Z,26405461,Em Despacho,3111,Queima,0,0,0,0,2025-12-08T19:37:00Z,Arganil,Coimbra,Centro,-8.071389,40.265,Despacho
-26405392,Portimão,Algarve,313,2025-12-08T19:17:00Z,26405392,Em Resolução/Conclusão,3111,Queima,0,6,0,13,2025-12-08T19:17:00Z,Portimão,Faro,Algarve,-8.547099,37.12275,Resolução/Conclusão
+26405461,Sarzedo,Região de Coimbra,310,2025-12-08T19:37:00Z,26405461,Em Resolução/Conclusão,3103,Incêndio rural,0,7,0,20,2025-12-08T19:37:00Z,Arganil,Coimbra,Centro,-8.071389,40.265,Resolução/Conclusão
