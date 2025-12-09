@@ -1,3 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26411186,Fátima,Médio Tejo,311,2025-12-09T20:11:00Z,26411186,Em Curso,3111,Queima,0,4,0,9,2025-12-09T20:11:00Z,Ourém,Santarém,Centro,-8.625556,39.57833,Curso
-26411138,Coruche,Lezíria do Tejo,311,2025-12-09T19:57:00Z,26411138,Em Resolução/Conclusão,3111,Queima,0,2,0,6,2025-12-09T19:57:00Z,Coruche,Santarém,Alentejo,-8.50056,39.0075,Resolução/Conclusão
+26411186,Fátima,Médio Tejo,311,2025-12-09T20:11:00Z,26411186,Em Curso,3111,Queima,0,5,0,10,2025-12-09T20:11:00Z,Ourém,Santarém,Centro,-8.625556,39.57833,Curso
