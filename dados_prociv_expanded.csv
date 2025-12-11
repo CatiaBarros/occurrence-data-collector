@@ -1,5 +1,3 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
 26413549,"Miranda do Corvo","Região de Coimbra",310,"2025-12-10T10:30:00",26413549,"Em Curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-12-10T10:30:00","Miranda Do Corvo","Coimbra","Centro",-8.339499,40.09407,"Curso"
-26417703,"Vilar","Oeste",311,"2025-12-11T06:32:00",26417703,"Em Despacho","2403","Colisão rodoviária",0,3,0,6,"2025-12-11T06:32:00","Cadaval","Lisboa","Centro",-9.113393,39.184951,"Despacho"
-26417704,"Castelo do Neiva","Alto Minho",309,"2025-12-11T06:30:00",26417704,"Em Despacho","3315","Inundação de estruturas por precipitação intensa",0,1,0,2,"2025-12-11T06:30:00","Viana Do Castelo","Viana Do Castelo","Norte",-8.799707,41.621645,"Despacho"
-26417720,"Belém","Grande Lisboa",311,"2025-12-11T06:51:00",26417720,"Em Despacho","2403","Colisão rodoviária",0,1,0,2,"2025-12-11T06:51:00","Lisboa","Lisboa","Área Metropolitana De Lisboa",-9.19943,38.69587,"Despacho"
+26417703,"Vilar","Oeste",311,"2025-12-11T06:32:00",26417703,"Em resolução/conclusão","2403","Colisão rodoviária",0,3,0,6,"2025-12-11T06:32:00","Cadaval","Lisboa","Centro",-9.113393,39.184951,"Resolução/Conclusão"
