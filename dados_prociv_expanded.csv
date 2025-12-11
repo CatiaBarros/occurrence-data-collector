@@ -1,4 +1,2 @@
 "id","address","subregion","neighborhood","date","id.1","state","nature","nature_description","aerial_means","terrestrial_means","aquatic_means","operational","date.1","Concelho","Distrito","NUTII_DSG","longitude","latitude","state_2"
-26417352,"Agualva e Mira-Sintra","Grande Lisboa",311,"2025-12-11T00:50:00",26417352,"Em Despacho","3325","Dano na rede de abastecimento de gás",0,1,0,5,"2025-12-11T00:50:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.289457,38.768998,"Despacho"
 26413549,"Miranda do Corvo","Região de Coimbra",310,"2025-12-10T10:30:00",26413549,"Em Curso","3315","Inundação de estruturas por precipitação intensa",0,0,0,0,"2025-12-10T10:30:00","Miranda Do Corvo","Coimbra","Centro",-8.339499,40.09407,"Curso"
-26417365,"Belas","Grande Lisboa",311,"2025-12-11T01:10:00",26417365,"Em Curso","2407","Despiste",0,3,0,7,"2025-12-11T01:10:00","Sintra","Lisboa","Área Metropolitana De Lisboa",-9.28178,38.80144,"Curso"
