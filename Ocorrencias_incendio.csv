@@ -1,3 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26420081,Avantos e Romeu,Terras de Trás-os-Montes,309,2025-12-11T15:50:00Z,26420081,Em Despacho,3103,Incêndio rural,0,0,0,0,2025-12-11T15:50:00Z,Mirandela,Bragança,Norte,-7.050605,41.54894,Despacho
-26420236,Santa Clara e Castelo Viegas,Região de Coimbra,310,2025-12-11T16:24:00Z,26420236,Em Resolução/Conclusão,3111,Queima,0,1,0,5,2025-12-11T16:24:00Z,Coimbra,Coimbra,Centro,-8.430244,40.197439,Resolução/Conclusão
+26420709,Cabreiros e Albergaria da Serra,Area M. Porto,309,2025-12-11T18:05:00Z,26420709,Em Despacho,3101,Incêndio rural,0,1,0,4,2025-12-11T18:05:00Z,Arouca,Aveiro,Norte,-8.227574,40.868384,Despacho
+26420714,Vila Franca de Xira,Grande Lisboa,311,2025-12-11T18:32:00Z,26420714,Em Despacho,3103,Incêndio rural,0,1,0,5,2025-12-11T18:32:00Z,Vila Franca De Xira,Lisboa,Área Metropolitana De Lisboa,-8.98514,38.96536,Despacho
