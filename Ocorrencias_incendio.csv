@@ -1,4 +1,3 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26430756,Olival,Area M. Porto,309,2025-12-13T17:54:00Z,26430756,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,2,2025-12-13T17:54:00Z,Vila Nova De Gaia,Porto,Norte,-8.52725,41.05937,Resolução/Conclusão
-26430834,Albufeira e Olhos de Água,Algarve,313,2025-12-13T18:08:00Z,26430834,Em Resolução/Conclusão,3103,Incêndio rural,0,1,0,3,2025-12-13T18:08:00Z,Albufeira,Faro,Algarve,-8.242198,37.11156,Resolução/Conclusão
-26430836,Belas,Grande Lisboa,311,2025-12-13T18:12:00Z,26430836,Em Resolução/Conclusão,3111,Queima,0,1,0,3,2025-12-13T18:12:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.305331,38.79776,Resolução/Conclusão
+26431291,"Aboadela, Sanche e Várzea",Tâmega e Sousa,309,2025-12-13T19:56:00Z,26431291,Em Despacho,3111,Queima,0,1,0,3,2025-12-13T19:56:00Z,Amarante,Porto,Norte,-7.99336,41.277589999999996,Despacho
+26431248,Agualva e Mira-Sintra,Grande Lisboa,311,2025-12-13T19:45:00Z,26431248,Em Resolução/Conclusão,3111,Queima,0,1,0,6,2025-12-13T19:45:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.307034,38.78456,Resolução/Conclusão
