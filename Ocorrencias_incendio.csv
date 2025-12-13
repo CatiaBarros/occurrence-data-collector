@@ -1,2 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26429380,Moncarapacho,Algarve,313,2025-12-13T13:45:00Z,26429380,Em Despacho,3111,Queima,0,0,0,0,2025-12-13T13:45:00Z,Olhão,Faro,Algarve,-7.8255,37.08859,Despacho
+26429380,Moncarapacho,Algarve,313,2025-12-13T13:45:00Z,26429380,Em Resolução/Conclusão,3111,Queima,0,2,0,7,2025-12-13T13:45:00Z,Olhão,Faro,Algarve,-7.8255,37.08859,Resolução/Conclusão
