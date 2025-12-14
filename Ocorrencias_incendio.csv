@@ -1,2 +1,2 @@
 id,address,subregion,neighborhood,date,id.1,state,nature,nature_description,aerial_means,terrestrial_means,aquatic_means,operational,date.1,Concelho,Distrito,NUTII_DSG,longitude,latitude,state_2
-26431997,Regadas,Ave,309,2025-12-13T23:39:00Z,26431997,Em Despacho,3111,Queima,0,0,0,0,2025-12-13T23:39:00Z,Fafe,Braga,Norte,-8.15153,41.4028,Despacho
+26432714,Belas,Grande Lisboa,311,2025-12-14T07:02:00Z,26432714,Em Despacho,3103,Incêndio rural,0,1,0,2,2025-12-14T07:02:00Z,Sintra,Lisboa,Área Metropolitana De Lisboa,-9.303984,38.7897,Despacho
