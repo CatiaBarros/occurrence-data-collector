@@ -16,14 +16,40 @@ library(readr)
 # === URL da API ===
 url <- "https://prociv.gov.pt/occurrences/"
 
-# === Função com tentativas de retry ===
-get_data_with_retry <- function(url, retries = 3, delay = 5) {
+# === Função com tentativas de retry e timeout aumentado ===
+get_data_with_retry <- function(url, retries = 5, delay = 10) {
   for (i in 1:retries) {
-    response <- GET(url, add_headers(`User-Agent` = "Mozilla/5.0"))
-    if (status_code(response) == 200) return(response)
-    cat("Tentativa", i, "falhou com status:", status_code(response), "\n")
-    Sys.sleep(delay)
+    cat("Tentativa", i, "de", retries, "...\n")
+    
+    response <- tryCatch(
+      GET(url, 
+          add_headers(
+            `User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            `Accept` = "application/json"
+          ),
+          timeout(120)),  # 120 segundos de timeout
+      error = function(e) {
+        cat("Tentativa", i, "falhou com erro:", conditionMessage(e), "\n")
+        return(NULL)
+      }
+    )
+    
+    if (!is.null(response) && status_code(response) == 200) {
+      cat("✅ Conexão bem sucedida na tentativa", i, "\n")
+      return(response)
+    }
+    
+    if (!is.null(response)) {
+      cat("Tentativa", i, "falhou com status:", status_code(response), "\n")
+    }
+    
+    if (i < retries) {
+      wait_time <- delay * i  # delay progressivo: 10s, 20s, 30s, 40s
+      cat("Aguardando", wait_time, "segundos antes da próxima tentativa...\n")
+      Sys.sleep(wait_time)
+    }
   }
+  
   write.csv(data.frame(), "dados_prociv_expanded.csv", row.names = FALSE)
   stop("❌ Falha ao obter dados da API após várias tentativas.")
 }
