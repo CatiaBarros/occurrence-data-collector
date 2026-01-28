@@ -1,8 +1,7 @@
 # === Script para recolher ocorrências da Proteção Civil ===
 # Gera: Ocorrencias_mau_tempo.csv, Ocorrencias_incendio.csv, dados_prociv_expanded.csv
-# Usa a API ArcGIS da Proteção Civil
 
-# === Carregar pacotes necessários ===
+# === Carregar pacotes ===
 if (!require(httr)) install.packages("httr", repos = "https://cloud.r-project.org")
 if (!require(jsonlite)) install.packages("jsonlite", repos = "https://cloud.r-project.org")
 if (!require(dplyr)) install.packages("dplyr", repos = "https://cloud.r-project.org")
@@ -18,348 +17,301 @@ library(tools)
 library(readr)
 
 # === Códigos de ocorrências ===
+codigos_mau_tempo <- c("1101", "1103", "1107", "1111", "1115", "1125", "3301", "3303", "3305", "3309", "3311", "3313", "3315", "3317", "3319", "3321", "3329", "3333")
+codigos_incendio <- c("3101", "3103", "3105", "3111")
 
-# Mau tempo
-codigos_mau_tempo <- c(
-  "1101",
-  "1103",
-  "1107",
-  "1111",
-  "1115",
-  "1125",
-  "3301",
-  "3305",
-  "3309",
-  "3313",
-  "3315",
-  "3317",
-  "3319",
-  "3321",
-  "3329",
-  "3333"
-)
-
-# Incêndios
-codigos_incendio <- c(
-  "3101",
-  "3103",
-  "3105",
-  "3111"
-)
-
-# === URL da API ArcGIS ===
-base_url <- "https://services-eu1.arcgis.com/VlrHb7fn5ewYhX6y/arcgis/rest/services/OcorrenciasSite/FeatureServer/0/query"
-
-# === Função para formatar nomes (primeira letra maiúscula) ===
+# === Função para formatar nomes ===
 formato_nome <- function(x) {
-  if (is.na(x)) return(NA)
+  if (is.na(x) || x == "") return(NA)
   palavras <- strsplit(tolower(x), " ")[[1]]
   palavras <- sapply(palavras, function(p) {
-    if (nchar(p) > 0) {
-      paste0(toupper(substr(p, 1, 1)), substr(p, 2, nchar(p)))
-    } else {
-      p
-    }
+    if (nchar(p) > 0) paste0(toupper(substr(p, 1, 1)), substr(p, 2, nchar(p))) else p
   })
   paste(palavras, collapse = " ")
 }
 
-# === Função para obter dados com paginação ===
-get_all_data <- function(base_url, where_clause = "1=1", retries = 3, delay = 5) {
+# === Função para obter dados ===
+get_ocorrencias <- function() {
+  base_url <- "https://services-eu1.arcgis.com/VlrHb7fn5ewYhX6y/arcgis/rest/services/OcorrenciasSite/FeatureServer/0/query"
+  
   all_data <- list()
   offset <- 0
-  batch_size <- 2000
+  batch_size <- 1000
+  max_attempts <- 10
   
   repeat {
     cat("A obter registos a partir de", offset, "...\n")
     
-    params <- list(
-      f = "json",
-      where = where_clause,
-      outFields = "*",
-      returnGeometry = "true",
-      resultOffset = offset,
-      resultRecordCount = batch_size,
-      outSR = "4326"
+    # Construir URL manualmente para evitar problemas de encoding
+    query_url <- paste0(
+      base_url,
+      "?f=json",
+      "&where=1%3D1",
+      "&outFields=*",
+      "&returnGeometry=true",
+      "&resultOffset=", offset,
+      "&resultRecordCount=", batch_size
     )
     
-    for (attempt in 1:retries) {
-      response <- tryCatch(
-        GET(base_url, 
-            query = params,
-            add_headers(
-              `User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-              `Accept` = "application/json"
-            ),
-            timeout(120)),
-        error = function(e) {
-          cat("Tentativa", attempt, "falhou:", conditionMessage(e), "\n")
-          return(NULL)
-        }
-      )
+    response <- NULL
+    for (attempt in 1:max_attempts) {
+      cat("  Tentativa", attempt, "...\n")
       
-      if (!is.null(response) && status_code(response) == 200) break
-      if (attempt < retries) Sys.sleep(delay * attempt)
+      response <- tryCatch({
+        GET(
+          query_url,
+          add_headers(
+            `User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            `Accept` = "application/json",
+            `Accept-Encoding` = "gzip, deflate",
+            `Connection` = "keep-alive"
+          ),
+          timeout(300)
+        )
+      }, error = function(e) {
+        cat("  Erro:", conditionMessage(e), "\n")
+        NULL
+      })
+      
+      if (!is.null(response) && status_code(response) == 200) {
+        break
+      }
+      
+      if (attempt < max_attempts) {
+        wait_time <- 5 * attempt
+        cat("  A aguardar", wait_time, "segundos...\n")
+        Sys.sleep(wait_time)
+      }
     }
     
     if (is.null(response) || status_code(response) != 200) {
-      stop("Falha ao obter dados após várias tentativas")
+      cat("ERRO: Não foi possível obter dados após", max_attempts, "tentativas\n")
+      if (!is.null(response)) cat("Status:", status_code(response), "\n")
+      break
     }
     
     json_text <- content(response, "text", encoding = "UTF-8")
-    data <- fromJSON(json_text, flatten = TRUE)
     
-    if (is.null(data$features) || length(data$features) == 0) {
-      cat("Não há mais registos.\n")
+    data <- tryCatch({
+      fromJSON(json_text, flatten = TRUE)
+    }, error = function(e) {
+      cat("Erro ao processar JSON:", conditionMessage(e), "\n")
+      NULL
+    })
+    
+    if (is.null(data)) break
+    
+    if (!is.null(data$error)) {
+      cat("Erro da API:", data$error$message, "\n")
+      break
+    }
+    
+    if (is.null(data$features) || length(data$features) == 0 || nrow(data$features) == 0) {
+      if (offset == 0) {
+        cat("AVISO: Nenhum registo retornado\n")
+      } else {
+        cat("Fim dos registos.\n")
+      }
       break
     }
     
     all_data <- c(all_data, list(data$features))
     n_records <- nrow(data$features)
-    cat("Obtidos", n_records, "registos\n")
+    cat("  Obtidos", n_records, "registos\n")
     
     if (n_records < batch_size) break
     
     offset <- offset + batch_size
-    Sys.sleep(1)
+    Sys.sleep(2)
   }
   
   if (length(all_data) == 0) {
     return(data.frame())
   }
   
-  final_df <- bind_rows(all_data)
-  return(final_df)
+  bind_rows(all_data)
 }
 
-# === Obter todas as ocorrências ===
+# === Obter dados ===
 cat("=== A obter ocorrências da Proteção Civil ===\n")
-all_occurrences <- get_all_data(base_url)
+cat("Hora:", format(Sys.time(), "%Y-%m-%d %H:%M:%S"), "\n\n")
+
+all_occurrences <- get_ocorrencias()
 
 if (nrow(all_occurrences) == 0) {
-  stop("Não foram obtidas ocorrências")
+  cat("\nERRO: Não foram obtidas ocorrências. A criar ficheiros vazios...\n")
+  write_csv(data.frame(), "dados_prociv_expanded.csv")
+  write_csv(data.frame(), "Ocorrencias_mau_tempo.csv")
+  write_csv(data.frame(), "Ocorrencias_incendio.csv")
+  quit(status = 1)
 }
 
-cat("Total de ocorrências obtidas:", nrow(all_occurrences), "\n")
+cat("\nTotal de ocorrências obtidas:", nrow(all_occurrences), "\n")
 
 # === Processar dados ===
 
-# Extrair coordenadas da geometria
+# Extrair coordenadas
 if ("geometry.x" %in% names(all_occurrences)) {
   all_occurrences$longitude <- all_occurrences$geometry.x
   all_occurrences$latitude <- all_occurrences$geometry.y
 }
 
-# Mapeamento de colunas para formato compatível com o antigo
-col_mapping <- list(
+# Renomear colunas
+rename_map <- c(
   "attributes.Numero" = "id",
   "attributes.Localidade" = "address",
   "attributes.Regiao" = "subregion",
-  "attributes.CodConcelho" = "neighborhood",
+  "attributes.DICO" = "neighborhood",
   "attributes.DataOcorrencia" = "date",
   "attributes.Data" = "date.1",
   "attributes.EstadoOcorrencia" = "state",
   "attributes.Natureza" = "nature",
   "attributes.MeiosAereos" = "aerial_means",
   "attributes.MeiosTerrestres" = "terrestrial_means",
-  "attributes.MeiosAquaticos" = "aquatic_means",
   "attributes.Operacionais" = "operational",
   "attributes.Distrito" = "Distrito",
   "attributes.Concelho" = "Concelho"
 )
 
-for (old_name in names(col_mapping)) {
-  new_name <- col_mapping[[old_name]]
+for (old_name in names(rename_map)) {
+  new_name <- rename_map[old_name]
   if (old_name %in% names(all_occurrences)) {
     all_occurrences[[new_name]] <- all_occurrences[[old_name]]
   }
 }
 
-# Converter timestamp para datetime
+# Usar Concelho da API se existir
+if ("attributes.Concelho" %in% names(all_occurrences)) {
+  all_occurrences$Concelho <- all_occurrences$`attributes.Concelho`
+}
+
+# Converter timestamps
 if ("date" %in% names(all_occurrences) && is.numeric(all_occurrences$date)) {
   all_occurrences$date <- as.POSIXct(all_occurrences$date / 1000, origin = "1970-01-01", tz = "UTC")
   all_occurrences$date <- format(all_occurrences$date, "%Y-%m-%dT%H:%M:%SZ")
 }
 
-if ("date.1" %in% names(all_occurrences) && is.numeric(all_occurrences$`date.1`)) {
-  all_occurrences$`date.1` <- as.POSIXct(all_occurrences$`date.1` / 1000, origin = "1970-01-01", tz = "UTC")
-  all_occurrences$`date.1` <- format(all_occurrences$`date.1`, "%Y-%m-%dT%H:%M:%SZ")
-}
-
-# === Padronizar estado ===
+# Padronizar estado
 if ("state" %in% names(all_occurrences)) {
   all_occurrences$state <- tolower(trimws(all_occurrences$state))
   all_occurrences$state <- tools::toTitleCase(all_occurrences$state)
-  
-  # Juntar resolução e conclusão
   all_occurrences$state <- ifelse(
     all_occurrences$state %in% c("Em Resolução", "Em Conclusão"),
     "Em resolução/conclusão",
     all_occurrences$state
   )
-  
-  # Criar coluna state_2 (sem o "Em")
   all_occurrences$state_2 <- tools::toTitleCase(gsub("^Em ", "", all_occurrences$state))
 }
 
-# === Fazer spatial join com concelhos ===
+# === Spatial join (opcional) ===
 if (file.exists("ContinenteConcelhos.geojson") && 
     "longitude" %in% names(all_occurrences) && 
     "latitude" %in% names(all_occurrences)) {
   
-  cat("A fazer join espacial com concelhos...\n")
+  cat("\nA fazer join espacial com concelhos...\n")
   
-  concelhos <- st_read("ContinenteConcelhos.geojson", quiet = TRUE)
-  
-  valid_coords <- !is.na(all_occurrences$longitude) & !is.na(all_occurrences$latitude)
-  
-  if (sum(valid_coords) > 0) {
+  tryCatch({
+    concelhos <- st_read("ContinenteConcelhos.geojson", quiet = TRUE)
     
-    sample_lon <- all_occurrences$longitude[valid_coords][1]
-    sample_lat <- all_occurrences$latitude[valid_coords][1]
+    valid_coords <- !is.na(all_occurrences$longitude) & !is.na(all_occurrences$latitude)
     
-    if (abs(sample_lon) > 180 || abs(sample_lat) > 90) {
-      cat("Coordenadas em Web Mercator, a converter para WGS84...\n")
-      final_sf <- st_as_sf(all_occurrences[valid_coords, ], 
-                           coords = c("longitude", "latitude"), 
-                           crs = 3857)
-      final_sf <- st_transform(final_sf, 4326)
-    } else {
+    if (sum(valid_coords) > 0) {
       final_sf <- st_as_sf(all_occurrences[valid_coords, ], 
                            coords = c("longitude", "latitude"), 
                            crs = 4326)
-    }
-    
-    if (!st_is_longlat(concelhos)) {
-      concelhos <- st_transform(concelhos, 4326)
-    }
-    
-    concelhos_cols <- names(concelhos)
-    
-    concelho_col <- intersect(c("Concelho", "CONCELHO", "concelho", "NAME_2"), concelhos_cols)[1]
-    distrito_col <- intersect(c("Distrito", "DISTRITO", "distrito", "NAME_1"), concelhos_cols)[1]
-    nut_col <- intersect(c("NUTII_DSG", "NUT2", "NUTS2"), concelhos_cols)[1]
-    
-    cols_to_join <- c(concelho_col, distrito_col, nut_col)
-    cols_to_join <- cols_to_join[!is.na(cols_to_join)]
-    
-    if (length(cols_to_join) > 0) {
+      
+      if (!st_is_longlat(concelhos)) {
+        concelhos <- st_transform(concelhos, 4326)
+      }
+      
       # Remover colunas duplicadas antes do join
-      for (col in cols_to_join) {
-        if (col %in% names(final_sf)) {
-          final_sf[[col]] <- NULL
+      cols_to_remove <- intersect(c("Concelho", "Distrito", "NUTII_DSG"), names(final_sf))
+      for (col in cols_to_remove) {
+        final_sf[[col]] <- NULL
+      }
+      
+      cols_available <- intersect(c("Concelho", "Distrito", "NUTII_DSG"), names(concelhos))
+      if (length(cols_available) > 0) {
+        final_sf <- st_join(final_sf, concelhos[cols_available], join = st_within, left = TRUE)
+        
+        # Formatar nomes
+        for (col in cols_available) {
+          if (col %in% names(final_sf)) {
+            final_sf[[col]] <- sapply(final_sf[[col]], formato_nome)
+          }
         }
       }
       
-      final_sf <- st_join(final_sf, concelhos[cols_to_join], join = st_within, left = TRUE)
+      coords <- st_coordinates(final_sf)
+      final_sf$longitude <- coords[, 1]
+      final_sf$latitude <- coords[, 2]
       
-      # Renomear se necessário
-      if (!is.null(concelho_col) && concelho_col != "Concelho" && concelho_col %in% names(final_sf)) {
-        final_sf$Concelho <- final_sf[[concelho_col]]
-      }
-      if (!is.null(distrito_col) && distrito_col != "Distrito" && distrito_col %in% names(final_sf)) {
-        final_sf$Distrito <- final_sf[[distrito_col]]
-      }
-      if (!is.null(nut_col) && nut_col != "NUTII_DSG" && nut_col %in% names(final_sf)) {
-        final_sf$NUTII_DSG <- final_sf[[nut_col]]
-      }
+      final_sf <- st_set_geometry(final_sf, NULL)
+      all_occurrences <- as.data.frame(final_sf)
       
-      # Formatar nomes (Title Case)
-      if ("Concelho" %in% names(final_sf)) {
-        final_sf$Concelho <- sapply(final_sf$Concelho, formato_nome)
-      }
-      if ("Distrito" %in% names(final_sf)) {
-        final_sf$Distrito <- sapply(final_sf$Distrito, formato_nome)
-      }
-      if ("NUTII_DSG" %in% names(final_sf)) {
-        final_sf$NUTII_DSG <- sapply(final_sf$NUTII_DSG, formato_nome)
-      }
+      cat("Join espacial concluído\n")
     }
-    
-    coords <- st_coordinates(final_sf)
-    final_sf$longitude <- coords[, 1]
-    final_sf$latitude <- coords[, 2]
-    
-    final_sf <- st_set_geometry(final_sf, NULL)
-    all_occurrences <- as.data.frame(final_sf)
-    
-    cat("Join espacial concluído\n")
-  }
-} else {
-  cat("Ficheiro ContinenteConcelhos.geojson não encontrado\n")
+  }, error = function(e) {
+    cat("Erro no join espacial:", conditionMessage(e), "\n")
+    cat("A continuar sem join espacial...\n")
+  })
 }
 
-# === Separar código e descrição da natureza ===
+# === Separar código e descrição ===
 all_occurrences$nature <- trimws(as.character(all_occurrences$nature))
 all_occurrences$nature_description <- sub("^\\d+\\s*-\\s*", "", all_occurrences$nature)
 all_occurrences$nature <- sub("^(\\d+).*", "\\1", all_occurrences$nature)
 
 # === Guardar dados completos ===
 write_csv(all_occurrences, "dados_prociv_expanded.csv")
-cat("dados_prociv_expanded.csv guardado com", nrow(all_occurrences), "linhas\n")
+cat("\ndados_prociv_expanded.csv guardado com", nrow(all_occurrences), "linhas\n")
 
-# === FILTRAR E GUARDAR OCORRÊNCIAS DE MAU TEMPO ===
+# === Filtrar mau tempo ===
 cat("\n=== Mau Tempo ===\n")
-
-ocorrencias_mau_tempo <- all_occurrences %>%
-  filter(nature %in% codigos_mau_tempo)
+ocorrencias_mau_tempo <- all_occurrences %>% filter(nature %in% codigos_mau_tempo)
 
 if (nrow(ocorrencias_mau_tempo) == 0) {
-  cat("Nenhuma ocorrência de mau tempo encontrada.\n")
-  # Criar ficheiro vazio para não quebrar pipelines
+  cat("Nenhuma ocorrência de mau tempo\n")
   write_csv(data.frame(), "Ocorrencias_mau_tempo.csv")
 } else {
   write_csv(ocorrencias_mau_tempo, "Ocorrencias_mau_tempo.csv")
   cat("Ocorrencias_mau_tempo.csv guardado com", nrow(ocorrencias_mau_tempo), "linhas\n")
-  cat("Distribuição por tipo:\n")
   print(table(ocorrencias_mau_tempo$nature_description))
 }
 
-# === FILTRAR E GUARDAR OCORRÊNCIAS DE INCÊNDIO ===
+# === Filtrar incêndios ===
 cat("\n=== Incêndios ===\n")
-
-ocorrencias_incendio <- all_occurrences %>%
-  filter(nature %in% codigos_incendio)
+ocorrencias_incendio <- all_occurrences %>% filter(nature %in% codigos_incendio)
 
 if (nrow(ocorrencias_incendio) == 0) {
-  cat("Nenhuma ocorrência de incêndio encontrada.\n")
+  cat("Nenhuma ocorrência de incêndio\n")
   write_csv(data.frame(), "Ocorrencias_incendio.csv")
 } else {
   write_csv(ocorrencias_incendio, "Ocorrencias_incendio.csv")
   cat("Ocorrencias_incendio.csv guardado com", nrow(ocorrencias_incendio), "linhas\n")
-  cat("Distribuição por tipo:\n")
   print(table(ocorrencias_incendio$nature_description))
 }
 
-# === Criar ficheiro JSON com metadados ===
-ultima_atualizacao <- format(
-  as.POSIXct(Sys.time(), tz = "UTC"),
-  tz = "Europe/Lisbon",
-  usetz = FALSE,
-  format = "%Hh%M de %d/%m/%Y"
-)
-
-nota_html <- paste0(
-  "<details>",
-  "<summary>Nota: </summary><br>",
-  "Em Despacho – Meios em trânsito para o teatro de operações<br>",
-  "Em Curso – Ocorrência em evolução sem limitação de área<br>",
-  "Em Resolução/Conclusão – Ocorrência sem perigo de propagação ou extinta<br><br>",
-  "</details>",
-  "Última atualização às ", ultima_atualizacao
-)
+# === Metadata ===
+ultima_atualizacao <- format(Sys.time(), tz = "Europe/Lisbon", format = "%Hh%M de %d/%m/%Y")
 
 metadata <- list(
   annotate = list(
-    notes = nota_html
+    notes = paste0(
+      "<details><summary>Nota: </summary><br>",
+      "Em Despacho – Meios em trânsito<br>",
+      "Em Curso – Ocorrência em evolução<br>",
+      "Em Resolução/Conclusão – Ocorrência controlada ou extinta<br></details>",
+      "Última atualização às ", ultima_atualizacao
+    )
   )
 )
 
 write_json(metadata, "metadata_prociv.json", pretty = TRUE, auto_unbox = TRUE)
-cat("\nmetadata_prociv.json criado\n")
 
-# === Resumo final ===
-cat("\n=== RESUMO FINAL ===\n")
-cat("Total de ocorrências:", nrow(all_occurrences), "\n")
-cat("Ocorrências de mau tempo:", nrow(ocorrencias_mau_tempo), "\n")
-cat("Ocorrências de incêndio:", nrow(ocorrencias_incendio), "\n")
+# === Resumo ===
+cat("\n=== RESUMO ===\n")
+cat("Total:", nrow(all_occurrences), "\n")
+cat("Mau tempo:", nrow(ocorrencias_mau_tempo), "\n")
+cat("Incêndios:", nrow(ocorrencias_incendio), "\n")
+cat("Concluído às", format(Sys.time(), "%H:%M:%S"), "\n")
