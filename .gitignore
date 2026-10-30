@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+.svelte-kit/
+.env
+.env.*
+!.env.example
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+dist/
+build/
