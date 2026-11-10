@@ -1,11 +1,12 @@
 name: Atualizar Ocorrências PROCIV
 
 on:
-  schedule:
-    # Minutos 7 e 37 em vez de 0 e 30: as horas certas são as mais congestionadas
-    # no GitHub e é aí que as corridas agendadas são mais atrasadas ou descartadas.
-    - cron: '7,37 * * * *'
+  # O disparo principal vem de fora: o cron-job.org chama o workflow_dispatch
+  # de 30 em 30 minutos (o agendamento do GitHub atrasa e salta corridas).
   workflow_dispatch:
+  # Reserva, caso o cron-job.org falhe: de 3 em 3 horas, ao minuto 17.
+  schedule:
+    - cron: '17 */3 * * *'
 
 # Nunca correr duas atualizações ao mesmo tempo (evita conflitos no push).
 concurrency:
