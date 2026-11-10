@@ -2,48 +2,62 @@ name: Atualizar Ocorrências PROCIV
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    # Minutos 7 e 37 em vez de 0 e 30: as horas certas são as mais congestionadas
+    # no GitHub e é aí que as corridas agendadas são mais atrasadas ou descartadas.
+    - cron: '7,37 * * * *'
   workflow_dispatch:
+
+# Nunca correr duas atualizações ao mesmo tempo (evita conflitos no push).
+concurrency:
+  group: atualizar-ocorrencias
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # use-public-rspm descarrega os pacotes já compilados (Posit Package Manager),
+      # em vez de compilar o sf de raiz em cada corrida.
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
         with:
-          r-version: '4.3.0'
+          r-version: 'release'
+          use-public-rspm: true
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev libudunits2-dev libgdal-dev libgeos-dev libproj-dev
-
-      - name: Cache R packages
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-r-${{ hashFiles('**/collect_data.R') }}
-          restore-keys: |
-            ${{ runner.os }}-r-
-
+      # Instala os pacotes e as bibliotecas de sistema de que precisam (GDAL, GEOS, PROJ),
+      # e guarda tudo em cache entre corridas.
       - name: Install R packages
-        run: |
-          Rscript -e 'install.packages(c("httr", "jsonlite", "dplyr", "sf", "tools", "readr"), repos = "https://cloud.r-project.org")'
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::httr
+            any::jsonlite
+            any::dplyr
+            any::sf
+            any::readr
 
+      # Se a API falhar, o script termina com erro sem tocar nos ficheiros,
+      # e o passo seguinte não corre: fica publicada a última versão boa.
       - name: Run script
         run: Rscript collect_data.R
-        continue-on-error: true
 
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff --staged --quiet || git commit -m "Atualização: $(date +'%Y-%m-%d %H:%M')"
+          if git diff --staged --quiet; then
+            echo "Sem alterações."
+            exit 0
+          fi
+          git commit -m "Atualização: $(TZ=Europe/Lisbon date +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
           git push
