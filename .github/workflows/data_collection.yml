@@ -25,6 +25,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # O espelho da Azure (azure.archive.ubuntu.com) às vezes pendura e o apt fica
+      # à espera até o job morrer aos 15 minutos. Tira-se esse espelho da lista
+      # (fica o archive.ubuntu.com oficial) e dão-se ao apt timeouts curtos e novas tentativas.
+      - name: Configurar apt
+        run: |
+          if [ -f /etc/apt/apt-mirrors.txt ]; then
+            sudo sed -i '/azure\.archive\.ubuntu\.com/d' /etc/apt/apt-mirrors.txt
+          fi
+          sudo sed -i 's|http://azure\.archive\.ubuntu\.com|http://archive.ubuntu.com|g' \
+            /etc/apt/sources.list /etc/apt/sources.list.d/*.sources 2>/dev/null || true
+          printf 'Acquire::Retries "5";\nAcquire::http::Timeout "20";\nAcquire::https::Timeout "20";\n' \
+            | sudo tee /etc/apt/apt.conf.d/99-timeouts > /dev/null
+
       # use-public-rspm descarrega os pacotes já compilados (Posit Package Manager),
       # em vez de compilar o sf de raiz em cada corrida.
       - name: Setup R
